@@ -455,3 +455,300 @@ LogInit: Object subsystem initialized
 [2018.10.17-18.06.17:788][ 40]LogFileHelpers: Loading map 'StreetSceneLarge_SCB' took 0.232
 [2018.10.17-18.06.26:728][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase177)
 [2018.10.17-18.06.32:528][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.07.02:873][751]Cmd: EDIT COPY
+[2018.10.17-18.07.05:546][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.07.05:824][834]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.17-18.07.05:831][834]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.17-18.07.05:855][834]Cmd: MAP LOAD FILE="../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.17-18.07.05:855][834]LightingResults: New page: Lighting Build
+[2018.10.17-18.07.05:856][834]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.17-18.07.05:899][834]MapCheck: New page: Map Check
+[2018.10.17-18.07.05:899][834]LightingResults: New page: Lighting Build
+[2018.10.17-18.07.05:986][834]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.17-18.07.06:036][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.17-18.07.06:122][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.673ms to complete.
+[2018.10.17-18.07.06:122][834]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.268
+[2018.10.17-18.07.09:407][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase71)
+[2018.10.17-18.07.11:370][  3]Cmd: EDIT PASTE
+[2018.10.17-18.07.20:324][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.07.21:092][259]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge9446D2EC4996287FE5619F8A1BF1BFD2.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.17-18.07.21:234][259]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltData8CF94F1F439DBF28BDDC9299017C14EF.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.17-18.07.23:052][311]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.07.28:462][493]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.07.31:535][597]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.08.18:016][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.08.18:351][900]LogAIModule: Creating AISystem for world StreetSceneLarge_SCB
+[2018.10.17-18.08.18:363][900]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_SCB.StreetSceneLarge_SCB
+[2018.10.17-18.08.18:388][900]Cmd: MAP LOAD FILE="../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SCB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.17-18.08.18:388][900]LightingResults: New page: Lighting Build
+[2018.10.17-18.08.18:389][900]LoadErrors: New page: Loading map: StreetSceneLarge_SCB.umap
+[2018.10.17-18.08.18:432][900]MapCheck: New page: Map Check
+[2018.10.17-18.08.18:432][900]LightingResults: New page: Lighting Build
+[2018.10.17-18.08.18:532][900]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.17-18.08.18:581][900]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.17-18.08.18:652][900]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 70.531ms to complete.
+[2018.10.17-18.08.18:652][900]LogFileHelpers: Loading map 'StreetSceneLarge_SCB' took 0.264
+[2018.10.17-18.08.33:975][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.08.34:413][363]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.17-18.08.34:423][363]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.17-18.08.34:447][363]Cmd: MAP LOAD FILE="../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.17-18.08.34:447][363]LightingResults: New page: Lighting Build
+[2018.10.17-18.08.34:447][363]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.17-18.08.34:451][363]MapCheck: New page: Map Check
+[2018.10.17-18.08.34:451][363]LightingResults: New page: Lighting Build
+[2018.10.17-18.08.34:551][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.17-18.08.34:599][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.17-18.08.34:681][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.88ms to complete.
+[2018.10.17-18.08.34:683][363]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.236
+[2018.10.17-18.08.35:964][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase143)
+[2018.10.17-18.08.36:903][425]Cmd: DELETE
+[2018.10.17-18.08.36:903][425]Cmd: ACTOR DELETE
+[2018.10.17-18.08.37:069][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:071][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:072][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:072][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:073][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:073][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:073][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:074][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:074][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:075][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:075][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:076][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:076][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:077][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:077][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:077][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:078][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:078][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:079][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:079][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:080][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:080][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:080][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:081][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:081][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:082][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:082][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:082][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:083][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:083][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:084][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:084][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:084][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:085][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:085][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:086][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:086][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:086][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:087][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:087][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:087][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:088][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:088][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:089][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:089][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:089][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:090][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:090][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:090][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:091][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:091][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:091][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:092][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:092][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:092][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:093][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:093][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:094][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:094][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:094][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:095][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:095][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:095][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:096][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:096][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:096][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:097][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:097][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:097][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:098][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:098][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:098][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:098][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:099][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:099][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:099][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:100][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:100][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:100][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:101][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:101][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:101][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:102][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:102][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:102][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:103][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:103][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:103][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:103][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:104][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:104][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:104][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:105][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:105][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:105][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:105][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:106][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:106][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:106][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:106][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:107][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:107][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:107][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:108][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:108][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:108][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:108][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:109][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:109][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:109][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:109][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:110][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:110][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:110][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:110][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:111][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:111][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:111][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:111][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:111][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:112][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:112][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:112][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:112][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:113][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:113][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:113][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:113][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:113][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:114][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:114][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:114][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:114][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:114][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:115][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:115][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:115][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:115][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:115][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:116][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:117][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:117][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:117][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:117][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:117][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:118][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:119][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:120][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:121][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:122][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:123][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:124][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:125][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:126][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:127][425]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.17-18.08.37:147][425]LogEditorActor: Deleted 238 Actors (0.244 secs)
+[2018.10.17-18.08.38:405][461]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.17-18.08.38:922][467]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge4B45A96D4225148EDD72B7A70E955200.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.17-18.08.39:083][467]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltDataD5EB2AF041400B174043B19BCF13453B.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.17-18.08.40:346][499]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.08.41:956][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.08.42:215][566]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge980F967E487AB3E7563A9896FA5D4452.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.17-18.08.42:317][566]LogSavePackage: Moving '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltData03926E71489447B0CD963C906BC3648D.tmp' to '../../../../../../Users/longf/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.17-18.08.42:959][589]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.08.45:940][712]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.17-18.08.49:714][853]LogSlate: FSceneViewport::OnFocusLost() reason 0
