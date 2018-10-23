@@ -2092,3 +2092,39 @@ LogInit: Object subsystem initialized
 [2018.10.23-20.21.16:612][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/TaschiaR/motorcycle_TYR]
 [2018.10.23-20.21.16:628][ 67]LogSavePackage: Moving '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/motorcycle_TYR_Auto13242ABB0434E8C27F6F11A8B22BF99FC.tmp' to '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/TaschiaR/motorcycle_TYR_Auto1.uasset'
 [2018.10.23-20.21.16:629][ 67]LogFileHelpers: Auto-saving content packages took 0.032
+[2018.10.23-20.22.05:130][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase100)
+[2018.10.23-20.22.11:611][894]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-20.22.20:223][764]LogEditorViewport: Clicking Background
+[2018.10.23-20.22.21:218][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase151)
+[2018.10.23-20.22.21:857][925]LogEditorViewport: Clicking Background
+[2018.10.23-20.22.32:146][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-20.22.42:181][599]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-20.22.42:181][599]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.23-20.22.42:181][599]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.10.23-20.22.42:181][599]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-20.22.42:182][599]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.23-20.22.42:183][599]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-20.22.42:183][599]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.23-20.22.42:183][599]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.10.23-20.22.42:185][599]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-20.22.42:185][599]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.23-20.22.42:447][599]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.23-20.22.42:465][599]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.23-20.22.46:255][599]LogSlate: Window 'Save Content' being destroyed
+[2018.10.23-20.22.46:768][599]LogSavePackage: Moving '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_TYR36B4E2B340BE2A7516588BA9CD6449B7.tmp' to '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_TYR.umap'
+[2018.10.23-20.22.46:795][599]LogFileHelpers: Saving map 'StreetSceneLarge_TYR' took 0.532
+[2018.10.23-20.22.46:803][599]LogSavePackage: Moving '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/motorcycle_TYRF7A8FFAE42EC222446FB70BD973E11B8.tmp' to '../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/TaschiaR/motorcycle_TYR.uasset'
+[2018.10.23-20.22.46:809][599]Cmd: MAP LOAD FILE="../../../../../../Users/u1059153/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-20.22.46:809][599]LightingResults: New page: Lighting Build
+[2018.10.23-20.22.46:809][599]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.23-20.22.46:811][599]MapCheck: New page: Map Check
+[2018.10.23-20.22.46:811][599]LightingResults: New page: Lighting Build
+[2018.10.23-20.22.46:863][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-20.22.46:914][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-20.22.46:993][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.858ms to complete.
+[2018.10.23-20.22.46:993][599]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.186
