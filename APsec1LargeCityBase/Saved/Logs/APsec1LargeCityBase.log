@@ -1,4 +1,4 @@
-﻿Log file open, 10/22/18 18:53:06
+﻿Log file open, 10/22/18 19:32:04
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: APsec1LargeCityBase
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.869332
+LogStats: Stats thread started at 0.232857
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -93,7 +93,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.213s to configure plugins.
+LogStreaming: Display: Took  0.105s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 LogInit:  - supports SSL with OpenSSL/1.0.2h
@@ -147,629 +147,626 @@ LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC
 LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
 LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
 LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
-LogStreaming: Display: Took  0.004s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.10.23-00.53.07:608][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.23-00.53.07:608][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.10.23-00.53.07:637][  0]LogHAL: Display: Platform has ~ 16 GB [17110630400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2018.10.23-00.53.07:637][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
-[2018.10.23-00.53.07:637][  0]LogInit: Going up to parent DeviceProfile []
-[2018.10.23-00.53.07:639][  0]LogInit: Computer: DESKTOP-2B
-[2018.10.23-00.53.07:639][  0]LogInit: User: Richard
-[2018.10.23-00.53.07:639][  0]LogInit: CPU Page size=4096, Cores=6
-[2018.10.23-00.53.07:639][  0]LogInit: High frequency timer resolution =3.515627 MHz
-[2018.10.23-00.53.07:639][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
-[2018.10.23-00.53.07:639][  0]LogMemory: Platform Memory Stats for Windows
-[2018.10.23-00.53.07:639][  0]LogMemory: Process Physical Memory: 100.29 MB used, 100.29 MB peak
-[2018.10.23-00.53.07:639][  0]LogMemory: Process Virtual Memory: 84.64 MB used, 84.64 MB peak
-[2018.10.23-00.53.07:639][  0]LogMemory: Physical Memory: 3452.31 MB used,  12865.66 MB free, 16317.97 MB total
-[2018.10.23-00.53.07:639][  0]LogMemory: Virtual Memory: 4615.61 MB used,  12865.66 MB free, 134217728.00 MB total
-[2018.10.23-00.53.07:799][  0]LogInit: Using OS detected language (en-US).
-[2018.10.23-00.53.07:799][  0]LogInit: Using OS detected locale (en-US).
-[2018.10.23-00.53.07:801][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
-[2018.10.23-00.53.08:266][  0]LogStreaming: Display: Took  0.462s to InitEngineTextLocalization.
-[2018.10.23-00.53.08:266][  0]LogInit: Setting process to per monitor DPI aware
-[2018.10.23-00.53.08:306][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.10.23-00.53.08:306][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.10.23-00.53.08:929][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.10.23-00.53.08:929][  0]LogD3D11RHI: D3D11 adapters:
-[2018.10.23-00.53.09:125][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
-[2018.10.23-00.53.09:125][  0]LogD3D11RHI:       8088/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.10.23-00.53.09:130][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.10.23-00.53.09:130][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.10.23-00.53.09:130][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.10.23-00.53.09:136][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.10.23-00.53.09:136][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
-[2018.10.23-00.53.09:136][  0]LogWindows: EnumDisplayDevices:
-[2018.10.23-00.53.09:136][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
-[2018.10.23-00.53.09:136][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.10.23-00.53.09:136][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.10.23-00.53.09:137][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
-[2018.10.23-00.53.09:137][  0]LogWindows: DebugString: FoundDriverCount:4 
-[2018.10.23-00.53.09:137][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
-[2018.10.23-00.53.09:137][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
-[2018.10.23-00.53.09:137][  0]LogD3D11RHI:      Driver Date: 10-10-2018
-[2018.10.23-00.53.09:137][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
-[2018.10.23-00.53.09:186][  0]LogD3D11RHI: Async texture creation enabled
-[2018.10.23-00.53.09:359][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.10.23-00.53.09:412][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/11048/).
-[2018.10.23-00.53.09:412][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Richard/AppData/Local/Temp/UnrealShaderWorkingDir/4F89F01947F1E61AECF63E970DE654BB/'.
-[2018.10.23-00.53.09:885][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.10.23-00.53.09:898][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.10.23-00.53.09:911][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.10.23-00.53.09:924][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.10.23-00.53.09:938][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.10.23-00.53.09:952][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.10.23-00.53.09:966][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.10.23-00.53.09:979][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.10.23-00.53.09:987][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:055][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.10.23-00.53.10:059][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.10.23-00.53.10:136][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.23-00.53.10:136][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.10.23-00.53.10:156][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.23-00.53.10:156][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.10.23-00.53.10:169][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.10.23-00.53.10:182][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.10.23-00.53.10:195][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.10.23-00.53.10:209][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.10.23-00.53.10:219][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
-[2018.10.23-00.53.10:219][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.10.23-00.53.10:379][  0]LogXGEController: Cleaning working directory: C:/Users/Richard/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.10.23-00.53.10:379][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.10.23-00.53.10:379][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.10.23-00.53.10:379][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.10.23-00.53.11:342][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.10.23-00.53.11:632][  0]LogDerivedDataCache: Loaded boot cache 0.29s 71MB C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.23-00.53.11:633][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
-[2018.10.23-00.53.11:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.10.23-00.53.11:633][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.10.23-00.53.11:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.10.23-00.53.11:633][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.10.23-00.53.11:649][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.10.23-00.53.11:661][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Richard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.10.23-00.53.11:661][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.10.23-00.53.11:661][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.10.23-00.53.11:677][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.10.23-00.53.11:685][  0]LogSlate: Using FreeType 2.6.0
-[2018.10.23-00.53.11:688][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.10.23-00.53.11:873][  0]LogAssetRegistry: FAssetRegistry took 0.0267 seconds to start up
-[2018.10.23-00.53.12:435][  0]LogInit: Selected Device Profile: [Windows]
-[2018.10.23-00.53.12:622][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.10.23-00.53.12:662][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.10.23-00.53.12:663][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2018.10.23-00.53.12:664][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.10.23-00.53.12:664][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.10.23-00.53.12:806][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
-[2018.10.23-00.53.13:621][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.162750 seconds
-[2018.10.23-00.53.13:630][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
-[2018.10.23-00.53.13:630][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
-[2018.10.23-00.53.13:630][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.10.23-00.53.16:387][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.10.23-00.53.16:405][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.10.23-00.53.16:667][  0]SourceControl: Source control is disabled
-[2018.10.23-00.53.16:667][  0]SourceControl: Source control is disabled
-[2018.10.23-00.53.16:679][  0]SourceControl: Source control is disabled
-[2018.10.23-00.53.16:687][  0]SourceControl: Source control is disabled
-[2018.10.23-00.53.17:052][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.10.23-00.53.17:147][  0]LogOcInput: OculusInput pre-init called
-[2018.10.23-00.53.17:238][  0]LogEngine: Initializing Engine...
-[2018.10.23-00.53.17:240][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.10.23-00.53.17:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.23-00.53.17:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.23-00.53.17:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.23-00.53.17:241][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.23-00.53.17:482][  0]LogInit: Initializing FReadOnlyCVARCache
-[2018.10.23-00.53.17:520][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.10.23-00.53.17:547][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.10.23-00.53.17:575][  0]LogInit: FAudioDevice initialized.
-[2018.10.23-00.53.17:575][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2018.10.23-00.53.17:641][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
-[2018.10.23-00.53.17:652][  0]LogInit: Texture streaming: Enabled
-[2018.10.23-00.53.17:737][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.10.23-00.53.17:848][  0]LogInit: Transaction tracking system initialized
-[2018.10.23-00.53.17:950][  0]BlueprintLog: New page: Editor Load
-[2018.10.23-00.53.18:155][  0]LocalizationService: Localization service is disabled
-[2018.10.23-00.53.18:523][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.10.23-00.53.18:524][  0]LogCook: Display: Mobile HDR setting 1
-[2018.10.23-00.53.18:524][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.10.23-00.53.18:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
-[2018.10.23-00.53.18:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.10.23-00.53.18:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
-[2018.10.23-00.53.18:524][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.10.23-00.53.18:899][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.01s
-[2018.10.23-00.53.18:899][  0]SourceControl: Source control is disabled
-[2018.10.23-00.53.18:900][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-00.53.18:902][  0]LightingResults: New page: Lighting Build
-[2018.10.23-00.53.18:909][  0]MapCheck: New page: Map Check
-[2018.10.23-00.53.18:909][  0]LightingResults: New page: Lighting Build
-[2018.10.23-00.53.19:169][  0]LogAIModule: Creating AISystem for world Untitled_1
-[2018.10.23-00.53.19:190][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-00.53.19:214][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-00.53.19:300][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.321ms to complete.
-[2018.10.23-00.53.19:300][  0]LogFileHelpers: Loading map 'Template_Default' took 0.400
-[2018.10.23-00.53.19:437][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.23-00.53.19:444][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.23-00.53.19:451][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.23-00.53.19:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2018.10.23-00.53.19:473][  0]LogCollectionManager: Loaded 0 collections in 0.001440 seconds
-[2018.10.23-00.53.19:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
-[2018.10.23-00.53.19:531][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/Richard/Collections/' took 0.01s
-[2018.10.23-00.53.19:532][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
-[2018.10.23-00.53.19:532][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.10.23-00.53.19:542][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2572 classes and 603 folders.
-[2018.10.23-00.53.19:554][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.23-00.53.19:714][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.23-00.53.19:727][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2018.10.23-00.53.19:779][  0]LogSlate: Took 0.003156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.10.23-00.53.19:783][  0]LogSlate: Took 0.001507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.10.23-00.53.19:790][  0]LogSlate: Took 0.001384 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.10.23-00.53.19:871][  0]LogRenderer: Reallocating scene render targets to support 1456x684 Format 10 NumSamples 1 (Frame:1).
-[2018.10.23-00.53.20:003][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2018.10.23-00.53.20:003][  0]LogLoad: (Engine Initialization) Total time: 16.65 seconds
-[2018.10.23-00.53.20:003][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.10.23-00.53.20:042][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.10.23-00.53.20:060][  0]LogSlate: Took 0.001780 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.23-00.53.20:190][  1]LogAssetRegistry: Asset discovery search completed in 8.3397 seconds
-[2018.10.23-00.53.20:192][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.10.23-00.53.20:192][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000125 seconds (updated 0 objects)
-[2018.10.23-00.55.27:889][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.55.28:046][643]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.10.23-00.55.28:106][643]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-00.55.28:106][643]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
-[2018.10.23-00.55.28:106][643]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
-[2018.10.23-00.55.28:106][643]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-00.55.28:107][643]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
-[2018.10.23-00.55.28:108][643]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-00.55.28:108][643]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
-[2018.10.23-00.55.28:108][643]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
-[2018.10.23-00.55.28:108][643]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-00.55.28:108][643]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
-[2018.10.23-00.55.28:109][643]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-00.55.28:110][643]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
-[2018.10.23-00.55.28:110][643]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
-[2018.10.23-00.55.28:110][643]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-00.55.28:110][643]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
-[2018.10.23-00.55.28:266][643]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
-[2018.10.23-00.55.28:267][643]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-00.55.28:267][643]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
-[2018.10.23-00.55.28:267][643]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
-[2018.10.23-00.55.28:267][643]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-00.55.28:267][643]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
-[2018.10.23-00.55.28:268][643]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-00.55.28:268][643]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
-[2018.10.23-00.55.28:268][643]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
-[2018.10.23-00.55.28:268][643]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-00.55.28:268][643]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
-[2018.10.23-00.55.28:271][643]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-00.55.28:271][643]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
-[2018.10.23-00.55.28:271][643]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
-[2018.10.23-00.55.28:272][643]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-00.55.28:272][643]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
-[2018.10.23-00.55.28:703][643]LogTexture: Display: Building textures: wood (AutoDXT, 1024X1024)
-[2018.10.23-00.55.28:703][643]LogTexture: Display: Building textures: woodNormalMap (BC5, 2048X2048)
-[2018.10.23-00.55.28:703][643]LogTexture: Display: Building textures: woodBark_NORM (BC5, 1024X1024)
-[2018.10.23-00.55.28:703][643]LogTexture: Display: Building textures: woodBark (AutoDXT, 1024X1024)
-[2018.10.23-00.55.28:823][643]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
-[2018.10.23-00.55.29:115][643]LogShaderCompilers: Display: Shaders left to compile 31
-[2018.10.23-00.55.29:115][643]LogShaderCompilers: Display: Shaders left to compile 21
-[2018.10.23-00.55.29:158][643]LogStaticMesh: Building static mesh SmartCarUVObj_pCube1...
-[2018.10.23-00.55.29:351][643]LogStaticMesh: Built static mesh [0.19s] /Game/Resources_TA/SmartCarUVObj_pCube1.SmartCarUVObj_pCube1
-[2018.10.23-00.55.29:359][643]LogStaticMesh: Building static mesh SmartCarUVObj_pCylinder10...
-[2018.10.23-00.55.29:417][643]LogStaticMesh: Built static mesh [0.06s] /Game/Resources_TA/SmartCarUVObj_pCylinder10.SmartCarUVObj_pCylinder10
-[2018.10.23-00.55.29:425][643]LogStaticMesh: Building static mesh SmartCarUVObj_pCylinder8...
-[2018.10.23-00.55.29:557][643]LogStaticMesh: Built static mesh [0.13s] /Game/Resources_TA/SmartCarUVObj_pCylinder8.SmartCarUVObj_pCylinder8
-[2018.10.23-00.55.29:613][643]LogStaticMesh: Building static mesh the_car...
-[2018.10.23-00.55.29:881][643]LogStaticMesh: Built static mesh [0.27s] /Game/Beecroft_Car/the_car.the_car
-[2018.10.23-00.55.29:920][643]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
-[2018.10.23-00.55.29:930][643]LogMaterial: Display: Missing cached shader map for material wheel_wood, compiling. 
-[2018.10.23-00.55.29:942][643]LogMaterial: Display: Missing cached shader map for material gold_painted_wood, compiling. 
-[2018.10.23-00.55.29:952][643]LogMaterial: Display: Missing cached shader map for material Grill_wood, compiling. 
-[2018.10.23-00.55.29:962][643]LogAIModule: Creating AISystem for world StreetSceneLarge
-[2018.10.23-00.55.29:975][643]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
-[2018.10.23-00.55.30:000][643]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-00.55.30:000][643]LightingResults: New page: Lighting Build
-[2018.10.23-00.55.30:001][643]LoadErrors: New page: Loading map: StreetSceneLarge.umap
-[2018.10.23-00.55.30:001][643]MapCheck: New page: Map Check
-[2018.10.23-00.55.30:001][643]LightingResults: New page: Lighting Build
-[2018.10.23-00.55.30:037][643]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-00.55.30:068][643]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-00.55.30:161][643]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.965ms to complete.
-[2018.10.23-00.55.30:161][643]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.162
-[2018.10.23-00.55.30:687][688]LogShaderCompilers: Display: Shaders left to compile 99
-[2018.10.23-00.55.31:792][816]LogShaderCompilers: Display: Shaders left to compile 89
-[2018.10.23-00.55.32:956][946]LogShaderCompilers: Display: Shaders left to compile 79
-[2018.10.23-00.55.33:000][950]LogShaderCompilers: Display: Shaders left to compile 69
-[2018.10.23-00.55.34:359][111]LogShaderCompilers: Display: Shaders left to compile 59
-[2018.10.23-00.55.35:331][227]LogShaderCompilers: Display: Shaders left to compile 49
-[2018.10.23-00.55.36:539][372]LogShaderCompilers: Display: Shaders left to compile 39
-[2018.10.23-00.55.36:873][412]LogShaderCompilers: Display: Shaders left to compile 29
-[2018.10.23-00.55.38:380][592]LogShaderCompilers: Display: Shaders left to compile 19
-[2018.10.23-00.55.38:824][645]LogShaderCompilers: Display: Shaders left to compile 9
-[2018.10.23-00.55.47:563][690]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase195)
-[2018.10.23-00.55.52:969][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.57.00:637][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.57.00:843][439]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
-[2018.10.23-00.57.00:848][439]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
-[2018.10.23-00.57.00:867][439]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-00.57.00:867][439]LightingResults: New page: Lighting Build
-[2018.10.23-00.57.00:868][439]LoadErrors: New page: Loading map: StreetSceneLarge_RichardTendean.umap
-[2018.10.23-00.57.00:878][439]MapCheck: New page: Map Check
-[2018.10.23-00.57.00:878][439]LightingResults: New page: Lighting Build
-[2018.10.23-00.57.00:905][439]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-00.57.00:937][439]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-00.57.01:025][439]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.294ms to complete.
-[2018.10.23-00.57.01:025][439]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.159
-[2018.10.23-00.57.09:857][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.57.16:879][328]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.57.17:154][343]LogAIModule: Creating AISystem for world StreetSceneLarge
-[2018.10.23-00.57.17:163][343]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
-[2018.10.23-00.57.17:184][343]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-00.57.17:184][343]LightingResults: New page: Lighting Build
-[2018.10.23-00.57.17:185][343]LoadErrors: New page: Loading map: StreetSceneLarge.umap
-[2018.10.23-00.57.17:186][343]MapCheck: New page: Map Check
-[2018.10.23-00.57.17:186][343]LightingResults: New page: Lighting Build
-[2018.10.23-00.57.17:220][343]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-00.57.17:252][343]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-00.57.17:340][343]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 88.197ms to complete.
-[2018.10.23-00.57.17:340][343]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.157
-[2018.10.23-00.57.19:024][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.57.39:839][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase94)
-[2018.10.23-00.58.14:902][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.58.15:131][242]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
-[2018.10.23-00.58.15:136][242]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
-[2018.10.23-00.58.15:155][242]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-00.58.15:155][242]LightingResults: New page: Lighting Build
-[2018.10.23-00.58.15:156][242]LoadErrors: New page: Loading map: StreetSceneLarge_RichardTendean.umap
-[2018.10.23-00.58.15:166][242]MapCheck: New page: Map Check
-[2018.10.23-00.58.15:166][242]LightingResults: New page: Lighting Build
-[2018.10.23-00.58.15:193][242]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-00.58.15:225][242]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-00.58.15:314][242]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.17ms to complete.
-[2018.10.23-00.58.15:314][242]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.159
-[2018.10.23-00.58.22:545][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.58.27:728][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.58.27:937][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.58.28:392][798]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.58.29:936][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase146)
-[2018.10.23-00.58.30:980][ 98]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-00.58.44:740][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase132)
-[2018.10.23-00.58.45:943][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-00.58.50:115][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase150)
-[2018.10.23-00.59.21:940][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock97)
-[2018.10.23-00.59.31:788][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.32:007][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.32:980][342]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.34:054][471]Cmd: EDIT COPY
-[2018.10.23-00.59.34:952][576]Cmd: EDIT PASTE
-[2018.10.23-00.59.38:567][998]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.44:386][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.44:584][716]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.45:006][766]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.47:855][104]Cmd: EDIT COPY
-[2018.10.23-00.59.48:384][166]Cmd: EDIT PASTE
-[2018.10.23-00.59.50:768][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-00.59.54:322][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-00.59.59:729][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.00.03:242][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock87)
-[2018.10.23-01.00.08:738][503]Cmd: EDIT COPY
-[2018.10.23-01.00.09:091][542]Cmd: EDIT PASTE
-[2018.10.23-01.00.11:320][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.00.12:503][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.00.15:127][236]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.00.30:713][ 99]Cmd: EDIT COPY
-[2018.10.23-01.00.31:039][138]Cmd: EDIT PASTE
-[2018.10.23-01.00.33:721][456]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.00.42:531][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.00.50:903][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase160)
-[2018.10.23-01.01.00:300][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.01.04:360][821]LogEditorViewport: Clicking Background
-[2018.10.23-01.01.21:064][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.01.32:847][219]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.01.35:357][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase133)
-[2018.10.23-01.01.36:286][603]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.01.40:693][128]Cmd: DELETE
-[2018.10.23-01.01.40:693][128]Cmd: ACTOR DELETE
-[2018.10.23-01.01.40:703][128]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.40:703][128]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.40:703][128]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.40:704][128]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.40:722][128]LogEditorActor: Deleted 4 Actors (0.029 secs)
-[2018.10.23-01.01.46:620][832]Cmd: DELETE
-[2018.10.23-01.01.46:620][832]Cmd: ACTOR DELETE
-[2018.10.23-01.01.46:624][832]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.46:625][832]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.46:625][832]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.46:625][832]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.46:625][832]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.46:643][832]LogEditorActor: Deleted 5 Actors (0.024 secs)
-[2018.10.23-01.01.51:336][392]Cmd: DELETE
-[2018.10.23-01.01.51:336][392]Cmd: ACTOR DELETE
-[2018.10.23-01.01.51:340][392]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.51:341][392]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.51:341][392]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.51:341][392]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.51:359][392]LogEditorActor: Deleted 4 Actors (0.023 secs)
-[2018.10.23-01.01.54:566][774]Cmd: DELETE
-[2018.10.23-01.01.54:566][774]Cmd: ACTOR DELETE
-[2018.10.23-01.01.54:570][774]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.54:571][774]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.54:571][774]LogEditorActor: Deleted Actor: StaticMeshActor
-[2018.10.23-01.01.54:589][774]LogEditorActor: Deleted 3 Actors (0.023 secs)
-[2018.10.23-01.01.56:055][950]LogEditorViewport: Clicking Background
-[2018.10.23-01.01.57:280][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.01.59:067][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock119)
-[2018.10.23-01.02.04:071][897]Cmd: EDIT COPY
-[2018.10.23-01.02.04:389][935]Cmd: EDIT PASTE
-[2018.10.23-01.02.10:079][612]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.02.13:159][981]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.02.15:467][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.02.16:589][391]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.02.22:662][117]Cmd: EDIT COPY
-[2018.10.23-01.02.22:990][156]Cmd: EDIT PASTE
-[2018.10.23-01.02.29:867][972]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.02.31:064][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock105)
-[2018.10.23-01.02.32:798][313]Cmd: EDIT COPY
-[2018.10.23-01.02.33:112][350]Cmd: EDIT PASTE
-[2018.10.23-01.02.36:731][779]Cmd: EDIT COPY
-[2018.10.23-01.02.37:008][812]Cmd: EDIT PASTE
-[2018.10.23-01.02.37:844][909]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.02.54:717][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.03.16:345][491]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean7317886A4F2BE8EE4D131FB86DFADB0C.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap'
-[2018.10.23-01.03.16:431][491]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean_6C40A5F14F704D4AF26A4FA6773EB684.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean_BuiltData.uasset'
-[2018.10.23-01.03.40:730][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.04.00:453][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.06.07:141][123]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Richard/Desktop/EAE3010maya/OoCAssign003/woodencar.fbx)
-[2018.10.23-01.06.07:171][123]LogFbx: Loading FBX Scene from ../../../../../../Users/Richard/Desktop/EAE3010maya/OoCAssign003/woodencar.fbx
-[2018.10.23-01.06.07:187][123]LogFbx: FBX Scene Loaded Succesfully
-[2018.10.23-01.06.08:628][123]LogSlate: Window 'FBX Import Options' being destroyed
-[2018.10.23-01.06.08:754][123]LogLinker: Can't find file '/Game/RTendean_Car/wood_texture'
-[2018.10.23-01.06.08:754][123]LogLinker: Can't find file '/Game/RTendean_Car/wood_texture'
-[2018.10.23-01.06.08:797][123]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
-[2018.10.23-01.06.09:038][123]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
-[2018.10.23-01.06.09:048][123]LogFbx: Warning: Triangulating static mesh wheel1
-[2018.10.23-01.06.09:086][123]LogShaderCompilers: Display: Shaders left to compile 22
-[2018.10.23-01.06.09:086][123]LogShaderCompilers: Display: Shaders left to compile 12
-[2018.10.23-01.06.09:090][123]LogStaticMesh: Building static mesh woodencar_wheel1...
-[2018.10.23-01.06.09:119][123]LogStaticMesh: Built static mesh [0.03s] /Game/RTendean_Car/woodencar_wheel1.woodencar_wheel1
-[2018.10.23-01.06.09:126][123]LogFbx: Warning: Triangulating static mesh wheel2
-[2018.10.23-01.06.09:161][123]LogStaticMesh: Building static mesh woodencar_wheel2...
-[2018.10.23-01.06.09:189][123]LogStaticMesh: Built static mesh [0.03s] /Game/RTendean_Car/woodencar_wheel2.woodencar_wheel2
-[2018.10.23-01.06.09:194][123]LogFbx: Warning: Triangulating static mesh wheel3
-[2018.10.23-01.06.09:231][123]LogStaticMesh: Building static mesh woodencar_wheel3...
-[2018.10.23-01.06.09:254][123]LogStaticMesh: Built static mesh [0.02s] /Game/RTendean_Car/woodencar_wheel3.woodencar_wheel3
-[2018.10.23-01.06.09:263][123]LogFbx: Warning: Triangulating static mesh wheel4
-[2018.10.23-01.06.09:298][123]LogStaticMesh: Building static mesh woodencar_wheel4...
-[2018.10.23-01.06.09:321][123]LogStaticMesh: Built static mesh [0.02s] /Game/RTendean_Car/woodencar_wheel4.woodencar_wheel4
-[2018.10.23-01.06.09:335][123]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
-[2018.10.23-01.06.09:571][123]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
-[2018.10.23-01.06.09:581][123]LogFbx: Warning: Triangulating static mesh woodencar
-[2018.10.23-01.06.09:673][123]LogStaticMesh: Building static mesh woodencar_woodencar...
-[2018.10.23-01.06.09:724][123]LogStaticMesh: Built static mesh [0.05s] /Game/RTendean_Car/woodencar_woodencar.woodencar_woodencar
-[2018.10.23-01.06.09:740][123]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
-[2018.10.23-01.06.09:979][123]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
-[2018.10.23-01.06.09:989][123]LogFbx: Warning: Triangulating static mesh axel1
-[2018.10.23-01.06.10:009][123]LogStaticMesh: Building static mesh woodencar_axel1...
-[2018.10.23-01.06.10:022][123]LogStaticMesh: Built static mesh [0.01s] /Game/RTendean_Car/woodencar_axel1.woodencar_axel1
-[2018.10.23-01.06.10:026][123]LogFbx: Warning: Triangulating static mesh axel2
-[2018.10.23-01.06.10:045][123]LogStaticMesh: Building static mesh woodencar_axel2...
-[2018.10.23-01.06.10:055][123]LogStaticMesh: Built static mesh [0.01s] /Game/RTendean_Car/woodencar_axel2.woodencar_axel2
-[2018.10.23-01.06.10:061][123]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2018.10.23-01.06.10:558][163]LogShaderCompilers: Display: Shaders left to compile 46
-[2018.10.23-01.06.11:426][267]LogShaderCompilers: Display: Shaders left to compile 36
-[2018.10.23-01.06.11:626][291]LogShaderCompilers: Display: Shaders left to compile 26
-[2018.10.23-01.06.12:920][446]LogShaderCompilers: Display: Shaders left to compile 16
-[2018.10.23-01.06.13:281][489]LogShaderCompilers: Display: Shaders left to compile 6
-[2018.10.23-01.06.16:870][919]LogSlate: Window 'Message Log' being destroyed
-[2018.10.23-01.06.16:873][919]LogSlate: Window 'Message Log' being destroyed
-[2018.10.23-01.06.30:452][519]LogActorFactory: Actor Factory created woodencar_woodencar
-[2018.10.23-01.06.30:453][519]LogActorFactory: Actor Factory created woodencar_axel1
-[2018.10.23-01.06.30:454][519]LogActorFactory: Actor Factory created woodencar_axel2
-[2018.10.23-01.06.30:454][519]LogActorFactory: Actor Factory created woodencar_wheel1
-[2018.10.23-01.06.30:454][519]LogActorFactory: Actor Factory created woodencar_wheel2
-[2018.10.23-01.06.30:455][519]LogActorFactory: Actor Factory created woodencar_wheel3
-[2018.10.23-01.06.30:455][519]LogActorFactory: Actor Factory created woodencar_wheel4
-[2018.10.23-01.06.30:984][569]LogActorFactory: Actor Factory created woodencar_woodencar
-[2018.10.23-01.06.31:037][569]LogActorFactory: Actor Factory created woodencar_axel1
-[2018.10.23-01.06.31:049][569]LogActorFactory: Actor Factory created woodencar_axel2
-[2018.10.23-01.06.31:062][569]LogActorFactory: Actor Factory created woodencar_wheel1
-[2018.10.23-01.06.31:075][569]LogActorFactory: Actor Factory created woodencar_wheel2
-[2018.10.23-01.06.31:088][569]LogActorFactory: Actor Factory created woodencar_wheel3
-[2018.10.23-01.06.31:102][569]LogActorFactory: Actor Factory created woodencar_wheel4
-[2018.10.23-01.06.34:077][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.06.46:090][306]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.06.53:005][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.06.57:763][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.07.01:258][ 81]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.07.19:664][201]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.07.54:088][290]LogSlate: Window 'Delete Assets' being destroyed
-[2018.10.23-01.07.54:576][290]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
-[2018.10.23-01.07.54:576][290]LogMaterial: Warning: /Game/RTendean_Car/axelcolor1.axelcolor1 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2018.10.23-01.07.54:576][290]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
-[2018.10.23-01.07.54:581][290]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
-[2018.10.23-01.07.54:581][290]LogMaterial: Warning: /Game/RTendean_Car/woodskin.woodskin (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2018.10.23-01.07.54:581][290]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
-[2018.10.23-01.07.54:587][290]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
-[2018.10.23-01.07.54:588][290]LogMaterial: Warning: /Game/RTendean_Car/wheelcolor.wheelcolor (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2018.10.23-01.07.54:588][290]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
-[2018.10.23-01.07.58:188][646]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
-[2018.10.23-01.08.06:079][646]LogSlate: Window 'Save Content' being destroyed
-[2018.10.23-01.08.06:444][646]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean23C442B948EFB9674C8AB2BEE1B67CA1.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap'
-[2018.10.23-01.08.06:459][646]LogFileHelpers: Saving map 'StreetSceneLarge_RichardTendean' took 0.374
-[2018.10.23-01.08.06:462][646]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-01.08.06:462][646]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.06:462][646]LoadErrors: New page: Loading map: StreetSceneLarge_RichardTendean.umap
-[2018.10.23-01.08.06:464][646]MapCheck: New page: Map Check
-[2018.10.23-01.08.06:464][646]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.06:584][646]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
-[2018.10.23-01.08.06:591][646]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-01.08.06:623][646]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-01.08.06:703][646]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.96ms to complete.
-[2018.10.23-01.08.06:704][646]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.243
-[2018.10.23-01.08.12:298][204]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean573C1A9F45C0825662845BA33731D03C.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap'
-[2018.10.23-01.08.12:375][204]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean_956E59B4413E50DB9E1B2FA3B69E918F.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean_BuiltData.uasset'
-[2018.10.23-01.08.17:174][687]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-01.08.17:174][687]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
-[2018.10.23-01.08.17:174][687]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
-[2018.10.23-01.08.17:174][687]LogLinker: Warning: Can't find file '/Game/phong3SG'
-[2018.10.23-01.08.17:174][687]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
-[2018.10.23-01.08.17:175][687]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-01.08.17:175][687]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
-[2018.10.23-01.08.17:175][687]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
-[2018.10.23-01.08.17:175][687]LogLinker: Warning: Can't find file '/Game/phong1SG'
-[2018.10.23-01.08.17:176][687]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
-[2018.10.23-01.08.17:176][687]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-01.08.17:177][687]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
-[2018.10.23-01.08.17:177][687]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
-[2018.10.23-01.08.17:177][687]LogLinker: Warning: Can't find file '/Game/phong2SG'
-[2018.10.23-01.08.17:177][687]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
-[2018.10.23-01.08.17:301][687]LogAIModule: Creating AISystem for world StreetSceneLarge
-[2018.10.23-01.08.17:310][687]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
-[2018.10.23-01.08.17:331][687]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-01.08.17:331][687]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.17:332][687]LoadErrors: New page: Loading map: StreetSceneLarge.umap
-[2018.10.23-01.08.17:333][687]MapCheck: New page: Map Check
-[2018.10.23-01.08.17:333][687]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.17:367][687]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-01.08.17:400][687]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-01.08.17:481][687]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.764ms to complete.
-[2018.10.23-01.08.17:481][687]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.151
-[2018.10.23-01.08.19:642][931]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
-[2018.10.23-01.08.19:647][931]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
-[2018.10.23-01.08.19:666][931]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-01.08.19:666][931]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.19:667][931]LoadErrors: New page: Loading map: StreetSceneLarge_RichardTendean.umap
-[2018.10.23-01.08.19:669][931]MapCheck: New page: Map Check
-[2018.10.23-01.08.19:669][931]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.19:697][931]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-01.08.19:729][931]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-01.08.19:813][931]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.731ms to complete.
-[2018.10.23-01.08.19:813][931]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.147
-[2018.10.23-01.08.23:334][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock2)
-[2018.10.23-01.08.26:599][552]Cmd: EDIT COPY
-[2018.10.23-01.08.29:099][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.08.29:392][790]LogAIModule: Creating AISystem for world StreetSceneLarge
-[2018.10.23-01.08.29:401][790]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
-[2018.10.23-01.08.29:422][790]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.10.23-01.08.29:422][790]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.29:423][790]LoadErrors: New page: Loading map: StreetSceneLarge.umap
-[2018.10.23-01.08.29:462][790]MapCheck: New page: Map Check
-[2018.10.23-01.08.29:462][790]LightingResults: New page: Lighting Build
-[2018.10.23-01.08.29:496][790]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.10.23-01.08.29:528][790]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.10.23-01.08.29:611][790]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.391ms to complete.
-[2018.10.23-01.08.29:612][790]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.191
-[2018.10.23-01.08.35:225][456]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
-[2018.10.23-01.08.36:159][564]Cmd: EDIT PASTE
-[2018.10.23-01.08.36:556][564]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.10.23-01.08.36:746][570]Cmd: EDIT PASTE
-[2018.10.23-01.08.37:234][570]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.10.23-01.08.38:133][653]Cmd: TRANSACTION UNDO
-[2018.10.23-01.08.38:133][653]LogEditorTransaction: Undo Paste
-[2018.10.23-01.08.39:854][839]Cmd: TRANSACTION UNDO
-[2018.10.23-01.08.39:854][839]LogEditorTransaction: Undo Paste
-[2018.10.23-01.08.40:506][905]Cmd: EDIT PASTE
-[2018.10.23-01.08.40:523][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.streetBlockBase66 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.streetBlockBase66
-[2018.10.23-01.08.40:550][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.streetBlockBase90 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.streetBlockBase90
-[2018.10.23-01.08.40:593][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.SidewalkCorner18 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.SidewalkCorner18
-[2018.10.23-01.08.40:594][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock100 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock100
-[2018.10.23-01.08.40:600][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock101 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock101
-[2018.10.23-01.08.40:602][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock102 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock102
-[2018.10.23-01.08.40:603][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock103 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock103
-[2018.10.23-01.08.40:603][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock104 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock104
-[2018.10.23-01.08.40:604][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock105 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock105
-[2018.10.23-01.08.40:605][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock106 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock106
-[2018.10.23-01.08.40:605][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock107 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock107
-[2018.10.23-01.08.40:606][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock108 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock108
-[2018.10.23-01.08.40:606][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock109 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock109
-[2018.10.23-01.08.40:607][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock110 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock110
-[2018.10.23-01.08.40:607][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock111 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock111
-[2018.10.23-01.08.40:608][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock112 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock112
-[2018.10.23-01.08.40:609][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock113 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock113
-[2018.10.23-01.08.40:609][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock114 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock114
-[2018.10.23-01.08.40:610][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock115 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock115
-[2018.10.23-01.08.40:610][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock116 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock116
-[2018.10.23-01.08.40:611][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock117 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock117
-[2018.10.23-01.08.40:611][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock118 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock118
-[2018.10.23-01.08.40:612][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock119 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock119
-[2018.10.23-01.08.40:613][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock120 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock120
-[2018.10.23-01.08.40:613][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock121 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock121
-[2018.10.23-01.08.40:614][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock122 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock122
-[2018.10.23-01.08.40:614][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock123 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock123
-[2018.10.23-01.08.40:615][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock124 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock124
-[2018.10.23-01.08.40:616][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock125 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock125
-[2018.10.23-01.08.40:616][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock126 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock126
-[2018.10.23-01.08.40:617][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock127 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock127
-[2018.10.23-01.08.40:618][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock128 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock128
-[2018.10.23-01.08.40:618][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock129 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock129
-[2018.10.23-01.08.40:619][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock130 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock130
-[2018.10.23-01.08.40:619][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock131 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock131
-[2018.10.23-01.08.40:620][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock132 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock132
-[2018.10.23-01.08.40:621][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock133 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock133
-[2018.10.23-01.08.40:993][905]LogNavigationPoint: PostEditMove Clear paths rebuilt
-[2018.10.23-01.08.40:994][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.SidewalkCorner18 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.SidewalkCorner18
-[2018.10.23-01.08.40:995][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock100 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock100
-[2018.10.23-01.08.40:995][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock101 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock101
-[2018.10.23-01.08.40:996][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock102 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock102
-[2018.10.23-01.08.40:997][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock103 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock103
-[2018.10.23-01.08.40:998][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock104 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock104
-[2018.10.23-01.08.40:999][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock105 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock105
-[2018.10.23-01.08.41:001][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock106 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock106
-[2018.10.23-01.08.41:001][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock107 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock107
-[2018.10.23-01.08.41:001][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock108 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock108
-[2018.10.23-01.08.41:003][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock109 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock109
-[2018.10.23-01.08.41:004][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock110 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock110
-[2018.10.23-01.08.41:005][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock111 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock111
-[2018.10.23-01.08.41:005][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock112 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock112
-[2018.10.23-01.08.41:006][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock113 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock113
-[2018.10.23-01.08.41:006][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock114 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock114
-[2018.10.23-01.08.41:007][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock115 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock115
-[2018.10.23-01.08.41:008][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock116 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock116
-[2018.10.23-01.08.41:009][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock117 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock117
-[2018.10.23-01.08.41:010][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock118 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock118
-[2018.10.23-01.08.41:011][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock119 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock119
-[2018.10.23-01.08.41:012][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock120 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock120
-[2018.10.23-01.08.41:012][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock121 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock121
-[2018.10.23-01.08.41:013][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock122 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock122
-[2018.10.23-01.08.41:014][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock123 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock123
-[2018.10.23-01.08.41:015][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock124 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock124
-[2018.10.23-01.08.41:017][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock125 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock125
-[2018.10.23-01.08.41:019][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock126 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock126
-[2018.10.23-01.08.41:019][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock127 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sideWalkBlock127
-[2018.10.23-01.08.41:019][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock128 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock128
-[2018.10.23-01.08.41:019][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock129 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock129
-[2018.10.23-01.08.41:019][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock130 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock130
-[2018.10.23-01.08.41:020][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock131 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock131
-[2018.10.23-01.08.41:020][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock132 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock132
-[2018.10.23-01.08.41:020][905]LogUObjectHash: Warning: Ambiguous search, could be StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock133 or StaticMeshActor /Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.sidewalkBlock133
-[2018.10.23-01.08.43:038][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.10.23-01.08.46:584][554]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2018.10.23-01.08.52:740][284]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.53:012][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.53:422][364]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.53:744][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.55:800][552]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge51C33DF2428DA41D3730788B86B2620B.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
-[2018.10.23-01.08.55:881][552]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltData71A53DA044FD045F53CAD4B5229AFD8D.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
-[2018.10.23-01.08.56:715][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.57:847][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.08.59:327][772]LogSlate: Window 'Save Level As' being destroyed
-[2018.10.23-01.09.00:307][888]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2018.10.23-01.09.02:014][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.32.05:121][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-01.32.05:121][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.23-01.32.05:138][  0]LogHAL: Display: Platform has ~ 16 GB [17110630400 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.23-01.32.05:138][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.23-01.32.05:138][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.23-01.32.05:138][  0]LogInit: Computer: DESKTOP-2B
+[2018.10.23-01.32.05:138][  0]LogInit: User: Richard
+[2018.10.23-01.32.05:138][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.23-01.32.05:138][  0]LogInit: High frequency timer resolution =3.515627 MHz
+[2018.10.23-01.32.05:138][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.10.23-01.32.05:138][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.23-01.32.05:138][  0]LogMemory: Process Physical Memory: 100.29 MB used, 100.29 MB peak
+[2018.10.23-01.32.05:138][  0]LogMemory: Process Virtual Memory: 85.66 MB used, 85.66 MB peak
+[2018.10.23-01.32.05:138][  0]LogMemory: Physical Memory: 5431.05 MB used,  10886.92 MB free, 16317.97 MB total
+[2018.10.23-01.32.05:138][  0]LogMemory: Virtual Memory: 4615.61 MB used,  10886.92 MB free, 134217728.00 MB total
+[2018.10.23-01.32.05:156][  0]LogInit: Using OS detected language (en-US).
+[2018.10.23-01.32.05:156][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.23-01.32.05:157][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.23-01.32.05:431][  0]LogStreaming: Display: Took  0.275s to InitEngineTextLocalization.
+[2018.10.23-01.32.05:431][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.23-01.32.05:452][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.23-01.32.05:452][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.23-01.32.05:637][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-01.32.05:637][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.23-01.32.05:689][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.10.23-01.32.05:689][  0]LogD3D11RHI:       8088/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.23-01.32.05:691][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.23-01.32.05:691][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.23-01.32.05:691][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.23-01.32.05:695][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.23-01.32.05:695][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.23-01.32.05:695][  0]LogWindows: EnumDisplayDevices:
+[2018.10.23-01.32.05:695][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.10.23-01.32.05:695][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.23-01.32.05:696][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.23-01.32.05:696][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.10.23-01.32.05:696][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.23-01.32.05:696][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.10.23-01.32.05:696][  0]LogD3D11RHI:   Driver Version: 416.34 (internal:25.21.14.1634, unified:416.34)
+[2018.10.23-01.32.05:696][  0]LogD3D11RHI:      Driver Date: 10-10-2018
+[2018.10.23-01.32.05:696][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.10.23-01.32.05:726][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.23-01.32.05:742][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.23-01.32.05:790][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/9364/).
+[2018.10.23-01.32.05:790][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Richard/AppData/Local/Temp/UnrealShaderWorkingDir/0EBE8249478E148FDBA69DB192FB4F02/'.
+[2018.10.23-01.32.06:014][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.23-01.32.06:027][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.23-01.32.06:037][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.23-01.32.06:047][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.23-01.32.06:057][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.23-01.32.06:067][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.23-01.32.06:076][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.23-01.32.06:086][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.23-01.32.06:091][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:149][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.23-01.32.06:150][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.23-01.32.06:202][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-01.32.06:202][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.23-01.32.06:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-01.32.06:239][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.23-01.32.06:248][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.23-01.32.06:258][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.23-01.32.06:267][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.23-01.32.06:276][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.23-01.32.06:283][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.23-01.32.06:283][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.23-01.32.06:327][  0]LogXGEController: Cleaning working directory: C:/Users/Richard/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.23-01.32.06:327][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.23-01.32.06:327][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.23-01.32.06:327][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.23-01.32.06:912][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.23-01.32.06:955][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.23-01.32.06:965][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.23-01.32.06:976][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Richard/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.23-01.32.06:976][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.23-01.32.06:976][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.23-01.32.06:992][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.23-01.32.06:993][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.23-01.32.06:994][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.23-01.32.07:063][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.10.23-01.32.07:296][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.23-01.32.07:392][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.23-01.32.07:395][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.23-01.32.07:395][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.23-01.32.07:395][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.23-01.32.07:395][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.23-01.32.07:405][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.10.23-01.32.07:783][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.081184 seconds
+[2018.10.23-01.32.07:788][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.23-01.32.07:788][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.10.23-01.32.07:788][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.23-01.32.08:519][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.23-01.32.08:532][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.23-01.32.08:682][  0]SourceControl: Source control is disabled
+[2018.10.23-01.32.08:682][  0]SourceControl: Source control is disabled
+[2018.10.23-01.32.08:683][  0]SourceControl: Source control is disabled
+[2018.10.23-01.32.08:684][  0]SourceControl: Source control is disabled
+[2018.10.23-01.32.08:830][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.23-01.32.08:876][  0]LogOcInput: OculusInput pre-init called
+[2018.10.23-01.32.08:922][  0]LogEngine: Initializing Engine...
+[2018.10.23-01.32.08:922][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.23-01.32.08:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-01.32.08:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-01.32.08:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-01.32.08:923][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-01.32.09:071][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.23-01.32.09:081][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.23-01.32.09:090][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.10.23-01.32.09:131][  0]LogInit: FAudioDevice initialized.
+[2018.10.23-01.32.09:131][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.23-01.32.09:200][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/Richard/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.23-01.32.09:210][  0]LogInit: Texture streaming: Enabled
+[2018.10.23-01.32.09:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.23-01.32.09:232][  0]LogInit: Transaction tracking system initialized
+[2018.10.23-01.32.09:247][  0]BlueprintLog: New page: Editor Load
+[2018.10.23-01.32.09:300][  0]LocalizationService: Localization service is disabled
+[2018.10.23-01.32.09:520][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.23-01.32.09:520][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.23-01.32.09:520][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.23-01.32.09:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.23-01.32.09:520][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.23-01.32.09:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.23-01.32.09:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.23-01.32.09:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.01s
+[2018.10.23-01.32.09:610][  0]SourceControl: Source control is disabled
+[2018.10.23-01.32.09:610][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-01.32.09:610][  0]LightingResults: New page: Lighting Build
+[2018.10.23-01.32.09:612][  0]MapCheck: New page: Map Check
+[2018.10.23-01.32.09:612][  0]LightingResults: New page: Lighting Build
+[2018.10.23-01.32.09:764][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.23-01.32.09:769][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-01.32.09:788][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-01.32.09:854][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.786ms to complete.
+[2018.10.23-01.32.09:855][  0]LogFileHelpers: Loading map 'Template_Default' took 0.245
+[2018.10.23-01.32.09:944][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-01.32.09:949][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-01.32.09:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-01.32.09:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.23-01.32.09:965][  0]LogCollectionManager: Loaded 0 collections in 0.001322 seconds
+[2018.10.23-01.32.10:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.10.23-01.32.10:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/Richard/Collections/' took 0.01s
+[2018.10.23-01.32.10:012][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.10.23-01.32.10:012][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.10.23-01.32.10:019][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2572 classes and 603 folders.
+[2018.10.23-01.32.10:024][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.23-01.32.10:077][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.23-01.32.10:081][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.10.23-01.32.10:092][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.23-01.32.10:093][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.23-01.32.10:097][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.23-01.32.10:153][  0]LogRenderer: Reallocating scene render targets to support 1456x516 Format 10 NumSamples 1 (Frame:1).
+[2018.10.23-01.32.10:256][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.23-01.32.10:256][  0]LogLoad: (Engine Initialization) Total time: 6.83 seconds
+[2018.10.23-01.32.10:256][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.23-01.32.10:266][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.23-01.32.10:281][  0]LogAssetRegistry: Asset discovery search completed in 3.2396 seconds
+[2018.10.23-01.32.10:282][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.23-01.32.10:282][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000037 seconds (updated 0 objects)
+[2018.10.23-01.32.10:283][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.23-01.32.10:375][  0]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-01.32.15:616][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.32.15:777][641]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.23-01.32.15:903][641]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
+[2018.10.23-01.32.15:912][641]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
+[2018.10.23-01.32.15:931][641]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-01.32.15:931][641]LightingResults: New page: Lighting Build
+[2018.10.23-01.32.15:931][641]LoadErrors: New page: Loading map: StreetSceneLarge_RichardTendean.umap
+[2018.10.23-01.32.15:932][641]MapCheck: New page: Map Check
+[2018.10.23-01.32.15:932][641]LightingResults: New page: Lighting Build
+[2018.10.23-01.32.15:957][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-01.32.15:987][641]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-01.32.16:061][641]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 73.303ms to complete.
+[2018.10.23-01.32.16:061][641]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.130
+[2018.10.23-01.32.24:002][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.32.28:363][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.32.30:469][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase198)
+[2018.10.23-01.32.31:137][320]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.32.36:588][949]Cmd: DELETE
+[2018.10.23-01.32.36:588][949]Cmd: ACTOR DELETE
+[2018.10.23-01.32.36:594][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:594][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:594][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:595][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:595][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:595][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:595][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:596][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:596][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:596][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:596][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:597][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:597][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:597][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:597][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:598][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.32.36:616][949]LogEditorActor: Deleted 16 Actors (0.028 secs)
+[2018.10.23-01.32.50:774][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.33.17:525][241]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Richard/Desktop/EAE3010maya/woodencar/scenes/bigwoodencarRT.fbx)
+[2018.10.23-01.33.17:535][241]LogFbx: Loading FBX Scene from ../../../../../../Users/Richard/Desktop/EAE3010maya/woodencar/scenes/bigwoodencarRT.fbx
+[2018.10.23-01.33.17:545][241]LogFbx: FBX Scene Loaded Succesfully
+[2018.10.23-01.33.18:759][241]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.10.23-01.33.18:879][241]LogLinker: Can't find file '/Game/Woodencar_RT/wood_texture'
+[2018.10.23-01.33.18:879][241]LogLinker: Can't find file '/Game/Woodencar_RT/wood_texture'
+[2018.10.23-01.33.18:886][241]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.10.23-01.33.19:120][241]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
+[2018.10.23-01.33.19:153][241]LogFbx: Warning: Triangulating static mesh wheel1
+[2018.10.23-01.33.19:189][241]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.23-01.33.19:189][241]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.23-01.33.19:193][241]LogStaticMesh: Building static mesh bigwoodencarRT_wheel1...
+[2018.10.23-01.33.19:208][241]LogStaticMesh: Built static mesh [0.02s] /Game/Woodencar_RT/bigwoodencarRT_wheel1.bigwoodencarRT_wheel1
+[2018.10.23-01.33.19:214][241]LogFbx: Warning: Triangulating static mesh wheel2
+[2018.10.23-01.33.19:251][241]LogStaticMesh: Building static mesh bigwoodencarRT_wheel2...
+[2018.10.23-01.33.19:263][241]LogStaticMesh: Built static mesh [0.01s] /Game/Woodencar_RT/bigwoodencarRT_wheel2.bigwoodencarRT_wheel2
+[2018.10.23-01.33.19:269][241]LogFbx: Warning: Triangulating static mesh wheel3
+[2018.10.23-01.33.19:306][241]LogStaticMesh: Building static mesh bigwoodencarRT_wheel3...
+[2018.10.23-01.33.19:318][241]LogStaticMesh: Built static mesh [0.01s] /Game/Woodencar_RT/bigwoodencarRT_wheel3.bigwoodencarRT_wheel3
+[2018.10.23-01.33.19:326][241]LogFbx: Warning: Triangulating static mesh wheel4
+[2018.10.23-01.33.19:362][241]LogStaticMesh: Building static mesh bigwoodencarRT_wheel4...
+[2018.10.23-01.33.19:374][241]LogStaticMesh: Built static mesh [0.01s] /Game/Woodencar_RT/bigwoodencarRT_wheel4.bigwoodencarRT_wheel4
+[2018.10.23-01.33.19:389][241]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.10.23-01.33.19:634][241]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.10.23-01.33.19:643][241]LogFbx: Warning: Triangulating static mesh woodencar
+[2018.10.23-01.33.19:738][241]LogStaticMesh: Building static mesh bigwoodencarRT_woodencar...
+[2018.10.23-01.33.19:768][241]LogStaticMesh: Built static mesh [0.03s] /Game/Woodencar_RT/bigwoodencarRT_woodencar.bigwoodencarRT_woodencar
+[2018.10.23-01.33.19:790][241]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.10.23-01.33.20:030][241]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
+[2018.10.23-01.33.20:040][241]LogFbx: Warning: Triangulating static mesh axel1
+[2018.10.23-01.33.20:061][241]LogStaticMesh: Building static mesh bigwoodencarRT_axel1...
+[2018.10.23-01.33.20:070][241]LogStaticMesh: Built static mesh [0.01s] /Game/Woodencar_RT/bigwoodencarRT_axel1.bigwoodencarRT_axel1
+[2018.10.23-01.33.20:075][241]LogFbx: Warning: Triangulating static mesh axel2
+[2018.10.23-01.33.20:096][241]LogStaticMesh: Building static mesh bigwoodencarRT_axel2...
+[2018.10.23-01.33.20:105][241]LogStaticMesh: Built static mesh [0.01s] /Game/Woodencar_RT/bigwoodencarRT_axel2.bigwoodencarRT_axel2
+[2018.10.23-01.33.20:113][241]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.10.23-01.33.20:680][292]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.10.23-01.33.21:539][395]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.23-01.33.21:753][420]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.23-01.33.22:716][535]LogSlate: Window 'Message Log' being destroyed
+[2018.10.23-01.33.22:718][535]LogSlate: Window 'Message Log' being destroyed
+[2018.10.23-01.33.23:074][576]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.23-01.33.23:491][625]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.23-01.33.29:481][306]LogActorFactory: Actor Factory created bigwoodencarRT_woodencar
+[2018.10.23-01.33.29:483][306]LogActorFactory: Actor Factory created bigwoodencarRT_axel1
+[2018.10.23-01.33.29:483][306]LogActorFactory: Actor Factory created bigwoodencarRT_axel2
+[2018.10.23-01.33.29:483][306]LogActorFactory: Actor Factory created bigwoodencarRT_wheel1
+[2018.10.23-01.33.29:484][306]LogActorFactory: Actor Factory created bigwoodencarRT_wheel2
+[2018.10.23-01.33.29:484][306]LogActorFactory: Actor Factory created bigwoodencarRT_wheel3
+[2018.10.23-01.33.29:485][306]LogActorFactory: Actor Factory created bigwoodencarRT_wheel4
+[2018.10.23-01.33.30:624][404]LogActorFactory: Actor Factory created bigwoodencarRT_woodencar
+[2018.10.23-01.33.30:637][404]LogActorFactory: Actor Factory created bigwoodencarRT_axel1
+[2018.10.23-01.33.30:650][404]LogActorFactory: Actor Factory created bigwoodencarRT_axel2
+[2018.10.23-01.33.30:663][404]LogActorFactory: Actor Factory created bigwoodencarRT_wheel1
+[2018.10.23-01.33.30:676][404]LogActorFactory: Actor Factory created bigwoodencarRT_wheel2
+[2018.10.23-01.33.30:690][404]LogActorFactory: Actor Factory created bigwoodencarRT_wheel3
+[2018.10.23-01.33.30:703][404]LogActorFactory: Actor Factory created bigwoodencarRT_wheel4
+[2018.10.23-01.33.33:337][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.23-01.33.36:653][ 10]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.23-01.33.38:829][228]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.23-01.33.40:082][365]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.23-01.33.54:358][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.34.01:703][815]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean87F697074E51FFFA438BB4AB5E4AB8CB.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap'
+[2018.10.23-01.34.01:783][815]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean_D0476CDC440BAA7AB8EAF3AB6D471580.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean_BuiltData.uasset'
+[2018.10.23-01.34.07:206][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_wheel174F30D294C4F2AEF2192CAB2421406F7.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_wheel1.uasset'
+[2018.10.23-01.34.07:232][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/wheelcolorF5C934EA4A08FC06DC217ABC8F7CD635.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/wheelcolor.uasset'
+[2018.10.23-01.34.07:323][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/wood_texture503E610047107E8D7AD6719FBE16DA2E.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/wood_texture.uasset'
+[2018.10.23-01.34.07:346][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_wheel2DDDE5D5A426198513343178B96EF2DB8.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_wheel2.uasset'
+[2018.10.23-01.34.07:369][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_wheel3E06A28EB4052E7C4E6C1AFA7B92E60C0.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_wheel3.uasset'
+[2018.10.23-01.34.07:410][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_wheel45957536C4AF6387494E2D2A6F1EB6C66.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_wheel4.uasset'
+[2018.10.23-01.34.07:435][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_woodencarE73412FF45854684D91C1DB875311C76.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_woodencar.uasset'
+[2018.10.23-01.34.07:448][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Woodencar_RT/woodskin" FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/woodskin.uasset" SILENT=true
+[2018.10.23-01.34.07:458][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/woodskin02E9A079465664E8F4F8628E6F4C28D0.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/woodskin.uasset'
+[2018.10.23-01.34.07:479][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_axel18EFB3B5E4E9DE138A771A180F6857E0B.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_axel1.uasset'
+[2018.10.23-01.34.07:502][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/axelcolor136C634154E4AC579A4D3CBB520243017.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/axelcolor1.uasset'
+[2018.10.23-01.34.07:523][447]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/bigwoodencarRT_axel2752992534DFD92C767C836A0137B8A6A.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Woodencar_RT/bigwoodencarRT_axel2.uasset'
+[2018.10.23-01.34.13:318][773]LogSlate: Window 'Save Level As' being destroyed
+[2018.10.23-01.34.22:185][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.34.32:938][ 73]Cmd: EDIT COPY
+[2018.10.23-01.34.34:189][216]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-01.34.34:190][216]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.23-01.34.34:190][216]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.10.23-01.34.34:190][216]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-01.34.34:190][216]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.23-01.34.34:191][216]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-01.34.34:191][216]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.23-01.34.34:191][216]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.10.23-01.34.34:191][216]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-01.34.34:191][216]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.23-01.34.34:193][216]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-01.34.34:193][216]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.23-01.34.34:193][216]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.10.23-01.34.34:193][216]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-01.34.34:193][216]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.23-01.34.34:356][216]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-01.34.34:356][216]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.10.23-01.34.34:356][216]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.10.23-01.34.34:356][216]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.23-01.34.34:356][216]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.10.23-01.34.34:358][216]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-01.34.34:358][216]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.10.23-01.34.34:358][216]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.10.23-01.34.34:359][216]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.23-01.34.34:359][216]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.10.23-01.34.34:359][216]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-01.34.34:359][216]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.10.23-01.34.34:360][216]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.10.23-01.34.34:360][216]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.23-01.34.34:360][216]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.10.23-01.34.34:391][216]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.23-01.34.34:405][216]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.23-01.34.38:696][216]LogSlate: Window 'Save Content' being destroyed
+[2018.10.23-01.34.40:491][389]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendeanB321E8424B0C4CD93AE07DB5FF0856A6.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap'
+[2018.10.23-01.34.40:550][389]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_RichardTendean_0F96316C42200AB2262F79B692C8955B.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean_BuiltData.uasset'
+[2018.10.23-01.34.47:658][230]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.23-01.34.47:677][230]Cmd: MAP LOAD FILE="../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.23-01.34.47:677][230]LightingResults: New page: Lighting Build
+[2018.10.23-01.34.47:677][230]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.23-01.34.47:713][230]MapCheck: New page: Map Check
+[2018.10.23-01.34.47:713][230]LightingResults: New page: Lighting Build
+[2018.10.23-01.34.47:753][230]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.23-01.34.47:788][230]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.23-01.34.47:871][230]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.195ms to complete.
+[2018.10.23-01.34.47:872][230]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.197
+[2018.10.23-01.34.54:190][973]Cmd: DELETE
+[2018.10.23-01.34.54:190][973]Cmd: ACTOR DELETE
+[2018.10.23-01.34.54:232][973]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2018.10.23-01.34.54:286][973]LogEditorActor: Deleted Actor: PlayerStart
+[2018.10.23-01.34.54:287][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:287][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:288][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:288][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:288][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:289][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:289][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:289][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:290][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:290][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:290][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:291][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:291][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:291][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:292][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:292][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:292][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:293][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:293][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:293][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:294][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:294][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:294][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:294][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:295][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:295][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:295][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:296][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:296][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:296][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:297][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:297][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:297][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:298][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:298][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:298][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:298][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:299][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:299][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:299][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:300][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:300][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:300][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:301][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:301][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:301][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:302][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:302][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:302][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:302][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:303][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:303][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:303][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:304][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:304][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:304][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:304][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:305][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:305][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:305][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:306][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:306][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:306][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:306][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:307][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:307][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:307][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:308][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:308][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:308][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:308][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:309][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:309][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:309][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:310][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:310][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:310][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:310][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:311][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:311][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:311][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:311][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:312][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:312][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:312][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:312][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:313][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:313][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:313][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:313][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:314][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:314][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:314][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:314][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:315][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:315][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:315][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:315][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:316][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:316][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:316][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:316][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:317][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:317][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:317][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:317][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:317][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:318][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:318][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:318][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:318][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:319][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:319][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:319][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:319][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:319][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:320][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:320][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:320][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:320][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:320][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:321][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:321][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:321][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:321][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:321][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:322][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:322][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:322][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:322][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:322][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:323][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:323][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:323][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:323][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:323][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:324][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:324][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:324][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:324][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:324][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:325][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:326][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:327][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:328][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:329][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:330][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:331][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:332][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:333][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:334][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:335][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:336][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:337][973]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.23-01.34.54:355][973]LogEditorActor: Deleted 260 Actors (0.165 secs)
+[2018.10.23-01.34.55:408][ 89]Cmd: EDIT PASTE
+[2018.10.23-01.34.55:818][ 89]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.23-01.35.00:765][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.35.17:355][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.35.18:181][656]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeC710997444155DF73A25AAB474BFD687.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.23-01.35.18:262][656]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltDataC60D7666492168FDF2079DA4FD17E3B2.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.23-01.35.19:470][791]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.35.22:560][161]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.35.25:479][509]LogEditorViewport: Clicking Background
+[2018.10.23-01.35.27:150][704]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.23-01.35.27:989][717]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge9598D1D648A5AE76F2585A94761ED67B.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.23-01.35.28:048][717]LogSavePackage: Moving '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltDataF0642129465CDE4A5B24E1893B60DC90.tmp' to '../../../../../../Users/Richard/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.23-01.35.28:863][802]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.23-01.35.30:735][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
