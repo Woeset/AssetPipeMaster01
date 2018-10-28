@@ -1031,3 +1031,33 @@ LogInit: Object subsystem initialized
 [2018.10.28-20.27.20:369][842]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
 [2018.10.28-20.27.20:399][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.10.28-20.27.20:420][843]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.30.42:994][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.35.47:897][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.35.53:765][ 29]Cmd: EDIT COPY
+[2018.10.28-20.35.58:961][194]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.58:961][194]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.58:983][194]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.59:008][194]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.35.59:379][194]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.28-20.35.59:446][194]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.28-20.35.59:485][194]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-20.35.59:485][194]LightingResults: New page: Lighting Build
+[2018.10.28-20.35.59:486][194]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.28-20.35.59:600][194]MapCheck: New page: Map Check
+[2018.10.28-20.35.59:600][194]LightingResults: New page: Lighting Build
+[2018.10.28-20.35.59:751][194]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-20.35.59:794][194]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-20.35.59:826][194]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.711ms to complete.
+[2018.10.28-20.35.59:827][194]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.342
+[2018.10.28-20.36.01:405][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.36.02:354][284]Cmd: EDIT PASTE
+[2018.10.28-20.36.02:358][284]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.02:359][284]LogLinux: Scale at X=507.000000, Y=367.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.06:465][390]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.06:524][391]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.36.09:680][565]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:680][565]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:681][565]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:708][565]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.36.11:582][565]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge150E0C4708D63CE2B3E0B3282E521A1B.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.28-20.36.11:627][565]LogFileHelpers: Saving map 'StreetSceneLarge' took 1.913
