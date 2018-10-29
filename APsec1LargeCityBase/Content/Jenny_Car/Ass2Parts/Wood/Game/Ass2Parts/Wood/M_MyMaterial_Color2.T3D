@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_MyMaterial_Color2"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=CA7C01F14658901F4BACD4BE6356B3E6
+   Parent=Material'"/Game/Ass2Parts/Wood/M_MyMaterial_Wood.M_MyMaterial_Wood"'
+   ScalarParameterValues(0)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Rough"),ParameterValue=2.500000,ExpressionGUID=B9224E5146511EF668BEF4A1841FE19B)
+   ScalarParameterValues(1)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Specular"),ParameterValue=10.024851,ExpressionGUID=1F05C75745D2F61D9B2867A4131F699A)
+   ScalarParameterValues(2)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Utiling"),ParameterValue=4.056833,ExpressionGUID=C145E91D45E21D65D9B9D6B967462AAD)
+   ScalarParameterValues(3)=(ParameterInfo=(Name="VTiling"),ParameterValue=4.000000,ExpressionGUID=C0ADBC3448600FF341E8629F07F8569E)
+   ScalarParameterValues(4)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Tint"),ParameterValue=(R=0.257994,G=0.615152,B=0.413064,A=0.000000),ExpressionGUID=CADBF4554BC356634E2FDF85EC08BC45)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=FA49C89941AF133CCB0B499340A50061
+   ReferencedTextureGuids(2)=1FD0EA824C902B50B800DCB14EA76D21
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Black",TextureReference=/Engine/EngineResources/Black.Black)
+   TextureStreamingData(1)=(SamplingScale=8.000000,UVChannelIndex=0,TextureName="My_Texture_1_B_W",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_B_W.My_Texture_1_B_W)
+   TextureStreamingData(2)=(SamplingScale=8.000000,UVChannelIndex=0,TextureName="My_Texture_1_Normal_Map",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_Normal_Map.My_Texture_1_Normal_Map)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=F0A250C9410A20EC2F7D91A896EC119F
+End Object
