@@ -2225,3 +2225,238 @@ LogInit: Object subsystem initialized
 [2018.10.29-18.46.17:198][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.10.29-18.46.18:926][650]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_SLHDE2E8CD14D3DA102E10A728313157AE3.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SLH.umap'
 [2018.10.29-18.46.19:054][650]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_SLH_BuiltData25C74D604838E7346E01418FCB616FED.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SLH_BuiltData.uasset'
+[2018.10.29-18.47.19:144][157]LogEditorViewport: Clicking Background
+[2018.10.29-18.47.21:042][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase612)
+[2018.10.29-18.47.23:364][524]Cmd: EDIT COPY
+[2018.10.29-18.47.26:052][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.47.32:083][119]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.29-18.47.37:091][119]LogSlate: Window 'Save Content' being destroyed
+[2018.10.29-18.47.37:116][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sarenna_Haddad/OldLImo" FILE="../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/OldLImo.uasset" SILENT=true
+[2018.10.29-18.47.37:149][119]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/OldLImoDA7C970842E7DE5EBE603CB1295CB299.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/OldLImo.uasset'
+[2018.10.29-18.47.37:154][119]Cmd: MAP LOAD FILE="../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.29-18.47.37:155][119]LightingResults: New page: Lighting Build
+[2018.10.29-18.47.37:155][119]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.29-18.47.37:210][119]MapCheck: New page: Map Check
+[2018.10.29-18.47.37:210][119]LightingResults: New page: Lighting Build
+[2018.10.29-18.47.37:302][119]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.29-18.47.37:358][119]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.29-18.47.38:704][119]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,345.71ms to complete.
+[2018.10.29-18.47.38:706][119]LogFileHelpers: Loading map 'StreetSceneLarge' took 1.552
+[2018.10.29-18.47.55:395][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase25)
+[2018.10.29-18.47.57:718][586]Cmd: EDIT PASTE
+[2018.10.29-18.47.58:420][586]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.29-18.48.00:175][710]LogEditorViewport: Clicking Background
+[2018.10.29-18.48.13:218][753]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.14:572][857]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.29-18.48.17:673][219]LogEditorViewport: Clicking Background
+[2018.10.29-18.48.21:816][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.25:334][849]LogEditorViewport: Clicking Background
+[2018.10.29-18.48.28:254][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.35:414][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.36:319][662]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.39:524][896]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.41:162][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.48.45:705][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.46:542][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OldLImo)
+[2018.10.29-18.48.49:752][585]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.48.53:183][780]LogLinker: Warning: Can't find file '/Game/wood'
+[2018.10.29-18.48.53:184][780]LogLinker: Warning: Can't find file for asset '/Game/wood' while loading ../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert2SG.uasset.
+[2018.10.29-18.48.53:184][780]LoadErrors: Error: /Game/Sarenna_Haddad/lambert2SG : Can't find file for asset. /Game/wood
+[2018.10.29-18.48.53:184][780]LogLinker: Warning: Can't find file '/Game/wood'
+[2018.10.29-18.48.53:184][780]LogLinker: Warning: Can't find file for asset '/Game/wood' while loading ../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert2SG.uasset.
+[2018.10.29-18.48.53:184][780]LogLinker: Warning: Can't find file '/Game/wood'
+[2018.10.29-18.48.53:184][780]LoadErrors: Failed to load /Game/wood.wood Referenced by MaterialExpressionTextureSample_0
+[2018.10.29-18.48.53:184][780]LogLinker: Warning: Can't find file for asset '/Game/wood' while loading NULL.
+[2018.10.29-18.48.53:186][780]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.48.53:187][780]LogMaterial: Warning: C:\Users\u1121225\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\Sarenna_Haddad\lambert2SG.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.48.53:187][780]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.57:128][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.48.57:174][101]LogLinker: Warning: Can't find file '/Game/woo2'
+[2018.10.29-18.48.57:174][101]LogLinker: Warning: Can't find file for asset '/Game/woo2' while loading ../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert3SG.uasset.
+[2018.10.29-18.48.57:174][101]LoadErrors: Error: /Game/Sarenna_Haddad/lambert3SG : Can't find file for asset. /Game/woo2
+[2018.10.29-18.48.57:174][101]LogLinker: Warning: Can't find file '/Game/woo2'
+[2018.10.29-18.48.57:174][101]LogLinker: Warning: Can't find file for asset '/Game/woo2' while loading ../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert3SG.uasset.
+[2018.10.29-18.48.57:175][101]LogLinker: Warning: Can't find file '/Game/woo2'
+[2018.10.29-18.48.57:175][101]LoadErrors: Failed to load /Game/woo2.woo2 Referenced by MaterialExpressionTextureSample_0
+[2018.10.29-18.48.57:175][101]LogLinker: Warning: Can't find file for asset '/Game/woo2' while loading NULL.
+[2018.10.29-18.48.57:176][101]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.48.57:177][101]LogMaterial: Warning: C:\Users\u1121225\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\Sarenna_Haddad\lambert3SG.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.48.57:177][101]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.58:826][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.48.59:032][259]LogAssetEditorManager: Opening Asset editor for Material /Game/Sarenna_Haddad/lambert2SG.lambert2SG
+[2018.10.29-18.48.59:035][259]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.48.59:035][259]LogMaterial: Warning: /Engine/Transient.lambert2SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.48.59:035][259]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.59:104][259]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.48.59:104][259]LogMaterial: Warning: /Engine/Transient.lambert2SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.48.59:104][259]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.59:107][259]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.48.59:107][259]LogMaterial: Warning: /Engine/Transient.lambert2SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.48.59:107][259]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.59:140][259]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.29-18.48.59:167][259]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.48.59:191][259]LogSlate: Took 0.006689 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.29-18.49.02:413][396]LogSlate: Window 'Stats' being destroyed
+[2018.10.29-18.49.02:417][396]LogSlate: Window 'Stats' being destroyed
+[2018.10.29-18.49.08:575][729]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.49.08:588][729]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.08:589][729]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.08:589][729]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.08:589][729]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.29-18.49.08:589][729]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.29-18.49.08:617][729]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.49.09:332][754]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.29-18.49.09:413][757]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.29-18.49.09:421][757]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.09:421][757]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.09:674][764]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.09:683][765]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.29-18.49.09:695][766]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.29-18.49.09:736][769]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.29-18.49.09:880][773]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.29-18.49.09:884][773]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.29-18.49.09:884][773]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.29-18.49.09:910][774]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.29-18.49.10:048][778]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.29-18.49.10:050][778]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.29-18.49.10:070][778]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.29-18.49.10:142][779]LogAssetEditorManager: Opening Asset editor for Material /Game/Sarenna_Haddad/lambert3SG.lambert3SG
+[2018.10.29-18.49.10:145][779]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.10:145][779]LogMaterial: Warning: /Engine/Transient.lambert3SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.49.10:145][779]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.49.10:237][779]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.10:237][779]LogMaterial: Warning: /Engine/Transient.lambert3SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.49.10:237][779]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.49.10:240][779]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.10:240][779]LogMaterial: Warning: /Engine/Transient.lambert3SG (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.10.29-18.49.10:240][779]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.49.10:269][779]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.29-18.49.10:269][779]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.29-18.49.10:318][779]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.29-18.49.10:373][780]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.10.29-18.49.10:421][781]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.29-18.49.10:484][784]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.29-18.49.10:556][786]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.29-18.49.10:709][788]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.29-18.49.10:822][792]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-18.49.10:868][794]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-18.49.11:218][805]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.29-18.49.11:219][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.29-18.49.11:219][805]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.29-18.49.11:219][805]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.29-18.49.11:219][805]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.29-18.49.11:219][805]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.29-18.49.12:342][858]LogSlate: Window 'Stats' being destroyed
+[2018.10.29-18.49.12:346][858]LogSlate: Window 'Stats' being destroyed
+[2018.10.29-18.49.18:641][271]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.18:660][271]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.10.29-18.49.18:675][271]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.18:675][271]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.18:675][271]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.18:675][271]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.29-18.49.18:688][271]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.18:887][277]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.29-18.49.18:906][278]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.29-18.49.18:914][278]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.18:914][278]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.19:158][283]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.19:158][283]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.29-18.49.19:178][284]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.10.29-18.49.19:204][286]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.10.29-18.49.19:366][291]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.10.29-18.49.19:372][291]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.10.29-18.49.19:381][291]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.10.29-18.49.19:398][292]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.29-18.49.19:517][295]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.10.29-18.49.19:549][296]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.10.29-18.49.19:568][297]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.29-18.49.19:760][302]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.10.29-18.49.19:805][303]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.10.29-18.49.19:856][307]LogMaterialEditor: Applying material lambert3SG
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-18.49.21:264][307]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.10.29-18.49.21:277][307]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.21:323][307]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.21:323][307]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.21:323][307]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.21:323][307]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.10.29-18.49.21:333][307]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.21:364][307]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.10.29-18.49.21:416][307]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert3SG, compiling. 
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.29-18.49.22:614][307]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-18.49.22:616][307]TextureStreamingBuild: Display: Compiling optional shaders took 1.208 seconds.
+[2018.10.29-18.49.23:838][359]LogMaterialEditor: Applying material lambert2SG
+[2018.10.29-18.49.24:377][359]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.49.24:420][359]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.10.29-18.49.24:420][359]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.10.29-18.49.24:420][359]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.29-18.49.24:438][359]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.49.24:472][359]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.10.29-18.49.24:529][359]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy lambert2SG, compiling. 
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.10.29-18.49.25:940][359]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.10.29-18.49.25:942][359]TextureStreamingBuild: Display: Compiling optional shaders took 1.418 seconds.
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.29-18.49.25:982][359]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: Texture samplers: 4/16
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2018.10.29-18.49.28:444][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.10.29-18.49.31:021][572]LogSlate: Window 'lambert2SG*' being destroyed
+[2018.10.29-18.49.41:516][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.29-18.49.43:506][260]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge26DF392D45B2D1650C3AB094F4869090.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.29-18.49.43:633][260]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltData382975FA4DF7A21AC6D1749226A83C03.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
+[2018.10.29-18.49.47:337][615]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/lambert2SGC56E06F0493AC6E2394923A78C4300C9.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert2SG.uasset'
+[2018.10.29-18.49.47:388][615]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/lambert3SG6E1552FB4CD1FAA9ABBBA4BF48A02330.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Sarenna_Haddad/lambert3SG.uasset'
+[2018.10.29-18.49.53:278][ 53]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge2040DF44472AED60E17FF7BA04269036.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.29-18.49.53:374][ 53]LogSavePackage: Moving '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BuiltDataEED1EF744B8FE7C2328BAEBB0785B96C.tmp' to '../../../../../../Users/u1121225/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BuiltData.uasset'
