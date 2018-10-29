@@ -1,0 +1,1063 @@
+﻿Log file open, 10/28/18 14:22:07
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.073471
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogStreaming: Display: Took  0.412s to configure plugins.
+LogInit: Using libcurl 7.48.0-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  Libcurl: checking if '/etc/pki/tls/certs/ca-bundle.crt' exists
+LogInit:  Libcurl: checking if '/etc/ssl/certs/ca-certificates.crt' exists
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = /etc/ssl/certs/ca-certificates.crt  - Libcurl will set CURLOPT_CAINFO to it
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: Build: ++UE4+Release-4.20-CL-0
+LogInit: Engine Version: 4.20.2-0+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-0+++UE4+Release-4.20
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU:         Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Aug 23 2018 21:24:45
+LogInit: Compiled with Clang: 5.0.0 (tags/RELEASE_500/final)
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: /home/dawnoftherent/Projects/UnrealEngine/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.28-20.22.09:028][  0]LogInit: Initializing SDL.
+[2018.10.28-20.22.09:202][  0]LogInit: Initialized SDL 2.0.5 revision: 11184 (hg-11184:04063928c4a8 with EpicExtensions) (compiled against 2.0.5)
+[2018.10.28-20.22.09:202][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2018.10.28-20.22.09:202][  0]LogInit: Using SDL video driver 'x11'
+[2018.10.28-20.22.09:202][  0]LogInit: Display metrics:
+[2018.10.28-20.22.09:202][  0]LogInit:   PrimaryDisplayWidth: 1024
+[2018.10.28-20.22.09:202][  0]LogInit:   PrimaryDisplayHeight: 768
+[2018.10.28-20.22.09:202][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2018.10.28-20.22.09:202][  0]LogInit:     Left=0, Top=0, Right=1024, Bottom=735
+[2018.10.28-20.22.09:202][  0]LogInit:   VirtualDisplayRect:
+[2018.10.28-20.22.09:202][  0]LogInit:     Left=0, Top=0, Right=1024, Bottom=735
+[2018.10.28-20.22.09:202][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.10.28-20.22.09:202][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.10.28-20.22.09:202][  0]LogInit:   Number of monitors: 1
+[2018.10.28-20.22.09:202][  0]LogInit:     Monitor 0
+[2018.10.28-20.22.09:202][  0]LogInit:       Name: DELL E153FP 15"
+[2018.10.28-20.22.09:202][  0]LogInit:       ID: display0
+[2018.10.28-20.22.09:202][  0]LogInit:       NativeWidth: 1024
+[2018.10.28-20.22.09:202][  0]LogInit:       NativeHeight: 768
+[2018.10.28-20.22.09:202][  0]LogInit:       bIsPrimary: true
+[2018.10.28-20.22.09:203][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.10.28-20.22.09:203][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2018.10.28-20.22.09:218][  0]LogHAL: Display: Platform has ~ 4 GB [8311631872 / 4294967296 / 8], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.28-20.22.09:218][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.28-20.22.09:219][  0]LogInit: Using custom *.sym to symbolicate
+[2018.10.28-20.22.09:219][  0]LogInit: Unix hardware info:
+[2018.10.28-20.22.09:219][  0]LogInit:  - we are the first instance of this executable
+[2018.10.28-20.22.09:219][  0]LogInit:  - this process' id (pid) is 13440, parent process' id (ppid) is 1209
+[2018.10.28-20.22.09:219][  0]LogInit:  - we are not running under debugger
+[2018.10.28-20.22.09:219][  0]LogInit:  - machine network name is 'Aphrodite'
+[2018.10.28-20.22.09:219][  0]LogInit:  - user name is 'dawnoftherent' (dawnoftherent)
+[2018.10.28-20.22.09:219][  0]LogInit:  - we're logged in locally
+[2018.10.28-20.22.09:219][  0]LogInit:  - we're running with rendering
+[2018.10.28-20.22.09:219][  0]LogInit:  - CPU: GenuineIntel '        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz' (signature: 0x306A9)
+[2018.10.28-20.22.09:219][  0]LogInit:  - Number of physical cores available for the process: 4
+[2018.10.28-20.22.09:219][  0]LogInit:  - Number of logical cores available for the process: 4
+[2018.10.28-20.22.09:219][  0]LogInit:  - Cache line size: 64
+[2018.10.28-20.22.09:219][  0]LogInit:  - Memory allocator used: binned2
+[2018.10.28-20.22.09:219][  0]LogCore: Benchmarking clocks:
+[2018.10.28-20.22.09:219][  0]LogCore:  - CLOCK_REALTIME (id=0) can sustain 55183373 (55183K, 55M) calls per second without zero deltas.
+[2018.10.28-20.22.09:219][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 55884973 (55885K, 56M) calls per second without zero deltas.
+[2018.10.28-20.22.09:219][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 13046742 (13047K, 13M) calls per second without zero deltas.
+[2018.10.28-20.22.09:219][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 168252339 (168252K, 168M) calls per second with 99.999845% zero deltas.
+[2018.10.28-20.22.09:219][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2018.10.28-20.22.09:219][  0]LogInit: Unix-specific commandline switches:
+[2018.10.28-20.22.09:219][  0]LogInit:  -nodwarf (currently OFF): suppress parsing of DWARF debug info (callstacks will be generated faster, but won't have line numbers)
+[2018.10.28-20.22.09:219][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2018.10.28-20.22.09:219][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2018.10.28-20.22.09:219][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2018.10.28-20.22.09:219][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2018.10.28-20.22.09:219][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2018.10.28-20.22.09:219][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2018.10.28-20.22.09:219][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2018.10.28-20.22.09:220][  0]LogInit:  - Physical RAM available (not considering process quota): 8 GB (7926 MB, 8116828 KB, 8311631872 bytes)
+[2018.10.28-20.22.09:418][  0]LogInit: Using OS detected language (en-US).
+[2018.10.28-20.22.09:418][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.28-20.22.09:418][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.28-20.22.09:791][  0]LogStreaming: Display: Took  0.373s to InitEngineTextLocalization.
+[2018.10.28-20.22.09:848][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.28-20.22.09:849][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.28-20.22.10:740][  0]LogRHI: Initializing OpenGL RHI
+[2018.10.28-20.22.10:740][  0]LogRHI:   GL_VENDOR: ATI Technologies Inc.
+[2018.10.28-20.22.10:740][  0]LogRHI:   GL_RENDERER: AMD Radeon(TM) HD 6400 Series 
+[2018.10.28-20.22.10:740][  0]LogRHI:   GL_VERSION: 4.3.13416 Core Profile Context 15.302
+[2018.10.28-20.22.10:740][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.40
+[2018.10.28-20.22.10:740][  0]LogRHI: OpenGL Extensions:
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMDX_debug_output
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMDX_vertex_shader_tessellator
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_conservative_depth
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_debug_output
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_depth_clamp_separate
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_draw_buffers_blend
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_multi_draw_indirect
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_name_gen_delete
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_performance_monitor
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_pinned_memory
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_query_buffer_object
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_sample_positions
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_shader_stencil_export
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_shader_trace
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_texture_cube_map_array
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_texture_texture4
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_transform_feedback3_lines_triangles
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_vertex_shader_tessellator
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_base_instance
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_blend_func_extended
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_buffer_storage
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_clear_texture
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_clip_control
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_color_buffer_float
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_compute_shader
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_conservative_depth
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_copy_buffer
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_copy_image
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_cull_distance
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_debug_output
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_depth_clamp
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_depth_texture
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_derivative_control
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_direct_state_access
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_draw_buffers
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_draw_indirect
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_draw_instanced
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_fragment_program
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_fragment_program_shadow
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_fragment_shader
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_framebuffer_object
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_geometry_shader4
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_get_program_binary
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_gpu_shader5
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_half_float_pixel
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_half_float_vertex
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_imaging
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_instanced_arrays
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_internalformat_query
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_internalformat_query2
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_map_buffer_range
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_multi_bind
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_multisample
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_multitexture
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_occlusion_query
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_occlusion_query2
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_point_parameters
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_point_sprite
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_program_interface_query
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_provoking_vertex
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_query_buffer_object
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_sample_shading
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_sampler_objects
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2018.10.28-20.22.10:741][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_image_size
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_objects
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_precision
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_stencil_export
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_subroutine
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shading_language_100
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shading_language_packing
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shadow
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_shadow_ambient
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_stencil_texturing
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_sync
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_tessellation_shader
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_barrier
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_border_clamp
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_compression
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_cube_map
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_env_add
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_env_combine
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_env_crossbar
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_env_dot3
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_float
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_gather
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_mirrored_repeat
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_multisample
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_query_levels
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_query_lod
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_rectangle
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_rg
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_snorm
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_stencil8
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_storage
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_swizzle
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_texture_view
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_timer_query
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_transform_feedback2
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_transform_feedback3
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_transform_feedback_overflow_query
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_transpose_matrix
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_array_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_buffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_program
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_shader
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_viewport_array
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ARB_window_pos
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_draw_buffers
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_envmap_bumpmap
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_fragment_shader
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_meminfo
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_separate_stencil
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_texture_compression_3dc
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_texture_env_combine3
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_texture_float
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_ATI_texture_mirror_once
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_abgr
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_bgra
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_bindable_uniform
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_blend_color
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_blend_func_separate
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_blend_minmax
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_blend_subtract
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_compiled_vertex_array
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_copy_buffer
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_copy_texture
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_direct_state_access
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_draw_buffers2
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_draw_instanced
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_draw_range_elements
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_fog_coord
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_framebuffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_geometry_shader4
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_gpu_program_parameters
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_gpu_shader4
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_histogram
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_multi_draw_arrays
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_packed_float
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_packed_pixels
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_point_parameters
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_provoking_vertex
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_rescale_normal
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_secondary_color
+[2018.10.28-20.22.10:742][  0]LogRHI:   GL_EXT_separate_specular_color
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_shader_image_load_store
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_shadow_funcs
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_stencil_wrap
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_subtexture
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texgen_reflection
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture3D
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_array
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_buffer_object
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_compression_bptc
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_compression_latc
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_cube_map
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_edge_clamp
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_env_add
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_env_combine
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_env_dot3
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_integer
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_lod
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_lod_bias
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_mirror_clamp
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_object
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_rectangle
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_sRGB
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_snorm
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_storage
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_texture_swizzle
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_timer_query
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_transform_feedback
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_vertex_array
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_EXT_vertex_attrib_64bit
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_IBM_texture_mirrored_repeat
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_KHR_context_flush_control
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_KHR_debug
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_KHR_robustness
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_KTX_buffer_region
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_blend_square
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_conditional_render
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_copy_depth_to_color
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_copy_image
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_depth_buffer_float
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_explicit_multisample
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_float_buffer
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_half_float
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_primitive_restart
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_texgen_reflection
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_NV_texture_barrier
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_OES_EGL_image
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_SGIS_generate_mipmap
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_SGIS_texture_edge_clamp
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_SGIS_texture_lod
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_SUN_multi_draw_arrays
+[2018.10.28-20.22.10:743][  0]LogRHI:   GL_WIN_swap_hint
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 16384
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 2048
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 16384
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_SAMPLES: 4
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 4
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 4
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 4
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 108
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 29
+[2018.10.28-20.22.10:744][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2018.10.28-20.22.10:744][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 3, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2018.10.28-20.22.10:757][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/13440/).
+[2018.10.28-20.22.10:757][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/tmp/0003306C08D63CE0BFCA925AFC4FB912/'.
+[2018.10.28-20.22.10:757][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.28-20.22.12:487][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:683][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.28-20.22.12:837][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.28-20.22.12:989][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.28-20.22.13:151][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.28-20.22.13:303][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.28-20.22.13:459][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.28-20.22.13:459][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.28-20.22.13:974][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.10.28-20.22.13:975][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2018.10.28-20.22.13:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.28-20.22.13:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.28-20.22.14:122][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2018.10.28-20.22.14:137][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.28-20.22.14:138][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2018.10.28-20.22.14:251][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2018.10.28-20.22.14:602][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.10.28-20.22.15:656][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.28-20.22.15:656][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.28-20.22.15:656][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.10.28-20.22.15:656][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2018.10.28-20.22.15:656][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.10.28-20.22.15:656][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2018.10.28-20.22.15:812][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3676694159)
+[2018.10.28-20.22.19:374][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.062026 seconds
+[2018.10.28-20.22.19:381][  0]LogUObjectArray: 37547 objects as part of root set at end of initial load.
+[2018.10.28-20.22.19:381][  0]LogUObjectAllocator: 6509480 out of 0 bytes used by permanent object pool.
+[2018.10.28-20.22.19:381][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.28-20.22.19:636][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2018.10.28-20.22.20:492][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.10.28-20.22.20:492][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.10.28-20.22.20:492][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:492][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:493][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:493][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:493][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.10.28-20.22.20:493][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.10.28-20.22.20:493][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:493][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:494][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:494][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:494][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.10.28-20.22.20:494][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.10.28-20.22.20:494][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:494][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:495][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:495][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:495][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.10.28-20.22.20:495][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.10.28-20.22.20:495][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:495][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:496][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.10.28-20.22.20:496][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.10.28-20.22.20:499][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.10.28-20.22.20:499][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.10.28-20.22.20:499][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:499][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:499][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:499][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:500][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.10.28-20.22.20:500][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.10.28-20.22.20:500][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:500][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:500][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:500][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:501][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.10.28-20.22.20:501][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.10.28-20.22.20:501][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:501][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:501][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:501][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:502][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.10.28-20.22.20:502][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.10.28-20.22.20:502][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:502][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:502][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:502][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:503][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.10.28-20.22.20:503][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.10.28-20.22.20:503][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:503][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:503][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:503][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:503][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.10.28-20.22.20:504][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.10.28-20.22.20:504][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:504][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:504][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:504][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:504][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.10.28-20.22.20:504][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.10.28-20.22.20:505][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:505][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:505][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:505][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:505][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.10.28-20.22.20:505][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.10.28-20.22.20:506][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:506][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:506][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:506][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:506][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.10.28-20.22.20:506][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.10.28-20.22.20:507][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:507][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:507][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:507][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:507][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.10.28-20.22.20:507][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.10.28-20.22.20:508][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:508][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:508][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:508][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:508][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.10.28-20.22.20:508][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.10.28-20.22.20:509][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:509][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:509][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:509][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:509][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.10.28-20.22.20:509][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.10.28-20.22.20:510][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:510][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:510][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:510][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:510][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.10.28-20.22.20:510][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.10.28-20.22.20:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.10.28-20.22.20:511][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.10.28-20.22.20:511][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:512][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:512][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:512][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:512][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.10.28-20.22.20:512][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.10.28-20.22.20:512][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:512][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.10.28-20.22.20:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.10.28-20.22.20:513][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:513][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:514][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:514][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:514][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.10.28-20.22.20:514][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.10.28-20.22.20:514][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:514][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:515][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:515][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:515][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.10.28-20.22.20:515][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.10.28-20.22.20:515][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:515][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.20:516][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.10.28-20.22.20:516][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.10.28-20.22.22:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.28-20.22.22:806][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.28-20.22.27:652][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.28-20.22.31:633][  0]SourceControl: Source control is disabled
+[2018.10.28-20.22.31:633][  0]SourceControl: Source control is disabled
+[2018.10.28-20.22.31:786][  0]SourceControl: Source control is disabled
+[2018.10.28-20.22.31:919][  0]SourceControl: Source control is disabled
+[2018.10.28-20.22.33:585][  0]LogEngine: Initializing Engine...
+[2018.10.28-20.22.33:585][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.28-20.22.33:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-20.22.33:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-20.22.33:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-20.22.33:587][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-20.22.34:860][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.28-20.22.35:374][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.10.28-20.22.35:384][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.10.28-20.22.35:385][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2018.10.28-20.22.35:391][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.10.28-20.22.35:495][  0]LogInit: FAudioDevice initialized.
+[2018.10.28-20.22.35:496][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.28-20.22.35:563][  0]LogDerivedDataCache: Saved boot cache 0.07s 84MB ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Boot.ddc.
+[2018.10.28-20.22.35:589][  0]LogInit: Texture streaming: Enabled
+[2018.10.28-20.22.36:624][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.28-20.22.37:115][  0]LogInit: Transaction tracking system initialized
+[2018.10.28-20.22.38:053][  0]BlueprintLog: New page: Editor Load
+[2018.10.28-20.22.40:647][  0]LocalizationService: Localization service is disabled
+[2018.10.28-20.22.42:767][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.00s
+[2018.10.28-20.22.42:767][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.28-20.22.42:767][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.28-20.22.42:767][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.28-20.22.42:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.28-20.22.42:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.28-20.22.42:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.28-20.22.42:767][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.28-20.22.46:046][  0]SourceControl: Source control is disabled
+[2018.10.28-20.22.46:046][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-20.22.46:056][  0]LightingResults: New page: Lighting Build
+[2018.10.28-20.22.46:158][  0]MapCheck: New page: Map Check
+[2018.10.28-20.22.46:158][  0]LightingResults: New page: Lighting Build
+[2018.10.28-20.22.46:571][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.10.28-20.22.46:577][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-20.22.46:607][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-20.22.46:629][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 22.08ms to complete.
+[2018.10.28-20.22.46:629][  0]LogFileHelpers: Loading map 'Template_Default' took 0.583
+[2018.10.28-20.22.46:642][  0]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.46:642][  0]LogLinux: Scale at X=0.000000, Y=16.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.46:642][  0]LogLinux: Scale at X=645.000000, Y=381.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.46:656][  0]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.46:684][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-20.22.46:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-20.22.46:699][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-20.22.46:706][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.28-20.22.46:714][  0]LogCollectionManager: Loaded 0 collections in 0.002719 seconds
+[2018.10.28-20.22.46:725][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.00s
+[2018.10.28-20.22.46:726][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/dawnoftherent/Collections/' took 0.00s
+[2018.10.28-20.22.46:726][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.00s
+[2018.10.28-20.22.46:726][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2545 classes and 566 folders.
+[2018.10.28-20.22.46:728][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.28-20.22.46:984][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.28-20.22.47:002][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.10.28-20.22.47:144][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.10.28-20.22.47:319][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.28-20.22.47:319][  0]LogLoad: (Engine Initialization) Total time: 40.93 seconds
+[2018.10.28-20.22.47:319][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.28-20.22.47:335][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.28-20.22.47:340][  0]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.28-20.22.47:351][  0]LogSlate: Took 0.000068 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.28-20.22.48:131][  0]LogRenderer: Reallocating scene render targets to support 544x268 Format 9 NumSamples 1 (Frame:1).
+[2018.10.28-20.22.48:357][  0]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.22.48:357][  0]LogInit: Adding external input plugin.
+[2018.10.28-20.22.48:378][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.10.28-20.22.48:400][  0]LogSlate: Took 0.000072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-20.22.48:420][  1]LogAssetRegistry: Asset discovery search completed in 34.1698 seconds
+[2018.10.28-20.22.48:422][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.28-20.22.48:422][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2018.10.28-20.22.50:184][ 74]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.50:258][ 76]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.22.51:318][121]LogLinux: Scale at X=463.500000, Y=345.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.51:361][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.22.51:379][123]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.22.54:093][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.22.56:140][447]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.56:140][447]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.56:151][447]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.56:166][447]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.10.28-20.22.56:177][447]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.22.56:765][447]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.28-20.22.56:765][447]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.28-20.22.56:765][447]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.10.28-20.22.56:766][447]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.28-20.22.56:766][447]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.10.28-20.22.56:770][447]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.28-20.22.56:770][447]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.28-20.22.56:770][447]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.10.28-20.22.56:770][447]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.28-20.22.56:771][447]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.10.28-20.22.56:774][447]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.28-20.22.56:774][447]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.28-20.22.56:774][447]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.10.28-20.22.56:774][447]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.28-20.22.56:774][447]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.10.28-20.22.57:942][447]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.28-20.22.57:942][447]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.10.28-20.22.57:943][447]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.10.28-20.22.57:943][447]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.10.28-20.22.57:943][447]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.10.28-20.22.57:944][447]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.28-20.22.57:944][447]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.10.28-20.22.57:944][447]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.10.28-20.22.57:945][447]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.10.28-20.22.57:945][447]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.10.28-20.22.57:952][447]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.28-20.22.57:952][447]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.10.28-20.22.57:952][447]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.10.28-20.22.57:953][447]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.10.28-20.22.57:953][447]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.10.28-20.22.58:201][447]LogStaticMesh: Building static mesh TODD_polySurface10...
+[2018.10.28-20.22.58:355][447]LogStaticMesh: Built static mesh [0.16s] /Game/MAC_CAR/TODD_polySurface10.TODD_polySurface10
+[2018.10.28-20.22.58:372][447]LogStaticMesh: Building static mesh TODD_polySurface12...
+[2018.10.28-20.22.58:378][447]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface12.TODD_polySurface12
+[2018.10.28-20.22.58:446][447]LogStaticMesh: Building static mesh TODD_polySurface13...
+[2018.10.28-20.22.58:464][447]LogStaticMesh: Built static mesh [0.02s] /Game/MAC_CAR/TODD_polySurface13.TODD_polySurface13
+[2018.10.28-20.22.58:510][447]LogStaticMesh: Building static mesh TODD_polySurface14...
+[2018.10.28-20.22.58:524][447]LogStaticMesh: Built static mesh [0.02s] /Game/MAC_CAR/TODD_polySurface14.TODD_polySurface14
+[2018.10.28-20.22.58:558][447]LogStaticMesh: Building static mesh TODD_polySurface15...
+[2018.10.28-20.22.58:604][447]LogStaticMesh: Built static mesh [0.05s] /Game/MAC_CAR/TODD_polySurface15.TODD_polySurface15
+[2018.10.28-20.22.58:640][447]LogStaticMesh: Building static mesh TODD_polySurface17...
+[2018.10.28-20.22.58:685][447]LogStaticMesh: Built static mesh [0.05s] /Game/MAC_CAR/TODD_polySurface17.TODD_polySurface17
+[2018.10.28-20.22.58:731][447]LogStaticMesh: Building static mesh TODD_polySurface1...
+[2018.10.28-20.22.59:015][447]LogStaticMesh: Built static mesh [0.28s] /Game/MAC_CAR/TODD_polySurface1.TODD_polySurface1
+[2018.10.28-20.22.59:030][447]LogStaticMesh: Building static mesh TODD_polySurface3...
+[2018.10.28-20.22.59:060][447]LogStaticMesh: Built static mesh [0.03s] /Game/MAC_CAR/TODD_polySurface3.TODD_polySurface3
+[2018.10.28-20.22.59:092][447]LogStaticMesh: Building static mesh TODD_polySurface4...
+[2018.10.28-20.22.59:124][447]LogStaticMesh: Built static mesh [0.06s] /Game/MAC_CAR/TODD_polySurface4.TODD_polySurface4
+[2018.10.28-20.22.59:169][447]LogStaticMesh: Building static mesh TODD_polySurface5...
+[2018.10.28-20.22.59:185][447]LogStaticMesh: Built static mesh [0.02s] /Game/MAC_CAR/TODD_polySurface5.TODD_polySurface5
+[2018.10.28-20.22.59:194][447]LogStaticMesh: Building static mesh TODD_polySurface6...
+[2018.10.28-20.22.59:210][447]LogStaticMesh: Built static mesh [0.02s] /Game/MAC_CAR/TODD_polySurface6.TODD_polySurface6
+[2018.10.28-20.22.59:236][447]LogStaticMesh: Building static mesh TODD_polySurface7...
+[2018.10.28-20.22.59:250][447]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface7.TODD_polySurface7
+[2018.10.28-20.22.59:288][447]LogStaticMesh: Building static mesh TODD_polySurface8...
+[2018.10.28-20.22.59:302][447]LogStaticMesh: Built static mesh [0.03s] /Game/MAC_CAR/TODD_polySurface8.TODD_polySurface8
+[2018.10.28-20.22.59:306][447]LogStaticMesh: Building static mesh TODD_polySurface9...
+[2018.10.28-20.22.59:312][447]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface9.TODD_polySurface9
+[2018.10.28-20.22.59:418][447]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.10.28-20.22.59:616][447]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.10.28-20.22.59:616][447]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.10.28-20.22.59:616][447]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.28-20.22.59:712][447]LogLinux: Scale at X=439.000000, Y=458.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.22.59:725][447]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.22.59:758][449]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.00:537][503]LogLinux: Scale at X=679.500000, Y=456.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.00:590][504]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.01:282][546]LogLinux: Scale at X=648.000000, Y=537.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.01:322][547]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.02:772][630]LogLinux: Scale at X=679.500000, Y=456.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.02:824][631]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.03:399][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.23.13:422][320]LogAIModule: Creating AISystem for world StreetSceneLarge1_DJW
+[2018.10.28-20.23.13:565][320]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.23.16:682][521]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:682][521]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:688][521]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:715][521]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW
+[2018.10.28-20.23.16:776][521]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.16:776][521]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:776][521]LogLinux: Scale at X=207.000000, Y=167.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:793][521]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.16:830][521]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.23.18:168][521]LogSlate: Window 'Save Content' being destroyed
+[2018.10.28-20.23.18:179][521]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-20.23.18:188][521]LightingResults: New page: Lighting Build
+[2018.10.28-20.23.18:189][521]LoadErrors: New page: Loading map: StreetSceneLarge1_DJW.umap
+[2018.10.28-20.23.18:191][521]MapCheck: New page: Map Check
+[2018.10.28-20.23.18:191][521]LightingResults: New page: Lighting Build
+[2018.10.28-20.23.18:474][521]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-20.23.18:523][521]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-20.23.18:556][521]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.437ms to complete.
+[2018.10.28-20.23.18:559][521]LogFileHelpers: Loading map 'StreetSceneLarge1_DJW' took 0.381
+[2018.10.28-20.23.28:366][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor001)
+[2018.10.28-20.23.28:938][738]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.28-20.23.32:307][904]LogLinux: Scale at X=347.000000, Y=268.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.23.32:339][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.23.32:363][906]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.24.05:333][781]Cmd: EDIT COPY
+[2018.10.28-20.24.05:584][787]Cmd: EDIT PASTE
+[2018.10.28-20.24.05:592][787]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.24.05:592][787]LogLinux: Scale at X=507.000000, Y=367.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.24.06:343][787]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.10.28-20.24.07:898][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.24.48:586][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-20.24.48:586][987]LogEditorActor: Deleted Actor: PlayerStart
+[2018.10.28-20.24.48:588][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-20.24.48:588][987]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2018.10.28-20.24.48:589][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.10.28-20.24.48:609][987]LogEditorActor: Deleted 5 Actors (0.067 secs)
+[2018.10.28-20.25.12:714][939]LogLinux: Scale at X=907.000000, Y=481.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.12:757][941]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.13:210][961]LogLinux: Scale at X=715.000000, Y=643.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.13:261][962]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.22:037][175]LogLinux: Scale at X=804.000000, Y=460.799988: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.22:118][175]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.25.22:163][176]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.29:802][359]Cmd: TRANSACTION UNDO
+[2018.10.28-20.25.29:802][359]LogEditorTransaction: Undo Move Actors
+[2018.10.28-20.25.29:960][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase877.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:960][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase880.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:963][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase886.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:966][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase859.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:966][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase862.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:969][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase868.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:969][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase871.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:971][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase889.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:974][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock398.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:975][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock411.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:976][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sideWalkBlock407.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:978][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase895.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:978][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase898.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:981][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase904.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:984][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase806.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:984][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase809.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:987][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase815.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:990][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase788.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:991][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase791.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:993][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase797.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:994][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase800.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:995][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase818.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:998][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase837.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.29:999][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase850.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:001][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase846.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:002][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase824.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:003][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase827.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:005][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.GroundBase833.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:008][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase521.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:008][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase524.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:011][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase530.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:014][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase533.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:017][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase512.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:018][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase508.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:020][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase557.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:021][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase560.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:023][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockIntersect27.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:026][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase539.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:027][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase542.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:030][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase548.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:030][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase551.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:033][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock438.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:033][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock441.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:036][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock447.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:039][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock420.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:040][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock423.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:041][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock416.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:042][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock429.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:043][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sideWalkBlock432.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:044][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock450.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:047][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.SidewalkCorner62.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:049][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase494.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:050][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.streetBlockBase490.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:052][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock456.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:052][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.sidewalkBlock459.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:055][359]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW:PersistentLevel.SidewalkCorner58.StaticMeshComponent0) Component already registered.
+[2018.10.28-20.25.30:058][359]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.30:058][359]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.30:058][359]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.30:128][360]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.31:800][411]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.25.31:937][417]LogLinux: Scale at X=645.500000, Y=253.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.31:992][419]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.33:814][472]LogLinux: Scale at X=645.500000, Y=253.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.33:854][473]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.43:982][715]LogLinux: Scale at X=422.500000, Y=345.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.44:041][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.25.44:073][717]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.45:410][799]LogLinux: Scale at X=347.000000, Y=268.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.25.45:426][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.25.45:456][801]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.25.47:063][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.28-20.25.56:739][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.26.05:458][331]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.05:458][331]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.05:458][331]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.05:573][332]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.05:608][333]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCube3_DJW
+[2018.10.28-20.26.05:611][333]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder8_DJW
+[2018.10.28-20.26.05:614][333]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder9_DJW
+[2018.10.28-20.26.07:314][393]LogLinux: Scale at X=136.000000, Y=530.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.07:342][393]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.26.07:379][395]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.08:443][467]LogLinux: Scale at X=347.000000, Y=268.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.08:459][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.26.08:486][469]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.12:855][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.26.12:979][580]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.12:979][580]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.12:979][580]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.13:047][582]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.13:355][601]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCube3_DJW
+[2018.10.28-20.26.13:359][601]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder8_DJW
+[2018.10.28-20.26.13:362][601]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder9_DJW
+[2018.10.28-20.26.14:443][613]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCube3_DJW
+[2018.10.28-20.26.14:560][613]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder8_DJW
+[2018.10.28-20.26.14:583][613]LogActorFactory: Actor Factory created BatmobileProperUnwrapped_pCylinder9_DJW
+[2018.10.28-20.26.16:419][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.26.35:710][950]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.35:711][950]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.35:711][950]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.35:760][951]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.44:621][219]LogLinux: Scale at X=347.000000, Y=268.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.44:679][221]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.47:144][412]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.28-20.26.49:630][507]LogLinux: Scale at X=645.500000, Y=253.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.49:664][509]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.26.52:948][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.28-20.26.55:849][810]LogLinux: Scale at X=347.000000, Y=268.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.26.55:884][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.26.55:901][812]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.00:410][973]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.10.28-20.27.02:570][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.02:779][ 29]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.02:779][ 29]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.02:780][ 29]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.02:887][ 31]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.06:134][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.06:174][182]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.06:174][182]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.06:174][182]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.06:244][183]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.08:653][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.08:735][310]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.08:736][310]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.08:736][310]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.08:790][311]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.11:976][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.12:044][470]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.12:046][470]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.12:047][470]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.12:105][472]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.14:111][564]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.14:147][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.14:169][565]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.16:911][799]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.16:911][799]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.16:912][799]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.16:935][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.28-20.27.16:944][799]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.27.18:871][799]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge1_DJW13E098FC08D63CE1764EA12E0E9030B1.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW.umap'
+[2018.10.28-20.27.19:030][799]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge1_DJW_BuiltData13E2510A08D63CE177771AEA0EADD690.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW_BuiltData.uasset'
+[2018.10.28-20.27.20:369][842]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.27.20:399][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.27.20:420][843]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.30.42:994][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.35.47:897][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.35.53:765][ 29]Cmd: EDIT COPY
+[2018.10.28-20.35.58:961][194]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.58:961][194]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.58:983][194]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.35.59:008][194]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.35.59:379][194]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.10.28-20.35.59:446][194]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.10.28-20.35.59:485][194]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.28-20.35.59:485][194]LightingResults: New page: Lighting Build
+[2018.10.28-20.35.59:486][194]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.10.28-20.35.59:600][194]MapCheck: New page: Map Check
+[2018.10.28-20.35.59:600][194]LightingResults: New page: Lighting Build
+[2018.10.28-20.35.59:751][194]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.28-20.35.59:794][194]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.28-20.35.59:826][194]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.711ms to complete.
+[2018.10.28-20.35.59:827][194]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.342
+[2018.10.28-20.36.01:405][239]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.28-20.36.02:354][284]Cmd: EDIT PASTE
+[2018.10.28-20.36.02:358][284]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.02:359][284]LogLinux: Scale at X=507.000000, Y=367.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.06:465][390]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.06:524][391]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.36.09:680][565]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:680][565]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:681][565]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.10.28-20.36.09:708][565]LogLinux: Setting swap interval to 'Immediate'
+[2018.10.28-20.36.11:582][565]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge150E0C4708D63CE2B3E0B3282E521A1B.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try3/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.10.28-20.36.11:627][565]LogFileHelpers: Saving map 'StreetSceneLarge' took 1.913
