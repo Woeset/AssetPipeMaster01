@@ -1,0 +1,598 @@
+﻿Log file open, 11/12/18 17:25:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.175988
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.228s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.13-00.25.04:490][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-00.25.04:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.13-00.25.04:504][  0]LogHAL: Display: Platform has ~ 8 GB [8451760128 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.13-00.25.04:504][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.13-00.25.04:504][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.13-00.25.04:505][  0]LogInit: Computer: LAPTOP-S2247MRA
+[2018.11.13-00.25.04:505][  0]LogInit: User: tommy
+[2018.11.13-00.25.04:505][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.11.13-00.25.04:505][  0]LogInit: High frequency timer resolution =2.648444 MHz
+[2018.11.13-00.25.04:505][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.11.13-00.25.04:505][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.13-00.25.04:505][  0]LogMemory: Process Physical Memory: 100.39 MB used, 100.39 MB peak
+[2018.11.13-00.25.04:505][  0]LogMemory: Process Virtual Memory: 84.13 MB used, 84.13 MB peak
+[2018.11.13-00.25.04:505][  0]LogMemory: Physical Memory: 5382.52 MB used,  2677.71 MB free, 8060.23 MB total
+[2018.11.13-00.25.04:505][  0]LogMemory: Virtual Memory: 4606.88 MB used,  2677.71 MB free, 134217728.00 MB total
+[2018.11.13-00.25.04:528][  0]LogInit: Using OS detected language (en-US).
+[2018.11.13-00.25.04:528][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.13-00.25.04:529][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.13-00.25.04:984][  0]LogStreaming: Display: Took  0.456s to InitEngineTextLocalization.
+[2018.11.13-00.25.04:984][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.13-00.25.05:029][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.13-00.25.05:029][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.13-00.25.05:379][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-00.25.05:379][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.13-00.25.05:391][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.11.13-00.25.05:391][  0]LogD3D11RHI:       128/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.11.13-00.25.05:395][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.13-00.25.05:395][  0]LogD3D11RHI:       0/0/4030 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.13-00.25.05:395][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.13-00.25.05:445][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.13-00.25.05:445][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.13-00.25.05:445][  0]LogWindows: EnumDisplayDevices:
+[2018.11.13-00.25.05:445][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.11.13-00.25.05:446][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.13-00.25.05:447][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.11.13-00.25.05:447][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.11.13-00.25.05:447][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.11.13-00.25.05:447][  0]LogD3D11RHI:   Driver Version: 22.20.16.4691 (internal:22.20.16.4691, unified:22.20.16.4691)
+[2018.11.13-00.25.05:447][  0]LogD3D11RHI:      Driver Date: 6-2-2017
+[2018.11.13-00.25.05:447][  0]LogRHI: Texture pool is 1500 MB (70% of 2143 MB)
+[2018.11.13-00.25.05:457][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.13-00.25.05:473][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.11.13-00.25.05:476][  0]LogShaderCompilers: Guid format shader working directory is -49 characters bigger than the processId version (../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/211936/).
+[2018.11.13-00.25.05:476][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/tommy/AppData/Local/Temp/UnrealShaderWorkingDir/60EBD1E847AA0A8C3EDDC083D1AA635C/'.
+[2018.11.13-00.25.05:954][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.13-00.25.05:982][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.13-00.25.06:009][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.13-00.25.06:037][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.13-00.25.06:065][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.13-00.25.06:093][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.13-00.25.06:120][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.13-00.25.06:147][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.13-00.25.06:160][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:312][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.13-00.25.06:314][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.13-00.25.06:390][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-00.25.06:390][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.13-00.25.06:436][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-00.25.06:436][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.13-00.25.06:459][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.13-00.25.06:482][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.13-00.25.06:501][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.13-00.25.06:524][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.13-00.25.06:541][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.13-00.25.06:541][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.13-00.25.06:627][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.13-00.25.06:627][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.13-00.25.06:627][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.13-00.25.07:755][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.13-00.25.07:826][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/tommy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-00.25.07:827][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/tommy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.13-00.25.07:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.13-00.25.07:827][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.13-00.25.07:827][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.13-00.25.07:827][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.13-00.25.07:843][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.13-00.25.07:855][  0]LogDerivedDataCache: Using Local data cache path C:/Users/tommy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.13-00.25.07:855][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.13-00.25.07:855][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.13-00.25.07:877][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.13-00.25.07:879][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.13-00.25.07:880][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.13-00.25.08:017][  0]LogAssetRegistry: FAssetRegistry took 0.0315 seconds to start up
+[2018.11.13-00.25.08:632][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.13-00.25.08:829][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.13-00.25.08:836][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.13-00.25.08:836][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.13-00.25.08:836][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.13-00.25.08:836][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.13-00.25.08:859][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.11.13-00.25.09:790][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.232920 seconds
+[2018.11.13-00.25.09:801][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.11.13-00.25.09:801][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.11.13-00.25.09:801][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.13-00.25.11:322][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.13-00.25.11:337][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.13-00.25.11:547][  0]SourceControl: Source control is disabled
+[2018.11.13-00.25.11:547][  0]SourceControl: Source control is disabled
+[2018.11.13-00.25.11:549][  0]SourceControl: Source control is disabled
+[2018.11.13-00.25.11:551][  0]SourceControl: Source control is disabled
+[2018.11.13-00.25.11:771][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.13-00.25.11:853][  0]LogOcInput: OculusInput pre-init called
+[2018.11.13-00.25.11:931][  0]LogEngine: Initializing Engine...
+[2018.11.13-00.25.11:932][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.13-00.25.11:933][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-00.25.11:933][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-00.25.11:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-00.25.11:934][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-00.25.12:239][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.13-00.25.12:263][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.13-00.25.12:316][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.13-00.25.12:514][  0]LogInit: FAudioDevice initialized.
+[2018.11.13-00.25.12:514][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.13-00.25.12:657][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/tommy/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.13-00.25.12:657][  0]LogInit: Texture streaming: Enabled
+[2018.11.13-00.25.12:685][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.13-00.25.12:751][  0]LogInit: Transaction tracking system initialized
+[2018.11.13-00.25.12:785][  0]BlueprintLog: New page: Editor Load
+[2018.11.13-00.25.12:901][  0]LocalizationService: Localization service is disabled
+[2018.11.13-00.25.13:331][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.13-00.25.13:331][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.13-00.25.13:331][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.13-00.25.13:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.13-00.25.13:331][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.13-00.25.13:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.13-00.25.13:332][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.13-00.25.13:523][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.02s
+[2018.11.13-00.25.13:523][  0]SourceControl: Source control is disabled
+[2018.11.13-00.25.13:523][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-00.25.13:523][  0]LightingResults: New page: Lighting Build
+[2018.11.13-00.25.13:527][  0]MapCheck: New page: Map Check
+[2018.11.13-00.25.13:527][  0]LightingResults: New page: Lighting Build
+[2018.11.13-00.25.13:884][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.13-00.25.13:893][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.13-00.25.13:928][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-00.25.14:100][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 171.721ms to complete.
+[2018.11.13-00.25.14:100][  0]LogFileHelpers: Loading map 'Template_Default' took 0.578
+[2018.11.13-00.25.14:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.25.14:261][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.25.14:274][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.25.14:284][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.13-00.25.14:297][  0]LogCollectionManager: Loaded 0 collections in 0.003542 seconds
+[2018.11.13-00.25.14:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.11.13-00.25.14:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/tommy/Collections/' took 0.01s
+[2018.11.13-00.25.14:344][  0]LogFileCache: Scanning file cache for directory 'C:/Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.11.13-00.25.14:344][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.13-00.25.14:358][  0]LogContentBrowser: Native class hierarchy populated in 0.0144 seconds. Added 2572 classes and 603 folders.
+[2018.11.13-00.25.14:370][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.11.13-00.25.14:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.13-00.25.14:582][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.13-00.25.14:606][  0]LogSlate: Took 0.000394 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.13-00.25.14:610][  0]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.13-00.25.14:622][  0]LogSlate: Took 0.001990 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.13-00.25.14:783][  0]LogRenderer: Reallocating scene render targets to support 804x368 Format 10 NumSamples 1 (Frame:1).
+[2018.11.13-00.25.16:673][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.11.13-00.25.16:673][  0]LogLoad: (Engine Initialization) Total time: 14.77 seconds
+[2018.11.13-00.25.16:673][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.13-00.25.16:696][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.13-00.25.16:720][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.13-00.25.17:076][  2]LogAssetRegistry: Asset discovery search completed in 9.0820 seconds
+[2018.11.13-00.25.17:080][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.13-00.25.17:080][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000111 seconds (updated 0 objects)
+[2018.11.13-00.25.20:813][114]LogSlate: Took 0.009268 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-00.26.05:534][565]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.26.10:505][730]LogSlate: Took 0.001397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.13-00.26.10:652][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:655][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:659][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:667][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:679][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:838][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:842][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:846][730]LogLinker: Warning: Asset '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.13-00.26.10:858][730]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.13-00.26.10:858][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.13-00.26.10:858][730]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.11.13-00.26.10:858][730]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.13-00.26.10:858][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.13-00.26.10:858][730]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.11.13-00.26.10:858][730]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.13-00.26.10:859][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.13-00.26.10:859][730]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.13-00.26.10:859][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.13-00.26.10:977][730]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.13-00.26.10:977][730]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.11.13-00.26.10:977][730]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.11.13-00.26.10:977][730]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.13-00.26.10:978][730]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.11.13-00.26.10:982][730]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.13-00.26.10:982][730]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.11.13-00.26.10:982][730]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.11.13-00.26.10:982][730]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.13-00.26.10:983][730]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.11.13-00.26.10:987][730]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.13-00.26.10:987][730]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.11.13-00.26.10:987][730]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.11.13-00.26.10:987][730]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.13-00.26.10:988][730]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.11.13-00.26.10:992][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.13-00.26.10:993][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.13-00.26.10:993][730]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.11.13-00.26.10:993][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.13-00.26.10:993][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.13-00.26.10:997][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.13-00.26.10:997][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.13-00.26.10:997][730]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.11.13-00.26.10:998][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.13-00.26.10:998][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.13-00.26.11:002][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.13-00.26.11:003][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.13-00.26.11:003][730]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.11.13-00.26.11:003][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.13-00.26.11:003][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.13-00.26.12:087][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.13-00.26.12:087][730]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.11.13-00.26.12:088][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.13-00.26.12:088][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.13-00.26.12:088][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.13-00.26.12:089][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.13-00.26.12:089][730]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.11.13-00.26.12:090][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.13-00.26.12:090][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.13-00.26.12:090][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.13-00.26.12:091][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.13-00.26.12:091][730]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.11.13-00.26.12:092][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.13-00.26.12:092][730]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.13-00.26.12:092][730]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.13-00.26.12:093][730]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.13-00.26.12:093][730]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.11.13-00.26.12:093][730]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.11.13-00.26.12:094][730]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.13-00.26.12:094][730]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.11.13-00.26.12:145][730]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.13-00.26.12:145][730]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.11.13-00.26.12:146][730]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.11.13-00.26.12:146][730]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.13-00.26.12:147][730]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.11.13-00.26.12:148][730]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.13-00.26.12:148][730]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.11.13-00.26.12:148][730]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.11.13-00.26.12:149][730]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.13-00.26.12:149][730]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.11.13-00.26.12:381][730]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.13-00.26.12:382][730]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.11.13-00.26.12:382][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.13-00.26.12:383][730]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.13-00.26.12:383][730]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.11.13-00.26.12:383][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.13-00.26.12:384][730]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.13-00.26.12:384][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.13-00.26.12:385][730]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.13-00.26.12:385][730]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.13-00.26.13:019][730]LogStaticMesh: Building static mesh SmallWindowBlock_JackODonoghue...
+[2018.11.13-00.26.13:030][730]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/Blocks/SmallWindowBlock_JackODonoghue.SmallWindowBlock_JackODonoghue
+[2018.11.13-00.26.13:036][730]LogStaticMesh: Building static mesh MediumWindowBlock_JackODonoghue...
+[2018.11.13-00.26.13:042][730]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/Blocks/MediumWindowBlock_JackODonoghue.MediumWindowBlock_JackODonoghue
+[2018.11.13-00.26.13:047][730]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.11.13-00.26.13:113][730]LogStaticMesh: Building static mesh LargelWindowBlock_JackODonoghue...
+[2018.11.13-00.26.13:118][730]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.13-00.26.13:118][730]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.13-00.26.13:118][730]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.13-00.26.13:118][730]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue
+[2018.11.13-00.26.13:381][730]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.11.13-00.26.13:501][730]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.11.13-00.26.13:563][730]Cmd: MAP LOAD FILE="../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.13-00.26.13:563][730]LightingResults: New page: Lighting Build
+[2018.11.13-00.26.13:564][730]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.11.13-00.26.13:591][730]MapCheck: New page: Map Check
+[2018.11.13-00.26.13:592][730]LightingResults: New page: Lighting Build
+[2018.11.13-00.26.13:834][730]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.11.13-00.26.13:934][730]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.13-00.26.14:192][730]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 257.691ms to complete.
+[2018.11.13-00.26.14:195][730]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.633
+[2018.11.13-00.26.23:795][853]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.26.29:918][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.26.32:310][980]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.26.56:128][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.27.12:087][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.27.15:176][584]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.27.19:620][686]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.27.22:286][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase108)
+[2018.11.13-00.27.24:166][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.27.27:238][960]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase123)
+[2018.11.13-00.27.28:838][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.27.30:068][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.27.43:767][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase108)
+[2018.11.13-00.27.45:980][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.27.47:353][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.27.56:393][711]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase108)
+[2018.11.13-00.27.57:824][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.28.00:474][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase108)
+[2018.11.13-00.28.04:798][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.28.06:007][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.28.14:163][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sidewalkBlock61)
+[2018.11.13-00.28.15:801][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.28.19:612][434]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.28.35:861][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy)
+[2018.11.13-00.28.37:641][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.28.47:315][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy)
+[2018.11.13-00.28.51:088][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.29.07:514][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.29.15:409][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy)
+[2018.11.13-00.29.19:972][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.29.36:184][498]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.29.37:631][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.29.44:657][566]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeED9852624634D4AAB15E9AB7B5CAF820.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.13-00.29.44:703][566]LogFileHelpers: Saving map 'StreetSceneLarge' took 7.062
+[2018.11.13-00.29.46:536][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.30.09:398][782]LogEditorViewport: Clicking Background
+[2018.11.13-00.30.14:322][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase185)
+[2018.11.13-00.30.16:178][877]LogEditorViewport: Clicking Background
+[2018.11.13-00.32.30:546][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.32.58:145][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1304)
+[2018.11.13-00.32.58:522][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.00:886][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase960)
+[2018.11.13-00.33.01:069][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.05:674][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1262)
+[2018.11.13-00.33.06:612][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.09:062][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase611)
+[2018.11.13-00.33.09:493][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.14:618][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallWindowBlock_JackODonoghue)
+[2018.11.13-00.33.16:955][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.48:568][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockIntersect7)
+[2018.11.13-00.33.49:232][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.34.02:770][ 86]LogEditorViewport: Clicking Background
+[2018.11.13-00.34.06:660][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy)
+[2018.11.13-00.34.22:963][386]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.07:212][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.17:754][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.24:309][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.35.42:069][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.51:787][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.57:069][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.05:340][925]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.05:341][925]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.18:598][128]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.18:599][128]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.22:305][198]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.22:305][198]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.24:080][233]Cmd: TRANSACTION REDO
+[2018.11.13-00.36.24:080][233]LogEditorTransaction: Redo Move Actors
+[2018.11.13-00.36.37:340][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.43:082][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy3)
+[2018.11.13-00.36.44:087][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.51:327][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.37.01:156][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.37.06:793][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy4)
+[2018.11.13-00.37.17:261][984]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.37.24:514][ 99]LogEditorViewport: Clicking Background
+[2018.11.13-00.37.25:572][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.37.31:999][215]LogEditorViewport: Clicking Background
+[2018.11.13-00.38.20:614][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.38.28:827][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.38.34:570][241]LogEditorViewport: Clicking Background
+[2018.11.13-00.38.41:266][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy6)
+[2018.11.13-00.38.42:447][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.38.49:204][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy6)
+[2018.11.13-00.38.59:323][628]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.00:654][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.05:720][728]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.06:886][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.09:646][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.10:679][803]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.10:854][803]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.12:133][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.14:313][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.20:479][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.21:308][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.26:152][ 49]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.27:759][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy8)
+[2018.11.13-00.39.31:531][131]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.38:798][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy2)
+[2018.11.13-00.39.40:445][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy3)
+[2018.11.13-00.39.41:706][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy4)
+[2018.11.13-00.39.42:595][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.39.43:352][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.44:370][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy8)
+[2018.11.13-00.39.54:617][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.40.03:186][623]LogEditorViewport: Clicking Background
+[2018.11.13-00.40.33:580][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.40.38:799][178]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto1C2C3A4E1496D45E5A309F99C7E14CE0A.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2018.11.13-00.40.38:811][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 5.164
+[2018.11.13-00.40.38:811][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.164
+[2018.11.13-00.40.42:025][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.40.42:026][233]Can't find target actor or component.
+[2018.11.13-00.40.46:411][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy9)
+[2018.11.13-00.40.55:954][463]LogEditorViewport: Clicking Background
+[2018.11.13-00.40.57:175][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy10)
+[2018.11.13-00.41.01:657][553]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.03:917][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy10)
+[2018.11.13-00.41.10:531][696]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.12:262][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy11)
+[2018.11.13-00.41.13:398][741]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.15:036][768]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.30:707][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy)
+[2018.11.13-00.41.37:009][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.40:721][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.52:869][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.41.58:081][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.02:998][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.05:861][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.14:563][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.19:650][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.21:499][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.42.24:093][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.42.38:834][550]LogEditorViewport: Clicking Background
+[2018.11.13-00.42.50:247][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.42.51:081][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.59:318][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.43.25:235][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.43.48:633][577]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.01:644][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.09:174][894]LogEditorViewport: Clicking Background
+[2018.11.13-00.44.10:929][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.44.12:651][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.44.41:817][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.46:194][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.44.48:679][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.44.51:020][480]LogEditorViewport: Clicking Background
+[2018.11.13-00.44.54:954][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.44.59:753][561]LogEditorViewport: Clicking Background
+[2018.11.13-00.45.09:660][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.45.15:737][672]LogEditorViewport: Clicking Background
+[2018.11.13-00.45.44:055][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.45.45:785][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.45.50:576][963]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge58BE31D84F59893AF8EE87BF802539D1.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.13-00.45.50:616][963]LogFileHelpers: Saving map 'StreetSceneLarge' took 4.819
+[2018.11.13-00.45.52:871][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
