@@ -476,3 +476,123 @@ LogInit: Object subsystem initialized
 [2018.11.13-00.29.44:657][566]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeED9852624634D4AAB15E9AB7B5CAF820.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
 [2018.11.13-00.29.44:703][566]LogFileHelpers: Saving map 'StreetSceneLarge' took 7.062
 [2018.11.13-00.29.46:536][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.30.09:398][782]LogEditorViewport: Clicking Background
+[2018.11.13-00.30.14:322][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase185)
+[2018.11.13-00.30.16:178][877]LogEditorViewport: Clicking Background
+[2018.11.13-00.32.30:546][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.32.58:145][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1304)
+[2018.11.13-00.32.58:522][239]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.00:886][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase960)
+[2018.11.13-00.33.01:069][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.05:674][311]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1262)
+[2018.11.13-00.33.06:612][321]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.09:062][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase611)
+[2018.11.13-00.33.09:493][344]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.14:618][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallWindowBlock_JackODonoghue)
+[2018.11.13-00.33.16:955][450]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.33.48:568][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockIntersect7)
+[2018.11.13-00.33.49:232][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.34.02:770][ 86]LogEditorViewport: Clicking Background
+[2018.11.13-00.34.06:660][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy)
+[2018.11.13-00.34.22:963][386]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.07:212][101]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.17:754][259]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.24:309][349]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.35.42:069][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.51:787][724]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.35.57:069][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.05:340][925]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.05:341][925]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.18:598][128]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.18:599][128]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.22:305][198]Cmd: TRANSACTION UNDO
+[2018.11.13-00.36.22:305][198]LogEditorTransaction: Undo Move Actors
+[2018.11.13-00.36.24:080][233]Cmd: TRANSACTION REDO
+[2018.11.13-00.36.24:080][233]LogEditorTransaction: Redo Move Actors
+[2018.11.13-00.36.37:340][416]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.43:082][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy3)
+[2018.11.13-00.36.44:087][509]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.36.51:327][607]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.37.01:156][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.37.06:793][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy4)
+[2018.11.13-00.37.17:261][984]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.37.24:514][ 99]LogEditorViewport: Clicking Background
+[2018.11.13-00.37.25:572][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.37.31:999][215]LogEditorViewport: Clicking Background
+[2018.11.13-00.38.20:614][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.38.28:827][150]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.38.34:570][241]LogEditorViewport: Clicking Background
+[2018.11.13-00.38.41:266][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy6)
+[2018.11.13-00.38.42:447][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.38.49:204][465]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy6)
+[2018.11.13-00.38.59:323][628]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.00:654][649]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.05:720][728]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.06:886][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.09:646][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.10:679][803]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.10:854][803]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.12:133][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.14:313][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.20:479][956]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.21:308][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.39.26:152][ 49]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.27:759][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy8)
+[2018.11.13-00.39.31:531][131]LogEditorViewport: Clicking Background
+[2018.11.13-00.39.38:798][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy2)
+[2018.11.13-00.39.40:445][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy3)
+[2018.11.13-00.39.41:706][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy4)
+[2018.11.13-00.39.42:595][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy5)
+[2018.11.13-00.39.43:352][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy7)
+[2018.11.13-00.39.44:370][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy8)
+[2018.11.13-00.39.54:617][485]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.40.03:186][623]LogEditorViewport: Clicking Background
+[2018.11.13-00.40.33:580][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.40.38:799][178]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_Auto1C2C3A4E1496D45E5A309F99C7E14CE0A.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_Auto1.umap'
+[2018.11.13-00.40.38:811][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge' took 5.164
+[2018.11.13-00.40.38:811][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.164
+[2018.11.13-00.40.42:025][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.40.42:026][233]Can't find target actor or component.
+[2018.11.13-00.40.46:411][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy9)
+[2018.11.13-00.40.55:954][463]LogEditorViewport: Clicking Background
+[2018.11.13-00.40.57:175][482]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy10)
+[2018.11.13-00.41.01:657][553]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.03:917][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy10)
+[2018.11.13-00.41.10:531][696]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.12:262][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tubeTAdy11)
+[2018.11.13-00.41.13:398][741]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.15:036][768]LogEditorViewport: Clicking Background
+[2018.11.13-00.41.30:707][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy)
+[2018.11.13-00.41.37:009][ 75]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.40:721][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.41.52:869][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.41.58:081][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.02:998][522]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.05:861][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.14:563][721]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.19:650][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.21:499][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.42.24:093][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.13-00.42.38:834][550]LogEditorViewport: Clicking Background
+[2018.11.13-00.42.50:247][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.42.51:081][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.42.59:318][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.43.25:235][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.43.48:633][577]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.01:644][779]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.09:174][894]LogEditorViewport: Clicking Background
+[2018.11.13-00.44.10:929][920]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.44.12:651][939]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.13-00.44.41:817][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.13-00.44.46:194][331]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.44.48:679][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.44.51:020][480]LogEditorViewport: Clicking Background
+[2018.11.13-00.44.54:954][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.44.59:753][561]LogEditorViewport: Clicking Background
+[2018.11.13-00.45.09:660][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (halfSphereTAdy2)
+[2018.11.13-00.45.15:737][672]LogEditorViewport: Clicking Background
+[2018.11.13-00.45.44:055][871]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.45.45:785][963]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.13-00.45.50:576][963]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge58BE31D84F59893AF8EE87BF802539D1.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.13-00.45.50:616][963]LogFileHelpers: Saving map 'StreetSceneLarge' took 4.819
+[2018.11.13-00.45.52:871][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
