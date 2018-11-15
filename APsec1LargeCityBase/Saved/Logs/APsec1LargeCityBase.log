@@ -720,3 +720,159 @@ LogInit: Object subsystem initialized
 [2018.11.15-20.09.23:630][818]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge4CFCC16447FADEA98305009604580D19.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
 [2018.11.15-20.09.23:671][818]LogFileHelpers: Saving map 'StreetSceneLarge' took 4.996
 [2018.11.15-20.09.24:841][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.09.58:942][441]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.10.08:816][780]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Building_WoodDC319F384233E9A55BC91FB9E146659B.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/Building_Wood.uasset'
+[2018.11.15-20.10.12:956][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue4)
+[2018.11.15-20.10.19:876][141]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.10.36:812][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.10.50:714][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.11.05:558][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue5)
+[2018.11.15-20.11.06:643][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.11.14:844][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue3)
+[2018.11.15-20.11.19:934][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.11.33:879][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-20.11.35:374][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.11.41:811][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.11.50:384][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.12.00:088][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3010BasicDoorWay2)
+[2018.11.15-20.12.06:662][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.12.13:364][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.12.29:191][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.12.42:546][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.12.53:075][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.13.07:945][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.13.26:272][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.14.22:873][118]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.14.35:048][529]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.14.48:318][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase132)
+[2018.11.15-20.14.48:840][980]Cmd: TRANSACTION UNDO
+[2018.11.15-20.14.48:840][980]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.15-20.14.49:579][  6]Cmd: TRANSACTION UNDO
+[2018.11.15-20.14.49:579][  6]LogEditorTransaction: Undo Set Location
+[2018.11.15-20.14.51:448][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.15.00:296][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.15.13:425][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.15.18:854][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.15.49:092][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.16.04:361][390]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-20.16.07:369][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-20.16.08:482][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.16.19:024][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue2)
+[2018.11.15-20.16.20:399][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.16.36:645][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue3)
+[2018.11.15-20.16.38:503][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-20.17.08:821][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.17.21:952][571]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge355A4F074BE381315876C791DF4E85D0.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-20.17.21:994][571]LogFileHelpers: Saving map 'StreetSceneLarge' took 5.100
+[2018.11.15-20.24.45:032][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase471)
+[2018.11.15-20.25.44:933][955]LogEditorViewport: Clicking Background
+[2018.11.15-20.25.51:212][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.26.28:610][383]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeEED669B44AF9B722BAE06C897FED7DAA.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-20.26.28:651][383]LogFileHelpers: Saving map 'StreetSceneLarge' took 5.214
+[2018.11.15-20.26.29:418][404]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Resources_TA/Building_Wood.Building_Wood
+[2018.11.15-20.26.51:476][996]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.15-20.26.59:209][220]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Building_Wood, compiling. 
+[2018.11.15-20.27.00:571][220]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-20.27.00:573][220]TextureStreamingBuild: Display: Compiling optional shaders took 1.373 seconds.
+[2018.11.15-20.27.00:690][220]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Building_Wood91EB2FDB4CA8C601559CB68A7A4195E1.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/Building_Wood.uasset'
+[2018.11.15-20.27.04:087][325]LogSlate: Window 'Building_Wood' being destroyed
+[2018.11.15-20.27.06:169][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1102)
+[2018.11.15-20.27.53:010][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.28.24:022][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue3)
+[2018.11.15-20.28.27:959][ 59]Cmd: TRANSACTION UNDO
+[2018.11.15-20.28.27:959][ 59]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.15-20.28.28:867][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.37:670][468]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.39:340][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.41:446][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.43:442][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.45:397][756]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.50:792][872]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.54:095][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.55:738][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.57:488][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.28.59:425][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.29.00:934][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.29.02:741][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.29.10:958][579]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue4)
+[2018.11.15-20.29.14:345][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.29.15:862][732]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.11.15-20.29.15:862][732]LogPhysics: Warning: ForeachShape(Convex): [/Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue] ScaledElem[0] invalid
+[2018.11.15-20.29.15:862][732]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue] ScaledElem[0] invalid
+[2018.11.15-20.29.15:863][732]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.11.15-20.29.15:864][732]LogPhysics: Warning: ForeachShape(Convex): [/Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue] ScaledElem[0] invalid
+[2018.11.15-20.29.15:864][732]LogPhysics: Warning: ForeachShape(Trimesh): [/Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue] ScaledElem[0] invalid
+[2018.11.15-20.29.32:480][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1088)
+[2018.11.15-20.29.33:294][301]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue4)
+[2018.11.15-20.29.33:618][308]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-20.29.47:626][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.29.48:850][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1096)
+[2018.11.15-20.29.58:930][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.00:553][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.01:772][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.03:027][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.04:577][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.06:382][425]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.08:326][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.10:253][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.11:820][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.13:384][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.15:222][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.30.16:618][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase506)
+[2018.11.15-20.30.17:475][845]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-20.30.21:636][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.04:289][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.05:881][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.07:358][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.08:807][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.10:372][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.12:164][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.13:842][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.15:919][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.18:956][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.20:603][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.22:342][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.23:898][ 45]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.26:755][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.33:550][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.31.33:781][419]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Resources_TA/Building_Wood.Building_Wood
+[2018.11.15-20.31.36:570][481]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Building_Wood04DD94CF4D6A870AB736CD9E00AD36DE.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/Building_Wood.uasset'
+[2018.11.15-20.32.18:647][783]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/tommy/OneDrive/Documents/AssPipe/brickMap.jpg)
+[2018.11.15-20.32.18:739][783]LogTexture: Display: Building textures: brickMap (BGRA8, 275X183)
+[2018.11.15-20.32.39:019][400]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Building_Wood, compiling. 
+[2018.11.15-20.32.39:808][400]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-20.32.39:811][400]TextureStreamingBuild: Display: Compiling optional shaders took 0.798 seconds.
+[2018.11.15-20.32.39:931][400]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Building_Wood988B92D142B48D374FA1ADB1E22CA1B5.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/Building_Wood.uasset'
+[2018.11.15-20.32.51:943][774]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.33.01:379][ 35]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Building_Wood, compiling. 
+[2018.11.15-20.33.02:594][ 35]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-20.33.02:596][ 35]TextureStreamingBuild: Display: Compiling optional shaders took 1.226 seconds.
+[2018.11.15-20.33.02:684][ 35]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Building_WoodC7532BAA4A6461866A7243B5B2EE9A68.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/Building_Wood.uasset'
+[2018.11.15-20.33.03:608][ 63]LogSlate: Window 'Building_Wood' being destroyed
+[2018.11.15-20.33.03:624][ 63]LogSlate: Window 'Building_Wood' being destroyed
+[2018.11.15-20.33.12:807][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.33.59:502][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-20.34.42:631][308]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase473)
+[2018.11.15-20.35.10:537][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.15-20.36.01:713][724]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.36.21:669][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.36.47:846][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.36.53:769][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.37.06:641][669]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Resources_TA/M_Roof.M_Roof
+[2018.11.15-20.37.18:011][928]LogSlate: Window 'Color Picker' being destroyed
+[2018.11.15-20.37.19:398][961]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Resources_TA/M_Roof" FILE="../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/M_Roof.uasset" SILENT=true
+[2018.11.15-20.37.19:459][961]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Roof, compiling. 
+[2018.11.15-20.37.20:534][961]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.15-20.37.20:536][961]TextureStreamingBuild: Display: Compiling optional shaders took 1.086 seconds.
+[2018.11.15-20.37.20:604][961]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/M_Roof84DDC6E04AC46D057A1C8D9580BE199C.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/M_Roof.uasset'
+[2018.11.15-20.37.21:180][977]LogSlate: Window 'M_Roof' being destroyed
+[2018.11.15-20.37.37:972][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1101)
+[2018.11.15-20.37.47:049][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.37.58:260][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.38.12:707][523]LogEditorViewport: Clicking Background
+[2018.11.15-20.38.14:661][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.38.17:016][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.38.22:474][706]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeEC7C14F74CDF36CB16350CBCF2D0E7E4.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-20.38.22:513][706]LogFileHelpers: Saving map 'StreetSceneLarge' took 5.488
+[2018.11.15-20.38.22:555][706]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/brickMap690884F04B52CD7906D824BAB62641D1.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/brickMap.uasset'
+[2018.11.15-20.38.23:247][727]LogSlate: FSceneViewport::OnFocusLost() reason 0
