@@ -568,3 +568,155 @@ LogInit: Object subsystem initialized
 [2018.11.15-19.42.31:968][490]LogSlate: Window 'TireWood' being destroyed
 [2018.11.15-19.42.34:573][554]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.11.15-19.42.38:250][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.43.25:059][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.43.47:684][849]LogEditorViewport: Clicking Background
+[2018.11.15-19.43.49:633][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.43.50:946][947]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase150)
+[2018.11.15-19.43.55:681][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.44.01:117][240]LogEditorViewport: Clicking Background
+[2018.11.15-19.44.20:786][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.44.55:991][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.15-19.46.15:560][801]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue)
+[2018.11.15-19.46.16:406][825]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue)
+[2018.11.15-19.46.33:508][294]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-19.46.54:967][968]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-19.47.00:946][173]LogEditorViewport: Clicking Background
+[2018.11.15-19.47.07:420][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue2)
+[2018.11.15-19.47.10:035][435]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.47.14:762][549]LogEditorViewport: Clicking Background
+[2018.11.15-19.47.20:565][724]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.47.24:421][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.47.41:490][411]LogEditorViewport: Clicking Background
+[2018.11.15-19.47.44:402][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.47.46:745][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.47.49:843][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue2)
+[2018.11.15-19.47.51:008][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.47.59:952][968]LogEditorViewport: Clicking Background
+[2018.11.15-19.48.03:714][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.48.31:583][ 54]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue2)
+[2018.11.15-19.48.36:471][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase74)
+[2018.11.15-19.48.38:105][274]LogEditorViewport: Clicking Background
+[2018.11.15-19.48.50:596][710]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.48.52:389][765]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-19.48.52:485][765]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.11.15-19.48.58:548][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue2)
+[2018.11.15-19.49.00:469][ 28]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-19.49.00:469][ 28]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-19.49.07:369][263]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-19.49.12:411][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.49.43:998][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3010BasicDoorWay)
+[2018.11.15-19.50.08:001][852]Cmd: TRANSACTION UNDO
+[2018.11.15-19.50.08:001][852]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.50.19:527][137]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-19.50.44:533][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.51.02:660][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.51.21:603][241]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.51.30:706][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3010BasicDoorWay2)
+[2018.11.15-19.51.49:893][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.51.54:794][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.52.11:834][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.52.31:202][315]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.52.46:240][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.52.59:193][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.53.23:746][777]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3010BasicDoorWay2)
+[2018.11.15-19.53.31:109][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.53.50:483][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.53.57:646][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.54.08:267][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.54.15:928][275]Cmd: TRANSACTION UNDO
+[2018.11.15-19.54.15:929][275]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.54.30:892][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue2)
+[2018.11.15-19.54.33:873][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.54.37:197][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-19.54.38:207][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.54.59:012][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (hangingBrickTAdyREDO)
+[2018.11.15-19.55.22:990][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase133)
+[2018.11.15-19.55.27:095][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.55.30:841][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase124)
+[2018.11.15-19.55.32:785][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmartCarUVObj_pCube1)
+[2018.11.15-19.55.36:479][570]Cmd: TRANSACTION UNDO
+[2018.11.15-19.55.36:479][570]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.55.37:396][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase133)
+[2018.11.15-19.56.00:134][175]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.00:134][175]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.56.00:422][181]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.00:422][181]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.56.00:761][193]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.00:761][193]LogEditorTransaction: Undo Rotate Actors
+[2018.11.15-19.56.01:324][214]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.01:325][214]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.56.01:945][216]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.01:945][216]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.15-19.56.04:096][273]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.04:097][273]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.15-19.56.06:652][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase171)
+[2018.11.15-19.56.13:677][532]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase173)
+[2018.11.15-19.56.14:505][555]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase174)
+[2018.11.15-19.56.15:067][569]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase175)
+[2018.11.15-19.56.17:288][633]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.17:288][633]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.56.18:383][683]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase176)
+[2018.11.15-19.56.19:158][701]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase177)
+[2018.11.15-19.56.19:557][710]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase178)
+[2018.11.15-19.56.19:958][718]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase179)
+[2018.11.15-19.56.20:436][730]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (GroundBase189)
+[2018.11.15-19.56.24:672][859]Cmd: TRANSACTION UNDO
+[2018.11.15-19.56.24:673][859]LogEditorTransaction: Undo Move Actors
+[2018.11.15-19.56.24:715][859]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase174.StaticMeshComponent0) Component already registered.
+[2018.11.15-19.56.24:716][859]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase175.StaticMeshComponent0) Component already registered.
+[2018.11.15-19.56.56:406][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.57.10:898][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase189)
+[2018.11.15-19.58.23:874][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-19.58.28:685][360]LogEditorViewport: Clicking Background
+[2018.11.15-19.58.32:854][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-19.58.34:726][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-19.58.40:107][606]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeF5D27BEF47709190EB34EABF301BB89A.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-19.58.40:151][606]LogFileHelpers: Saving map 'StreetSceneLarge' took 5.417
+[2018.11.15-19.58.41:168][636]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-19.59.05:890][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LargelWindowBlock_JackODonoghue3)
+[2018.11.15-19.59.11:696][516]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-19.59.32:987][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1087)
+[2018.11.15-19.59.35:634][297]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-19.59.35:656][297]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.11.15-20.00.03:500][233]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-20.00.03:500][233]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-20.00.12:090][526]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.15-20.00.12:109][526]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (Microsoft IME).
+[2018.11.15-20.00.32:460][237]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.02.11:699][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.03.04:708][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.03.41:999][603]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1096)
+[2018.11.15-20.04.25:171][ 45]Cmd: TRANSACTION UNDO
+[2018.11.15-20.04.25:172][ 45]LogEditorTransaction: Undo Scale Actors
+[2018.11.15-20.04.25:199][ 45]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.tubeTAdy10.StaticMeshComponent0) Component already registered.
+[2018.11.15-20.04.25:201][ 45]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.tubeTAdy8.StaticMeshComponent0) Component already registered.
+[2018.11.15-20.04.27:429][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1099)
+[2018.11.15-20.04.28:945][168]Cmd: TRANSACTION UNDO
+[2018.11.15-20.04.28:945][168]LogEditorTransaction: Undo Clicking on Actors
+[2018.11.15-20.05.05:040][443]Cmd: TRANSACTION UNDO
+[2018.11.15-20.05.05:040][443]LogEditorTransaction: Undo Move Actors
+[2018.11.15-20.05.05:077][443]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.tubeTAdy6.StaticMeshComponent0) Component already registered.
+[2018.11.15-20.05.05:080][443]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.halfSphereTAdy2.StaticMeshComponent0) Component already registered.
+[2018.11.15-20.05.09:713][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.05.44:857][849]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.05.47:631][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.05.48:845][957]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.05.54:168][957]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeEC78387F4EA950186729A4809C782E46.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-20.05.54:202][957]LogFileHelpers: Saving map 'StreetSceneLarge' took 5.349
+[2018.11.15-20.06.19:144][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1098)
+[2018.11.15-20.06.31:238][323]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-20.06.58:547][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.07.19:441][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue3)
+[2018.11.15-20.07.24:057][ 91]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.07.24:175][ 91]LogSlate: Took 0.011525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.11.15-20.07.27:306][170]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.11.15-20.07.27:319][170]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.11.15-20.07.46:644][841]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-20.08.16:148][879]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1100)
+[2018.11.15-20.08.25:631][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.15-20.08.37:992][653]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.15-20.09.17:530][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.09.18:665][818]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.15-20.09.23:630][818]LogSavePackage: Moving '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge4CFCC16447FADEA98305009604580D19.tmp' to '../../../../../../Users/tommy/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.15-20.09.23:671][818]LogFileHelpers: Saving map 'StreetSceneLarge' took 4.996
+[2018.11.15-20.09.24:841][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
