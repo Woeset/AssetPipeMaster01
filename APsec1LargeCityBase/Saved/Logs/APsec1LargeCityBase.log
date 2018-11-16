@@ -856,3 +856,85 @@ LogInit: Object subsystem initialized
 [2018.11.16-01.18.09:340][806]LogLinux: Setting swap interval to 'Immediate'
 [2018.11.16-01.18.11:253][806]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge1_DJW129E83C408D64B26B27086064851CA27.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW.umap'
 [2018.11.16-01.18.11:286][806]LogFileHelpers: Saving map 'StreetSceneLarge1_DJW' took 1.940
+[2018.11.16-01.30.48:895][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech)
+[2018.11.16-01.30.52:088][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.34.36:311][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2018.11.16-01.34.40:186][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.34.42:290][797]Cmd: EDIT COPY
+[2018.11.16-01.34.58:254][266]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:254][266]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:300][266]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:327][266]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.34.58:388][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.58:388][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:388][266]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:389][266]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:413][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.16-01.34.58:414][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.16-01.34.58:416][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:417][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.16-01.34.58:419][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.16-01.34.58:917][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:917][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.11.16-01.34.58:917][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.16-01.34.58:918][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:918][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.59:063][266]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.59:063][266]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.59:065][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.59:066][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.59:072][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.16-01.35.01:740][266]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.11.16-01.35.01:905][266]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.11.16-01.35.01:975][266]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-01.35.01:975][266]LightingResults: New page: Lighting Build
+[2018.11.16-01.35.01:976][266]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.11.16-01.35.01:998][266]MapCheck: New page: Map Check
+[2018.11.16-01.35.01:998][266]LightingResults: New page: Lighting Build
+[2018.11.16-01.35.02:244][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-01.35.02:327][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-01.35.02:369][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.9ms to complete.
+[2018.11.16-01.35.02:369][266]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.395
+[2018.11.16-01.35.10:863][609]Cmd: EDIT PASTE
+[2018.11.16-01.35.10:863][609]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.10:863][609]LogLinux: Scale at X=507.000000, Y=367.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.16:308][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.16-01.35.18:877][979]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.18:924][980]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.35.22:529][260]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:529][260]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:530][260]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:554][260]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.35.25:510][260]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge13A774EA08D64B291A46EFA285E7705D.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.16-01.35.25:557][260]LogFileHelpers: Saving map 'StreetSceneLarge' took 3.002
