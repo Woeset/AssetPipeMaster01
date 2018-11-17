@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/16/18 18:31:58
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -13,6 +14,13 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.732141
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+=======
+﻿Log file open, 11/15/18 18:14:54
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099357
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 =======
 ﻿Log file open, 11/15/18 18:14:54
 LogInit: Display: Running engine for game: APsec1LargeCityBase
@@ -79,6 +87,7 @@ LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin NetcodeUnitTest
 LogPluginManager: Mounting plugin NUTUnrealEngine4
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
@@ -115,6 +124,8 @@ LogStreaming: Display: Took  0.094s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
 =======
+=======
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
@@ -141,6 +152,9 @@ LogPluginManager: Mounting plugin FacialAnimation
 LogStreaming: Display: Took  0.396s to configure plugins.
 LogInit: Using libcurl 7.48.0-DEV
 LogInit:  - built for x86_64-unknown-linux-gnu
+<<<<<<< HEAD
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
+=======
 >>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 LogInit:  - supports SSL with OpenSSL/1.0.2h
 LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
@@ -171,9 +185,15 @@ LogInit: Compiled with Clang: 5.0.0 (tags/RELEASE_500/final)
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+=======
+LogInit: Command Line: 
+LogInit: Base Directory: /home/dawnoftherent/Projects/UnrealEngine/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 =======
 LogInit: Command Line: 
 LogInit: Base Directory: /home/dawnoftherent/Projects/UnrealEngine/UnrealEngine/Engine/Binaries/Linux/
@@ -203,6 +223,7 @@ LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2018.11.17-01.31.58:581][  0]LogInit: Selected Device Profile: [Windows]
 [2018.11.17-01.31.58:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
@@ -4562,6 +4583,8 @@ LogInit: Object subsystem initialized
 [2018.11.17-01.51.52:751][144]LogExit: Exiting.
 [2018.11.17-01.51.52:770][144]Log file closed, 11/16/18 18:51:52
 =======
+=======
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 [2018.11.16-01.14.55:718][  0]LogInit: Initializing SDL.
 [2018.11.16-01.14.55:871][  0]LogInit: Initialized SDL 2.0.5 revision: 11184 (hg-11184:04063928c4a8 with EpicExtensions) (compiled against 2.0.5)
 [2018.11.16-01.14.55:871][  0]LogInit: Using SDL_WINDOW_OPENGL
@@ -5358,4 +5381,7 @@ LogInit: Object subsystem initialized
 [2018.11.16-01.35.22:554][260]LogLinux: Setting swap interval to 'Immediate'
 [2018.11.16-01.35.25:510][260]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge13A774EA08D64B291A46EFA285E7705D.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
 [2018.11.16-01.35.25:557][260]LogFileHelpers: Saving map 'StreetSceneLarge' took 3.002
+<<<<<<< HEAD
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
+=======
 >>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
