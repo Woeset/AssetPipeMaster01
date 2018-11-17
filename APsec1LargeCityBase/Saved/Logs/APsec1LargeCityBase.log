@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿Log file open, 11/16/18 18:31:58
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -12,55 +13,72 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.732141
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+=======
+﻿Log file open, 11/15/18 18:14:54
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.099357
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
-LogPluginManager: Mounting plugin Paper2D
-LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin CLionSourceCodeAccess
-LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin GitSourceControl
-LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
-LogPluginManager: Mounting plugin PerforceSourceControl
-LogPluginManager: Mounting plugin SubversionSourceControl
-LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
-LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin AssetManagerEditor
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MeshEditor
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin AppleImageUtils
-LogPluginManager: Mounting plugin AppleVision
-LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin CharacterAI
-LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AlembicImporter
 LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin MagicLeap
 LogPluginManager: Mounting plugin MagicLeapEmulator
 LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin AndroidMedia
 LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin LinearTimecode
 LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin ImgMedia
 LogPluginManager: Mounting plugin WmfMedia
-LogPluginManager: Mounting plugin TcpMessaging
-LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MediaPlayerEditor
 LogPluginManager: Mounting plugin LevelSequenceEditor
 LogPluginManager: Mounting plugin MatineeToLevelSequence
+<<<<<<< HEAD
 LogPluginManager: Mounting plugin NetcodeUnitTest
 LogPluginManager: Mounting plugin NUTUnrealEngine4
 LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
@@ -96,6 +114,34 @@ LogPluginManager: Mounting plugin WindowsMoviePlayer
 LogStreaming: Display: Took  0.094s to configure plugins.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
+=======
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin FacialAnimation
+LogStreaming: Display: Took  0.396s to configure plugins.
+LogInit: Using libcurl 7.48.0-DEV
+LogInit:  - built for x86_64-unknown-linux-gnu
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 LogInit:  - supports SSL with OpenSSL/1.0.2h
 LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
 LogInit:  - other features:
@@ -104,28 +150,35 @@ LogInit:      CURL_VERSION_LIBZ
 LogInit:      CURL_VERSION_IPV6
 LogInit:      CURL_VERSION_ASYNCHDNS
 LogInit:      CURL_VERSION_LARGEFILE
-LogInit:      CURL_VERSION_IDN
+LogInit:      CURL_VERSION_TLSAUTH_SRP
+LogInit:  Libcurl: checking if '/etc/pki/tls/certs/ca-bundle.crt' exists
+LogInit:  Libcurl: checking if '/etc/ssl/certs/ca-certificates.crt' exists
 LogInit:  CurlRequestOptions (configurable via config and command line):
-LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
 LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
 LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
-LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - CertBundlePath = /etc/ssl/certs/ca-certificates.crt  - Libcurl will set CURLOPT_CAINFO to it
 LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
 LogInit:  - LocalHostAddr = Default
 LogInit:  - BufferSize = 65536
-LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-LogInit: Build: ++UE4+Release-4.20-CL-4369336
-LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
-LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
-LogInit: Net CL: 4212847
-LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 1080
-LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
-LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build: ++UE4+Release-4.20-CL-0
+LogInit: Engine Version: 4.20.2-0+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-0+++UE4+Release-4.20
+LogInit: Net CL: 0
+LogInit: OS: GenericOSVersionLabel (GenericOSSubVersionLabel), CPU:         Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz, GPU: GenericGPUBrand
+LogInit: Compiled (64-bit): Aug 23 2018 21:24:45
+LogInit: Compiled with Clang: 5.0.0 (tags/RELEASE_500/final)
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.20
+<<<<<<< HEAD
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
+=======
+LogInit: Command Line: 
+LogInit: Base Directory: /home/dawnoftherent/Projects/UnrealEngine/UnrealEngine/Engine/Binaries/Linux/
+LogInit: Installed Engine Build: 0
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
 LogDevObjectVersion: Number of dev versions registered: 20
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
 LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
@@ -150,6 +203,7 @@ LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
 LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.11.17-01.31.58:581][  0]LogInit: Selected Device Profile: [Windows]
 [2018.11.17-01.31.58:581][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.11.17-01.31.58:600][  0]LogHAL: Display: Platform has ~ 32 GB [34305462272 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
@@ -4507,3 +4561,801 @@ LogInit: Object subsystem initialized
 [2018.11.17-01.51.52:746][144]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.11.17-01.51.52:751][144]LogExit: Exiting.
 [2018.11.17-01.51.52:770][144]Log file closed, 11/16/18 18:51:52
+=======
+[2018.11.16-01.14.55:718][  0]LogInit: Initializing SDL.
+[2018.11.16-01.14.55:871][  0]LogInit: Initialized SDL 2.0.5 revision: 11184 (hg-11184:04063928c4a8 with EpicExtensions) (compiled against 2.0.5)
+[2018.11.16-01.14.55:871][  0]LogInit: Using SDL_WINDOW_OPENGL
+[2018.11.16-01.14.55:871][  0]LogInit: Using SDL video driver 'x11'
+[2018.11.16-01.14.55:871][  0]LogInit: Display metrics:
+[2018.11.16-01.14.55:871][  0]LogInit:   PrimaryDisplayWidth: 1024
+[2018.11.16-01.14.55:871][  0]LogInit:   PrimaryDisplayHeight: 768
+[2018.11.16-01.14.55:871][  0]LogInit:   PrimaryDisplayWorkAreaRect:
+[2018.11.16-01.14.55:871][  0]LogInit:     Left=0, Top=0, Right=1024, Bottom=735
+[2018.11.16-01.14.55:871][  0]LogInit:   VirtualDisplayRect:
+[2018.11.16-01.14.55:871][  0]LogInit:     Left=0, Top=0, Right=1024, Bottom=735
+[2018.11.16-01.14.55:871][  0]LogInit:   TitleSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.11.16-01.14.55:871][  0]LogInit:   ActionSafePaddingSize: X=0.000 Y=0.000 Z=0.000 W=0.000
+[2018.11.16-01.14.55:871][  0]LogInit:   Number of monitors: 1
+[2018.11.16-01.14.55:871][  0]LogInit:     Monitor 0
+[2018.11.16-01.14.55:871][  0]LogInit:       Name: DELL E153FP 15"
+[2018.11.16-01.14.55:871][  0]LogInit:       ID: display0
+[2018.11.16-01.14.55:871][  0]LogInit:       NativeWidth: 1024
+[2018.11.16-01.14.55:871][  0]LogInit:       NativeHeight: 768
+[2018.11.16-01.14.55:871][  0]LogInit:       bIsPrimary: true
+[2018.11.16-01.14.55:871][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.11.16-01.14.55:871][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Linux]
+[2018.11.16-01.14.55:881][  0]LogHAL: Display: Platform has ~ 4 GB [8311631872 / 4294967296 / 8], which maps to Smallest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.16-01.14.55:881][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.16-01.14.55:881][  0]LogInit: Using custom *.sym to symbolicate
+[2018.11.16-01.14.55:881][  0]LogInit: Unix hardware info:
+[2018.11.16-01.14.55:881][  0]LogInit:  - we are the first instance of this executable
+[2018.11.16-01.14.55:881][  0]LogInit:  - this process' id (pid) is 23809, parent process' id (ppid) is 1243
+[2018.11.16-01.14.55:881][  0]LogInit:  - we are not running under debugger
+[2018.11.16-01.14.55:881][  0]LogInit:  - machine network name is 'Aphrodite'
+[2018.11.16-01.14.55:881][  0]LogInit:  - user name is 'dawnoftherent' (dawnoftherent)
+[2018.11.16-01.14.55:881][  0]LogInit:  - we're logged in locally
+[2018.11.16-01.14.55:881][  0]LogInit:  - we're running with rendering
+[2018.11.16-01.14.55:881][  0]LogInit:  - CPU: GenuineIntel '        Intel(R) Core(TM) i5-3470 CPU @ 3.20GHz' (signature: 0x306A9)
+[2018.11.16-01.14.55:881][  0]LogInit:  - Number of physical cores available for the process: 4
+[2018.11.16-01.14.55:881][  0]LogInit:  - Number of logical cores available for the process: 4
+[2018.11.16-01.14.55:881][  0]LogInit:  - Cache line size: 64
+[2018.11.16-01.14.55:881][  0]LogInit:  - Memory allocator used: binned2
+[2018.11.16-01.14.55:882][  0]LogCore: Benchmarking clocks:
+[2018.11.16-01.14.55:882][  0]LogCore:  - CLOCK_REALTIME (id=0) can sustain 40101643 (40102K, 40M) calls per second without zero deltas.
+[2018.11.16-01.14.55:882][  0]LogCore:  - CLOCK_MONOTONIC (id=1) can sustain 53771113 (53771K, 54M) calls per second without zero deltas.
+[2018.11.16-01.14.55:882][  0]LogCore:  - CLOCK_MONOTONIC_RAW (id=4) can sustain 13383761 (13384K, 13M) calls per second without zero deltas.
+[2018.11.16-01.14.55:882][  0]LogCore:  - CLOCK_MONOTONIC_COARSE (id=6) can sustain 178626078 (178626K, 179M) calls per second with 99.999854% zero deltas.
+[2018.11.16-01.14.55:882][  0]LogCore: Selected clock_id 1 (CLOCK_MONOTONIC) since it is the fastest support clock without zero deltas.
+[2018.11.16-01.14.55:882][  0]LogInit: Unix-specific commandline switches:
+[2018.11.16-01.14.55:882][  0]LogInit:  -nodwarf (currently OFF): suppress parsing of DWARF debug info (callstacks will be generated faster, but won't have line numbers)
+[2018.11.16-01.14.55:882][  0]LogInit:  -ansimalloc - use malloc()/free() from libc (useful for tools like valgrind and electric fence)
+[2018.11.16-01.14.55:882][  0]LogInit:  -jemalloc - use jemalloc for all memory allocation
+[2018.11.16-01.14.55:882][  0]LogInit:  -binnedmalloc - use binned malloc  for all memory allocation
+[2018.11.16-01.14.55:882][  0]LogInit:  -filemapcachesize=NUMBER - set the size for case-sensitive file mapping cache
+[2018.11.16-01.14.55:882][  0]LogInit:  -httpproxy=ADDRESS:PORT - redirects HTTP requests to a proxy (only supported if compiled with libcurl)
+[2018.11.16-01.14.55:882][  0]LogInit:  -reuseconn - allow libcurl to reuse HTTP connections (only matters if compiled with libcurl)
+[2018.11.16-01.14.55:882][  0]LogInit:  -virtmemkb=NUMBER - sets process virtual memory (address space) limit (overrides VirtualMemoryLimitInKB value from .ini)
+[2018.11.16-01.14.55:882][  0]LogInit:  - Physical RAM available (not considering process quota): 8 GB (7926 MB, 8116828 KB, 8311631872 bytes)
+[2018.11.16-01.14.56:052][  0]LogInit: Using OS detected language (en-US).
+[2018.11.16-01.14.56:052][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.16-01.14.56:052][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.16-01.14.56:429][  0]LogStreaming: Display: Took  0.377s to InitEngineTextLocalization.
+[2018.11.16-01.14.56:476][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.16-01.14.56:476][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.16-01.14.57:365][  0]LogRHI: Initializing OpenGL RHI
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_VENDOR: ATI Technologies Inc.
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_RENDERER: AMD Radeon(TM) HD 6400 Series 
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_VERSION: 4.3.13416 Core Profile Context 15.302
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_SHADING_LANGUAGE_VERSION: 4.40
+[2018.11.16-01.14.57:366][  0]LogRHI: OpenGL Extensions:
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMDX_debug_output
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMDX_vertex_shader_tessellator
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_conservative_depth
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_debug_output
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_depth_clamp_separate
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_draw_buffers_blend
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_multi_draw_indirect
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_name_gen_delete
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_performance_monitor
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_pinned_memory
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_query_buffer_object
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_sample_positions
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_seamless_cubemap_per_texture
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_shader_stencil_export
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_shader_trace
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_texture_cube_map_array
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_texture_texture4
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_transform_feedback3_lines_triangles
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_vertex_shader_layer
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_vertex_shader_tessellator
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_AMD_vertex_shader_viewport_index
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_ES2_compatibility
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_ES3_1_compatibility
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_ES3_compatibility
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_arrays_of_arrays
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_base_instance
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_blend_func_extended
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_buffer_storage
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_clear_buffer_object
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_clear_texture
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_clip_control
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_color_buffer_float
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_compressed_texture_pixel_storage
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_compute_shader
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_conditional_render_inverted
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_conservative_depth
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_copy_buffer
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_copy_image
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_cull_distance
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_debug_output
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_depth_buffer_float
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_depth_clamp
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_depth_texture
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_derivative_control
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_direct_state_access
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_draw_buffers
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_draw_buffers_blend
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_draw_elements_base_vertex
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_draw_indirect
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_draw_instanced
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_enhanced_layouts
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_explicit_attrib_location
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_explicit_uniform_location
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_fragment_coord_conventions
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_fragment_layer_viewport
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_fragment_program
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_fragment_program_shadow
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_fragment_shader
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_framebuffer_no_attachments
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_framebuffer_object
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_framebuffer_sRGB
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_geometry_shader4
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_get_program_binary
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_get_texture_sub_image
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_gpu_shader5
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_gpu_shader_fp64
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_half_float_pixel
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_half_float_vertex
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_imaging
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_instanced_arrays
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_internalformat_query
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_internalformat_query2
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_invalidate_subdata
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_map_buffer_alignment
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_map_buffer_range
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_multi_bind
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_multi_draw_indirect
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_multisample
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_multitexture
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_occlusion_query
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_occlusion_query2
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_pipeline_statistics_query
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_pixel_buffer_object
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_point_parameters
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_point_sprite
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_program_interface_query
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_provoking_vertex
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_query_buffer_object
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_robust_buffer_access_behavior
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_sample_shading
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_sampler_objects
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_seamless_cube_map
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_seamless_cubemap_per_texture
+[2018.11.16-01.14.57:366][  0]LogRHI:   GL_ARB_separate_shader_objects
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_atomic_counters
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_bit_encoding
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_image_load_store
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_image_size
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_objects
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_precision
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_stencil_export
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_storage_buffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_subroutine
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_texture_image_samples
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shader_texture_lod
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shading_language_100
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shading_language_420pack
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shading_language_packing
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shadow
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_shadow_ambient
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_stencil_texturing
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_sync
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_tessellation_shader
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_barrier
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_border_clamp
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_buffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_buffer_object_rgb32
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_buffer_range
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_compression
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_compression_bptc
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_compression_rgtc
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_cube_map
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_cube_map_array
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_env_add
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_env_combine
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_env_crossbar
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_env_dot3
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_float
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_gather
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_mirror_clamp_to_edge
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_mirrored_repeat
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_multisample
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_non_power_of_two
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_query_levels
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_query_lod
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_rectangle
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_rg
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_rgb10_a2ui
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_snorm
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_stencil8
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_storage
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_storage_multisample
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_swizzle
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_texture_view
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_timer_query
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_transform_feedback2
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_transform_feedback3
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_transform_feedback_instanced
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_transform_feedback_overflow_query
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_transpose_matrix
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_uniform_buffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_array_bgra
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_array_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_attrib_64bit
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_attrib_binding
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_buffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_program
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_shader
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_type_10f_11f_11f_rev
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_vertex_type_2_10_10_10_rev
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_viewport_array
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ARB_window_pos
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_draw_buffers
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_envmap_bumpmap
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_fragment_shader
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_meminfo
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_separate_stencil
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_texture_compression_3dc
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_texture_env_combine3
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_texture_float
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_ATI_texture_mirror_once
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_abgr
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_bgra
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_bindable_uniform
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_blend_color
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_blend_equation_separate
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_blend_func_separate
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_blend_minmax
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_blend_subtract
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_compiled_vertex_array
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_copy_buffer
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_copy_texture
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_direct_state_access
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_draw_buffers2
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_draw_instanced
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_draw_range_elements
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_fog_coord
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_framebuffer_blit
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_framebuffer_multisample
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_framebuffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_framebuffer_sRGB
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_geometry_shader4
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_gpu_program_parameters
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_gpu_shader4
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_histogram
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_multi_draw_arrays
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_packed_depth_stencil
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_packed_float
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_packed_pixels
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_pixel_buffer_object
+[2018.11.16-01.14.57:367][  0]LogRHI:   GL_EXT_point_parameters
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_polygon_offset_clamp
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_provoking_vertex
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_rescale_normal
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_secondary_color
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_separate_specular_color
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_shader_image_load_store
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_shader_integer_mix
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_shadow_funcs
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_stencil_wrap
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_subtexture
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texgen_reflection
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture3D
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_array
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_buffer_object
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_compression_bptc
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_compression_latc
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_compression_rgtc
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_compression_s3tc
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_cube_map
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_edge_clamp
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_env_add
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_env_combine
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_env_dot3
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_filter_anisotropic
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_integer
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_lod
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_lod_bias
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_mirror_clamp
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_object
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_rectangle
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_sRGB
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_sRGB_decode
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_shared_exponent
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_snorm
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_storage
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_texture_swizzle
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_timer_query
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_transform_feedback
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_vertex_array
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_vertex_array_bgra
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_EXT_vertex_attrib_64bit
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_IBM_texture_mirrored_repeat
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_KHR_context_flush_control
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_KHR_debug
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_KHR_robust_buffer_access_behavior
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_KHR_robustness
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_KTX_buffer_region
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_blend_square
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_conditional_render
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_copy_depth_to_color
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_copy_image
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_depth_buffer_float
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_explicit_multisample
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_float_buffer
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_half_float
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_primitive_restart
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_texgen_reflection
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_NV_texture_barrier
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_OES_EGL_image
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_SGIS_generate_mipmap
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_SGIS_texture_edge_clamp
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_SGIS_texture_lod
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_SUN_multi_draw_arrays
+[2018.11.16-01.14.57:368][  0]LogRHI:   GL_WIN_swap_hint
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_TEXTURE_SIZE: 16384
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_CUBE_MAP_TEXTURE_SIZE: 16384
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_ARRAY_TEXTURE_LAYERS: 2048
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_3D_TEXTURE_SIZE: 2048
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_RENDERBUFFER_SIZE: 16384
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_TEXTURE_IMAGE_UNITS: 18
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_DRAW_BUFFERS: 8
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_COLOR_ATTACHMENTS: 8
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_SAMPLES: 4
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_COLOR_TEXTURE_SAMPLES: 4
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_DEPTH_TEXTURE_SAMPLES: 4
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_INTEGER_SAMPLES: 4
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_COMBINED_TEXTURE_IMAGE_UNITS: 108
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_VERTEX_ATTRIBS: 29
+[2018.11.16-01.14.57:369][  0]LogRHI:   GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16
+[2018.11.16-01.14.57:369][  0]LogRHI: OpenGL MajorVersion = 4, MinorVersion = 3, ShaderPlatform = GLSL_430, FeatureLevel = SM5
+[2018.11.16-01.14.57:382][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/23809/).
+[2018.11.16-01.14.57:382][  0]LogShaderCompilers: Cleaned the shader compiler working directory '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/tmp/00032E6A08D64B263FFBEAE83CDFB0E0/'.
+[2018.11.16-01.14.57:382][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.16-01.14.59:179][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:388][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.16-01.14.59:540][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.16-01.14.59:692][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.16-01.14.59:884][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.16-01.15.00:036][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.16-01.15.00:191][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.16-01.15.00:192][  0]LogTargetPlatformManager: Display: Building Assets For Linux
+[2018.11.16-01.15.00:711][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: Loaded boot cache 0.05s 84MB ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Boot.ddc.
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Boot.ddc
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.16-01.15.00:760][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2018.11.16-01.15.00:761][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2018.11.16-01.15.00:761][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.16-01.15.00:761][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.16-01.15.00:784][  0]LogMaterial: Verifying Global Shaders for GLSL_430
+[2018.11.16-01.15.00:793][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.16-01.15.00:794][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 0
+[2018.11.16-01.15.00:872][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2018.11.16-01.15.01:247][  0]LogLinux: Selected Device Profile: [Linux]
+[2018.11.16-01.15.01:750][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.16-01.15.01:750][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.16-01.15.01:750][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.11.16-01.15.01:750][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2018.11.16-01.15.01:750][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.11.16-01.15.01:750][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2018.11.16-01.15.01:773][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 0, EngineNetVer: 5, GameNetVer: 0 (Checksum: 3676694159)
+[2018.11.16-01.15.02:531][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.044185 seconds
+[2018.11.16-01.15.02:546][  0]LogUObjectArray: 37547 objects as part of root set at end of initial load.
+[2018.11.16-01.15.02:546][  0]LogUObjectAllocator: 6509480 out of 0 bytes used by permanent object pool.
+[2018.11.16-01.15.02:546][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.16-01.15.02:789][  0]LogHAL: Linux SourceCodeAccessSettings: NullSourceCodeAccessor
+[2018.11.16-01.15.03:651][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.16-01.15.03:651][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.16-01.15.03:652][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:652][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:652][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:652][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:652][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.16-01.15.03:652][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.16-01.15.03:653][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:653][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:653][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:653][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:653][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.16-01.15.03:653][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.16-01.15.03:653][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:653][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png' error.
+[2018.11.16-01.15.03:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_24x.png
+[2018.11.16-01.15.03:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:654][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png' error.
+[2018.11.16-01.15.03:654][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Mac/Platform_Mac_128x.png
+[2018.11.16-01.15.03:657][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.16-01.15.03:657][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.16-01.15.03:658][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:658][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:658][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:658][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:658][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.16-01.15.03:658][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.16-01.15.03:658][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:658][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:659][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:659][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:659][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.11.16-01.15.03:659][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.11.16-01.15.03:659][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:659][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:659][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:659][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:660][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.11.16-01.15.03:660][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.11.16-01.15.03:660][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:660][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:660][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:660][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:660][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.16-01.15.03:660][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.16-01.15.03:661][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:661][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:661][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:661][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:661][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.16-01.15.03:661][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.16-01.15.03:661][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:661][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:662][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:662][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:662][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.11.16-01.15.03:662][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.11.16-01.15.03:662][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:662][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:662][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:662][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.11.16-01.15.03:663][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.11.16-01.15.03:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:663][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:663][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.11.16-01.15.03:663][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.11.16-01.15.03:663][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:664][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:664][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:664][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:664][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.16-01.15.03:664][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.16-01.15.03:664][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:664][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:664][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:664][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:665][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png' error.
+[2018.11.16-01.15.03:665][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_24x.png
+[2018.11.16-01.15.03:665][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:665][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:665][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:665][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:665][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png' error.
+[2018.11.16-01.15.03:665][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ATC_24x.png
+[2018.11.16-01.15.03:666][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:666][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:666][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:666][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:666][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png' error.
+[2018.11.16-01.15.03:666][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_DXT_24x.png
+[2018.11.16-01.15.03:666][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:666][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:667][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:667][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:667][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.16-01.15.03:667][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.16-01.15.03:667][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:667][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:667][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:667][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:668][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png' error.
+[2018.11.16-01.15.03:668][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC1_24x.png
+[2018.11.16-01.15.03:668][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:668][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:668][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:668][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:668][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png' error.
+[2018.11.16-01.15.03:668][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ETC2_24x.png
+[2018.11.16-01.15.03:669][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:669][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:669][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:669][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:669][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png' error.
+[2018.11.16-01.15.03:669][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_PVRTC_24x.png
+[2018.11.16-01.15.03:669][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:669][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:670][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:670][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:670][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png' error.
+[2018.11.16-01.15.03:670][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_ASTC_24x.png
+[2018.11.16-01.15.03:670][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:670][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.03:670][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png' error.
+[2018.11.16-01.15.03:670][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Launcher/Android/Platform_Android_128x.png
+[2018.11.16-01.15.05:950][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.16-01.15.05:953][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.16-01.15.10:485][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.16-01.15.14:480][  0]SourceControl: Source control is disabled
+[2018.11.16-01.15.14:480][  0]SourceControl: Source control is disabled
+[2018.11.16-01.15.14:631][  0]SourceControl: Source control is disabled
+[2018.11.16-01.15.14:765][  0]SourceControl: Source control is disabled
+[2018.11.16-01.15.16:427][  0]LogEngine: Initializing Engine...
+[2018.11.16-01.15.16:428][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.16-01.15.16:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.16-01.15.16:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-01.15.16:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.16-01.15.16:429][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-01.15.16:691][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.16-01.15.17:208][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2018.11.16-01.15.17:218][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2018.11.16-01.15.17:238][  0]LogAudioMixerSDL: Display: Initialized SDL using pulseaudio platform API backend.
+[2018.11.16-01.15.17:341][  0]LogInit: FAudioDevice initialized.
+[2018.11.16-01.15.17:342][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.16-01.15.17:418][  0]LogDerivedDataCache: Saved boot cache 0.08s 84MB ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Boot.ddc.
+[2018.11.16-01.15.17:430][  0]LogInit: Texture streaming: Enabled
+[2018.11.16-01.15.18:828][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.16-01.15.19:350][  0]LogInit: Transaction tracking system initialized
+[2018.11.16-01.15.20:316][  0]BlueprintLog: New page: Editor Load
+[2018.11.16-01.15.22:907][  0]LocalizationService: Localization service is disabled
+[2018.11.16-01.15.24:994][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.00s
+[2018.11.16-01.15.24:994][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.16-01.15.24:994][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.16-01.15.24:994][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.16-01.15.24:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.16-01.15.24:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.16-01.15.24:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.16-01.15.24:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.16-01.15.28:275][  0]SourceControl: Source control is disabled
+[2018.11.16-01.15.28:275][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-01.15.28:284][  0]LightingResults: New page: Lighting Build
+[2018.11.16-01.15.28:388][  0]MapCheck: New page: Map Check
+[2018.11.16-01.15.28:388][  0]LightingResults: New page: Lighting Build
+[2018.11.16-01.15.28:807][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.16-01.15.28:813][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-01.15.28:842][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-01.15.28:865][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 22.179ms to complete.
+[2018.11.16-01.15.28:865][  0]LogFileHelpers: Loading map 'Template_Default' took 0.590
+[2018.11.16-01.15.28:877][  0]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.28:877][  0]LogLinux: Scale at X=0.000000, Y=16.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.28:877][  0]LogLinux: Scale at X=645.000000, Y=381.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.28:895][  0]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.28:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-01.15.28:931][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-01.15.28:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-01.15.28:946][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.16-01.15.28:954][  0]LogCollectionManager: Loaded 0 collections in 0.002225 seconds
+[2018.11.16-01.15.28:966][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.00s
+[2018.11.16-01.15.28:966][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/dawnoftherent/Collections/' took 0.00s
+[2018.11.16-01.15.28:966][  0]LogFileCache: Scanning file cache for directory '/home/dawnoftherent/Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.00s
+[2018.11.16-01.15.28:966][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2545 classes and 566 folders.
+[2018.11.16-01.15.28:968][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.11.16-01.15.29:220][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.16-01.15.29:238][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.11.16-01.15.29:363][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.11.16-01.15.29:519][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.16-01.15.29:519][  0]LogLoad: (Engine Initialization) Total time: 36.67 seconds
+[2018.11.16-01.15.29:519][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.16-01.15.29:530][  0]LogSlate: Took 0.000073 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.16-01.15.29:537][  0]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.16-01.15.29:546][  0]LogSlate: Took 0.000056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.16-01.15.30:287][  0]LogRenderer: Reallocating scene render targets to support 608x268 Format 9 NumSamples 1 (Frame:1).
+[2018.11.16-01.15.30:462][  0]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.15.30:462][  0]LogInit: Adding external input plugin.
+[2018.11.16-01.15.30:482][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.11.16-01.15.30:490][  0]LogSlate: Took 0.000050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.16-01.15.30:516][  1]LogAssetRegistry: Asset discovery search completed in 29.6443 seconds
+[2018.11.16-01.15.30:518][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.16-01.15.30:518][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.11.16-01.15.35:643][200]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.36:157][217]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.15.45:762][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.15.56:478][986]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.56:478][986]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.56:504][986]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.15.56:518][986]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.16-01.15.56:531][986]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.15.56:637][986]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.16-01.15.56:637][986]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.11.16-01.15.56:637][986]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.11.16-01.15.56:638][986]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.16-01.15.56:638][986]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.11.16-01.15.56:640][986]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.16-01.15.56:640][986]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.11.16-01.15.56:640][986]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.11.16-01.15.56:640][986]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.16-01.15.56:640][986]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.11.16-01.15.56:642][986]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.16-01.15.56:642][986]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.11.16-01.15.56:642][986]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.11.16-01.15.56:643][986]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.16-01.15.56:643][986]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.11.16-01.15.56:981][986]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.16-01.15.56:981][986]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.11.16-01.15.56:981][986]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.11.16-01.15.56:981][986]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.11.16-01.15.56:982][986]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.11.16-01.15.56:982][986]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.16-01.15.56:982][986]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.11.16-01.15.56:982][986]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.11.16-01.15.56:982][986]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.11.16-01.15.56:983][986]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.11.16-01.15.56:997][986]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.16-01.15.56:997][986]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.11.16-01.15.56:997][986]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.11.16-01.15.56:997][986]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.11.16-01.15.56:997][986]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.11.16-01.15.57:322][986]LogAIModule: Creating AISystem for world StreetSceneLarge1_DJW
+[2018.11.16-01.15.57:412][986]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge1_DJW.StreetSceneLarge1_DJW
+[2018.11.16-01.15.57:452][986]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-01.15.57:452][986]LightingResults: New page: Lighting Build
+[2018.11.16-01.15.57:453][986]LoadErrors: New page: Loading map: StreetSceneLarge1_DJW.umap
+[2018.11.16-01.15.57:456][986]MapCheck: New page: Map Check
+[2018.11.16-01.15.57:456][986]LightingResults: New page: Lighting Build
+[2018.11.16-01.15.57:612][986]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-01.15.57:660][986]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-01.15.57:693][986]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 32.831ms to complete.
+[2018.11.16-01.15.57:693][986]LogFileHelpers: Loading map 'StreetSceneLarge1_DJW' took 0.242
+[2018.11.16-01.16.01:719][ 44]LogLinux: Scale at X=489.500000, Y=345.500000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.16.01:813][ 46]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.16.43:794][687]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.16.43:795][687]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.16.43:795][687]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.16.43:886][689]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.16.43:956][693]LogActorFactory: Actor Factory created Cylinder
+[2018.11.16-01.16.43:962][693]LogActorFactory: Actor Factory created Doadech
+[2018.11.16-01.16.43:964][693]LogActorFactory: Actor Factory created ToplessPyramid
+[2018.11.16-01.16.44:481][704]LogActorFactory: Actor Factory created Cylinder
+[2018.11.16-01.16.44:512][704]LogActorFactory: Actor Factory created Doadech
+[2018.11.16-01.16.44:534][704]LogActorFactory: Actor Factory created ToplessPyramid
+[2018.11.16-01.16.46:805][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.16.59:131][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToplessPyramid)
+[2018.11.16-01.17.00:471][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToplessPyramid)
+[2018.11.16-01.17.00:982][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech)
+[2018.11.16-01.17.01:613][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.11.16-01.17.05:907][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech)
+[2018.11.16-01.17.09:247][523]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.17.09:355][524]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.09:355][524]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.09:355][524]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.09:438][525]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.17.11:326][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.17.11:400][637]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.11:401][637]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.11:401][637]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.11:471][638]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.17.17:393][813]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.17.17:465][814]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.17:465][814]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.17:465][814]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.17:525][816]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.17.20:718][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ToplessPyramid)
+[2018.11.16-01.17.23:396][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.11.16-01.17.30:861][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.17.43:455][884]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2018.11.16-01.17.46:576][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.17.49:367][137]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.49:367][137]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.49:368][137]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.17.49:432][138]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.18.06:549][575]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.18.06:591][576]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.18.09:312][806]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.18.09:312][806]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.18.09:313][806]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.18.09:340][806]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.18.11:253][806]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge1_DJW129E83C408D64B26B27086064851CA27.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge1_DJW.umap'
+[2018.11.16-01.18.11:286][806]LogFileHelpers: Saving map 'StreetSceneLarge1_DJW' took 1.940
+[2018.11.16-01.30.48:895][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech)
+[2018.11.16-01.30.52:088][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.34.36:311][646]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2018.11.16-01.34.40:186][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.16-01.34.42:290][797]Cmd: EDIT COPY
+[2018.11.16-01.34.58:254][266]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:254][266]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:300][266]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.34.58:327][266]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.34.58:388][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.58:388][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:388][266]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:389][266]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.58:389][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.11.16-01.34.58:413][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.16-01.34.58:414][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.58:414][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.16-01.34.58:416][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.11.16-01.34.58:416][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:417][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.16-01.34.58:419][266]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.58:419][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.11.16-01.34.58:917][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:917][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.11.16-01.34.58:917][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.16-01.34.58:918][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.16-01.34.58:918][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.59:063][266]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.59:063][266]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.16-01.34.59:063][266]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.11.16-01.34.59:064][266]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.59:065][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.16-01.34.59:065][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.16-01.34.59:066][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.59:072][266]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.16-01.34.59:072][266]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.11.16-01.35.01:740][266]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.11.16-01.35.01:905][266]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.11.16-01.35.01:975][266]Cmd: MAP LOAD FILE="../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.16-01.35.01:975][266]LightingResults: New page: Lighting Build
+[2018.11.16-01.35.01:976][266]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.11.16-01.35.01:998][266]MapCheck: New page: Map Check
+[2018.11.16-01.35.01:998][266]LightingResults: New page: Lighting Build
+[2018.11.16-01.35.02:244][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.16-01.35.02:327][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.16-01.35.02:369][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41.9ms to complete.
+[2018.11.16-01.35.02:369][266]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.395
+[2018.11.16-01.35.10:863][609]Cmd: EDIT PASTE
+[2018.11.16-01.35.10:863][609]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.10:863][609]LogLinux: Scale at X=507.000000, Y=367.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.16:308][848]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.11.16-01.35.18:877][979]LogLinux: Scale at X=125.500000, Y=352.200012: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.18:924][980]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.35.22:529][260]LogLinux: Scale at X=0.000000, Y=0.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:529][260]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:530][260]LogLinux: Scale at X=512.000000, Y=384.000000: 1.000000 (monitor=#0, HDPI=85.557892 (horz scale: 0.891228), VDPI=85.557892 (vert scale: 0.891228))
+[2018.11.16-01.35.22:554][260]LogLinux: Setting swap interval to 'Immediate'
+[2018.11.16-01.35.25:510][260]LogSavePackage: Moving '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge13A774EA08D64B291A46EFA285E7705D.tmp' to '../../../../../../Documents/Unreal Projects/AssetPipeMaster01_try5/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.11.16-01.35.25:557][260]LogFileHelpers: Saving map 'StreetSceneLarge' took 3.002
+>>>>>>> 8afbe8b8c6a5000093369e87ba8bb799414a338a
