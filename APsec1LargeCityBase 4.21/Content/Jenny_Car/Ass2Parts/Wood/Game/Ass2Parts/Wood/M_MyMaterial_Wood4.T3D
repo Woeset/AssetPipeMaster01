@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_MyMaterial_Wood4"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=09F782ED476650B6399AE093BB94F8AD
+   Parent=Material'"/Game/Ass2Parts/Wood/M_MyMaterial_Wood.M_MyMaterial_Wood"'
+   ScalarParameterValues(0)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="Utiling"),ParameterValue=-15.889636,ExpressionGUID=C145E91D45E21D65D9B9D6B967462AAD)
+   ScalarParameterValues(1)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="VTiling"),ParameterValue=6.102376,ExpressionGUID=C0ADBC3448600FF341E8629F07F8569E)
+   ScalarParameterValues(2)=(AtlasData=(bIsUsedAsAtlasPosition=True),ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterInfo=(Name="Tint"),ParameterValue=(R=0.265151,G=0.135291,B=0.051173,A=0.000000),ExpressionGUID=CADBF4554BC356634E2FDF85EC08BC45)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=FA49C89941AF133CCB0B499340A50061
+   ReferencedTextureGuids(2)=1FD0EA824C902B50B800DCB14EA76D21
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="Black",TextureReference=/Engine/EngineResources/Black.Black)
+   TextureStreamingData(1)=(SamplingScale=12.203125,UVChannelIndex=0,TextureName="My_Texture_1_B_W",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_B_W.My_Texture_1_B_W)
+   TextureStreamingData(2)=(SamplingScale=12.203125,UVChannelIndex=0,TextureName="My_Texture_1_Normal_Map",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_Normal_Map.My_Texture_1_Normal_Map)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=722D79D344A1EF6B524B3D82FF8F4302
+End Object

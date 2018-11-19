@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="M_MYMaterial_Wood3"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   ParameterStateId=6E1BD9F94260098370F78EA138AB7F4C
+   Parent=Material'"/Game/Ass2Parts/Wood/M_MyMaterial_Wood.M_MyMaterial_Wood"'
+   ScalarParameterValues(0)=(ParameterInfo=(Name="Rough"),ParameterValue=266.388702,ExpressionGUID=B9224E5146511EF668BEF4A1841FE19B)
+   ScalarParameterValues(1)=(ParameterInfo=(Name="RefractionDepthBias"))
+   TextureParameterValues(0)=(ParameterInfo=(Name="Paint"),ParameterValue=Texture2D'"/Game/Ass2Parts/WoodTexture004paint.WoodTexture004paint"',ExpressionGUID=5EDAA7A240230E6B59D1CAA1AB3E0413)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=FA49C89941AF133CCB0B499340A50061
+   ReferencedTextureGuids(1)=3CC9A6BA45530FEC9CA4DABC89ED5BE8
+   ReferencedTextureGuids(2)=1FD0EA824C902B50B800DCB14EA76D21
+   TextureStreamingDataVersion=1
+   TextureStreamingData(0)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="My_Texture_1_B_W",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_B_W.My_Texture_1_B_W)
+   TextureStreamingData(1)=(SamplingScale=2.000000,UVChannelIndex=0,TextureName="My_Texture_1_Normal_Map",TextureReference=/Game/Ass2Parts/Wood/My_Texture_1_Normal_Map.My_Texture_1_Normal_Map)
+   TextureStreamingData(2)=(SamplingScale=1.000000,UVChannelIndex=0,TextureName="WoodTexture004paint",TextureReference=/Game/Ass2Parts/WoodTexture004paint.WoodTexture004paint)
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_0"'
+   LightingGuid=C3C8CE644CC71AEE7397D6AC4CA59A5B
+End Object
