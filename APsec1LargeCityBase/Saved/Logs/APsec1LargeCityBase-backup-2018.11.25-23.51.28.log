@@ -1,0 +1,1411 @@
+﻿Log file open, 11/25/18 21:38:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.945950
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.359s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: d:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.019s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.11.26-04.38.29:850][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-04.38.29:850][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.26-04.38.29:902][  0]LogHAL: Display: Platform has ~ 8 GB [8293462016 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.26-04.38.29:914][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.11.26-04.38.29:914][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.26-04.38.29:977][  0]LogInit: Computer: DESKTOP-HNPEJEI
+[2018.11.26-04.38.29:977][  0]LogInit: User: ziyul
+[2018.11.26-04.38.29:977][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.26-04.38.29:977][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.11.26-04.38.29:977][  0]LogMemory: Memory total: Physical=7.7GB (8GB approx)
+[2018.11.26-04.38.29:977][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.26-04.38.29:977][  0]LogMemory: Process Physical Memory: 99.88 MB used, 99.88 MB peak
+[2018.11.26-04.38.29:977][  0]LogMemory: Process Virtual Memory: 90.83 MB used, 90.83 MB peak
+[2018.11.26-04.38.29:977][  0]LogMemory: Physical Memory: 3292.51 MB used,  4616.75 MB free, 7909.26 MB total
+[2018.11.26-04.38.29:977][  0]LogMemory: Virtual Memory: 4645.04 MB used,  4616.75 MB free, 134217728.00 MB total
+[2018.11.26-04.38.31:899][  0]LogInit: Using OS detected language (zh-CN).
+[2018.11.26-04.38.31:899][  0]LogInit: Using OS detected locale (zh-CN).
+[2018.11.26-04.38.32:762][  0]LogStreaming: Display: Took  0.894s to InitEngineTextLocalization.
+[2018.11.26-04.38.32:762][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.26-04.38.34:447][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.26-04.38.34:447][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.26-04.38.36:029][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-04.38.36:029][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.26-04.38.36:750][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.26-04.38.36:750][  0]LogD3D11RHI:       6061/0/3954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.26-04.38.36:768][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.26-04.38.36:768][  0]LogD3D11RHI:       128/0/3954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.26-04.38.36:771][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.26-04.38.36:771][  0]LogD3D11RHI:       0/0/3954 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.26-04.38.36:771][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.26-04.38.36:873][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.26-04.38.36:873][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.26-04.38.36:896][  0]LogWindows: EnumDisplayDevices:
+[2018.11.26-04.38.36:896][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.26-04.38.36:898][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.26-04.38.36:899][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.26-04.38.36:900][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.26-04.38.36:918][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.26-04.38.36:919][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.26-04.38.36:921][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.26-04.38.36:922][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.26-04.38.36:922][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.26-04.38.36:922][  0]LogD3D11RHI:   Driver Version: 388.00 (internal:23.21.13.8800, unified:388.00)
+[2018.11.26-04.38.36:922][  0]LogD3D11RHI:      Driver Date: 10-12-2017
+[2018.11.26-04.38.36:922][  0]LogRHI: Texture pool is 4242 MB (70% of 6061 MB)
+[2018.11.26-04.38.37:006][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.26-04.38.37:173][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.11.26-04.38.37:215][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/14716/).
+[2018.11.26-04.38.37:215][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ziyul/AppData/Local/Temp/UnrealShaderWorkingDir/B326120A4B62A0B985AF90836662ED77/'.
+[2018.11.26-04.38.38:881][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.26-04.38.38:936][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.26-04.38.38:967][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.26-04.38.38:999][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.26-04.38.39:071][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.26-04.38.39:160][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.26-04.38.39:202][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.26-04.38.39:254][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.26-04.38.39:288][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.26-04.38.39:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:435][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.26-04.38.39:457][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.26-04.38.39:649][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-04.38.39:649][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.26-04.38.39:693][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-04.38.39:693][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.26-04.38.39:723][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.26-04.38.39:761][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.26-04.38.39:799][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.26-04.38.39:896][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.26-04.38.39:925][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.26-04.38.39:925][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.26-04.38.40:953][  0]LogXGEController: Cleaning working directory: C:/Users/ziyul/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.26-04.38.40:953][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.26-04.38.40:954][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.26-04.38.40:954][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.26-04.38.43:698][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.26-04.38.44:119][  0]LogDerivedDataCache: Loaded boot cache 0.42s 71MB C:/Users/ziyul/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-04.38.44:120][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ziyul/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.11.26-04.38.44:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.26-04.38.44:120][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.26-04.38.44:120][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.26-04.38.44:120][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.26-04.38.44:230][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.26-04.38.44:248][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ziyul/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.26-04.38.44:248][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.26-04.38.44:248][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.26-04.38.44:334][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.26-04.38.44:433][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.26-04.38.44:643][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.26-04.38.45:706][  0]LogAssetRegistry: FAssetRegistry took 0.0293 seconds to start up
+[2018.11.26-04.39.00:854][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.26-04.39.15:053][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.26-04.39.16:892][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.26-04.39.16:932][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.26-04.39.16:999][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.26-04.39.16:999][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.26-04.39.19:474][  0]LogUObjectGlobals: Warning: 寻找对象'Texture2D /Engine/EngineResources/Black.Black'失败
+[2018.11.26-04.39.19:493][  0]Error: CDO Constructor (Console): Failed to find /Engine/EngineResources/Black
+
+[2018.11.26-04.39.20:161][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.11.26-04.39.26:110][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.11.26-04.39.26:110][  0]LogUObjectBase: Warning: Error: CDO Constructor (Console): Failed to find /Engine/EngineResources/Black
+
+[2018.11.26-04.39.27:687][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.11.26-04.39.28:034][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 4 prioritized culture(s) in 0.323875 seconds
+[2018.11.26-04.39.28:083][  0]LogUObjectArray: 38422 objects as part of root set at end of initial load.
+[2018.11.26-04.39.28:083][  0]LogUObjectAllocator: 6689880 out of 0 bytes used by permanent object pool.
+[2018.11.26-04.39.28:083][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.26-04.39.57:628][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.26-04.39.57:702][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.26-04.39.58:863][  0]SourceControl: 源码控制已禁用
+[2018.11.26-04.39.58:863][  0]SourceControl: 源码控制已禁用
+[2018.11.26-04.39.58:969][  0]SourceControl: 源码控制已禁用
+[2018.11.26-04.39.59:025][  0]SourceControl: 源码控制已禁用
+[2018.11.26-04.40.00:905][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.26-04.40.01:271][  0]LogOcInput: OculusInput pre-init called
+[2018.11.26-04.40.01:951][  0]LogEngine: Initializing Engine...
+[2018.11.26-04.40.01:988][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.11.26-04.40.01:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-04.40.01:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-04.40.01:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-04.40.01:990][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-04.40.02:439][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.26-04.40.02:728][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.26-04.40.03:196][  0]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-04.40.03:474][  0]LogInit: FAudioDevice initialized.
+[2018.11.26-04.40.03:483][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.26-04.40.03:590][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/ziyul/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.11.26-04.40.03:603][  0]LogInit: Texture streaming: Enabled
+[2018.11.26-04.40.03:788][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.26-04.40.04:406][  0]LogInit: Transaction tracking system initialized
+[2018.11.26-04.40.04:768][  0]BlueprintLog: New page: 编辑器加载
+[2018.11.26-04.40.06:711][  0]LocalizationService: 本地化服务已被禁用
+[2018.11.26-04.40.10:839][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.05s
+[2018.11.26-04.40.10:839][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.26-04.40.10:839][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.26-04.40.10:839][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.26-04.40.10:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.26-04.40.10:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.26-04.40.10:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.26-04.40.10:839][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.26-04.40.17:787][  0]SourceControl: 源码控制已禁用
+[2018.11.26-04.40.17:796][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.40.17:814][  0]LightingResults: New page: 光照构建
+[2018.11.26-04.40.17:942][  0]MapCheck: New page: 地图检测
+[2018.11.26-04.40.17:942][  0]LightingResults: New page: 光照构建
+[2018.11.26-04.40.20:008][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.11.26-04.40.20:474][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.40.20:569][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.40.20:632][  0]MapCheck: 地图检测完成：0个错误，0 个警告，用时63.379毫秒完成。
+[2018.11.26-04.40.20:633][  0]LogFileHelpers: Loading map 'Template_Default' took 2.837
+[2018.11.26-04.40.21:835][  0]LogWindowsTextInputMethodSystem: Display: IME system now activated using TSF (微软拼音).
+[2018.11.26-04.40.22:609][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-04.40.22:675][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-04.40.22:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-04.40.22:691][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-04.40.22:897][  0]LogCollectionManager: Loaded 0 collections in 0.001003 seconds
+[2018.11.26-04.40.23:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.11.26-04.40.23:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/ziyul/Collections/' took 0.01s
+[2018.11.26-04.40.23:108][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.11.26-04.40.23:108][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.26-04.40.23:142][  0]LogContentBrowser: Native class hierarchy populated in 0.0310 seconds. Added 2572 classes and 603 folders.
+[2018.11.26-04.40.23:306][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-04.40.24:274][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-04.40.24:347][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.26-04.40.24:933][  0]LogSlate: Took 0.020909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.26-04.40.25:035][  0]LogSlate: Took 0.053244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.11.26-04.40.25:053][  0]LogSlate: Took 0.017049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.26-04.40.25:100][  0]LogSlate: Took 0.017788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.26-04.40.25:549][  0]LogRenderer: Reallocating scene render targets to support 1168x600 Format 10 NumSamples 1 (Frame:1).
+[2018.11.26-04.40.26:311][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.26-04.40.26:311][  0]LogLoad: (Engine Initialization) Total time: 155.44 seconds
+[2018.11.26-04.40.26:311][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.26-04.40.26:941][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.26-04.40.27:267][  0]LogSlate: Took 0.029091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-04.40.27:416][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.86s
+[2018.11.26-04.40.27:607][  3]LogAssetRegistry: Asset discovery search completed in 101.9234 seconds
+[2018.11.26-04.40.27:611][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.11.26-04.40.27:611][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000190 seconds (updated 0 objects)
+[2018.11.26-04.40.27:761][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.40.54:257][908]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.26-04.40.54:446][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:448][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:450][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:452][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:456][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:607][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/gold_painted_wood'
+[2018.11.26-04.40.54:607][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/gold_painted_wood'的文件。
+[2018.11.26-04.40.54:607][908]LoadErrors: Error: /Game/Beecroft_Car/the_car : 无法寻找到资源的文件。 /Game/Beecroft_Car/gold_painted_wood
+[2018.11.26-04.40.54:608][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/Grill_wood'
+[2018.11.26-04.40.54:608][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/Grill_wood'的文件。
+[2018.11.26-04.40.54:608][908]LoadErrors: Error: /Game/Beecroft_Car/the_car : 无法寻找到资源的文件。 /Game/Beecroft_Car/Grill_wood
+[2018.11.26-04.40.54:608][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/lambert1'
+[2018.11.26-04.40.54:608][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/lambert1'的文件。
+[2018.11.26-04.40.54:608][908]LoadErrors: Error: /Game/Beecroft_Car/the_car : 无法寻找到资源的文件。 /Game/Beecroft_Car/lambert1
+[2018.11.26-04.40.54:610][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/gold_painted_wood'
+[2018.11.26-04.40.54:611][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/gold_painted_wood'的文件。
+[2018.11.26-04.40.54:611][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/Grill_wood'
+[2018.11.26-04.40.54:611][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/Grill_wood'的文件。
+[2018.11.26-04.40.54:611][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/lambert1'
+[2018.11.26-04.40.54:612][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset时寻找到资源'/Game/Beecroft_Car/lambert1'的文件。
+[2018.11.26-04.40.54:613][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:615][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:617][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:630][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn2'
+[2018.11.26-04.40.54:631][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset时寻找到资源'/Game/wood/blinn2'的文件。
+[2018.11.26-04.40.54:631][908]LoadErrors: Error: /Game/Car_XH/wood/car : 无法寻找到资源的文件。 /Game/wood/blinn2
+[2018.11.26-04.40.54:631][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn3'
+[2018.11.26-04.40.54:632][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset时寻找到资源'/Game/wood/blinn3'的文件。
+[2018.11.26-04.40.54:632][908]LoadErrors: Error: /Game/Car_XH/wood/car : 无法寻找到资源的文件。 /Game/wood/blinn3
+[2018.11.26-04.40.54:632][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn2'
+[2018.11.26-04.40.54:632][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset时寻找到资源'/Game/wood/blinn2'的文件。
+[2018.11.26-04.40.54:632][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn3'
+[2018.11.26-04.40.54:633][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset时寻找到资源'/Game/wood/blinn3'的文件。
+[2018.11.26-04.40.54:666][908]LogLinker: Warning: Asset 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.11.26-04.40.54:685][908]LogLinker: Warning: 无法寻找到文件'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.11.26-04.40.54:685][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset时寻找到资源'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'的文件。
+[2018.11.26-04.40.54:685][908]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : 无法寻找到资源的文件。 /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.11.26-04.40.54:686][908]LogLinker: Warning: 无法寻找到文件'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.11.26-04.40.54:686][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset时寻找到资源'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'的文件。
+[2018.11.26-04.40.54:737][908]LogLinker: Warning: 无法寻找到文件'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.11.26-04.40.54:738][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset时寻找到资源'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'的文件。
+[2018.11.26-04.40.54:738][908]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : 无法寻找到资源的文件。 /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.11.26-04.40.54:742][908]LogLinker: Warning: 无法寻找到文件'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.11.26-04.40.54:743][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset时寻找到资源'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'的文件。
+[2018.11.26-04.40.54:792][908]LogLinker: Warning: 无法寻找到文件'/Game/phong3SG'
+[2018.11.26-04.40.54:792][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset时寻找到资源'/Game/phong3SG'的文件。
+[2018.11.26-04.40.54:792][908]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : 无法寻找到资源的文件。 /Game/phong3SG
+[2018.11.26-04.40.54:792][908]LogLinker: Warning: 无法寻找到文件'/Game/phong3SG'
+[2018.11.26-04.40.54:793][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset时寻找到资源'/Game/phong3SG'的文件。
+[2018.11.26-04.40.54:795][908]LogLinker: Warning: 无法寻找到文件'/Game/phong1SG'
+[2018.11.26-04.40.54:795][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset时寻找到资源'/Game/phong1SG'的文件。
+[2018.11.26-04.40.54:795][908]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : 无法寻找到资源的文件。 /Game/phong1SG
+[2018.11.26-04.40.54:795][908]LogLinker: Warning: 无法寻找到文件'/Game/phong1SG'
+[2018.11.26-04.40.54:795][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset时寻找到资源'/Game/phong1SG'的文件。
+[2018.11.26-04.40.54:798][908]LogLinker: Warning: 无法寻找到文件'/Game/phong2SG'
+[2018.11.26-04.40.54:798][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset时寻找到资源'/Game/phong2SG'的文件。
+[2018.11.26-04.40.54:798][908]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : 无法寻找到资源的文件。 /Game/phong2SG
+[2018.11.26-04.40.54:798][908]LogLinker: Warning: 无法寻找到文件'/Game/phong2SG'
+[2018.11.26-04.40.54:798][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset时寻找到资源'/Game/phong2SG'的文件。
+[2018.11.26-04.40.54:801][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.26-04.40.54:801][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset时寻找到资源'/Game/woodBlocksContent/M_WoodBlock001'的文件。
+[2018.11.26-04.40.54:801][908]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : 无法寻找到资源的文件。 /Game/woodBlocksContent/M_WoodBlock001
+[2018.11.26-04.40.54:801][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.26-04.40.54:802][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset时寻找到资源'/Game/woodBlocksContent/M_WoodBlock001'的文件。
+[2018.11.26-04.40.54:803][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.26-04.40.54:804][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset时寻找到资源'/Game/woodBlocksContent/M_BarkNormal'的文件。
+[2018.11.26-04.40.54:804][908]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : 无法寻找到资源的文件。 /Game/woodBlocksContent/M_BarkNormal
+[2018.11.26-04.40.54:804][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.26-04.40.54:804][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset时寻找到资源'/Game/woodBlocksContent/M_BarkNormal'的文件。
+[2018.11.26-04.40.54:806][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.26-04.40.54:807][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset时寻找到资源'/Game/woodBlocksContent/M_BarkBurned'的文件。
+[2018.11.26-04.40.54:807][908]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : 无法寻找到资源的文件。 /Game/woodBlocksContent/M_BarkBurned
+[2018.11.26-04.40.54:807][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.26-04.40.54:807][908]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset时寻找到资源'/Game/woodBlocksContent/M_BarkBurned'的文件。
+[2018.11.26-04.40.56:874][908]LogLinker: Warning: 无法寻找到文件'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.11.26-04.40.56:874][908]LoadErrors: 加载失败 /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 引用者 House
+[2018.11.26-04.40.56:874][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'的文件。
+[2018.11.26-04.40.56:876][908]LogLinker: Warning: 无法寻找到文件'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.11.26-04.40.56:876][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'的文件。
+[2018.11.26-04.40.56:884][908]LogTexture: Display: Building textures: brickMap (BGRA8, 275X183)
+[2018.11.26-04.40.56:884][908]LogLinker: Warning: 无法寻找到文件'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.11.26-04.40.56:884][908]LoadErrors: 加载失败 /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat 引用者 MannequinResizedCombinedMesh
+[2018.11.26-04.40.56:885][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'的文件。
+[2018.11.26-04.40.56:885][908]LogLinker: Warning: 无法寻找到文件'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.11.26-04.40.56:885][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'的文件。
+[2018.11.26-04.40.56:899][908]LogTexture: Display: Building textures: Out_of_class_A2 (AutoDXT, 1024X1024)
+[2018.11.26-04.40.56:900][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn2'
+[2018.11.26-04.40.56:900][908]LoadErrors: 加载失败 /Game/wood/blinn2.blinn2 引用者 car
+[2018.11.26-04.40.56:901][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/wood/blinn2'的文件。
+[2018.11.26-04.40.56:902][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn3'
+[2018.11.26-04.40.56:902][908]LoadErrors: 加载失败 /Game/wood/blinn3.blinn3 引用者 car
+[2018.11.26-04.40.56:903][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/wood/blinn3'的文件。
+[2018.11.26-04.40.56:903][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn2'
+[2018.11.26-04.40.56:904][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/wood/blinn2'的文件。
+[2018.11.26-04.40.56:905][908]LogLinker: Warning: 无法寻找到文件'/Game/wood/blinn3'
+[2018.11.26-04.40.56:905][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/wood/blinn3'的文件。
+[2018.11.26-04.40.56:918][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/Grill_wood'
+[2018.11.26-04.40.56:918][908]LoadErrors: 加载失败 /Game/Beecroft_Car/Grill_wood.Grill_wood 引用者 the_car
+[2018.11.26-04.40.56:918][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/Grill_wood'的文件。
+[2018.11.26-04.40.56:919][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/lambert1'
+[2018.11.26-04.40.56:919][908]LoadErrors: 加载失败 /Game/Beecroft_Car/lambert1.lambert1 引用者 the_car
+[2018.11.26-04.40.56:919][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/lambert1'的文件。
+[2018.11.26-04.40.56:920][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/gold_painted_wood'
+[2018.11.26-04.40.56:920][908]LoadErrors: 加载失败 /Game/Beecroft_Car/gold_painted_wood.gold_painted_wood 引用者 the_car
+[2018.11.26-04.40.56:921][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/gold_painted_wood'的文件。
+[2018.11.26-04.40.56:921][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/Grill_wood'
+[2018.11.26-04.40.56:922][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/Grill_wood'的文件。
+[2018.11.26-04.40.56:923][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/lambert1'
+[2018.11.26-04.40.56:923][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/lambert1'的文件。
+[2018.11.26-04.40.56:924][908]LogLinker: Warning: 无法寻找到文件'/Game/Beecroft_Car/gold_painted_wood'
+[2018.11.26-04.40.56:924][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Beecroft_Car/gold_painted_wood'的文件。
+[2018.11.26-04.40.56:930][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.26-04.40.56:930][908]LoadErrors: 加载失败 /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned 引用者 tubeTAdy
+[2018.11.26-04.40.56:930][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_BarkBurned'的文件。
+[2018.11.26-04.40.56:931][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkBurned'
+[2018.11.26-04.40.56:931][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_BarkBurned'的文件。
+[2018.11.26-04.40.56:932][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.26-04.40.56:932][908]LoadErrors: 加载失败 /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal 引用者 hangingBrickTAdyREDO
+[2018.11.26-04.40.56:933][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_BarkNormal'的文件。
+[2018.11.26-04.40.56:933][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_BarkNormal'
+[2018.11.26-04.40.56:934][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_BarkNormal'的文件。
+[2018.11.26-04.40.56:935][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.26-04.40.56:935][908]LoadErrors: 加载失败 /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 引用者 halfSphereTAdy
+[2018.11.26-04.40.56:935][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_WoodBlock001'的文件。
+[2018.11.26-04.40.56:936][908]LogLinker: Warning: 无法寻找到文件'/Game/woodBlocksContent/M_WoodBlock001'
+[2018.11.26-04.40.56:936][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/woodBlocksContent/M_WoodBlock001'的文件。
+[2018.11.26-04.40.56:937][908]LogLinker: Warning: 无法寻找到文件'/Game/phong2SG'
+[2018.11.26-04.40.56:937][908]LoadErrors: 加载失败 /Game/phong2SG.phong2SG 引用者 SmartCarUVObj_pCylinder8
+[2018.11.26-04.40.56:937][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong2SG'的文件。
+[2018.11.26-04.40.56:938][908]LogLinker: Warning: 无法寻找到文件'/Game/phong2SG'
+[2018.11.26-04.40.56:938][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong2SG'的文件。
+[2018.11.26-04.40.56:939][908]LogLinker: Warning: 无法寻找到文件'/Game/phong1SG'
+[2018.11.26-04.40.56:939][908]LoadErrors: 加载失败 /Game/phong1SG.phong1SG 引用者 SmartCarUVObj_pCylinder10
+[2018.11.26-04.40.56:940][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong1SG'的文件。
+[2018.11.26-04.40.56:940][908]LogLinker: Warning: 无法寻找到文件'/Game/phong1SG'
+[2018.11.26-04.40.56:940][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong1SG'的文件。
+[2018.11.26-04.40.56:941][908]LogLinker: Warning: 无法寻找到文件'/Game/phong3SG'
+[2018.11.26-04.40.56:941][908]LoadErrors: 加载失败 /Game/phong3SG.phong3SG 引用者 SmartCarUVObj_pCube1
+[2018.11.26-04.40.56:942][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong3SG'的文件。
+[2018.11.26-04.40.56:942][908]LogLinker: Warning: 无法寻找到文件'/Game/phong3SG'
+[2018.11.26-04.40.56:943][908]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/phong3SG'的文件。
+[2018.11.26-04.40.57:360][908]LogTexture: Display: Building textures: HatUV (AutoDXT, 2048X2048)
+[2018.11.26-04.40.57:360][908]LogTexture: Display: Building textures: A6ExportV2_EPNoShoulderDecal (AutoDXT, 4096X4096)
+[2018.11.26-04.40.57:387][908]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.11.26-04.40.57:465][908]LogMaterial: Warning: C:\Users\ziyul\Desktop\AssetPipeMaster01\APsec1LargeCityBase\Content\GY_Car\M_MasterWoodBlock_AP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.26-04.40.57:465][908]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.26-04.40.57:483][908]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.11.26-04.40.57:485][908]LogMaterial: Warning: C:\Users\ziyul\Desktop\AssetPipeMaster01\APsec1LargeCityBase\Content\woodBlocksContent\M_MasterWoodBlock_AP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.26-04.40.57:485][908]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.26-04.41.11:042][908]LogTexture: Display: Building textures: cloth (BC5, 3576X3576)
+[2018.11.26-04.41.11:329][908]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.11.26-04.41.11:329][908]LogTexture: Display: Building textures: pirateTexture (AutoDXT, 8192X8192)
+[2018.11.26-04.41.11:329][908]LogTexture: Display: Building textures: manPaint (AutoDXT, 8192X8192)
+[2018.11.26-04.41.15:538][908]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.11.26-04.41.16:318][908]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.41.16:318][908]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.41.16:318][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.41.16:319][908]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP_DJW, compiling. 
+[2018.11.26-04.41.16:657][908]LogMaterial: Warning: C:\Users\ziyul\Desktop\AssetPipeMaster01\APsec1LargeCityBase\Content\Car_DJW\M_MasterWoodBlock_AP_DJW.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.26-04.41.16:657][908]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.26-04.41.19:737][908]LogMaterial: Display: Missing cached shader map for material M_MyMaterial_Wood, compiling. 
+[2018.11.26-04.41.19:738][908]LogMaterial: Warning: C:\Users\ziyul\Desktop\AssetPipeMaster01\APsec1LargeCityBase\Content\Jenny_Car\M_MyMaterial_Wood.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.26-04.41.19:738][908]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.26-04.41.19:758][908]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.11.26-04.41.19:759][908]LogMaterial: Warning: C:\Users\ziyul\Desktop\AssetPipeMaster01\APsec1LargeCityBase\Content\WoodCar_JO\InckassWoodgrain_JO\M_MasterWoodBlock_AP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.11.26-04.41.19:759][908]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.11.26-04.41.22:110][908]LogStaticMesh: 正在构建静态网格物体House...
+[2018.11.26-04.41.25:196][908]LogStaticMesh: Built static mesh [3.11s] /Game/JSW_Source/Jenny_Car/House.House
+[2018.11.26-04.41.26:410][908]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2018.11.26-04.41.26:462][908]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.41.26:462][908]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.41.26:462][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.41.26:462][908]LogStaticMesh: 正在构建静态网格物体UV_Octagon...
+[2018.11.26-04.41.26:469][908]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Blocks/UV_Octagon.UV_Octagon
+[2018.11.26-04.41.26:517][908]LogMaterial: Display: Missing cached shader map for material pCylinder1Mat, compiling. 
+[2018.11.26-04.41.26:538][908]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.41.26:538][908]LogStaticMesh: 正在构建静态网格物体UV_Hex...
+[2018.11.26-04.41.26:549][908]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Blocks/UV_Hex.UV_Hex
+[2018.11.26-04.41.26:629][908]LogStaticMesh: 正在构建静态网格物体MannequinResizedCombinedMesh...
+[2018.11.26-04.41.26:896][908]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.41.26:897][908]LogStaticMesh: Built static mesh [0.27s] /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.MannequinResizedCombinedMesh
+[2018.11.26-04.41.26:972][908]LogStaticMesh: 正在构建静态网格物体Doadech...
+[2018.11.26-04.41.26:982][908]LogStaticMesh: Built static mesh [0.01s] /Game/DJW_Source/WoodBlocks_DJW/Doadech.Doadech
+[2018.11.26-04.41.27:095][908]LogStaticMesh: 正在构建静态网格物体CL_figure...
+[2018.11.26-04.41.27:414][908]LogStaticMesh: Built static mesh [0.32s] /Game/CL_SOURCE/CLFigSource/CL_figure.CL_figure
+[2018.11.26-04.41.27:570][908]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2018.11.26-04.41.27:588][908]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.11.26-04.41.27:607][908]LogStaticMesh: 正在构建静态网格物体wall_4...
+[2018.11.26-04.41.27:624][908]LogStaticMesh: Built static mesh [0.02s] /Game/Car_XH/wood/wall_4.wall_4
+[2018.11.26-04.41.27:646][908]LogStaticMesh: 正在构建静态网格物体BBlock3...
+[2018.11.26-04.41.27:659][908]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock3.BBlock3
+[2018.11.26-04.41.27:664][908]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2018.11.26-04.41.27:688][908]LogStaticMesh: 正在构建静态网格物体BBlock2...
+[2018.11.26-04.41.27:702][908]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock2.BBlock2
+[2018.11.26-04.41.27:838][908]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.11.26-04.41.27:857][908]LogStaticMesh: 正在构建静态网格物体m_pCylinder1...
+[2018.11.26-04.41.27:864][908]LogStaticMesh: Built static mesh [0.01s] /Game/Resources_TA/m_pCylinder1.m_pCylinder1
+[2018.11.26-04.41.27:870][908]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.11.26-04.41.27:954][908]LogStaticMesh: 正在构建静态网格物体m_Core1...
+[2018.11.26-04.41.28:222][908]LogStaticMesh: Built static mesh [0.27s] /Game/Resources_TA/m_Core1.m_Core1
+[2018.11.26-04.41.29:008][908]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.11.26-04.41.29:467][908]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.11.26-04.41.30:471][908]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.11.26-04.41.31:811][908]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.11.26-04.41.31:811][908]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.11.26-04.41.31:811][908]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.11.26-04.41.32:615][908]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.11.26-04.41.34:245][908]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.11.26-04.41.34:245][908]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.11.26-04.41.34:245][908]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.11.26-04.41.34:822][908]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.11.26-04.41.35:715][908]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.41.35:715][908]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.41.35:715][908]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.41.36:818][908]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.41.36:980][908]LightingResults: New page: 光照构建
+[2018.11.26-04.41.37:597][908]LoadErrors: New page: 正在加载地图： StreetSceneLarge.umap
+[2018.11.26-04.41.38:128][908]MapCheck: New page: 地图检测
+[2018.11.26-04.41.38:128][908]LightingResults: New page: 光照构建
+[2018.11.26-04.41.41:301][908]LogEditorServer: Finished looking for orphan Actors (0.010 secs)
+[2018.11.26-04.41.41:932][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.41.43:840][908]MapCheck: 地图检测完成：0个错误，0 个警告，用时1,873.867毫秒完成。
+[2018.11.26-04.41.43:855][908]LogFileHelpers: Loading map 'StreetSceneLarge' took 7.871
+[2018.11.26-04.41.44:726][908]LoadErrors: Error: /Game/GY_Car/M_MasterWoodBlock_AP : Failed import for Texture2D /Engine/EngineResources/Black.Black Referenced by export MaterialExpressionTextureSampleParameter2D /Game/GY_Car/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP:MaterialExpressionTextureSampleParameter2D_0
+[2018.11.26-04.41.44:726][908]LoadErrors: Error: /Game/woodBlocksContent/M_MasterWoodBlock_AP : Failed import for Texture2D /Engine/EngineResources/Black.Black Referenced by export MaterialExpressionTextureSampleParameter2D /Game/woodBlocksContent/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP:MaterialExpressionTextureSampleParameter2D_0
+[2018.11.26-04.41.44:726][908]LoadErrors: Error: /Game/Car_DJW/M_MasterWoodBlock_AP_DJW : Failed import for Texture2D /Engine/EngineResources/Black.Black Referenced by export MaterialExpressionTextureSampleParameter2D /Game/Car_DJW/M_MasterWoodBlock_AP_DJW.M_MasterWoodBlock_AP_DJW:MaterialExpressionTextureSampleParameter2D_0
+[2018.11.26-04.41.44:726][908]LoadErrors: Error: /Game/Jenny_Car/M_MyMaterial_Wood : Failed import for Texture2D /Engine/EngineResources/Black.Black Referenced by export MaterialExpressionTextureSampleParameter2D /Game/Jenny_Car/M_MyMaterial_Wood.M_MyMaterial_Wood:MaterialExpressionTextureSampleParameter2D_0
+[2018.11.26-04.41.44:727][908]LoadErrors: Error: /Game/WoodCar_JO/InckassWoodgrain_JO/M_MasterWoodBlock_AP : Failed import for Texture2D /Engine/EngineResources/Black.Black Referenced by export MaterialExpressionTextureSampleParameter2D /Game/WoodCar_JO/InckassWoodgrain_JO/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP:MaterialExpressionTextureSampleParameter2D_1
+[2018.11.26-04.41.49:398][909]LogEditorViewport: Clicking on Actor (LMB): ERP_Car_C (ERP_Car2)
+[2018.11.26-04.43.41:914][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.43.48:607][300]LogAIModule: Creating AISystem for world StreetSceneLarge_ZYL
+[2018.11.26-04.43.48:708][300]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_ZYL.StreetSceneLarge_ZYL
+[2018.11.26-04.43.48:757][300]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.43.48:757][300]LightingResults: New page: 光照构建
+[2018.11.26-04.43.48:757][300]LoadErrors: New page: 正在加载地图： StreetSceneLarge_ZYL.umap
+[2018.11.26-04.43.48:852][300]MapCheck: New page: 地图检测
+[2018.11.26-04.43.48:852][300]LightingResults: New page: 光照构建
+[2018.11.26-04.43.49:025][300]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.43.49:092][300]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.43.49:280][300]MapCheck: 地图检测完成：0个错误，0 个警告，用时188.795毫秒完成。
+[2018.11.26-04.43.49:286][300]LogFileHelpers: Loading map 'StreetSceneLarge_ZYL' took 0.530
+[2018.11.26-04.43.59:855][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.44.00:032][876]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/StreetSceneLarge_TA_BuiltData.StreetSceneLarge_TA_BuiltData
+[2018.11.26-04.44.01:984][952]LogSlate: Window 'StreetSceneLarge_TA_BuiltData - 通用资源编辑器' being destroyed
+[2018.11.26-04.44.01:993][952]LogSlate: Window 'StreetSceneLarge_TA_BuiltData - 通用资源编辑器' being destroyed
+[2018.11.26-04.44.10:341][359]LogAIModule: Creating AISystem for world StreetSceneLarge_SLH
+[2018.11.26-04.44.10:386][359]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_SLH.StreetSceneLarge_SLH
+[2018.11.26-04.44.10:422][359]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SLH.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.10:422][359]LightingResults: New page: 光照构建
+[2018.11.26-04.44.10:422][359]LoadErrors: New page: 正在加载地图： StreetSceneLarge_SLH.umap
+[2018.11.26-04.44.10:444][359]MapCheck: New page: 地图检测
+[2018.11.26-04.44.10:444][359]LightingResults: New page: 光照构建
+[2018.11.26-04.44.10:556][359]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.10:621][359]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.10:787][359]MapCheck: 地图检测完成：0个错误，0 个警告，用时167.008毫秒完成。
+[2018.11.26-04.44.10:787][359]LogFileHelpers: Loading map 'StreetSceneLarge_SLH' took 0.367
+[2018.11.26-04.44.15:931][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.44.16:481][631]LogMaterial: Display: Missing cached shader map for material pCylinder5Mat, compiling. 
+[2018.11.26-04.44.16:495][631]LogStaticMesh: 正在构建静态网格物体DomeUV...
+[2018.11.26-04.44.16:503][631]LogStaticMesh: Built static mesh [0.01s] /Game/MACBocks/DomeUV.DomeUV
+[2018.11.26-04.44.16:504][631]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.44.16:504][631]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.44.16:504][631]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.44.16:504][631]LogStaticMesh: 正在构建静态网格物体DimondUV...
+[2018.11.26-04.44.16:507][631]LogStaticMesh: Built static mesh [0.00s] /Game/MACBocks/DimondUV.DimondUV
+[2018.11.26-04.44.16:512][631]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2018.11.26-04.44.16:532][631]LogStaticMesh: 正在构建静态网格物体BookUV...
+[2018.11.26-04.44.16:556][631]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.44.16:556][631]LogStaticMesh: Built static mesh [0.02s] /Game/MACBocks/BookUV.BookUV
+[2018.11.26-04.44.16:577][631]LogAIModule: Creating AISystem for world StreetSceneLarge_AC
+[2018.11.26-04.44.16:593][631]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_AC.StreetSceneLarge_AC
+[2018.11.26-04.44.16:622][631]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_AC.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.16:622][631]LightingResults: New page: 光照构建
+[2018.11.26-04.44.16:622][631]LoadErrors: New page: 正在加载地图： StreetSceneLarge_AC.umap
+[2018.11.26-04.44.16:634][631]MapCheck: New page: 地图检测
+[2018.11.26-04.44.16:634][631]LightingResults: New page: 光照构建
+[2018.11.26-04.44.16:684][631]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.16:729][631]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.16:949][631]MapCheck: 地图检测完成：0个错误，0 个警告，用时219.631毫秒完成。
+[2018.11.26-04.44.16:950][631]LogFileHelpers: Loading map 'StreetSceneLarge_AC' took 0.330
+[2018.11.26-04.44.17:659][659]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.44.20:366][801]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.44.32:357][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.44.32:767][515]LogMaterial: Display: Missing cached shader map for material pDisc3Mat, compiling. 
+[2018.11.26-04.44.32:787][515]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-04.44.32:787][515]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-04.44.32:787][515]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-04.44.32:787][515]LogStaticMesh: 正在构建静态网格物体UV_Semi_Circle...
+[2018.11.26-04.44.32:815][515]LogStaticMesh: Built static mesh [0.03s] /Game/GY_Blocks/UV_Semi_Circle.UV_Semi_Circle
+[2018.11.26-04.44.32:840][515]LogAIModule: Creating AISystem for world StreetSceneLarge_GY
+[2018.11.26-04.44.32:870][515]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_GY.StreetSceneLarge_GY
+[2018.11.26-04.44.32:901][515]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_GY.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.32:901][515]LightingResults: New page: 光照构建
+[2018.11.26-04.44.32:902][515]LoadErrors: New page: 正在加载地图： StreetSceneLarge_GY.umap
+[2018.11.26-04.44.32:905][515]MapCheck: New page: 地图检测
+[2018.11.26-04.44.32:905][515]LightingResults: New page: 光照构建
+[2018.11.26-04.44.33:040][515]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.33:098][515]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.33:316][515]MapCheck: 地图检测完成：0个错误，0 个警告，用时216.995毫秒完成。
+[2018.11.26-04.44.33:318][515]LogFileHelpers: Loading map 'StreetSceneLarge_GY' took 0.417
+[2018.11.26-04.44.38:916][762]LogAIModule: Creating AISystem for world StreetSceneLarge_JO
+[2018.11.26-04.44.38:942][762]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_JO.StreetSceneLarge_JO
+[2018.11.26-04.44.38:974][762]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_JO.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.38:974][762]LightingResults: New page: 光照构建
+[2018.11.26-04.44.38:975][762]LoadErrors: New page: 正在加载地图： StreetSceneLarge_JO.umap
+[2018.11.26-04.44.38:982][762]MapCheck: New page: 地图检测
+[2018.11.26-04.44.38:982][762]LightingResults: New page: 光照构建
+[2018.11.26-04.44.39:051][762]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.39:150][762]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.39:325][762]MapCheck: 地图检测完成：0个错误，0 个警告，用时174.25毫秒完成。
+[2018.11.26-04.44.39:325][762]LogFileHelpers: Loading map 'StreetSceneLarge_JO' took 0.353
+[2018.11.26-04.44.42:277][853]LogAIModule: Creating AISystem for world StreetSceneLarge_JSW
+[2018.11.26-04.44.42:336][853]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_JSW.StreetSceneLarge_JSW
+[2018.11.26-04.44.42:377][853]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_JSW.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.42:377][853]LightingResults: New page: 光照构建
+[2018.11.26-04.44.42:378][853]LoadErrors: New page: 正在加载地图： StreetSceneLarge_JSW.umap
+[2018.11.26-04.44.42:385][853]MapCheck: New page: 地图检测
+[2018.11.26-04.44.42:385][853]LightingResults: New page: 光照构建
+[2018.11.26-04.44.42:509][853]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.42:574][853]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.42:757][853]MapCheck: 地图检测完成：0个错误，0 个警告，用时183.236毫秒完成。
+[2018.11.26-04.44.42:759][853]LogFileHelpers: Loading map 'StreetSceneLarge_JSW' took 0.382
+[2018.11.26-04.44.44:523][922]LogLinker: Warning: 无法寻找到文件'/Game/AE86_JustinNguyen/Car_UV'
+[2018.11.26-04.44.44:523][922]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_JustinNguyen.umap时寻找到资源'/Game/AE86_JustinNguyen/Car_UV'的文件。
+[2018.11.26-04.44.44:523][922]LoadErrors: Error: /Game/StreetSceneLarge_JustinNguyen : 无法寻找到资源的文件。 /Game/AE86_JustinNguyen/Car_UV
+[2018.11.26-04.44.44:529][922]LogLinker: Warning: 无法寻找到文件'/Game/AE86_JustinNguyen/Car_UV'
+[2018.11.26-04.44.44:529][922]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_JustinNguyen.umap时寻找到资源'/Game/AE86_JustinNguyen/Car_UV'的文件。
+[2018.11.26-04.44.44:718][922]LogLinker: Warning: 无法寻找到文件'/Game/AE86_JustinNguyen/Car_UV'
+[2018.11.26-04.44.44:718][922]LoadErrors: 加载失败 /Game/AE86_JustinNguyen/Car_UV.Car_UV 引用者 Car_UV_2
+[2018.11.26-04.44.44:718][922]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/AE86_JustinNguyen/Car_UV'的文件。
+[2018.11.26-04.44.44:788][922]LogAIModule: Creating AISystem for world StreetSceneLarge_JustinNguyen
+[2018.11.26-04.44.44:800][922]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_JustinNguyen.StreetSceneLarge_JustinNguyen
+[2018.11.26-04.44.44:831][922]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_JustinNguyen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.44:831][922]LightingResults: New page: 光照构建
+[2018.11.26-04.44.44:832][922]LoadErrors: New page: 正在加载地图： StreetSceneLarge_JustinNguyen.umap
+[2018.11.26-04.44.44:848][922]MapCheck: New page: 地图检测
+[2018.11.26-04.44.44:848][922]LightingResults: New page: 光照构建
+[2018.11.26-04.44.44:901][922]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.44:941][922]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.45:120][922]MapCheck: 地图检测完成：0个错误，0 个警告，用时178.518毫秒完成。
+[2018.11.26-04.44.45:122][922]LogFileHelpers: Loading map 'StreetSceneLarge_JustinNguyen' took 0.293
+[2018.11.26-04.44.48:832][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.44.49:197][139]LogLinker: Warning: 无法寻找到文件'/Game/Textured_Blocks_Level/Wooden_Texture_01'
+[2018.11.26-04.44.49:197][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Block_01_textured.uasset时寻找到资源'/Game/Textured_Blocks_Level/Wooden_Texture_01'的文件。
+[2018.11.26-04.44.49:197][139]LoadErrors: Error: /Game/Marcellano_Mascarenas/Block_01_textured : 无法寻找到资源的文件。 /Game/Textured_Blocks_Level/Wooden_Texture_01
+[2018.11.26-04.44.49:198][139]LogLinker: Warning: 无法寻找到文件'/Game/Textured_Blocks_Level/Wooden_Texture_01'
+[2018.11.26-04.44.49:198][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Block_01_textured.uasset时寻找到资源'/Game/Textured_Blocks_Level/Wooden_Texture_01'的文件。
+[2018.11.26-04.44.49:214][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn3SG'
+[2018.11.26-04.44.49:214][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_pCube2.uasset时寻找到资源'/Game/Car/blinn3SG'的文件。
+[2018.11.26-04.44.49:214][139]LoadErrors: Error: /Game/Marcellano_Mascarenas/Car/Car_Parts_pCube2 : 无法寻找到资源的文件。 /Game/Car/blinn3SG
+[2018.11.26-04.44.49:214][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn3SG'
+[2018.11.26-04.44.49:214][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_pCube2.uasset时寻找到资源'/Game/Car/blinn3SG'的文件。
+[2018.11.26-04.44.49:218][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:219][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_polySurface1.uasset时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:219][139]LoadErrors: Error: /Game/Marcellano_Mascarenas/Car/Car_Parts_polySurface1 : 无法寻找到资源的文件。 /Game/Car/blinn4SG
+[2018.11.26-04.44.49:219][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:219][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_polySurface1.uasset时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:223][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:223][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_polySurface2.uasset时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:223][139]LoadErrors: Error: /Game/Marcellano_Mascarenas/Car/Car_Parts_polySurface2 : 无法寻找到资源的文件。 /Game/Car/blinn4SG
+[2018.11.26-04.44.49:224][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:224][139]LogLinker: Warning: 无法在加载C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/Marcellano_Mascarenas/Car/Car_Parts_polySurface2.uasset时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:532][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn3SG'
+[2018.11.26-04.44.49:532][139]LoadErrors: 加载失败 /Game/Car/blinn3SG.blinn3SG 引用者 Car_Parts_pCube2
+[2018.11.26-04.44.49:532][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn3SG'的文件。
+[2018.11.26-04.44.49:533][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn3SG'
+[2018.11.26-04.44.49:533][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn3SG'的文件。
+[2018.11.26-04.44.49:535][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:535][139]LoadErrors: 加载失败 /Game/Car/blinn4SG.blinn4SG 引用者 Car_Parts_polySurface1
+[2018.11.26-04.44.49:535][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:535][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:535][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:623][139]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.49:624][139]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.49:624][139]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.49:624][139]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.49:624][139]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.49:626][139]LogLinker: Warning: 无法寻找到文件'/Game/Textured_Blocks_Level/Wooden_Texture_01'
+[2018.11.26-04.44.49:628][139]LoadErrors: 加载失败 /Game/Textured_Blocks_Level/Wooden_Texture_01.Wooden_Texture_01 引用者 Block_01_textured
+[2018.11.26-04.44.49:629][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Textured_Blocks_Level/Wooden_Texture_01'的文件。
+[2018.11.26-04.44.49:630][139]LogLinker: Warning: 无法寻找到文件'/Game/Textured_Blocks_Level/Wooden_Texture_01'
+[2018.11.26-04.44.49:630][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Textured_Blocks_Level/Wooden_Texture_01'的文件。
+[2018.11.26-04.44.49:636][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:636][139]LoadErrors: 加载失败 /Game/Car/blinn4SG.blinn4SG 引用者 Car_Parts_polySurface2
+[2018.11.26-04.44.49:636][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:637][139]LogLinker: Warning: 无法寻找到文件'/Game/Car/blinn4SG'
+[2018.11.26-04.44.49:637][139]LogLinker: Warning: 无法在加载NULL时寻找到资源'/Game/Car/blinn4SG'的文件。
+[2018.11.26-04.44.49:668][139]LogStaticMesh: 正在构建静态网格物体Block_01_textured...
+[2018.11.26-04.44.49:685][139]LogStaticMesh: Built static mesh [0.02s] /Game/Marcellano_Mascarenas/Block_01_textured.Block_01_textured
+[2018.11.26-04.44.49:695][139]LogStaticMesh: 正在构建静态网格物体Block_02_textured...
+[2018.11.26-04.44.49:717][139]LogStaticMesh: Built static mesh [0.02s] /Game/Marcellano_Mascarenas/Block_02_textured.Block_02_textured
+[2018.11.26-04.44.49:728][139]LogStaticMesh: 正在构建静态网格物体Block_03_textured...
+[2018.11.26-04.44.49:751][139]LogStaticMesh: Built static mesh [0.02s] /Game/Marcellano_Mascarenas/Block_03_textured.Block_03_textured
+[2018.11.26-04.44.49:980][139]LogTexture: Display: Building textures: newUvModelTexture (AutoDXT, 2048X2048)
+[2018.11.26-04.44.49:980][139]LogStaticMesh: 正在构建静态网格物体newUvModel...
+[2018.11.26-04.44.50:459][139]LogStaticMesh: Built static mesh [0.48s] /Game/Marcellano_Mascarenas/Fix/newUvModel.newUvModel
+[2018.11.26-04.44.51:056][139]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2018.11.26-04.44.51:060][139]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 64X64)
+[2018.11.26-04.44.51:398][139]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:398][139]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:398][139]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:398][139]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 64X64)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2018.11.26-04.44.51:813][139]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2018.11.26-04.44.52:065][139]LogTexture: Display: Building textures: Wood_Texture (BGRA8, 1023X1023)
+[2018.11.26-04.44.52:065][139]LogTexture: Display: Building textures: Leaves (AutoDXT, 1920X1080)
+[2018.11.26-04.44.52:210][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_03, compiling. 
+[2018.11.26-04.44.52:295][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_08, compiling. 
+[2018.11.26-04.44.52:869][139]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.26-04.44.52:869][139]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.11.26-04.44.52:869][139]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.11.26-04.44.52:869][139]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.11.26-04.44.52:869][139]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.11.26-04.44.52:869][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_02, compiling. 
+[2018.11.26-04.44.52:902][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_01, compiling. 
+[2018.11.26-04.44.52:938][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_06, compiling. 
+[2018.11.26-04.44.52:964][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_03, compiling. 
+[2018.11.26-04.44.53:001][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_04, compiling. 
+[2018.11.26-04.44.53:025][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_07, compiling. 
+[2018.11.26-04.44.53:050][139]LogMaterial: Display: Missing cached shader map for material Wooden_Texture_05, compiling. 
+[2018.11.26-04.44.53:075][139]LogAIModule: Creating AISystem for world StreetSceneLarge_MMM_01
+[2018.11.26-04.44.53:078][139]LogMaterial: Warning: Material /Game/Human4Size/M_WBchar_MACH.M_WBchar_MACH needed to have new flag set bUsedWithStaticLighting !
+[2018.11.26-04.44.53:084][139]LogMaterial: Display: Missing cached shader map for material M_WBchar_MACH, compiling. 
+[2018.11.26-04.44.53:110][139]MapCheck: Warning: M_WBchar_MACH 材质/Game/Human4Size/M_WBchar_MACH.M_WBchar_MACH缺失使用标志bUsedWithStaticLighting。如果材质资源没有进行重新保存，那么当在编辑器外运行时它可能无法正确渲染。 修复
+[2018.11.26-04.44.53:285][139]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_MMM_01.StreetSceneLarge_MMM_01
+[2018.11.26-04.44.53:348][139]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_MMM_01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.44.53:348][139]LightingResults: New page: 光照构建
+[2018.11.26-04.44.53:349][139]LoadErrors: New page: 正在加载地图： StreetSceneLarge_MMM_01.umap
+[2018.11.26-04.44.53:357][139]MapCheck: New page: 地图检测
+[2018.11.26-04.44.53:357][139]LightingResults: New page: 光照构建
+[2018.11.26-04.44.53:451][139]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.44.53:516][139]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.44.53:788][139]MapCheck: 地图检测完成：0个错误，0 个警告，用时271.218毫秒完成。
+[2018.11.26-04.44.53:790][139]LogFileHelpers: Loading map 'StreetSceneLarge_MMM_01' took 0.444
+[2018.11.26-04.44.55:054][177]LogShaderCompilers: Display: Shaders left to compile 269
+[2018.11.26-04.44.55:666][204]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-04.44.55:677][204]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-04.44.56:334][236]LogShaderCompilers: Display: Shaders left to compile 259
+[2018.11.26-04.44.58:014][323]LogShaderCompilers: Display: Shaders left to compile 249
+[2018.11.26-04.44.58:201][333]LogShaderCompilers: Display: Shaders left to compile 239
+[2018.11.26-04.45.01:152][486]LogShaderCompilers: Display: Shaders left to compile 229
+[2018.11.26-04.45.01:898][526]LogShaderCompilers: Display: Shaders left to compile 219
+[2018.11.26-04.45.02:608][564]LogShaderCompilers: Display: Shaders left to compile 209
+[2018.11.26-04.45.04:655][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.45.04:698][664]LogShaderCompilers: Display: Shaders left to compile 199
+[2018.11.26-04.45.05:097][670]LogShaderCompilers: Display: Shaders left to compile 189
+[2018.11.26-04.45.05:103][670]LogAIModule: Creating AISystem for world StreetSceneLarge_RichardTendean
+[2018.11.26-04.45.05:117][670]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_RichardTendean.StreetSceneLarge_RichardTendean
+[2018.11.26-04.45.05:152][670]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_RichardTendean.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.05:152][670]LightingResults: New page: 光照构建
+[2018.11.26-04.45.05:153][670]LoadErrors: New page: 正在加载地图： StreetSceneLarge_RichardTendean.umap
+[2018.11.26-04.45.05:160][670]MapCheck: New page: 地图检测
+[2018.11.26-04.45.05:160][670]LightingResults: New page: 光照构建
+[2018.11.26-04.45.05:288][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.45.05:348][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.05:631][670]MapCheck: 地图检测完成：0个错误，0 个警告，用时282.981毫秒完成。
+[2018.11.26-04.45.05:633][670]LogFileHelpers: Loading map 'StreetSceneLarge_RichardTendean' took 0.483
+[2018.11.26-04.45.07:362][742]LogShaderCompilers: Display: Shaders left to compile 179
+[2018.11.26-04.45.08:296][773]LogShaderCompilers: Display: Shaders left to compile 169
+[2018.11.26-04.45.08:464][773]LogShaderCompilers: Display: Shaders left to compile 159
+[2018.11.26-04.45.08:475][773]LogAIModule: Creating AISystem for world StreetSceneLarge_SCB
+[2018.11.26-04.45.08:496][773]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_SCB.StreetSceneLarge_SCB
+[2018.11.26-04.45.08:529][773]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SCB.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.08:529][773]LightingResults: New page: 光照构建
+[2018.11.26-04.45.08:530][773]LoadErrors: New page: 正在加载地图： StreetSceneLarge_SCB.umap
+[2018.11.26-04.45.08:533][773]MapCheck: New page: 地图检测
+[2018.11.26-04.45.08:533][773]LightingResults: New page: 光照构建
+[2018.11.26-04.45.08:594][773]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.45.08:652][773]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.08:932][773]MapCheck: 地图检测完成：0个错误，0 个警告，用时280.369毫秒完成。
+[2018.11.26-04.45.08:936][773]LogFileHelpers: Loading map 'StreetSceneLarge_SCB' took 0.407
+[2018.11.26-04.45.10:784][863]LogShaderCompilers: Display: Shaders left to compile 149
+[2018.11.26-04.45.12:721][961]LogShaderCompilers: Display: Shaders left to compile 139
+[2018.11.26-04.45.12:818][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.45.13:181][972]LogShaderCompilers: Display: Shaders left to compile 129
+[2018.11.26-04.45.13:982][972]LogShaderCompilers: Display: Shaders left to compile 119
+[2018.11.26-04.45.14:335][972]LogAIModule: Creating AISystem for world StreetSceneLarge_SLH
+[2018.11.26-04.45.14:397][972]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_SLH.StreetSceneLarge_SLH
+[2018.11.26-04.45.14:449][972]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SLH.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.14:449][972]LightingResults: New page: 光照构建
+[2018.11.26-04.45.14:450][972]LoadErrors: New page: 正在加载地图： StreetSceneLarge_SLH.umap
+[2018.11.26-04.45.14:454][972]MapCheck: New page: 地图检测
+[2018.11.26-04.45.14:454][972]LightingResults: New page: 光照构建
+[2018.11.26-04.45.14:640][972]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.11.26-04.45.14:717][972]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.14:983][972]LogShaderCompilers: Display: Shaders left to compile 109
+[2018.11.26-04.45.14:983][972]MapCheck: 地图检测完成：0个错误，0 个警告，用时265.48毫秒完成。
+[2018.11.26-04.45.14:988][972]LogFileHelpers: Loading map 'StreetSceneLarge_SLH' took 0.539
+[2018.11.26-04.45.16:185][ 14]LogShaderCompilers: Display: Shaders left to compile 99
+[2018.11.26-04.45.16:706][ 15]LogAIModule: Creating AISystem for world StreetSceneLarge_SterlingBeecroft
+[2018.11.26-04.45.16:732][ 15]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_SterlingBeecroft.StreetSceneLarge_SterlingBeecroft
+[2018.11.26-04.45.16:769][ 15]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_SterlingBeecroft.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.16:769][ 15]LightingResults: New page: 光照构建
+[2018.11.26-04.45.16:770][ 15]LoadErrors: New page: 正在加载地图： StreetSceneLarge_SterlingBeecroft.umap
+[2018.11.26-04.45.16:794][ 15]MapCheck: New page: 地图检测
+[2018.11.26-04.45.16:794][ 15]LightingResults: New page: 光照构建
+[2018.11.26-04.45.16:890][ 15]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.45.16:965][ 15]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.17:219][ 15]MapCheck: 地图检测完成：0个错误，0 个警告，用时254.444毫秒完成。
+[2018.11.26-04.45.17:222][ 15]LogFileHelpers: Loading map 'StreetSceneLarge_SterlingBeecroft' took 0.454
+[2018.11.26-04.45.17:634][ 30]LogShaderCompilers: Display: Shaders left to compile 89
+[2018.11.26-04.45.17:953][ 44]LogShaderCompilers: Display: Shaders left to compile 79
+[2018.11.26-04.45.18:981][ 74]LogAIModule: Creating AISystem for world StreetSceneLarge_TA
+[2018.11.26-04.45.19:000][ 74]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_TA.StreetSceneLarge_TA
+[2018.11.26-04.45.19:034][ 74]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_TA.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.19:034][ 74]LightingResults: New page: 光照构建
+[2018.11.26-04.45.19:035][ 74]LoadErrors: New page: 正在加载地图： StreetSceneLarge_TA.umap
+[2018.11.26-04.45.19:042][ 74]MapCheck: New page: 地图检测
+[2018.11.26-04.45.19:042][ 74]LightingResults: New page: 光照构建
+[2018.11.26-04.45.19:107][ 74]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.45.19:172][ 74]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.19:454][ 74]MapCheck: 地图检测完成：0个错误，0 个警告，用时280.95毫秒完成。
+[2018.11.26-04.45.19:456][ 74]LogFileHelpers: Loading map 'StreetSceneLarge_TA' took 0.424
+[2018.11.26-04.45.20:093][100]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.11.26-04.45.20:679][125]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.11.26-04.45.21:658][150]LogStaticMesh: 正在构建静态网格物体motorcycle_TYR...
+[2018.11.26-04.45.21:901][150]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.11.26-04.45.21:901][150]LogStaticMesh: Built static mesh [0.24s] /Game/TaschiaR/motorcycle_TYR.motorcycle_TYR
+[2018.11.26-04.45.21:924][150]LogAIModule: Creating AISystem for world StreetSceneLarge_TYR
+[2018.11.26-04.45.21:946][150]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_TYR.StreetSceneLarge_TYR
+[2018.11.26-04.45.21:982][150]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_TYR.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.21:982][150]LightingResults: New page: 光照构建
+[2018.11.26-04.45.21:983][150]LoadErrors: New page: 正在加载地图： StreetSceneLarge_TYR.umap
+[2018.11.26-04.45.21:988][150]MapCheck: New page: 地图检测
+[2018.11.26-04.45.21:988][150]LightingResults: New page: 光照构建
+[2018.11.26-04.45.22:055][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.26-04.45.22:118][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.22:399][150]MapCheck: 地图检测完成：0个错误，0 个警告，用时280.892毫秒完成。
+[2018.11.26-04.45.22:402][150]LogFileHelpers: Loading map 'StreetSceneLarge_TYR' took 0.421
+[2018.11.26-04.45.23:062][176]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.11.26-04.45.24:268][194]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.11.26-04.45.24:468][194]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.11.26-04.45.25:565][194]LogAIModule: Creating AISystem for world StreetSceneLarge_ZYL
+[2018.11.26-04.45.25:674][194]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_ZYL.StreetSceneLarge_ZYL
+[2018.11.26-04.45.25:751][194]Cmd: MAP LOAD FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.26-04.45.25:752][194]LightingResults: New page: 光照构建
+[2018.11.26-04.45.25:753][194]LoadErrors: New page: 正在加载地图： StreetSceneLarge_ZYL.umap
+[2018.11.26-04.45.25:760][194]MapCheck: New page: 地图检测
+[2018.11.26-04.45.25:760][194]LightingResults: New page: 光照构建
+[2018.11.26-04.45.26:002][194]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.11.26-04.45.26:114][194]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.26-04.45.26:408][194]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.11.26-04.45.26:408][194]MapCheck: 地图检测完成：0个错误，0 个警告，用时293.385毫秒完成。
+[2018.11.26-04.45.26:412][194]LogFileHelpers: Loading map 'StreetSceneLarge_ZYL' took 0.662
+[2018.11.26-04.45.33:833][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.11.26-04.45.35:287][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.11.26-04.45.36:472][637]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FormulaCar2)
+[2018.11.26-04.45.36:874][637]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-04.45.42:875][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.11.26-04.46.03:038][862]LogSlate: Took 0.068615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.11.26-04.48.11:320][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.48.21:823][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-04.48.22:046][ 43]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ziyul/Desktop/f1 pitstop.obj)
+[2018.11.26-04.48.22:333][ 43]LogFbx: Loading FBX Scene from C:/Users/ziyul/Desktop/f1 pitstop.obj
+[2018.11.26-04.48.22:409][ 43]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-04.48.27:525][ 43]LogSlate: Window 'FBX导入选项' being destroyed
+[2018.11.26-04.51.05:852][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-04.55.34:526][918]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL_Auto185D2BE0F4E238AF1350C07939B96D038.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_ZYL_Auto1.umap'
+[2018.11.26-04.55.34:660][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge_ZYL' took 7.647
+[2018.11.26-04.55.34:660][918]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 7.647
+[2018.11.26-05.11.16:438][724]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-05.11.16:438][724]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-05.11.33:149][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.11.36:290][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-05.11.36:308][469]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ziyul/Desktop/f1 pitstop.obj)
+[2018.11.26-05.11.36:322][469]LogFbx: Loading FBX Scene from C:/Users/ziyul/Desktop/f1 pitstop.obj
+[2018.11.26-05.11.36:329][469]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-05.11.39:286][469]LogSlate: Window 'FBX导入选项' being destroyed
+[2018.11.26-05.11.41:635][469]LogMaterial: Display: Missing cached shader map for material pCube13Mat, compiling. 
+[2018.11.26-05.11.41:799][469]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-05.11.41:799][469]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-05.11.41:799][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-05.11.41:799][469]LogFbx: Warning: Triangulating static mesh pCube13
+[2018.11.26-05.11.42:042][469]LogStaticMesh: 正在构建静态网格物体f1_pitstop...
+[2018.11.26-05.11.42:045][469]LogStaticMesh: Built static mesh [0.00s] /Game/f1_pitstop.f1_pitstop
+[2018.11.26-05.11.42:053][469]LogStaticMesh: Warning: f1_pitstop 存在退化切线向量，这会导致后续的着色错误。 如果禁用此选项，MikkTSpace 将依赖于切线基础，并可能导致网格物体损坏。
+[2018.11.26-05.11.42:054][469]LogStaticMesh: Warning: f1_pitstop has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.26-05.11.42:205][469]FBXImport: Warning: f1_pitstop 存在退化切线向量，这会导致后续的着色错误。 如果禁用此选项，MikkTSpace 将依赖于切线基础，并可能导致网格物体损坏。 
+[2018.11.26-05.11.42:206][469]FBXImport: Warning: f1_pitstop has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.26-05.11.47:827][640]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge_ZYL' took 0.099
+[2018.11.26-05.11.47:841][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/pCube13Mat] ([1] browsable assets)...
+[2018.11.26-05.11.47:901][640]OBJ SavePackage:     Rendered thumbnail for [Material /Game/pCube13Mat.pCube13Mat]
+[2018.11.26-05.11.47:901][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/pCube13Mat]
+[2018.11.26-05.11.47:901][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube13Mat" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/pCube13Mat_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-05.11.47:967][640]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/pCube13Mat_Auto2F57E5426459B9CBC9C8CEA8F245B4086.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/pCube13Mat_Auto2.uasset'
+[2018.11.26-05.11.47:971][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/f1_pitstop] ([1] browsable assets)...
+[2018.11.26-05.11.47:991][640]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/f1_pitstop.f1_pitstop]
+[2018.11.26-05.11.47:991][640]OBJ SavePackage: Finished generating thumbnails for package [/Game/f1_pitstop]
+[2018.11.26-05.11.47:991][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/f1_pitstop" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/f1_pitstop_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-05.11.48:118][640]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/f1_pitstop_Auto2DA468F73464758C78B5D7EAADD54BE44.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/f1_pitstop_Auto2.uasset'
+[2018.11.26-05.11.48:120][640]LogFileHelpers: Auto-saving content packages took 0.289
+[2018.11.26-05.11.59:793][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.11.59:873][339]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-05.11.59:885][339]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-05.12.00:668][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.12.09:839][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/f1_pitstop" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/f1_pitstop.uasset" SILENT=true
+[2018.11.26-05.12.09:859][846]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/f1_pitstop8039B4484951CC2F985DF98F824ACF11.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/f1_pitstop.uasset'
+[2018.11.26-05.12.12:750][965]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ZYLF1/f1_pitstop.f1_pitstop
+[2018.11.26-05.12.18:070][ 34]LogSlate: Window 'f1_pitstop' being destroyed
+[2018.11.26-05.12.18:078][ 34]LogSlate: Window 'f1_pitstop' being destroyed
+[2018.11.26-05.12.19:207][ 63]LogActorFactory: Actor Factory created f1_pitstop
+[2018.11.26-05.12.19:707][ 79]LogActorFactory: Actor Factory created f1_pitstop
+[2018.11.26-05.12.24:348][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.13.02:602][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.11.26-05.13.08:307][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop)
+[2018.11.26-05.13.18:117][432]Cmd: TRANSACTION UNDO
+[2018.11.26-05.13.18:130][432]LogEditorTransaction: Undo 移动Actor
+[2018.11.26-05.13.21:116][596]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.11.26-05.13.48:982][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.13.55:986][179]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ziyul/Desktop/castle.obj)
+[2018.11.26-05.13.56:002][179]LogFbx: Loading FBX Scene from C:/Users/ziyul/Desktop/castle.obj
+[2018.11.26-05.13.56:024][179]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-05.13.57:395][179]LogSlate: Window 'FBX导入选项' being destroyed
+[2018.11.26-05.13.57:435][179]LogMaterial: Display: Missing cached shader map for material pSphere3Mat, compiling. 
+[2018.11.26-05.13.57:471][179]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-05.13.57:471][179]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-05.13.57:471][179]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-05.13.57:471][179]LogFbx: Warning: Triangulating static mesh pSphere3
+[2018.11.26-05.13.57:608][179]LogStaticMesh: 正在构建静态网格物体castle...
+[2018.11.26-05.13.57:644][179]LogStaticMesh: Built static mesh [0.04s] /Game/ZYLF1/castle.castle
+[2018.11.26-05.13.59:695][260]LogActorFactory: Actor Factory created castle
+[2018.11.26-05.14.00:188][280]LogActorFactory: Actor Factory created castle
+[2018.11.26-05.14.02:775][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.14.40:620][479]Cmd: TRANSACTION UNDO
+[2018.11.26-05.14.40:620][479]LogEditorTransaction: Undo 移动Actor
+[2018.11.26-05.15.23:444][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1245)
+[2018.11.26-05.15.35:102][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.15.39:736][746]LogSlate: Window 'Delete Assets' being destroyed
+[2018.11.26-05.15.46:890][756]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.26-05.15.48:559][851]Cmd: TRANSACTION UNDO
+[2018.11.26-05.15.48:559][851]LogEditorTransaction: Undo 点击Actor
+[2018.11.26-05.15.54:244][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1265)
+[2018.11.26-05.21.54:097][400]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL_Auto3AFB6BF6246B604BEAED1A8885E3FEEB8.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/StreetSceneLarge_ZYL_Auto3.umap'
+[2018.11.26-05.21.54:110][400]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge_ZYL' took 5.724
+[2018.11.26-05.21.54:110][400]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.724
+[2018.11.26-05.21.54:116][400]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZYLF1/pSphere3Mat] ([1] browsable assets)...
+[2018.11.26-05.21.54:148][400]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZYLF1/pSphere3Mat.pSphere3Mat]
+[2018.11.26-05.21.54:148][400]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZYLF1/pSphere3Mat]
+[2018.11.26-05.21.54:148][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/pSphere3Mat" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/ZYLF1/pSphere3Mat_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-05.21.54:165][400]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/pSphere3Mat_Auto3491D38114A16B7D088EB67BEB0DAFCB9.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/ZYLF1/pSphere3Mat_Auto3.uasset'
+[2018.11.26-05.21.54:167][400]LogFileHelpers: Auto-saving content packages took 0.053
+[2018.11.26-05.26.49:195][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-05.26.56:237][481]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ziyul/Desktop/castle.obj)
+[2018.11.26-05.26.56:254][481]LogFbx: Loading FBX Scene from C:/Users/ziyul/Desktop/castle.obj
+[2018.11.26-05.26.58:642][481]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-05.27.00:188][481]LogSlate: Window 'FBX导入选项' being destroyed
+[2018.11.26-05.27.00:218][481]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.11.26-05.27.00:256][481]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.11.26-05.27.00:256][481]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.11.26-05.27.00:256][481]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.11.26-05.27.00:256][481]LogFbx: Warning: Triangulating static mesh castle:pSphere4
+[2018.11.26-05.27.00:398][481]LogStaticMesh: 正在构建静态网格物体castle...
+[2018.11.26-05.27.00:451][481]LogStaticMesh: Built static mesh [0.05s] /Game/ZYLF1/castle.castle
+[2018.11.26-05.27.02:357][582]LogActorFactory: Actor Factory created castle
+[2018.11.26-05.27.03:045][610]LogActorFactory: Actor Factory created castle
+[2018.11.26-05.27.05:606][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.27.13:750][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.27.53:449][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.26-05.27.53:483][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_ZYL" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-05.27.58:211][538]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL7C77AC894CDE4EDF6B110695AB6D3D85.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap'
+[2018.11.26-05.27.58:304][538]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_ZYL_BuiltData" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL_BuiltData.uasset" SILENT=true
+[2018.11.26-05.27.58:446][538]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL_BuiltData5ECA61404DE9678B018D1FB547CF29CB.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL_BuiltData.uasset'
+[2018.11.26-05.37.56:852][674]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StreetSceneLarge_ZYL' took 0.067
+[2018.11.26-05.37.56:859][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZYLF1/castle] ([1] browsable assets)...
+[2018.11.26-05.37.56:910][674]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ZYLF1/castle.castle]
+[2018.11.26-05.37.56:910][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZYLF1/castle]
+[2018.11.26-05.37.56:910][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/castle" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/ZYLF1/castle_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.11.26-05.37.56:938][674]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/castle_Auto4A4E74A704DB72D1781AF399DC8172407.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/ZYLF1/castle_Auto4.uasset'
+[2018.11.26-05.37.56:942][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZYLF1/initialShadingGroup] ([1] browsable assets)...
+[2018.11.26-05.37.56:974][674]OBJ SavePackage:     Rendered thumbnail for [Material /Game/ZYLF1/initialShadingGroup.initialShadingGroup]
+[2018.11.26-05.37.56:974][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZYLF1/initialShadingGroup]
+[2018.11.26-05.37.56:995][674]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/initialShadingGroup_Auto44DEB0EE349AAC5D07E73DFA2E2F40346.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/Autosaves/Game/ZYLF1/initialShadingGroup_Auto4.uasset'
+[2018.11.26-05.37.57:004][674]LogFileHelpers: Auto-saving content packages took 0.149
+[2018.11.26-05.40.20:703][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.40.23:375][244]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/ziyul/Desktop/Stadium.obj)
+[2018.11.26-05.40.23:392][244]LogFbx: Loading FBX Scene from C:/Users/ziyul/Desktop/Stadium.obj
+[2018.11.26-05.40.23:497][244]LogFbx: FBX Scene Loaded Succesfully
+[2018.11.26-05.40.24:941][244]LogSlate: Window 'FBX导入选项' being destroyed
+[2018.11.26-05.40.24:968][244]LogFbx: Warning: Triangulating static mesh pCube10
+[2018.11.26-05.40.24:969][244]LogFbx: Warning: Triangulating static mesh pCube9
+[2018.11.26-05.40.24:995][244]LogFbx: Warning: Triangulating static mesh Stadium1:pCube3
+[2018.11.26-05.40.25:449][244]LogStaticMesh: 正在构建静态网格物体Stadium...
+[2018.11.26-05.40.25:624][244]LogStaticMesh: Built static mesh [0.17s] /Game/ZYLF1/Stadium.Stadium
+[2018.11.26-05.40.25:641][244]LogStaticMesh: Warning: Stadium 存在退化切线向量，这会导致后续的着色错误。 如果禁用此选项，MikkTSpace 将依赖于切线基础，并可能导致网格物体损坏。
+[2018.11.26-05.40.25:641][244]LogStaticMesh: Warning: Stadium has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2018.11.26-05.40.25:641][244]LogStaticMesh: Warning: Stadium has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.11.26-05.40.25:670][244]FBXImport: Warning: 此FBX场景中未发现平滑组信息。导出文件前必须在FBX导出器插件中启用“导出平滑组（Export Smoothing Groups）”选项。对不支持平滑组的工具而言，导出时FBX导出器仍将生成正确的平滑数据，从而在导入时推断出正确的顶点法线。 
+[2018.11.26-05.40.25:670][244]FBXImport: Warning: Stadium 存在退化切线向量，这会导致后续的着色错误。 如果禁用此选项，MikkTSpace 将依赖于切线基础，并可能导致网格物体损坏。 
+[2018.11.26-05.40.25:670][244]FBXImport: Warning: Stadium has some nearly zero tangents which can create some issues. (Tolerance of 1E-4) 
+[2018.11.26-05.40.25:670][244]FBXImport: Warning: Stadium has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.11.26-05.40.27:166][322]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-05.40.27:173][322]LogSlate: Window '信息日志' being destroyed
+[2018.11.26-05.40.29:550][460]LogActorFactory: Actor Factory created Stadium
+[2018.11.26-05.40.29:830][475]LogActorFactory: Actor Factory created Stadium
+[2018.11.26-05.40.30:937][536]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.41.21:992][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.41.25:282][716]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.11.26-05.41.33:923][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.41.34:036][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_ZYL" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.11.26-05.41.38:804][210]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL314B421840B1D61EE7E7039A01164927.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap'
+[2018.11.26-05.41.38:833][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StreetSceneLarge_ZYL_BuiltData" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL_BuiltData.uasset" SILENT=true
+[2018.11.26-05.41.38:937][210]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL_BuiltData398387ED4767AD7FE84CAF99E27E0893.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL_BuiltData.uasset'
+[2018.11.26-05.42.16:849][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.42.16:929][464]LogTemp: Repeating last play command: 模拟
+[2018.11.26-05.42.19:473][464]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.11.26-05.42.19:872][464]PIE: New page: SIE 会话: StreetSceneLarge_ZYL (2018年11月25日 下午3:42:19)
+[2018.11.26-05.42.19:902][464]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_StreetSceneLarge_ZYL
+[2018.11.26-05.42.20:188][464]LogPlayLevel: PIE: StaticDuplicateObject took: (0.285649s)
+[2018.11.26-05.42.20:190][464]LogAIModule: Creating AISystem for world StreetSceneLarge_ZYL
+[2018.11.26-05.42.20:223][464]LogPlayLevel: PIE: World Init took: (0.035228s)
+[2018.11.26-05.42.20:224][464]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StreetSceneLarge_ZYL.StreetSceneLarge_ZYL to /Game/UEDPIE_0_StreetSceneLarge_ZYL.StreetSceneLarge_ZYL (0.330757s)
+[2018.11.26-05.42.20:494][464]LogInit: XAudio2 using '扬声器 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.26-05.42.20:557][464]LogInit: FAudioDevice initialized.
+[2018.11.26-05.42.20:909][464]LogLoad: Game class is 'GameModeBase'
+[2018.11.26-05.42.21:285][464]LogWorld: Bringing World /Game/UEDPIE_0_StreetSceneLarge_ZYL.StreetSceneLarge_ZYL up for play (max tick rate 60) at 2018.11.25-22.42.21
+[2018.11.26-05.42.21:330][464]LogWorld: Bringing up level for play took: 0.137460
+[2018.11.26-05.42.21:780][464]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0205 seconds. Added 10 classes and 0 folders.
+[2018.11.26-05.42.21:967][464]PIE: /Game/UEDPIE_0_StreetSceneLarge_ZYL的‘在编辑器中播放’的起始时间3.314
+[2018.11.26-05.42.26:785][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-05.42.26:845][654]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.11.26-05.42.26:892][654]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.26-05.42.27:033][655]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.11.26-05.43.22:542][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.26-05.43.44:361][ 74]LogSlate: Window '保存内容' being destroyed
+[2018.11.26-05.43.44:409][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pCube13Mat" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/pCube13Mat.uasset" SILENT=true
+[2018.11.26-05.43.44:417][ 74]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/pCube13MatD23B474A4803B16B3EADDFBB2BA392EF.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/pCube13Mat.uasset'
+[2018.11.26-05.43.44:428][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/castle" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/castle.uasset" SILENT=true
+[2018.11.26-05.43.44:437][ 74]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/castle686A104D4F242F097FADB990EBFD43E8.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/castle.uasset'
+[2018.11.26-05.43.44:447][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/initialShadingGroup" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/initialShadingGroup.uasset" SILENT=true
+[2018.11.26-05.43.44:454][ 74]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/initialShadingGroup25903BFD491BF721F7283BAD63C59313.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/initialShadingGroup.uasset'
+[2018.11.26-05.43.44:465][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/pSphere3Mat" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/pSphere3Mat.uasset" SILENT=true
+[2018.11.26-05.43.44:470][ 74]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/pSphere3Mat73AA678745CEDB7672165E81354FEEC5.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/pSphere3Mat.uasset'
+[2018.11.26-05.43.44:508][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ZYLF1/Stadium" FILE="C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/Stadium.uasset" SILENT=true
+[2018.11.26-05.43.44:527][ 74]LogSavePackage: Moving 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Saved/StadiumEB763273466BEB7F5E03A381D1A143D5.tmp' to 'C:/Users/ziyul/Desktop/AssetPipeMaster01/APsec1LargeCityBase/Content/ZYLF1/Stadium.uasset'
+[2018.11.26-05.43.44:679][ 74]LogSlate: Window 'APsec1LargeCityBase - Unreal Editor' being destroyed
+[2018.11.26-05.43.44:681][ 74]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.11.26-05.43.45:255][ 75]Cmd: QUIT_EDITOR
+[2018.11.26-05.43.45:982][ 75]LogExit: Preparing to exit.
+[2018.11.26-05.43.47:135][ 75]LogExit: Editor shut down
+[2018.11.26-05.43.47:136][ 75]LogExit: Transaction tracking system shut down
+[2018.11.26-05.43.50:417][ 75]LogExit: Object subsystem successfully closed.
+[2018.11.26-05.43.50:721][ 75]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.11.26-05.43.50:767][ 75]LogD3D11RHI: Shutdown
+[2018.11.26-05.43.50:768][ 75]LogD3D11RHI: CleanupD3DDevice
+[2018.11.26-05.43.51:232][ 75]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.11.26-05.43.53:702][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (620)
+[2018.11.26-05.43.53:702][ 75]LogModuleManager: Shutting down and abandoning module Voice (618)
+[2018.11.26-05.43.53:711][ 75]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (616)
+[2018.11.26-05.43.53:711][ 75]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.11.26-05.43.53:711][ 75]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.11.26-05.43.53:711][ 75]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.11.26-05.43.53:711][ 75]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.11.26-05.43.53:820][ 75]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.11.26-05.43.53:820][ 75]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.11.26-05.43.53:820][ 75]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.11.26-05.43.53:820][ 75]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.11.26-05.43.53:820][ 75]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.11.26-05.43.53:845][ 75]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.11.26-05.43.53:845][ 75]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.11.26-05.43.53:857][ 75]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.11.26-05.43.53:903][ 75]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.11.26-05.43.53:933][ 75]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.11.26-05.43.53:933][ 75]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.11.26-05.43.54:052][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.11.26-05.43.54:071][ 75]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.11.26-05.43.54:072][ 75]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.11.26-05.43.54:101][ 75]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.11.26-05.43.54:115][ 75]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.11.26-05.43.54:115][ 75]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.11.26-05.43.54:115][ 75]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.11.26-05.43.54:139][ 75]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.11.26-05.43.54:185][ 75]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.11.26-05.43.54:186][ 75]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.11.26-05.43.54:186][ 75]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.11.26-05.43.54:186][ 75]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.11.26-05.43.54:186][ 75]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.11.26-05.43.54:277][ 75]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.11.26-05.43.54:286][ 75]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.11.26-05.43.54:286][ 75]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.11.26-05.43.54:286][ 75]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.11.26-05.43.54:287][ 75]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.11.26-05.43.54:352][ 75]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.11.26-05.43.54:352][ 75]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.11.26-05.43.54:352][ 75]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.11.26-05.43.54:352][ 75]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.11.26-05.43.54:352][ 75]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.11.26-05.43.54:359][ 75]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.11.26-05.43.54:359][ 75]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.11.26-05.43.54:427][ 75]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.11.26-05.43.54:427][ 75]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.11.26-05.43.54:427][ 75]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.11.26-05.43.54:510][ 75]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.11.26-05.43.54:584][ 75]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.11.26-05.43.54:611][ 75]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.11.26-05.43.54:611][ 75]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.11.26-05.43.54:611][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.11.26-05.43.54:708][ 75]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.11.26-05.43.54:709][ 75]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.11.26-05.43.54:718][ 75]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.11.26-05.43.54:780][ 75]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.11.26-05.43.54:785][ 75]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.11.26-05.43.54:786][ 75]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.11.26-05.43.54:787][ 75]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.11.26-05.43.54:787][ 75]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.11.26-05.43.54:787][ 75]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.11.26-05.43.54:787][ 75]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.11.26-05.43.54:855][ 75]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.11.26-05.43.54:952][ 75]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.11.26-05.43.55:041][ 75]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.11.26-05.43.55:053][ 75]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.11.26-05.43.55:070][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.11.26-05.43.55:070][ 75]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.11.26-05.43.55:070][ 75]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.11.26-05.43.55:070][ 75]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.11.26-05.43.55:098][ 75]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.11.26-05.43.55:098][ 75]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.11.26-05.43.55:098][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.11.26-05.43.55:111][ 75]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.11.26-05.43.55:111][ 75]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.11.26-05.43.55:122][ 75]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.11.26-05.43.55:122][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.11.26-05.43.55:122][ 75]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.11.26-05.43.55:122][ 75]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.11.26-05.43.55:122][ 75]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.11.26-05.43.55:223][ 75]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.11.26-05.43.55:332][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.11.26-05.43.55:332][ 75]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.11.26-05.43.55:352][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.11.26-05.43.55:367][ 75]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.11.26-05.43.55:367][ 75]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.11.26-05.43.55:376][ 75]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.11.26-05.43.55:398][ 75]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.11.26-05.43.55:434][ 75]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.11.26-05.43.55:468][ 75]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.11.26-05.43.55:484][ 75]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.11.26-05.43.55:485][ 75]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.11.26-05.43.55:541][ 75]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.11.26-05.43.55:543][ 75]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.11.26-05.43.55:548][ 75]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.11.26-05.43.55:548][ 75]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.11.26-05.43.55:548][ 75]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.11.26-05.43.55:548][ 75]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.11.26-05.43.55:560][ 75]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.11.26-05.43.55:586][ 75]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.11.26-05.43.55:592][ 75]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.11.26-05.43.55:592][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.11.26-05.43.55:592][ 75]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.11.26-05.43.55:642][ 75]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.11.26-05.43.55:642][ 75]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.11.26-05.43.55:642][ 75]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.11.26-05.43.55:642][ 75]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.11.26-05.43.55:649][ 75]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.11.26-05.43.55:673][ 75]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.11.26-05.43.55:673][ 75]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.11.26-05.43.55:700][ 75]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.11.26-05.43.55:707][ 75]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.11.26-05.43.55:719][ 75]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.11.26-05.43.55:719][ 75]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.11.26-05.43.55:738][ 75]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.11.26-05.43.55:761][ 75]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.11.26-05.43.55:805][ 75]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.11.26-05.43.55:805][ 75]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.11.26-05.43.55:847][ 75]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.11.26-05.43.55:847][ 75]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.11.26-05.43.55:909][ 75]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.11.26-05.43.55:909][ 75]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.11.26-05.43.55:923][ 75]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.11.26-05.43.55:952][ 75]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.11.26-05.43.55:955][ 75]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.11.26-05.43.55:955][ 75]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.11.26-05.43.55:971][ 75]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.11.26-05.43.56:017][ 75]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.11.26-05.43.56:046][ 75]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.11.26-05.43.56:055][ 75]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.11.26-05.43.56:091][ 75]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.11.26-05.43.56:091][ 75]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.11.26-05.43.56:141][ 75]LogDerivedDataCache: Shutdown
+[2018.11.26-05.43.56:141][ 75]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.11.26-05.43.56:151][ 75]LogXGEController: Cleaning working directory: C:/Users/ziyul/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.26-05.43.56:152][ 75]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.11.26-05.43.56:163][ 75]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.11.26-05.43.56:176][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.11.26-05.43.56:190][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.11.26-05.43.56:200][ 75]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.11.26-05.43.56:200][ 75]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.11.26-05.43.56:224][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.11.26-05.43.56:224][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.11.26-05.43.56:224][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.11.26-05.43.56:224][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.11.26-05.43.56:263][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.11.26-05.43.56:263][ 75]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.11.26-05.43.56:263][ 75]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.11.26-05.43.56:283][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.11.26-05.43.56:283][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.11.26-05.43.56:283][ 75]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.11.26-05.43.56:283][ 75]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.11.26-05.43.56:283][ 75]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.11.26-05.43.56:284][ 75]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.11.26-05.43.56:304][ 75]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.11.26-05.43.56:319][ 75]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.11.26-05.43.56:329][ 75]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.11.26-05.43.56:345][ 75]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.11.26-05.43.56:345][ 75]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.11.26-05.43.56:350][ 75]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.11.26-05.43.56:350][ 75]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.11.26-05.43.56:403][ 75]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.11.26-05.43.56:403][ 75]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.11.26-05.43.56:412][ 75]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.11.26-05.43.56:424][ 75]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.11.26-05.43.56:435][ 75]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.11.26-05.43.56:435][ 75]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.11.26-05.43.56:446][ 75]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.11.26-05.43.56:459][ 75]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.11.26-05.43.56:474][ 75]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.11.26-05.43.56:474][ 75]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.11.26-05.43.56:474][ 75]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.11.26-05.43.56:474][ 75]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.11.26-05.43.56:508][ 75]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.11.26-05.43.56:556][ 75]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.11.26-05.43.56:604][ 75]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.11.26-05.43.56:618][ 75]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.11.26-05.43.56:618][ 75]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7E60A105-4E6F-CA0C-80AA-8C8FEB55A6B6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=efb14fb84baefac4452f9e9a77908825%7C3e5a76e0687143afa9764917be836ed1%7C55c5bdd3-c8d3-414a-bc16-abb78b82edb8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.11.26-05.43.56:647][ 75]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.11.26-05.43.56:697][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.11.26-05.43.56:698][ 75]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.11.26-05.43.56:698][ 75]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.11.26-05.43.56:698][ 75]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.11.26-05.43.56:726][ 75]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.11.26-05.43.56:771][ 75]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.11.26-05.43.56:821][ 75]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.11.26-05.43.56:832][ 75]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.11.26-05.43.56:832][ 75]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.11.26-05.43.56:832][ 75]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.11.26-05.43.56:832][ 75]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.11.26-05.43.56:888][ 75]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.11.26-05.43.56:907][ 75]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.11.26-05.43.56:923][ 75]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.11.26-05.43.56:924][ 75]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.11.26-05.43.56:944][ 75]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.11.26-05.43.56:962][ 75]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.11.26-05.43.57:067][ 75]LogExit: Exiting.
+[2018.11.26-05.43.57:117][ 75]Log file closed, 11/25/18 22:43:57
