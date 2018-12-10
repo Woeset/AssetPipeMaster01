@@ -1,0 +1,962 @@
+﻿Log file open, 12/08/18 13:34:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.690137
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.274s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8600K CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: I:/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.010s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.08-20.34.49:868][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.08-20.34.49:868][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.08-20.34.49:900][  0]LogHAL: Display: Platform has ~ 16 GB [17110999040 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.08-20.34.49:912][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.08-20.34.49:912][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.08-20.34.49:926][  0]LogInit: Computer: DESKTOP-S8JDRG2
+[2018.12.08-20.34.49:926][  0]LogInit: User: garre
+[2018.12.08-20.34.49:926][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.12.08-20.34.49:926][  0]LogInit: High frequency timer resolution =3.515621 MHz
+[2018.12.08-20.34.49:926][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.08-20.34.49:926][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.08-20.34.49:926][  0]LogMemory: Process Physical Memory: 100.92 MB used, 100.92 MB peak
+[2018.12.08-20.34.49:926][  0]LogMemory: Process Virtual Memory: 84.81 MB used, 84.81 MB peak
+[2018.12.08-20.34.49:926][  0]LogMemory: Physical Memory: 6902.63 MB used,  9415.69 MB free, 16318.32 MB total
+[2018.12.08-20.34.49:926][  0]LogMemory: Virtual Memory: 4620.41 MB used,  9415.69 MB free, 134217728.00 MB total
+[2018.12.08-20.34.50:408][  0]LogInit: Using OS detected language (en-US).
+[2018.12.08-20.34.50:408][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.08-20.34.50:458][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.08-20.34.50:942][  0]LogStreaming: Display: Took  0.534s to InitEngineTextLocalization.
+[2018.12.08-20.34.50:942][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.08-20.34.51:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.08-20.34.51:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.08-20.34.51:698][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.08-20.34.51:698][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.08-20.34.51:825][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2018.12.08-20.34.51:825][  0]LogD3D11RHI:       6052/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.08-20.34.51:832][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.08-20.34.51:832][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.08-20.34.51:832][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.08-20.34.51:839][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.08-20.34.51:839][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.08-20.34.51:839][  0]LogWindows: EnumDisplayDevices:
+[2018.12.08-20.34.51:840][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2018.12.08-20.34.51:840][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:1)
+[2018.12.08-20.34.51:840][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.12.08-20.34.51:841][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2018.12.08-20.34.51:841][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.08-20.34.51:841][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2018.12.08-20.34.51:841][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.12.08-20.34.51:841][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.12.08-20.34.51:841][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.12.08-20.34.51:880][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.08-20.34.51:965][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.08-20.34.52:072][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/14272/).
+[2018.12.08-20.34.52:072][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/garre/AppData/Local/Temp/UnrealShaderWorkingDir/F23612DE4193986CA61D69B2C66B6769/'.
+[2018.12.08-20.34.53:043][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.08-20.34.53:094][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.08-20.34.53:133][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.08-20.34.53:162][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.08-20.34.53:225][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.08-20.34.53:273][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.08-20.34.53:309][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.08-20.34.53:348][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.08-20.34.53:384][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:486][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.08-20.34.53:514][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.08-20.34.53:665][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.08-20.34.53:665][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.08-20.34.53:712][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.08-20.34.53:712][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.08-20.34.53:746][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.08-20.34.53:779][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.08-20.34.53:820][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.08-20.34.53:867][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.08-20.34.53:903][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.08-20.34.53:903][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.08-20.34.54:811][  0]LogXGEController: Cleaning working directory: C:/Users/garre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.08-20.34.54:812][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.08-20.34.54:812][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.08-20.34.54:812][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.08-20.34.55:801][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.08-20.34.56:098][  0]LogDerivedDataCache: Loaded boot cache 0.30s 71MB C:/Users/garre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.08-20.34.56:099][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/garre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.08-20.34.56:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.08-20.34.56:099][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.08-20.34.56:099][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.08-20.34.56:099][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.08-20.34.56:156][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.08-20.34.56:170][  0]LogDerivedDataCache: Using Local data cache path C:/Users/garre/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.08-20.34.56:170][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.08-20.34.56:170][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.08-20.34.56:223][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.08-20.34.56:224][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.08-20.34.56:267][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.08-20.34.56:808][  0]LogAssetRegistry: FAssetRegistry took 0.0257 seconds to start up
+[2018.12.08-20.34.58:755][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.08-20.35.01:213][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.08-20.35.01:363][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.08-20.35.01:363][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.08-20.35.01:363][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.08-20.35.01:364][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.08-20.35.01:844][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.12.08-20.35.03:732][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.170330 seconds
+[2018.12.08-20.35.03:771][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.08-20.35.03:771][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.08-20.35.03:771][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.08-20.35.17:961][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.08-20.35.18:002][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.08-20.35.18:797][  0]SourceControl: Source control is disabled
+[2018.12.08-20.35.18:797][  0]SourceControl: Source control is disabled
+[2018.12.08-20.35.18:865][  0]SourceControl: Source control is disabled
+[2018.12.08-20.35.18:896][  0]SourceControl: Source control is disabled
+[2018.12.08-20.35.20:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.08-20.35.20:732][  0]LogOcInput: OculusInput pre-init called
+[2018.12.08-20.35.20:979][  0]LogEngine: Initializing Engine...
+[2018.12.08-20.35.20:981][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.08-20.35.20:982][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.08-20.35.20:982][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.08-20.35.20:982][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.08-20.35.20:982][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.08-20.35.21:174][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.08-20.35.21:225][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.08-20.35.21:254][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.08-20.35.21:280][  0]LogInit: FAudioDevice initialized.
+[2018.12.08-20.35.21:280][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.08-20.35.21:346][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/garre/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.08-20.35.21:346][  0]LogInit: Texture streaming: Enabled
+[2018.12.08-20.35.21:475][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.08-20.35.21:514][  0]LogInit: Transaction tracking system initialized
+[2018.12.08-20.35.21:694][  0]BlueprintLog: New page: Editor Load
+[2018.12.08-20.35.22:570][  0]LocalizationService: Localization service is disabled
+[2018.12.08-20.35.23:964][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.08-20.35.23:964][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.08-20.35.23:964][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.08-20.35.23:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.08-20.35.23:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.08-20.35.23:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.08-20.35.23:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.08-20.35.24:763][  0]LogFileCache: Scanning file cache for directory 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.03s
+[2018.12.08-20.35.25:680][  0]SourceControl: Source control is disabled
+[2018.12.08-20.35.25:681][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-20.35.25:681][  0]LightingResults: New page: Lighting Build
+[2018.12.08-20.35.25:686][  0]MapCheck: New page: Map Check
+[2018.12.08-20.35.25:686][  0]LightingResults: New page: Lighting Build
+[2018.12.08-20.35.26:005][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.08-20.35.26:013][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.08-20.35.26:033][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-20.35.26:093][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61.214ms to complete.
+[2018.12.08-20.35.26:093][  0]LogFileHelpers: Loading map 'Template_Default' took 0.414
+[2018.12.08-20.35.26:293][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.35.26:299][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.35.26:306][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.35.26:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.08-20.35.26:347][  0]LogCollectionManager: Loaded 0 collections in 0.004353 seconds
+[2018.12.08-20.35.26:395][  0]LogFileCache: Scanning file cache for directory 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.12.08-20.35.26:395][  0]LogFileCache: Scanning file cache for directory 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/garre/Collections/' took 0.01s
+[2018.12.08-20.35.26:395][  0]LogFileCache: Scanning file cache for directory 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.12.08-20.35.26:395][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.08-20.35.26:403][  0]LogContentBrowser: Native class hierarchy populated in 0.0068 seconds. Added 2572 classes and 603 folders.
+[2018.12.08-20.35.26:412][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.08-20.35.27:226][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.08-20.35.27:289][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.08-20.35.27:311][  0]LogSlate: Took 0.008352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.08-20.35.27:327][  0]LogSlate: Took 0.014527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.08-20.35.27:343][  0]LogSlate: Took 0.013526 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.08-20.35.27:469][  0]LogRenderer: Reallocating scene render targets to support 1128x532 Format 10 NumSamples 1 (Frame:1).
+[2018.12.08-20.35.27:638][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.08-20.35.27:638][  0]LogLoad: (Engine Initialization) Total time: 50.40 seconds
+[2018.12.08-20.35.27:639][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.08-20.35.27:686][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.08-20.35.27:737][  0]LogSlate: Took 0.011947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.08-20.35.27:758][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.09s
+[2018.12.08-20.35.27:773][  1]LogAssetRegistry: Asset discovery search completed in 30.9874 seconds
+[2018.12.08-20.35.27:774][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.08-20.35.27:774][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2018.12.08-20.35.29:110][  5]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.08-20.36.10:024][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.36.26:086][581]LogAIModule: Creating AISystem for world StreetSceneLarge_GY
+[2018.12.08-20.36.26:100][581]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_GY.StreetSceneLarge_GY
+[2018.12.08-20.36.26:120][581]Cmd: MAP LOAD FILE="C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_GY.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-20.36.26:120][581]LightingResults: New page: Lighting Build
+[2018.12.08-20.36.26:121][581]LoadErrors: New page: Loading map: StreetSceneLarge_GY.umap
+[2018.12.08-20.36.26:121][581]MapCheck: New page: Map Check
+[2018.12.08-20.36.26:121][581]LightingResults: New page: Lighting Build
+[2018.12.08-20.36.26:155][581]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.08-20.36.26:190][581]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-20.36.26:271][581]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 81.411ms to complete.
+[2018.12.08-20.36.26:271][581]LogFileHelpers: Loading map 'StreetSceneLarge_GY' took 0.152
+[2018.12.08-20.36.54:650][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.37.08:157][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.37.23:807][ 54]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.39.08:486][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.39.13:828][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.39.20:068][199]Cmd: EDIT COPY
+[2018.12.08-20.39.28:378][151]LogEditorViewport: Clicking Background
+[2018.12.08-20.39.30:738][409]Cmd: TRANSACTION UNDO
+[2018.12.08-20.39.30:738][409]LogEditorTransaction: Undo Clicking Background
+[2018.12.08-20.39.33:020][663]Cmd: EDIT COPY
+[2018.12.08-20.39.48:802][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.39.49:112][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:113][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:115][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:122][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:132][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:300][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.08-20.39.49:300][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:300][450]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.08-20.39.49:300][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.08-20.39.49:300][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:300][450]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.08-20.39.49:300][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.08-20.39.49:301][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:301][450]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.08-20.39.49:304][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.08-20.39.49:317][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:322][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:325][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:341][450]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.08-20.39.49:342][450]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.08-20.39.49:342][450]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.08-20.39.49:342][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.08-20.39.49:396][450]LogLinker: Warning: Asset 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.08-20.39.49:423][450]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.08-20.39.49:424][450]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.08-20.39.49:424][450]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : Can't find file for asset. /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.12.08-20.39.49:424][450]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.08-20.39.49:424][450]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.08-20.39.49:458][450]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.08-20.39.49:458][450]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.08-20.39.49:458][450]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : Can't find file for asset. /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.12.08-20.39.49:462][450]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.08-20.39.49:462][450]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.08-20.39.49:521][450]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.08-20.39.49:521][450]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.08-20.39.49:521][450]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.12.08-20.39.49:521][450]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.08-20.39.49:521][450]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.08-20.39.49:524][450]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.08-20.39.49:524][450]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.08-20.39.49:524][450]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.12.08-20.39.49:524][450]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.08-20.39.49:524][450]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.08-20.39.49:527][450]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.08-20.39.49:528][450]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.08-20.39.49:528][450]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.12.08-20.39.49:528][450]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.08-20.39.49:528][450]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.08-20.39.49:530][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.08-20.39.49:530][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.08-20.39.49:530][450]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.12.08-20.39.49:531][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.08-20.39.49:531][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.08-20.39.49:533][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.08-20.39.49:533][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.08-20.39.49:533][450]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.12.08-20.39.49:533][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.08-20.39.49:533][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.08-20.39.49:536][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.08-20.39.49:536][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.08-20.39.49:536][450]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.12.08-20.39.49:536][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.08-20.39.49:536][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.08-20.39.51:305][450]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.08-20.39.51:305][450]LoadErrors: Failed to load /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 Referenced by House
+[2018.12.08-20.39.51:305][450]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.08-20.39.51:306][450]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.08-20.39.51:306][450]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.08-20.39.51:311][450]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.08-20.39.51:311][450]LoadErrors: Failed to load /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat Referenced by MannequinResizedCombinedMesh
+[2018.12.08-20.39.51:311][450]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.08-20.39.51:311][450]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.08-20.39.51:311][450]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.08-20.39.51:495][450]LogTexture: Display: Building textures: Beecroft_texture (AutoDXT, 2048X2048)
+[2018.12.08-20.39.51:496][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.08-20.39.51:496][450]LoadErrors: Failed to load /Game/Beecroft_Car/Grill_wood.Grill_wood Referenced by the_car
+[2018.12.08-20.39.51:496][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.08-20.39.51:496][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.08-20.39.51:496][450]LoadErrors: Failed to load /Game/Beecroft_Car/lambert1.lambert1 Referenced by the_car
+[2018.12.08-20.39.51:496][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.08-20.39.51:496][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.08-20.39.51:496][450]LoadErrors: Failed to load /Game/Beecroft_Car/gold_painted_wood.gold_painted_wood Referenced by the_car
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.08-20.39.51:497][450]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.08-20.39.51:498][450]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.08-20.39.51:501][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.08-20.39.51:501][450]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.12.08-20.39.51:502][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.08-20.39.51:502][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.08-20.39.51:502][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.08-20.39.51:502][450]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.08-20.39.51:502][450]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.08-20.39.51:503][450]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.08-20.39.51:503][450]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.08-20.39.51:504][450]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.08-20.39.51:504][450]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.08-20.39.51:504][450]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.12.08-20.39.51:504][450]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.08-20.39.51:504][450]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.08-20.39.51:504][450]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.08-20.39.51:518][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.08-20.39.51:518][450]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.12.08-20.39.51:518][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.08-20.39.51:518][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.08-20.39.51:518][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.08-20.39.51:519][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.08-20.39.51:519][450]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.12.08-20.39.51:519][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.08-20.39.51:519][450]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.08-20.39.51:519][450]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.08-20.39.51:522][450]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.08-20.39.51:522][450]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.08-20.39.51:522][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.08-20.39.51:523][450]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.08-20.39.51:523][450]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: WoodTexture004Norm (BGRA8, 2299X2299)
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: HatUV (AutoDXT, 2048X2048)
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: brickMap (BGRA8, 275X183)
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: cloth (BC5, 3576X3576)
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.08-20.39.51:884][450]LogTexture: Display: Building textures: test (BGRA8, 2048X2046)
+[2018.12.08-20.39.52:031][450]LogMaterial: Display: Missing cached shader map for material PelvisSG, compiling. 
+[2018.12.08-20.39.52:163][450]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.08-20.39.52:163][450]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.08-20.39.52:163][450]LogTexture: Display: Building textures: WoodTexture2 (AutoDXT, 1600X1036)
+[2018.12.08-20.39.52:163][450]LogStaticMesh: Building static mesh eeeeeeeeeeee...
+[2018.12.08-20.39.52:415][450]LogStaticMesh: Built static mesh [0.25s] /Game/Jenny_Car/eeeeeeeeeeee.eeeeeeeeeeee
+[2018.12.08-20.39.52:718][450]LogStaticMesh: Building static mesh CL_figure...
+[2018.12.08-20.39.52:924][450]LogStaticMesh: Built static mesh [0.21s] /Game/CL_SOURCE/CLFigSource/CL_figure.CL_figure
+[2018.12.08-20.39.53:198][450]LogTexture: Display: Building textures: WoodTexture2_0 (AutoDXT, 512X512)
+[2018.12.08-20.39.53:466][450]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.08-20.39.53:466][450]LogTexture: Display: Building textures: WoodTexture2Norm (BC5, 512X512)
+[2018.12.08-20.39.53:466][450]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.12.08-20.39.53:524][450]LogMaterial: Display: Missing cached shader map for material Beecroft_CharacterTexture, compiling. 
+[2018.12.08-20.39.53:540][450]LogMaterial: Display: Missing cached shader map for material polySurface6Mat, compiling. 
+[2018.12.08-20.39.53:556][450]LogStaticMesh: Building static mesh BBlock3...
+[2018.12.08-20.39.53:563][450]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock3.BBlock3
+[2018.12.08-20.39.54:464][450]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2018.12.08-20.39.54:497][450]LogStaticMesh: Building static mesh BBlock2...
+[2018.12.08-20.39.54:504][450]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock2.BBlock2
+[2018.12.08-20.39.56:671][450]LogTexture: Display: Building textures: EAEAPMansmoothhatcenterfootmaster3flipped (AutoDXT, 2048X2048)
+[2018.12.08-20.39.56:671][450]LogTexture: Display: Building textures: manPaint (AutoDXT, 8192X8192)
+[2018.12.08-20.39.56:671][450]LogTexture: Display: Building textures: pirateTexture (AutoDXT, 8192X8192)
+[2018.12.08-20.39.56:671][450]LogStaticMesh: Building static mesh House...
+[2018.12.08-20.39.59:118][450]LogStaticMesh: Built static mesh [2.45s] /Game/JSW_Source/Jenny_Car/House.House
+[2018.12.08-20.39.59:754][450]LogStaticMesh: Building static mesh 4way-pyramid...
+[2018.12.08-20.39.59:761][450]LogStaticMesh: Built static mesh [0.01s] /Game/Carpentieri_Alex/4way-pyramid.4way-pyramid
+[2018.12.08-20.39.59:873][450]LogStaticMesh: Building static mesh astonFBX...
+[2018.12.08-20.40.00:470][450]LogStaticMesh: Built static mesh [0.60s] /Game/Carpentieri_Alex/astonFBX.astonFBX
+[2018.12.08-20.40.00:602][450]LogStaticMesh: Building static mesh Beecroft_Character...
+[2018.12.08-20.40.00:801][450]LogStaticMesh: Built static mesh [0.20s] /Game/Beecroft_Car/Beecroft_Character.Beecroft_Character
+[2018.12.08-20.40.00:871][450]LogStaticMesh: Building static mesh bridge...
+[2018.12.08-20.40.00:875][450]LogStaticMesh: Built static mesh [0.00s] /Game/Carpentieri_Alex/bridge.bridge
+[2018.12.08-20.40.00:929][450]LogStaticMesh: Building static mesh CenterStreetBlockTest004...
+[2018.12.08-20.40.00:930][450]LogStaticMesh: Built static mesh [0.00s] /Game/WoodCar_JO/InckassWoodgrain_JO/CenterStreetBlockTest004.CenterStreetBlockTest004
+[2018.12.08-20.40.00:938][450]LogStaticMesh: Building static mesh Doadech...
+[2018.12.08-20.40.00:944][450]LogStaticMesh: Built static mesh [0.01s] /Game/DJW_Source/WoodBlocks_DJW/Doadech.Doadech
+[2018.12.08-20.40.01:845][450]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.08-20.40.01:846][450]LogStaticMesh: Building static mesh EAEAPmantexture_RT...
+[2018.12.08-20.40.03:297][450]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.08-20.40.03:297][450]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.08-20.40.03:297][450]LogStaticMesh: Built static mesh [1.46s] /Game/Blocks_RT/RT_Mannequin/EAEAPmantexture_RT.EAEAPmantexture_RT
+[2018.12.08-20.40.03:849][450]LogStaticMesh: Building static mesh m_Core1...
+[2018.12.08-20.40.03:987][450]LogStaticMesh: Built static mesh [0.14s] /Game/Resources_TA/m_Core1.m_Core1
+[2018.12.08-20.40.04:004][450]LogStaticMesh: Building static mesh m_pCylinder1...
+[2018.12.08-20.40.04:007][450]LogStaticMesh: Built static mesh [0.00s] /Game/Resources_TA/m_pCylinder1.m_pCylinder1
+[2018.12.08-20.40.04:047][450]LogStaticMesh: Building static mesh simple_circle_entrance...
+[2018.12.08-20.40.04:049][450]LogStaticMesh: Built static mesh [0.00s] /Game/Carpentieri_Alex/simple_circle_entrance.simple_circle_entrance
+[2018.12.08-20.40.04:130][450]LogStaticMesh: Building static mesh wall_4...
+[2018.12.08-20.40.04:138][450]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/wall_4.wall_4
+[2018.12.08-20.40.04:470][450]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.08-20.40.04:470][450]LogStaticMesh: Building static mesh WoodenCarRT...
+[2018.12.08-20.40.05:362][450]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.08-20.40.05:362][450]LogStaticMesh: Built static mesh [0.89s] /Game/Blocks_RT/Woodencar_RT/RT_Smooth_Car/WoodenCarRT.WoodenCarRT
+[2018.12.08-20.40.05:576][450]LogMaterial: Display: Missing cached shader map for material wheel_wood, compiling. 
+[2018.12.08-20.40.05:594][450]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.12.08-20.40.05:627][450]LogMaterial: Display: Missing cached shader map for material pCube6Mat, compiling. 
+[2018.12.08-20.40.05:643][450]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.12.08-20.40.05:653][450]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.12.08-20.40.05:692][450]LogMaterial: Display: Missing cached shader map for material gold_painted_wood, compiling. 
+[2018.12.08-20.40.05:705][450]LogMaterial: Display: Missing cached shader map for material Grill_wood, compiling. 
+[2018.12.08-20.40.05:740][450]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.08-20.40.05:750][450]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
+[2018.12.08-20.40.05:773][450]LogMaterial: Display: Missing cached shader map for material lambert2SG1, compiling. 
+[2018.12.08-20.40.05:797][450]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.08-20.40.05:808][450]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2018.12.08-20.40.05:884][450]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.12.08-20.40.05:896][450]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.08-20.40.05:907][450]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2018.12.08-20.40.05:917][450]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.12.08-20.40.05:966][450]LogMaterial: Display: Missing cached shader map for material textureEditorIsolateSelectSet_polySurface7_pCylinder11Mat, compiling. 
+[2018.12.08-20.40.06:004][450]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.12.08-20.40.06:015][450]LogShaderCompilers: Display: Shaders left to compile 392
+[2018.12.08-20.40.06:015][450]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
+[2018.12.08-20.40.06:028][450]LogMaterial: Display: Missing cached shader map for material mannequin_texture_rt, compiling. 
+[2018.12.08-20.40.06:038][450]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.08-20.40.06:059][450]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.08-20.40.06:184][450]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.08-20.40.06:351][450]Cmd: MAP LOAD FILE="C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.08-20.40.06:351][450]LightingResults: New page: Lighting Build
+[2018.12.08-20.40.06:352][450]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.08-20.40.06:355][450]MapCheck: New page: Map Check
+[2018.12.08-20.40.06:355][450]LightingResults: New page: Lighting Build
+[2018.12.08-20.40.06:590][450]LogShaderCompilers: Display: Shaders left to compile 470
+[2018.12.08-20.40.06:593][450]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.08-20.40.06:682][450]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.08-20.40.06:875][450]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 193.284ms to complete.
+[2018.12.08-20.40.06:877][450]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.527
+[2018.12.08-20.40.07:605][497]LogShaderCompilers: Display: Shaders left to compile 460
+[2018.12.08-20.40.08:254][563]LogShaderCompilers: Display: Shaders left to compile 450
+[2018.12.08-20.40.09:148][661]LogShaderCompilers: Display: Shaders left to compile 440
+[2018.12.08-20.40.10:470][813]LogShaderCompilers: Display: Shaders left to compile 430
+[2018.12.08-20.40.10:539][821]LogShaderCompilers: Display: Shaders left to compile 420
+[2018.12.08-20.40.11:871][967]LogShaderCompilers: Display: Shaders left to compile 410
+[2018.12.08-20.40.13:079][102]LogShaderCompilers: Display: Shaders left to compile 400
+[2018.12.08-20.40.14:105][215]LogShaderCompilers: Display: Shaders left to compile 390
+[2018.12.08-20.40.14:614][267]LogShaderCompilers: Display: Shaders left to compile 380
+[2018.12.08-20.40.16:179][445]LogShaderCompilers: Display: Shaders left to compile 370
+[2018.12.08-20.40.16:373][461]Cmd: EDIT PASTE
+[2018.12.08-20.40.16:421][461]LogShaderCompilers: Display: Shaders left to compile 360
+[2018.12.08-20.40.18:038][591]LogShaderCompilers: Display: Shaders left to compile 350
+[2018.12.08-20.40.18:158][603]LogEditorViewport: Clicking Background
+[2018.12.08-20.40.18:501][632]LogShaderCompilers: Display: Shaders left to compile 340
+[2018.12.08-20.40.19:649][740]LogShaderCompilers: Display: Shaders left to compile 330
+[2018.12.08-20.40.20:580][832]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.08-20.40.20:782][851]LogShaderCompilers: Display: Shaders left to compile 320
+[2018.12.08-20.40.21:031][881]LogShaderCompilers: Display: Shaders left to compile 310
+[2018.12.08-20.40.22:139][  8]LogShaderCompilers: Display: Shaders left to compile 300
+[2018.12.08-20.40.22:884][ 92]LogShaderCompilers: Display: Shaders left to compile 290
+[2018.12.08-20.40.24:206][245]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.12.08-20.40.24:327][259]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.12.08-20.40.25:860][437]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.12.08-20.40.25:973][444]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.12.08-20.40.27:402][610]LogShaderCompilers: Display: Shaders left to compile 240
+[2018.12.08-20.40.27:611][635]LogShaderCompilers: Display: Shaders left to compile 230
+[2018.12.08-20.40.28:788][729]LogShaderCompilers: Display: Shaders left to compile 220
+[2018.12.08-20.40.29:656][801]LogShaderCompilers: Display: Shaders left to compile 210
+[2018.12.08-20.40.30:089][840]LogShaderCompilers: Display: Shaders left to compile 200
+[2018.12.08-20.40.33:307][845]LogShaderCompilers: Display: Shaders left to compile 190
+[2018.12.08-20.40.33:307][845]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.12.08-20.40.33:307][845]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.12.08-20.40.33:307][845]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.12.08-20.40.34:368][845]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.12.08-20.40.34:368][845]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.12.08-20.40.34:474][845]LogSavePackage: Moving 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge1A4A6C3744C41718A8497FBD5E17E762.tmp' to 'C:/Users/garre/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.12.08-20.40.36:061][  8]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.12.08-20.40.36:384][ 46]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.12.08-20.40.37:591][176]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.08-20.40.38:573][292]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.08-20.40.38:957][332]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.08-20.40.40:262][481]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.08-20.40.40:952][553]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.08-20.40.42:588][731]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.08-20.40.42:614][734]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.08-20.40.44:461][937]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.08-20.40.44:641][958]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.08-20.40.46:340][145]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.08-20.40.46:687][186]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.08-20.41.02:972][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.08-20.41.03:046][918]LogSlate: Window 'APsec1LargeCityBase - Unreal Editor' being destroyed
+[2018.12.08-20.41.03:047][918]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.08-20.41.03:206][919]Cmd: QUIT_EDITOR
+[2018.12.08-20.41.03:234][919]LogExit: Preparing to exit.
+[2018.12.08-20.41.04:254][919]LogExit: Editor shut down
+[2018.12.08-20.41.04:254][919]LogExit: Transaction tracking system shut down
+[2018.12.08-20.41.04:670][919]LogExit: Object subsystem successfully closed.
+[2018.12.08-20.41.04:693][919]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.08-20.41.04:696][919]LogD3D11RHI: Shutdown
+[2018.12.08-20.41.04:696][919]LogD3D11RHI: CleanupD3DDevice
+[2018.12.08-20.41.04:701][919]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.08-20.41.04:708][919]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.08-20.41.04:709][919]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.08-20.41.04:710][919]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.08-20.41.05:121][919]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.08-20.41.05:122][919]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.08-20.41.05:177][919]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.08-20.41.05:178][919]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.08-20.41.05:321][919]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.08-20.41.05:323][919]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.08-20.41.05:323][919]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.08-20.41.05:323][919]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.08-20.41.05:323][919]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.08-20.41.05:324][919]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.08-20.41.05:325][919]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.08-20.41.05:426][919]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.08-20.41.05:527][919]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.08-20.41.05:528][919]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.08-20.41.05:529][919]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.08-20.41.05:530][919]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.08-20.41.05:536][919]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.08-20.41.05:537][919]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.08-20.41.05:537][919]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.08-20.41.05:537][919]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.08-20.41.05:537][919]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.08-20.41.05:537][919]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.08-20.41.05:538][919]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.08-20.41.05:550][919]LogDerivedDataCache: Shutdown
+[2018.12.08-20.41.05:550][919]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.08-20.41.05:550][919]LogXGEController: Cleaning working directory: C:/Users/garre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.08-20.41.05:551][919]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.08-20.41.05:552][919]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.08-20.41.05:552][919]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.08-20.41.05:553][919]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.08-20.41.05:553][919]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.08-20.41.05:559][919]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.08-20.41.05:560][919]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.08-20.41.05:560][919]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.08-20.41.05:592][919]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.08-20.41.05:592][919]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.08-20.41.05:592][919]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5856DF55-492B-DDCE-33F8-C48B7599AC6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=0c500a014e1bc62b8b4df18271113cc6%7Ce756322b2c0141449f596ed5136a7c7f%7C4fb07b69-a548-4cca-9f47-f81a4800a143&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.08-20.41.05:602][919]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.08-20.41.05:603][919]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.08-20.41.05:604][919]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.08-20.41.05:604][919]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.08-20.41.05:608][919]LogExit: Exiting.
+[2018.12.08-20.41.05:626][919]Log file closed, 12/08/18 13:41:05
