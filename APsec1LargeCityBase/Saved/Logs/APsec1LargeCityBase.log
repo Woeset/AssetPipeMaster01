@@ -815,3 +815,1337 @@ LogInit: Object subsystem initialized
 [2018.12.11-22.30.04:120][245]MaterialEditorStats: Texture samplers: 6/16
 [2018.12.11-22.30.04:120][245]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
 [2018.12.11-22.30.04:120][245]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.11-22.31.11:618][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.31.21:037][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.31.42:606][880]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.11-22.31.42:606][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.11-22.31.42:607][880]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.12.11-22.31.42:607][880]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.11-22.31.42:608][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.11-22.31.42:609][880]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.12.11-22.31.42:610][880]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.11-22.31.42:610][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.11-22.31.42:611][880]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.11-22.31.42:611][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.11-22.31.43:130][880]LogLinker: Warning: Asset '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.11-22.31.43:257][880]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.11-22.31.43:258][880]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.11-22.31.43:258][880]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : Can't find file for asset. /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.12.11-22.31.43:258][880]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.11-22.31.43:259][880]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.11-22.31.43:484][880]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.11-22.31.43:484][880]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.11-22.31.43:484][880]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : Can't find file for asset. /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.12.11-22.31.43:504][880]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.11-22.31.43:505][880]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.11-22.31.43:646][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.11-22.31.43:646][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.11-22.31.43:646][880]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.12.11-22.31.43:646][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.11-22.31.43:647][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.11-22.31.43:666][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.11-22.31.43:666][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.11-22.31.43:666][880]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.12.11-22.31.43:667][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.11-22.31.43:667][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.11-22.31.43:686][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.11-22.31.43:686][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.11-22.31.43:686][880]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.12.11-22.31.43:687][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.11-22.31.43:687][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.11-22.31.47:371][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.11-22.31.47:372][880]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.12.11-22.31.47:372][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.11-22.31.47:373][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.11-22.31.47:373][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.11-22.31.47:378][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.11-22.31.47:378][880]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.12.11-22.31.47:378][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.11-22.31.47:379][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.11-22.31.47:380][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.11-22.31.47:381][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.11-22.31.47:381][880]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.12.11-22.31.47:382][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.11-22.31.47:382][880]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.11-22.31.47:383][880]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.11-22.31.47:518][880]LogTexture: Display: Building textures: My_Texture_1_B_W (AutoDXT, 512X512)
+[2018.12.11-22.31.47:519][880]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.11-22.31.47:520][880]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.12.11-22.31.47:520][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.11-22.31.47:520][880]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.11-22.31.47:521][880]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.12.11-22.31.47:521][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.11-22.31.47:521][880]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.11-22.31.47:522][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.11-22.31.47:522][880]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.11-22.31.47:523][880]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.11-22.31.47:548][880]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.11-22.31.47:549][880]LoadErrors: Failed to load /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 Referenced by House
+[2018.12.11-22.31.47:549][880]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.11-22.31.47:551][880]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.11-22.31.47:552][880]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.11-22.31.47:583][880]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.11-22.31.47:584][880]LoadErrors: Failed to load /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat Referenced by MannequinResizedCombinedMesh
+[2018.12.11-22.31.47:584][880]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.11-22.31.47:584][880]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.11-22.31.47:585][880]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.11-22.31.48:728][880]LogMaterial: Display: Missing cached shader map for material pCube6Mat, compiling. 
+[2018.12.11-22.32.01:982][880]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.11-22.32.01:992][880]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.11-22.32.01:992][880]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.11-22.32.01:992][880]LogTexture: Display: Building textures: Out_of_class_A2 (AutoDXT, 1024X1024)
+[2018.12.11-22.32.01:993][880]LogTexture: Display: Building textures: pirateTexture (AutoDXT, 8192X8192)
+[2018.12.11-22.32.01:993][880]LogTexture: Display: Building textures: Beecroft_texture (AutoDXT, 2048X2048)
+[2018.12.11-22.32.01:993][880]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.12.11-22.32.01:993][880]LogTexture: Display: Building textures: brickMap (BGRA8, 275X183)
+[2018.12.11-22.32.01:993][880]LogDerivedDataCache: Warning: C:/Users/bridg/AppData/Local/UnrealEngine/Common/DerivedDataCache is very slow (0.00MB/s) when accessing C:/Users/bridg/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/3/4/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_BBEBAA30487734C73844BAAB80B7A28__D8DBEB96DF0B952EF35C613524C63AF4D733008C.udd, consider disabling it.
+[2018.12.11-22.32.07:051][880]LogTexture: Display: Building textures: cloth (BC5, 3576X3576)
+[2018.12.11-22.32.07:051][880]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
+[2018.12.11-22.32.07:457][880]LogTexture: Display: Building textures: HatUV (AutoDXT, 2048X2048)
+[2018.12.11-22.32.12:226][880]LogTexture: Display: Building textures: wood_normal (BC5, 1200X1200)
+[2018.12.11-22.32.12:226][880]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.11-22.32.12:300][880]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.12.11-22.32.12:381][880]LogMaterial: Display: Missing cached shader map for material polySurface6Mat, compiling. 
+[2018.12.11-22.32.12:533][880]LogStaticMesh: Building static mesh manny2...
+[2018.12.11-22.32.12:700][880]LogStaticMesh: Built static mesh [0.17s] /Game/Sarenna_Haddad/manny2.manny2
+[2018.12.11-22.32.12:727][880]LogStaticMesh: Building static mesh BlockBigger3...
+[2018.12.11-22.32.12:775][880]LogStaticMesh: Built static mesh [0.05s] /Game/Sarenna_Haddad/BlockBigger3.BlockBigger3
+[2018.12.11-22.32.12:785][880]LogStaticMesh: Building static mesh BlockBigger2...
+[2018.12.11-22.32.12:803][880]LogStaticMesh: Built static mesh [0.02s] /Game/Sarenna_Haddad/BlockBigger2.BlockBigger2
+[2018.12.11-22.32.12:811][880]LogStaticMesh: Building static mesh blockBigger1...
+[2018.12.11-22.32.12:839][880]LogStaticMesh: Built static mesh [0.03s] /Game/Sarenna_Haddad/blockBigger1.blockBigger1
+[2018.12.11-22.32.13:371][880]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.11-22.32.15:884][880]LogTexture: Display: Building textures: originalwoodtexture (AutoDXT, 1024X1024)
+[2018.12.11-22.32.15:930][880]LogTexture: Display: Building textures: My_Texture_1_Normal_Map (BC5, 512X512)
+[2018.12.11-22.32.16:077][880]LogTexture: Display: Building textures: TanWoodTextureTile1 (AutoDXT, 1024X1024)
+[2018.12.11-22.32.16:077][880]LogMaterial: Display: Missing cached shader map for material M_MyMaterial_Wood, compiling. 
+[2018.12.11-22.32.17:063][880]LogTexture: Display: Building textures: WoodTexture004Norm (BGRA8, 2299X2299)
+[2018.12.11-22.32.17:363][880]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.11-22.32.21:036][880]LogTexture: Display: Building textures: A6ExportV2_EPNoShoulderDecal (AutoDXT, 4096X4096)
+[2018.12.11-22.32.21:036][880]LogTexture: Display: Building textures: test (BGRA8, 2048X2046)
+[2018.12.11-22.32.21:036][880]LogTexture: Display: Building textures: 1_4 (AutoDXT, 612X612)
+[2018.12.11-22.32.21:036][880]LogTexture: Display: Building textures: woodtexture_taschiaritter (AutoDXT, 1200X1200)
+[2018.12.11-22.32.21:059][880]LogMaterial: Display: Missing cached shader map for material Beecroft_CharacterTexture, compiling. 
+[2018.12.11-22.32.21:111][880]LogTexture: Display: Building textures: TanWoodTextureTile1 (AutoDXT, 1024X1024)
+[2018.12.11-22.32.21:111][880]LogMaterial: Display: Missing cached shader map for material gold_painted_wood, compiling. 
+[2018.12.11-22.32.21:341][880]LogMaterial: Display: Missing cached shader map for material M_MasterMyWoodBlock_AP, compiling. 
+[2018.12.11-22.32.21:387][880]LogTexture: Display: Building textures: WindowPaintLightGray (AutoDXT, 2048X2048)
+[2018.12.11-22.32.21:387][880]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.11-22.32.21:428][880]LogStaticMesh: Building static mesh 4way-pyramid...
+[2018.12.11-22.32.21:448][880]LogStaticMesh: Built static mesh [0.04s] /Game/Carpentieri_Alex/4way-pyramid.4way-pyramid
+[2018.12.11-22.32.21:452][880]LogStaticMesh: Building static mesh simple_circle_entrance...
+[2018.12.11-22.32.21:458][880]LogStaticMesh: Built static mesh [0.01s] /Game/Carpentieri_Alex/simple_circle_entrance.simple_circle_entrance
+[2018.12.11-22.32.21:484][880]LogMaterial: Display: Missing cached shader map for material lambert2SG1, compiling. 
+[2018.12.11-22.32.21:603][880]LogStaticMesh: Building static mesh bridge...
+[2018.12.11-22.32.21:799][880]LogStaticMesh: Built static mesh [0.19s] /Game/Carpentieri_Alex/bridge.bridge
+[2018.12.11-22.32.22:092][880]LogTexture: Display: Building textures: EAEAPMansmoothhatcenterfootmaster3flipped (AutoDXT, 2048X2048)
+[2018.12.11-22.32.22:238][880]LogMaterial: Display: Missing cached shader map for material Mat_Wood_TYR, compiling. 
+[2018.12.11-22.32.22:359][880]LogStaticMesh: Building static mesh wall_4...
+[2018.12.11-22.32.22:470][880]LogStaticMesh: Built static mesh [0.15s] /Game/Car_XH/wood/wall_4.wall_4
+[2018.12.11-22.32.22:525][880]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.12.11-22.32.22:578][880]LogStaticMesh: Building static mesh BBlock2...
+[2018.12.11-22.32.22:602][880]LogStaticMesh: Built static mesh [0.02s] /Game/Car_XH/wood/BBlock2.BBlock2
+[2018.12.11-22.32.22:704][880]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2018.12.11-22.32.22:879][880]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2018.12.11-22.32.23:604][880]LogTexture: Display: Building textures: woodtexture (AutoDXT, 612X612)
+[2018.12.11-22.32.23:605][880]LogTexture: Display: Building textures: WoodTexture2Norm (BC5, 512X512)
+[2018.12.11-22.32.24:435][880]LogTexture: Display: Building textures: texturemanny2 (BGRA8, 2048X2043)
+[2018.12.11-22.32.24:435][880]LogTexture: Display: Building textures: manniquintexture (AutoDXT, 2048X2048)
+[2018.12.11-22.32.24:435][880]LogStaticMesh: Building static mesh APC_OBJ...
+[2018.12.11-22.32.25:161][880]LogStaticMesh: Built static mesh [0.82s] /Game/ERPCarContent/APC_OBJ.APC_OBJ
+[2018.12.11-22.32.25:772][880]LogStaticMesh: Building static mesh Wheels_OBJ...
+[2018.12.11-22.32.26:593][880]LogTexture: Display: Building textures: WoodTexture2 (AutoDXT, 1600X1036)
+[2018.12.11-22.32.26:593][880]LogStaticMesh: Built static mesh [0.82s] /Game/ERPCarContent/Wheels_OBJ.Wheels_OBJ
+[2018.12.11-22.32.28:581][880]LogTexture: Display: Building textures: WoodTexture2_0 (AutoDXT, 512X512)
+[2018.12.11-22.32.30:394][880]LogStaticMesh: Building static mesh BBlock3...
+[2018.12.11-22.32.30:420][880]LogStaticMesh: Built static mesh [0.03s] /Game/Car_XH/wood/BBlock3.BBlock3
+[2018.12.11-22.32.30:666][880]LogMaterial: Display: Missing cached shader map for material M_MasterMyWoodBlock_AP, compiling. 
+[2018.12.11-22.32.30:705][880]LogMaterial: Display: Missing cached shader map for material PelvisSG, compiling. 
+[2018.12.11-22.32.31:179][880]LogStaticMesh: Building static mesh eeeeeeeeeeee...
+[2018.12.11-22.32.31:988][880]LogTexture: Display: Building textures: manPaint (AutoDXT, 8192X8192)
+[2018.12.11-22.32.31:988][880]LogStaticMesh: Built static mesh [0.81s] /Game/Jenny_Car/eeeeeeeeeeee.eeeeeeeeeeee
+[2018.12.11-22.32.33:330][880]LogStaticMesh: Building static mesh car...
+[2018.12.11-22.32.37:353][880]LogStaticMesh: Built static mesh [4.02s] /Game/Jenny_Car/car.car
+[2018.12.11-22.32.43:152][880]LogMaterial: Display: Missing cached shader map for material pDisc3Mat, compiling. 
+[2018.12.11-22.32.43:268][880]LogStaticMesh: Building static mesh m_pCylinder1...
+[2018.12.11-22.32.43:308][880]LogStaticMesh: Built static mesh [0.04s] /Game/Resources_TA/m_pCylinder1.m_pCylinder1
+[2018.12.11-22.33.02:047][880]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.12.11-22.33.02:402][880]LogStaticMesh: Building static mesh m_Core1...
+[2018.12.11-22.33.02:968][880]LogStaticMesh: Built static mesh [0.57s] /Game/Resources_TA/m_Core1.m_Core1
+[2018.12.11-22.33.06:208][880]LogStaticMesh: Building static mesh House...
+[2018.12.11-22.33.10:769][880]LogShaderCompilers: Display: Shaders left to compile 396
+[2018.12.11-22.33.10:769][880]LogStaticMesh: Built static mesh [4.56s] /Game/JSW_Source/Jenny_Car/House.House
+[2018.12.11-22.33.11:890][880]LogStaticMesh: Building static mesh ModelforA6c...
+[2018.12.11-22.33.12:306][880]LogStaticMesh: Built static mesh [0.42s] /Game/WoodCar_JO/Maniquin/ModelforA6c.ModelforA6c
+[2018.12.11-22.33.12:345][880]LogStaticMesh: Building static mesh CenterStreetBlockTest004...
+[2018.12.11-22.33.12:351][880]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/InckassWoodgrain_JO/CenterStreetBlockTest004.CenterStreetBlockTest004
+[2018.12.11-22.33.12:358][880]LogMaterial: Display: Missing cached shader map for material lambert7SG, compiling. 
+[2018.12.11-22.33.12:454][880]LogStaticMesh: Building static mesh CarwithUV_pCylinder4...
+[2018.12.11-22.33.12:748][880]LogStaticMesh: Built static mesh [0.30s] /Game/WoodCar_JO/CarwithUV_pCylinder4.CarwithUV_pCylinder4
+[2018.12.11-22.33.12:846][880]LogStaticMesh: Building static mesh UV_Semi_Circle...
+[2018.12.11-22.33.12:902][880]LogStaticMesh: Built static mesh [0.06s] /Game/GY_Blocks/UV_Semi_Circle.UV_Semi_Circle
+[2018.12.11-22.33.12:914][880]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2018.12.11-22.33.12:951][880]LogStaticMesh: Building static mesh UV_Octagon...
+[2018.12.11-22.33.12:964][880]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Blocks/UV_Octagon.UV_Octagon
+[2018.12.11-22.33.12:978][880]LogMaterial: Display: Missing cached shader map for material pCylinder1Mat, compiling. 
+[2018.12.11-22.33.13:010][880]LogStaticMesh: Building static mesh UV_Hex...
+[2018.12.11-22.33.13:029][880]LogStaticMesh: Built static mesh [0.02s] /Game/GY_Blocks/UV_Hex.UV_Hex
+[2018.12.11-22.33.13:094][880]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
+[2018.12.11-22.33.13:122][880]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
+[2018.12.11-22.33.13:152][880]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.12.11-22.33.14:332][880]LogStaticMesh: Building static mesh WoodenCarRT...
+[2018.12.11-22.33.17:150][880]LogStaticMesh: Built static mesh [2.82s] /Game/Blocks_RT/Woodencar_RT/RT_Smooth_Car/WoodenCarRT.WoodenCarRT
+[2018.12.11-22.33.17:802][880]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2018.12.11-22.33.17:952][880]LogStaticMesh: Building static mesh MannequinResizedCombinedMesh...
+[2018.12.11-22.33.18:360][880]LogStaticMesh: Built static mesh [0.41s] /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.MannequinResizedCombinedMesh
+[2018.12.11-22.33.18:414][880]LogMaterial: Display: Missing cached shader map for material pCube5Mat, compiling. 
+[2018.12.11-22.33.18:456][880]LogStaticMesh: Building static mesh EP_Spire...
+[2018.12.11-22.33.18:462][880]LogStaticMesh: Built static mesh [0.01s] /Game/ERPCarContent/EP_Spire.EP_Spire
+[2018.12.11-22.33.18:468][880]LogMaterial: Display: Missing cached shader map for material pCube12Mat, compiling. 
+[2018.12.11-22.33.18:508][880]LogStaticMesh: Building static mesh EP_Buttress...
+[2018.12.11-22.33.18:538][880]LogStaticMesh: Built static mesh [0.03s] /Game/ERPCarContent/EP_Buttress.EP_Buttress
+[2018.12.11-22.33.18:547][880]LogStaticMesh: Building static mesh block2RT...
+[2018.12.11-22.33.18:563][880]LogStaticMesh: Built static mesh [0.02s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block2RT.block2RT
+[2018.12.11-22.33.20:633][880]LogStaticMesh: Building static mesh EAEAPmantexture_RT...
+[2018.12.11-22.33.24:592][880]LogStaticMesh: Built static mesh [3.97s] /Game/Blocks_RT/RT_Mannequin/EAEAPmantexture_RT.EAEAPmantexture_RT
+[2018.12.11-22.33.25:511][880]LogMaterial: Display: Missing cached shader map for material mannequin_texture_rt, compiling. 
+[2018.12.11-22.33.27:728][880]LogShaderCompilers: Display: Shaders left to compile 606
+[2018.12.11-22.33.28:315][880]LogStaticMesh: Building static mesh astonFBX...
+[2018.12.11-22.33.29:691][880]LogShaderCompilers: Display: Shaders left to compile 596
+[2018.12.11-22.33.29:692][880]LogStaticMesh: Built static mesh [1.38s] /Game/Carpentieri_Alex/astonFBX.astonFBX
+[2018.12.11-22.33.30:026][880]LogStaticMesh: Building static mesh Beecroft_Character...
+[2018.12.11-22.33.30:550][880]LogStaticMesh: Built static mesh [0.52s] /Game/Beecroft_Car/Beecroft_Character.Beecroft_Character
+[2018.12.11-22.33.30:754][880]LogStaticMesh: Building static mesh castle...
+[2018.12.11-22.33.30:873][880]LogStaticMesh: Built static mesh [0.12s] /Game/ZYLF1/castle.castle
+[2018.12.11-22.33.31:088][880]LogStaticMesh: Building static mesh CL_figure...
+[2018.12.11-22.33.31:509][880]LogStaticMesh: Built static mesh [0.42s] /Game/CL_SOURCE/CLFigSource/CL_figure.CL_figure
+[2018.12.11-22.33.31:585][880]LogStaticMesh: Building static mesh Doadech...
+[2018.12.11-22.33.31:600][880]LogStaticMesh: Built static mesh [0.01s] /Game/DJW_Source/WoodBlocks_DJW/Doadech.Doadech
+[2018.12.11-22.33.31:622][880]LogStaticMesh: Building static mesh EP_Arch...
+[2018.12.11-22.33.31:686][880]LogStaticMesh: Built static mesh [0.06s] /Game/ERPCarContent/EP_Arch.EP_Arch
+[2018.12.11-22.33.31:705][880]LogStaticMesh: Building static mesh f1_pitstop...
+[2018.12.11-22.33.31:710][880]LogStaticMesh: Built static mesh [0.01s] /Game/ZYLF1/f1_pitstop.f1_pitstop
+[2018.12.11-22.33.31:896][880]LogStaticMesh: Building static mesh motorcycle_TYR...
+[2018.12.11-22.33.32:335][880]LogStaticMesh: Built static mesh [0.44s] /Game/TaschiaR/motorcycle_TYR.motorcycle_TYR
+[2018.12.11-22.33.32:507][880]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.12.11-22.33.32:558][880]LogMaterial: Display: Missing cached shader map for material pCube13Mat, compiling. 
+[2018.12.11-22.33.32:602][880]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.11-22.33.32:648][880]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.12.11-22.33.32:685][880]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.11-22.33.32:722][880]LogMaterial: Display: Missing cached shader map for material textureEditorIsolateSelectSet_polySurface7_pCylinder11Mat, compiling. 
+[2018.12.11-22.33.32:756][880]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2018.12.11-22.33.32:793][880]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.11-22.33.32:930][880]LogMaterial: Display: Missing cached shader map for material texturemanny_Mat, compiling. 
+[2018.12.11-22.33.32:979][880]LogMaterial: Display: Missing cached shader map for material Grill_wood, compiling. 
+[2018.12.11-22.33.33:141][880]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.11-22.33.33:789][880]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.11-22.33.34:587][880]Cmd: MAP LOAD FILE="../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.33.34:595][880]LightingResults: New page: Lighting Build
+[2018.12.11-22.33.34:619][880]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.11-22.33.34:828][880]MapCheck: New page: Map Check
+[2018.12.11-22.33.34:828][880]LightingResults: New page: Lighting Build
+[2018.12.11-22.33.36:063][880]LogEditorServer: Finished looking for orphan Actors (0.003 secs)
+[2018.12.11-22.33.36:510][880]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.33.37:784][880]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,272.34ms to complete.
+[2018.12.11-22.33.37:788][880]LogFileHelpers: Loading map 'StreetSceneLarge' took 3.276
+[2018.12.11-22.33.55:498][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase281)
+[2018.12.11-22.33.57:173][967]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.34.02:118][  1]LogEditorViewport: Clicking Background
+[2018.12.11-22.34.24:485][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.35.19:657][524]LogAIModule: Creating AISystem for world StreetSceneLarge_BMS
+[2018.12.11-22.35.19:783][524]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_BMS.StreetSceneLarge_BMS
+[2018.12.11-22.35.19:936][524]Cmd: MAP LOAD FILE="../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BMS.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.35.19:936][524]LightingResults: New page: Lighting Build
+[2018.12.11-22.35.19:938][524]LoadErrors: New page: Loading map: StreetSceneLarge_BMS.umap
+[2018.12.11-22.35.20:010][524]MapCheck: New page: Map Check
+[2018.12.11-22.35.20:010][524]LightingResults: New page: Lighting Build
+[2018.12.11-22.35.20:599][524]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.11-22.35.21:263][524]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.35.21:705][524]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 441.404ms to complete.
+[2018.12.11-22.35.21:709][524]LogFileHelpers: Loading map 'StreetSceneLarge_BMS' took 1.774
+[2018.12.11-22.35.31:980][627]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.35.39:491][701]LogMaterial: Display: Missing cached shader map for material woodtexture1, compiling. 
+[2018.12.11-22.35.39:585][701]LogStaticMesh: Building static mesh block1RT...
+[2018.12.11-22.35.39:649][701]LogStaticMesh: Built static mesh [0.06s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block1RT.block1RT
+[2018.12.11-22.35.39:755][701]LogActorFactory: Actor Factory created block1RT
+[2018.12.11-22.35.40:517][708]LogActorFactory: Actor Factory created block1RT
+[2018.12.11-22.35.46:623][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.35.46:772][765]LogMaterial: Display: Missing cached shader map for material woodtexture, compiling. 
+[2018.12.11-22.36.10:361][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.36.22:069][245]Cmd: DELETE
+[2018.12.11-22.36.22:069][245]Cmd: ACTOR DELETE
+[2018.12.11-22.36.22:655][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:657][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:658][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:658][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:659][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:660][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:661][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:661][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:662][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:663][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:664][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:665][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:666][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:667][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:668][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:669][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:670][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:672][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:673][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:673][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:674][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:675][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:677][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:677][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:679][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:679][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:680][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:681][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:694][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:695][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:696][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:697][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:698][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:698][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:699][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:700][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:701][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:702][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:703][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:703][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:704][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:705][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:706][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:707][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:708][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:708][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:709][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:710][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:712][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:713][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:713][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:714][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:714][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:714][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:715][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:715][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:716][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:716][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:717][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:718][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:718][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:719][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:720][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:720][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:721][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:722][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:722][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:723][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:723][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:724][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:725][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:725][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:726][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:726][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:726][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:727][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:727][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:727][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:728][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:728][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:728][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:729][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:729][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:729][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:729][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:730][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:730][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:730][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:731][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:731][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:731][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:732][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:732][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:732][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:733][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:733][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:734][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:734][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:735][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:735][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:735][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:736][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:736][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:736][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:736][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:737][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:737][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:737][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:737][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:737][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:738][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:740][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:740][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:741][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:743][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:744][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:745][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:747][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:748][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:749][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:750][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:751][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:753][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:754][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:755][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:756][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:757][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:759][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:760][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:761][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:762][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:763][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:765][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:766][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:767][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:768][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:770][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:771][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:773][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:774][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:775][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:777][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:778][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:779][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:780][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:782][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:782][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:783][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:785][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:786][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:787][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:788][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:789][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:790][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:791][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:808][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:809][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:810][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:811][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:813][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:814][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:815][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:817][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:818][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:819][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:821][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:822][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:823][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:824][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:825][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:826][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:827][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:828][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:830][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:831][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:832][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:834][245]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.36.22:921][245]LogEditorActor: Deleted 182 Actors (0.802 secs)
+[2018.12.11-22.36.35:595][415]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (streetBlockBase638)
+[2018.12.11-22.36.37:449][438]Cmd: TRANSACTION UNDO
+[2018.12.11-22.36.37:450][438]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.11-22.36.37:553][438]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.36.41:416][486]LogEditorViewport: Clicking Background
+[2018.12.11-22.36.42:755][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock547)
+[2018.12.11-22.36.43:810][512]LogEditorViewport: Clicking Background
+[2018.12.11-22.36.45:740][538]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.36.48:401][630]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MACHicAssign004WBsize7)
+[2018.12.11-22.36.50:193][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.36.57:204][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (streetBlockBase35)
+[2018.12.11-22.36.58:908][755]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.36.59:766][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase355)
+[2018.12.11-22.37.01:147][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase247)
+[2018.12.11-22.37.02:547][790]Cmd: DELETE
+[2018.12.11-22.37.02:547][790]Cmd: ACTOR DELETE
+[2018.12.11-22.37.03:275][790]LogEditorActor: Deleted Actor: PlayerStart
+[2018.12.11-22.37.03:280][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:283][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:285][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:286][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:288][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:290][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:291][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:293][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:295][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:296][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:298][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:300][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:303][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:305][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:306][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:308][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:310][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:312][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:313][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:315][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:317][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:319][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:330][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:336][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:338][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:339][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:340][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:341][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:342][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:344][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:345][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:346][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:348][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:350][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:352][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:354][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:356][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:358][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:359][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:361][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:362][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:363][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:365][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:366][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:368][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:369][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:371][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:373][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:375][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:376][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:377][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:379][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:380][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:382][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:384][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:386][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:388][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:389][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:391][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:393][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:394][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:396][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:398][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:399][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:400][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:402][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:404][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:406][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:407][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:409][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:411][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:412][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:413][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:415][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:416][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:418][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:419][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:420][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:422][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:423][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:424][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:425][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:427][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:428][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:429][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:446][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:447][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:448][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:449][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:451][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:452][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:454][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:455][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:456][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:458][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:458][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:459][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:461][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:462][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:463][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:464][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:465][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:466][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:467][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:469][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:470][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:471][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:471][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:472][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:473][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:474][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:475][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:477][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:478][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:479][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:480][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:482][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:483][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:484][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:485][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:486][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:486][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:487][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:488][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:488][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:490][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:491][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:491][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:492][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:493][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:493][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:495][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:496][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:497][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:498][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:499][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:499][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:501][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:502][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:503][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:504][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:505][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:505][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:506][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:507][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:507][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:508][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:509][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:509][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:510][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:510][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:511][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:512][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:513][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:514][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:515][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:515][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:516][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:517][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:517][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:518][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:519][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:520][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:521][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:522][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:522][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:523][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:523][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:523][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:524][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:525][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:525][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:526][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:526][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:527][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:527][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:528][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:529][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:530][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:530][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:531][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:532][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:533][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:533][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:534][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:534][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:534][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:535][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:535][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:536][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:536][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:537][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:537][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:537][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:538][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:538][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:539][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:539][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:539][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:540][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:540][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:540][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:540][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:541][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:541][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:541][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:546][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:547][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:550][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:551][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:551][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:551][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:552][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:552][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:552][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:553][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:553][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:553][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:554][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:554][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:554][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:554][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:555][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:555][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:555][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:555][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:556][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:556][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:556][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:556][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:557][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:558][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:558][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:558][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:558][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:559][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:559][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:559][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:559][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:559][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:560][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:560][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:560][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:560][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:560][790]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.37.03:610][790]LogEditorActor: Deleted 250 Actors (1.062 secs)
+[2018.12.11-22.37.05:513][811]LogEditorViewport: Clicking Background
+[2018.12.11-22.37.06:574][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase414)
+[2018.12.11-22.37.08:644][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tractor001)
+[2018.12.11-22.37.10:247][853]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.37.22:558][ 76]LogEditorViewport: Clicking Background
+[2018.12.11-22.37.28:314][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.37.28:617][163]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.37.28:940][172]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.37.36:039][257]LogEditorViewport: Clicking Background
+[2018.12.11-22.37.42:541][307]LogEditorViewport: Clicking Background
+[2018.12.11-22.37.42:576][307]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.37.51:653][399]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.37.59:675][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sideWalkBlock569)
+[2018.12.11-22.38.00:610][565]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.38.05:844][629]LogEditorViewport: Clicking Background
+[2018.12.11-22.38.13:199][732]Cmd: EDIT COPY
+[2018.12.11-22.38.24:171][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.38.41:246][ 18]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.11-22.38.41:709][ 18]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.11-22.38.47:563][ 18]LogSlate: Window 'Save Content' being destroyed
+[2018.12.11-22.38.47:713][ 18]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/M_woodblock001_APEFB364534257ECDAAFCD02828F61D867.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/M_woodblock001_AP.uasset'
+[2018.12.11-22.38.52:264][ 18]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.38.53:240][ 18]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BMS8FDBB2834B7B915322F73F84B0606CEE.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BMS.umap'
+[2018.12.11-22.38.53:521][ 18]LogFileHelpers: Saving map 'StreetSceneLarge_BMS' took 5.777
+[2018.12.11-22.38.53:523][ 18]Cmd: MAP LOAD FILE="../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.38.53:524][ 18]LightingResults: New page: Lighting Build
+[2018.12.11-22.38.53:525][ 18]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.11-22.38.53:550][ 18]MapCheck: New page: Map Check
+[2018.12.11-22.38.53:550][ 18]LightingResults: New page: Lighting Build
+[2018.12.11-22.38.54:840][ 18]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.11-22.38.55:279][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.38.55:682][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 402.094ms to complete.
+[2018.12.11-22.38.55:683][ 18]LogFileHelpers: Loading map 'StreetSceneLarge' took 2.162
+[2018.12.11-22.39.18:393][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (UV_Octagon2)
+[2018.12.11-22.39.20:761][180]LogEditorViewport: Clicking Background
+[2018.12.11-22.39.23:770][199]LogEditorViewport: Clicking Background
+[2018.12.11-22.39.25:942][213]Cmd: EDIT PASTE
+[2018.12.11-22.39.31:583][213]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.11-22.39.38:594][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.39.40:228][265]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.39.54:774][379]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.11-22.39.55:417][379]LogEditorViewport: Clicking Background
+[2018.12.11-22.39.55:573][379]LogEditorViewport: Clicking Background
+[2018.12.11-22.39.58:015][399]Cmd: TRANSACTION UNDO
+[2018.12.11-22.39.58:016][399]LogEditorTransaction: Undo Clicking Background
+[2018.12.11-22.39.58:217][399]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.40.00:352][414]Cmd: TRANSACTION UNDO
+[2018.12.11-22.40.00:352][414]LogEditorTransaction: Undo Clicking Background
+[2018.12.11-22.40.00:443][414]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.40.08:473][458]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.40.08:530][460]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.40.58:249][835]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.41.00:441][836]LogAIModule: Creating AISystem for world StreetSceneLarge_BMS
+[2018.12.11-22.41.00:526][836]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_BMS.StreetSceneLarge_BMS
+[2018.12.11-22.41.05:141][836]LogSlate: Window 'Save Content' being destroyed
+[2018.12.11-22.41.05:151][836]Cmd: MAP LOAD FILE="../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BMS.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-22.41.05:154][836]LightingResults: New page: Lighting Build
+[2018.12.11-22.41.05:159][836]LoadErrors: New page: Loading map: StreetSceneLarge_BMS.umap
+[2018.12.11-22.41.05:282][836]MapCheck: New page: Map Check
+[2018.12.11-22.41.05:283][836]LightingResults: New page: Lighting Build
+[2018.12.11-22.41.05:684][836]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.11-22.41.05:922][836]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-22.41.06:260][836]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 336.736ms to complete.
+[2018.12.11-22.41.06:267][836]LogFileHelpers: Loading map 'StreetSceneLarge_BMS' took 1.118
+[2018.12.11-22.41.33:372][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (block1RT)
+[2018.12.11-22.41.41:820][235]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.41.47:526][297]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.41.57:944][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block3)
+[2018.12.11-22.42.07:972][523]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.12.11-22.42.17:593][626]LogShaderCompilers: Display: Shaders left to compile 866
+[2018.12.11-22.42.45:220][918]Cmd: TRANSACTION UNDO
+[2018.12.11-22.42.45:220][918]LogEditorTransaction: Undo Move Actors
+[2018.12.11-22.42.46:500][918]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.12.11-22.42.46:510][918]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.42.56:066][ 21]Cmd: DUPLICATE
+[2018.12.11-22.42.56:066][ 21]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.43.15:797][229]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.43.16:377][235]Cmd: DUPLICATE
+[2018.12.11-22.43.16:377][235]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.43.23:033][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1026)
+[2018.12.11-22.43.26:342][337]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block5)
+[2018.12.11-22.43.27:158][344]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.43.27:399][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (block1RT)
+[2018.12.11-22.43.31:346][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block5)
+[2018.12.11-22.43.38:393][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block3)
+[2018.12.11-22.43.40:557][482]Cmd: DUPLICATE
+[2018.12.11-22.43.40:557][482]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.43.44:654][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.43.50:890][616]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.44.00:766][708]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.44.14:797][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.44.23:753][906]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.12.11-22.44.31:112][974]LogShaderCompilers: Display: Shaders left to compile 866
+[2018.12.11-22.44.36:744][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.44.37:380][ 44]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.12.11-22.44.40:968][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.44.43:924][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.44.46:899][173]LogShaderCompilers: Display: Shaders left to compile 864
+[2018.12.11-22.44.53:072][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.45.07:333][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn)
+[2018.12.11-22.45.14:955][412]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.12.11-22.45.18:282][437]LogShaderCompilers: Display: Shaders left to compile 862
+[2018.12.11-22.45.25:192][488]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.12.11-22.45.29:609][520]Cmd: TRANSACTION UNDO
+[2018.12.11-22.45.29:609][520]LogEditorTransaction: Undo Move Actors
+[2018.12.11-22.45.29:743][520]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.46.32:574][987]Cmd: DUPLICATE
+[2018.12.11-22.46.32:574][987]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.46.38:201][ 27]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.46.44:434][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-22.47.24:719][353]Cmd: DUPLICATE
+[2018.12.11-22.47.24:720][353]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.47.46:705][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn2)
+[2018.12.11-22.48.04:621][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn3)
+[2018.12.11-22.48.07:743][659]Cmd: DUPLICATE
+[2018.12.11-22.48.07:743][659]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.48.15:005][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.48.20:149][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.48.27:220][799]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.48.48:629][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn3)
+[2018.12.11-22.48.48:878][955]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.48.59:229][ 31]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn2)
+[2018.12.11-22.48.59:707][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.49.17:769][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (finishedcolumn)
+[2018.12.11-22.49.18:031][163]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.49.36:660][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block2)
+[2018.12.11-22.49.37:935][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.49.48:742][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.49.50:382][440]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.49.50:692][445]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.49.53:730][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.50.16:602][724]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.50.53:234][107]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.12.11-22.50.56:908][146]LogShaderCompilers: Display: Shaders left to compile 866
+[2018.12.11-22.51.15:851][365]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (block1RT)
+[2018.12.11-22.51.26:838][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.51.38:391][612]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.12.11-22.51.43:771][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block2)
+[2018.12.11-22.51.46:357][701]Cmd: DUPLICATE
+[2018.12.11-22.51.46:357][701]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.51.54:044][786]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.52.04:031][906]LogShaderCompilers: Display: Shaders left to compile 864
+[2018.12.11-22.52.07:500][947]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.12.11-22.52.29:023][212]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.29:024][212]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.29:145][212]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.29:794][218]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.29:794][218]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.29:819][218]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.30:968][233]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.30:968][233]LogEditorTransaction: Undo Move Actors
+[2018.12.11-22.52.31:063][233]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.32:293][247]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.32:293][247]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.32:386][247]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.33:209][256]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.33:209][256]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.33:303][256]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.34:036][264]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.34:036][264]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.34:123][264]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.34:844][272]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.34:844][272]LogEditorTransaction: Undo Snap Actors To Floor
+[2018.12.11-22.52.34:957][272]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.35:748][282]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.52.35:959][284]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.35:959][284]LogEditorTransaction: Undo Rotate Actors
+[2018.12.11-22.52.36:056][284]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.39:141][320]Cmd: TRANSACTION UNDO
+[2018.12.11-22.52.39:141][320]LogEditorTransaction: Undo Move Actors
+[2018.12.11-22.52.39:196][320]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.52.44:234][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.52.45:954][402]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.52.48:225][426]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.53.05:669][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block7)
+[2018.12.11-22.53.07:151][655]Cmd: DELETE
+[2018.12.11-22.53.07:151][655]Cmd: ACTOR DELETE
+[2018.12.11-22.53.07:363][655]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.11-22.53.07:463][655]LogEditorActor: Deleted 1 Actors (0.311 secs)
+[2018.12.11-22.53.08:372][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Block2)
+[2018.12.11-22.53.10:631][696]Cmd: DUPLICATE
+[2018.12.11-22.53.10:632][696]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.53.12:561][712]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.53.13:535][722]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.53.16:045][748]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.12.11-22.53.22:562][821]LogShaderCompilers: Display: Shaders left to compile 866
+[2018.12.11-22.53.24:590][846]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.12.11-22.53.24:761][848]LogShaderCompilers: Display: Shaders left to compile 864
+[2018.12.11-22.53.32:222][944]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.12.11-22.53.32:381][946]LogShaderCompilers: Display: Shaders left to compile 862
+[2018.12.11-22.53.34:136][968]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.12.11-22.53.40:036][ 40]LogShaderCompilers: Display: Shaders left to compile 860
+[2018.12.11-22.53.41:517][ 59]Cmd: TRANSACTION UNDO
+[2018.12.11-22.53.41:517][ 59]LogEditorTransaction: Undo Rotate Actors
+[2018.12.11-22.53.41:717][ 59]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.53.56:765][238]LogShaderCompilers: Display: Shaders left to compile 871
+[2018.12.11-22.53.56:968][241]LogShaderCompilers: Display: Shaders left to compile 870
+[2018.12.11-22.54.00:550][284]LogShaderCompilers: Display: Shaders left to compile 869
+[2018.12.11-22.54.14:344][457]LogShaderCompilers: Display: Shaders left to compile 868
+[2018.12.11-22.54.30:014][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (block1RT)
+[2018.12.11-22.54.37:845][741]LogShaderCompilers: Display: Shaders left to compile 867
+[2018.12.11-22.54.48:863][880]LogShaderCompilers: Display: Shaders left to compile 866
+[2018.12.11-22.54.53:290][933]LogShaderCompilers: Display: Shaders left to compile 865
+[2018.12.11-22.54.55:399][956]LogShaderCompilers: Display: Shaders left to compile 864
+[2018.12.11-22.55.00:786][ 26]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-22.55.06:760][ 98]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.12.11-22.55.10:225][140]LogShaderCompilers: Display: Shaders left to compile 862
+[2018.12.11-22.55.10:603][144]LogShaderCompilers: Display: Shaders left to compile 861
+[2018.12.11-22.55.21:002][269]LogShaderCompilers: Display: Shaders left to compile 860
+[2018.12.11-22.55.50:026][620]LogShaderCompilers: Display: Shaders left to compile 859
+[2018.12.11-22.55.50:331][623]LogShaderCompilers: Display: Shaders left to compile 858
+[2018.12.11-22.55.50:331][623]LogShaderCompilers: Display: Shaders left to compile 857
+[2018.12.11-22.56.01:786][718]LogShaderCompilers: Display: Shaders left to compile 856
+[2018.12.11-22.56.02:805][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.56.40:833][ 94]LogShaderCompilers: Display: Shaders left to compile 855
+[2018.12.11-22.56.40:833][ 94]LogShaderCompilers: Display: Shaders left to compile 854
+[2018.12.11-22.56.47:945][170]LogStaticMesh: Building static mesh ass004-SuspB2...
+[2018.12.11-22.56.48:035][170]LogStaticMesh: Built static mesh [0.09s] /Game/ButlerM/ass004-SuspB2.ass004-SuspB2
+[2018.12.11-22.56.48:054][170]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.11-22.56.48:377][176]LogActorFactory: Actor Factory created ass004-SuspB2
+[2018.12.11-22.56.49:852][191]LogActorFactory: Actor Factory created ass004-SuspB2
+[2018.12.11-22.56.56:202][245]LogShaderCompilers: Display: Shaders left to compile 875
+[2018.12.11-22.56.57:681][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.56.57:834][258]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_MB, compiling. 
+[2018.12.11-22.56.59:780][294]LogShaderCompilers: Display: Shaders left to compile 905
+[2018.12.11-22.57.01:674][310]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.57.34:450][638]LogShaderCompilers: Display: Shaders left to compile 904
+[2018.12.11-22.57.38:816][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.57.44:419][741]Cmd: TRANSACTION UNDO
+[2018.12.11-22.57.44:419][741]LogEditorTransaction: Undo Move Actors
+[2018.12.11-22.57.44:653][741]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-22.57.49:433][782]LogShaderCompilers: Display: Shaders left to compile 924
+[2018.12.11-22.58.02:105][918]Cmd: DUPLICATE
+[2018.12.11-22.58.02:106][918]Cmd: ACTOR DUPLICATE
+[2018.12.11-22.58.08:552][985]LogShaderCompilers: Display: Shaders left to compile 923
+[2018.12.11-22.58.13:635][ 39]LogShaderCompilers: Display: Shaders left to compile 922
+[2018.12.11-22.58.23:189][136]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.58.27:708][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.58.37:119][299]LogShaderCompilers: Display: Shaders left to compile 921
+[2018.12.11-22.58.38:022][307]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.58.42:399][353]LogShaderCompilers: Display: Shaders left to compile 920
+[2018.12.11-22.58.51:504][452]LogShaderCompilers: Display: Shaders left to compile 919
+[2018.12.11-22.58.55:622][497]LogShaderCompilers: Display: Shaders left to compile 918
+[2018.12.11-22.59.04:360][585]LogShaderCompilers: Display: Shaders left to compile 917
+[2018.12.11-22.59.14:038][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.59.22:628][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.59.23:456][811]LogMaterial: Display: Missing cached shader map for material My_Texture_1_B_W_Mat, compiling. 
+[2018.12.11-22.59.29:633][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-22.59.31:352][919]LogShaderCompilers: Display: Shaders left to compile 938
+[2018.12.11-22.59.32:026][925]LogShaderCompilers: Display: Shaders left to compile 937
+[2018.12.11-22.59.32:245][927]LogShaderCompilers: Display: Shaders left to compile 936
+[2018.12.11-22.59.38:602][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.00.33:295][535]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.00.42:846][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.00.44:647][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.00.52:320][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.00.54:812][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.01.01:483][839]LogShaderCompilers: Display: Shaders left to compile 935
+[2018.12.11-23.01.05:892][874]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.01.37:074][119]LogActorFactory: Actor Factory created 4way-pyramid
+[2018.12.11-23.01.37:136][119]LogActorFactory: Actor Factory created 4way-pyramid
+[2018.12.11-23.01.38:800][136]LogActorFactory: Actor Factory created 4way-pyramid
+[2018.12.11-23.01.49:837][219]LogShaderCompilers: Display: Shaders left to compile 934
+[2018.12.11-23.01.50:409][223]LogShaderCompilers: Display: Shaders left to compile 933
+[2018.12.11-23.01.53:126][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.01.54:976][263]LogShaderCompilers: Display: Shaders left to compile 932
+[2018.12.11-23.02.26:020][575]LogShaderCompilers: Display: Shaders left to compile 931
+[2018.12.11-23.02.26:246][575]LogEditorViewport: Clicking Background
+[2018.12.11-23.02.27:084][584]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (4way-pyramid)
+[2018.12.11-23.02.30:360][619]LogShaderCompilers: Display: Shaders left to compile 930
+[2018.12.11-23.02.30:539][621]LogShaderCompilers: Display: Shaders left to compile 929
+[2018.12.11-23.02.45:247][783]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-23.03.00:448][942]LogShaderCompilers: Display: Shaders left to compile 928
+[2018.12.11-23.03.11:121][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.03.13:993][ 63]LogShaderCompilers: Display: Shaders left to compile 927
+[2018.12.11-23.03.18:779][112]LogShaderCompilers: Display: Shaders left to compile 926
+[2018.12.11-23.03.37:730][308]LogShaderCompilers: Display: Shaders left to compile 925
+[2018.12.11-23.03.38:331][319]LogShaderCompilers: Display: Shaders left to compile 915
+[2018.12.11-23.03.42:498][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.03.47:387][389]LogShaderCompilers: Display: Shaders left to compile 905
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: Texture samplers: 6/16
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.12.11-23.03.47:437][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.11-23.04.29:134][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.04.49:686][936]LogLinker: Warning: Asset '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.11-23.04.49:691][936]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.04.49:693][936]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset.
+[2018.12.11-23.04.49:694][936]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/Pyramid : Can't find file for asset. /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP
+[2018.12.11-23.04.49:695][936]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.04.49:696][936]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset.
+[2018.12.11-23.04.49:699][936]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.04.49:700][936]LoadErrors: Failed to load /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP Referenced by Pyramid
+[2018.12.11-23.04.49:701][936]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.11-23.04.52:944][983]Cmd: TRANSACTION UNDO
+[2018.12.11-23.04.52:944][983]LogEditorTransaction: Undo Create Actors
+[2018.12.11-23.04.53:062][983]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-23.05.13:044][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.05.13:337][187]LogActorFactory: Actor Factory created Doadech
+[2018.12.11-23.05.14:537][201]LogActorFactory: Actor Factory created Doadech
+[2018.12.11-23.05.17:036][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.06.17:213][864]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech2)
+[2018.12.11-23.06.29:637][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Doadech3)
+[2018.12.11-23.07.03:159][358]LogShaderCompilers: Display: Shaders left to compile 916
+[2018.12.11-23.07.13:737][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.13:830][483]LogLinker: Warning: Asset '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.11-23.07.13:836][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.07.13:837][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.11-23.07.13:837][483]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004
+[2018.12.11-23.07.13:839][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.13:841][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.11-23.07.13:841][483]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004Norm
+[2018.12.11-23.07.13:846][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.07.13:848][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.11-23.07.13:850][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.13:851][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.11-23.07.13:859][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.07.13:859][483]LoadErrors: Failed to load /Game/WoodBlocks_DJW/WoodTexture004.WoodTexture004 Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2018.12.11-23.07.13:860][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading NULL.
+[2018.12.11-23.07.13:861][483]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.13:862][483]LoadErrors: Failed to load /Game/WoodBlocks_DJW/WoodTexture004Norm.WoodTexture004Norm Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2018.12.11-23.07.13:862][483]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.11-23.07.13:872][483]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.11-23.07.13:878][483]LogMaterial: Warning: C:\Users\bridg\OneDrive\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\DJW_Source\WoodBlocks_DJW\M_MasterWoodBlock_AP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.11-23.07.13:879][483]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.12.11-23.07.16:421][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.16:424][532]LogLinker: Warning: Asset '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.11-23.07.16:426][532]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.16:427][532]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset.
+[2018.12.11-23.07.16:427][532]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/TreeTrunk : Can't find file for asset. /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP
+[2018.12.11-23.07.16:428][532]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.16:429][532]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset.
+[2018.12.11-23.07.16:432][532]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.16:433][532]LoadErrors: Failed to load /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP Referenced by TreeTrunk
+[2018.12.11-23.07.16:434][532]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.11-23.07.18:323][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.18:527][561]LogLinker: Warning: Asset '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.11-23.07.18:531][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.18:532][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:532][561]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/TreeFoilage : Can't find file for asset. /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP
+[2018.12.11-23.07.18:535][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.11-23.07.18:536][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:537][561]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/TreeFoilage : Can't find file for asset. /Game/WoodBlocks_DJW/doadekLeaves
+[2018.12.11-23.07.18:537][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.18:538][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:539][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.18:539][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:539][561]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/TreeFoilage : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004Norm
+[2018.12.11-23.07.18:540][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.11-23.07.18:541][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:541][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.18:542][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.11-23.07.18:544][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.11-23.07.18:545][561]LoadErrors: Failed to load /Game/WoodBlocks_DJW/M_MasterWoodBlock_AP.M_MasterWoodBlock_AP Referenced by TreeFoilage
+[2018.12.11-23.07.18:545][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.11-23.07.18:546][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.11-23.07.18:546][561]LoadErrors: Failed to load /Game/WoodBlocks_DJW/doadekLeaves.doadekLeaves Referenced by TreeFoilage
+[2018.12.11-23.07.18:547][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading NULL.
+[2018.12.11-23.07.18:547][561]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.07.18:548][561]LoadErrors: Failed to load /Game/WoodBlocks_DJW/WoodTexture004Norm.WoodTexture004Norm Referenced by TreeFoilage
+[2018.12.11-23.07.18:548][561]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.11-23.07.22:097][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.32:108][726]LogMaterial: Display: Missing cached shader map for material gold_painted_wood, compiling. 
+[2018.12.11-23.07.33:733][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.33:861][758]LogMaterial: Display: Missing cached shader map for material Grill_wood, compiling. 
+[2018.12.11-23.07.35:185][781]LogShaderCompilers: Display: Shaders left to compile 959
+[2018.12.11-23.07.35:262][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.35:531][783]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.11-23.07.37:102][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.37:226][807]LogMaterial: Display: Missing cached shader map for material wheel_wood, compiling. 
+[2018.12.11-23.07.41:129][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.07.45:182][881]LogShaderCompilers: Display: Shaders left to compile 1002
+[2018.12.11-23.08.05:697][133]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW'
+[2018.12.11-23.08.05:698][133]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/ManiquinTexture_DJW.uasset.
+[2018.12.11-23.08.05:698][133]LoadErrors: Error: /Game/DJW_Source/Maniquin_DJW/ManiquinTexture_DJW : Can't find file for asset. /Game/Maniquin_DJW/M_MasterWoodBlock_DJW
+[2018.12.11-23.08.05:699][133]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW'
+[2018.12.11-23.08.05:700][133]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/ManiquinTexture_DJW.uasset.
+[2018.12.11-23.08.05:703][133]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW'
+[2018.12.11-23.08.05:704][133]LoadErrors: Failed to load /Game/Maniquin_DJW/M_MasterWoodBlock_DJW.M_MasterWoodBlock_DJW Referenced by ManiquinTexture_DJW
+[2018.12.11-23.08.05:705][133]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/M_MasterWoodBlock_DJW' while loading NULL.
+[2018.12.11-23.08.07:368][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.07:456][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.11-23.08.07:457][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:457][163]LoadErrors: Error: /Game/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW : Can't find file for asset. /Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW
+[2018.12.11-23.08.07:459][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.11-23.08.07:460][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:460][163]LoadErrors: Error: /Game/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW : Can't find file for asset. /Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW
+[2018.12.11-23.08.07:461][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.08.07:463][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:464][163]LoadErrors: Error: /Game/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004
+[2018.12.11-23.08.07:469][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.08.07:469][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:469][163]LoadErrors: Error: /Game/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004Norm
+[2018.12.11-23.08.07:471][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.11-23.08.07:471][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:472][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.11-23.08.07:474][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:480][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.08.07:480][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:480][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.08.07:481][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.11-23.08.07:487][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.11-23.08.07:487][163]LoadErrors: Failed to load /Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW.zbrushManequinClothes_FlippedFinished2_DJW Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2018.12.11-23.08.07:488][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading NULL.
+[2018.12.11-23.08.07:489][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.11-23.08.07:491][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading NULL.
+[2018.12.11-23.08.07:492][163]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.11-23.08.07:493][163]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.11-23.08.07:494][163]LogLinker: Warning: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.11-23.08.07:494][163]LoadErrors: Failed to load /Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW.zbrushManequinSkin_Flipped_DJW Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.12.11-23.08.07:495][163]LogLinker: Warning: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading NULL.
+[2018.12.11-23.08.07:503][163]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_DJW, compiling. 
+[2018.12.11-23.08.07:505][163]LogMaterial: Warning: C:\Users\bridg\OneDrive\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\DJW_Source\Maniquin_DJW\M_MasterWoodBlock_DJW.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.11-23.08.07:505][163]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.12.11-23.08.11:243][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.16:563][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.18:334][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.27:212][409]LogShaderCompilers: Display: Shaders left to compile 1001
+[2018.12.11-23.08.27:280][409]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.12.11-23.08.27:676][414]LogShaderCompilers: Display: Shaders left to compile 1000
+[2018.12.11-23.08.28:356][421]LogShaderCompilers: Display: Shaders left to compile 999
+[2018.12.11-23.08.29:764][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.35:028][435]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BMS0E0BD7C54518DDCE7320BD92C58B905B.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BMS.umap'
+[2018.12.11-23.08.41:338][562]LogShaderCompilers: Display: Shaders left to compile 998
+[2018.12.11-23.08.41:527][564]LogShaderCompilers: Display: Shaders left to compile 997
+[2018.12.11-23.08.44:816][594]LogShaderCompilers: Display: Shaders left to compile 996
+[2018.12.11-23.08.47:157][613]LogShaderCompilers: Display: Shaders left to compile 995
+[2018.12.11-23.08.47:157][613]LogShaderCompilers: Display: Shaders left to compile 994
+[2018.12.11-23.08.50:840][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.08.55:265][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.09.06:947][829]LogShaderCompilers: Display: Shaders left to compile 993
+[2018.12.11-23.09.14:397][919]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.09.18:125][997]LogEditorViewport: Clicking Background
+[2018.12.11-23.09.24:452][ 92]Cmd: EDIT COPY
+[2018.12.11-23.09.26:930][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.09.32:036][126]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_BMS9BA6897E428C7339248820AE8A517042.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_BMS.umap'
+[2018.12.11-23.09.46:195][319]Cmd: EDIT COPY
+[2018.12.11-23.09.50:500][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.10.03:336][448]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.11-23.10.03:736][448]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.11-23.10.04:894][448]LogShaderCompilers: Display: Shaders left to compile 992
+[2018.12.11-23.10.05:866][448]LogShaderCompilers: Display: Shaders left to compile 991
+[2018.12.11-23.10.05:884][448]LogShaderCompilers: Display: Shaders left to compile 990
+[2018.12.11-23.10.08:522][448]LogShaderCompilers: Display: Shaders left to compile 989
+[2018.12.11-23.10.10:524][448]LogShaderCompilers: Display: Shaders left to compile 988
+[2018.12.11-23.10.10:832][448]LogSlate: Window 'Save Content' being destroyed
+[2018.12.11-23.10.10:981][448]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/M_woodblock001_AP228FC59546CA559D0B1021BD36C47BA7.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/M_woodblock001_AP.uasset'
+[2018.12.11-23.14.18:174][448]LogShaderCompilers: Display: Shaders left to compile 987
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 986
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 985
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 984
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 983
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 973
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 963
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 953
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 943
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 933
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 923
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 913
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 903
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 893
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 883
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 873
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 863
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 853
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 843
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 833
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 823
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 813
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 803
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 793
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 783
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 773
+[2018.12.11-23.14.18:175][448]LogShaderCompilers: Display: Shaders left to compile 763
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 753
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 743
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 733
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 723
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 713
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 703
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 693
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 683
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 673
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 663
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 653
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 643
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 633
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 623
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 613
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 603
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 593
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 583
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 573
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 563
+[2018.12.11-23.14.18:176][448]LogShaderCompilers: Display: Shaders left to compile 553
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 543
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 533
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 523
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 513
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 503
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 493
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 483
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 473
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 463
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 453
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 443
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 433
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 423
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 413
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 403
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 393
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 383
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 373
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 363
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 353
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 343
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 333
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 323
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 313
+[2018.12.11-23.14.18:177][448]LogShaderCompilers: Display: Shaders left to compile 303
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 293
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 283
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 273
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 263
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 253
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 243
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 233
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 223
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 213
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 203
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 193
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 183
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 173
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 163
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 153
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 143
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 133
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 123
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 113
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 103
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 93
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 83
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.11-23.14.18:178][448]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.11-23.14.18:890][448]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/My_Texture_1_B_W_MatFF7F2231495AAF1EBA4FFE8A0359D529.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Jenny_Car/My_Texture_1_B_W_Mat.uasset'
+[2018.12.11-23.14.18:904][448]Cmd: MAP LOAD FILE="../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.11-23.14.18:905][448]LightingResults: New page: Lighting Build
+[2018.12.11-23.14.18:907][448]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.11-23.14.18:957][448]MapCheck: New page: Map Check
+[2018.12.11-23.14.18:957][448]LightingResults: New page: Lighting Build
+[2018.12.11-23.14.20:015][448]LogEditorServer: Finished looking for orphan Actors (0.002 secs)
+[2018.12.11-23.14.20:409][448]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.11-23.14.20:817][448]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 407.584ms to complete.
+[2018.12.11-23.14.20:819][448]LogFileHelpers: Loading map 'StreetSceneLarge' took 1.919
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: Texture samplers: 6/16
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.12.11-23.14.20:973][448]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.12.11-23.14.32:804][503]Cmd: EDIT PASTE
+[2018.12.11-23.14.38:539][503]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.11-23.14.39:269][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.11-23.14.39:286][503]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.14.40:155][519]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.14.40:642][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.15.04:526][690]LogEditorViewport: Clicking on Actor (LMB): streeCorner_prefab_C (streeCorner_prefab)
+[2018.12.11-23.15.19:324][769]Cmd: TRANSACTION UNDO
+[2018.12.11-23.15.19:324][769]LogEditorTransaction: Undo Move Actors
+[2018.12.11-23.15.19:699][769]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-23.15.20:582][775]Cmd: TRANSACTION UNDO
+[2018.12.11-23.15.20:583][775]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.11-23.15.20:643][775]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-23.15.21:927][782]Cmd: TRANSACTION UNDO
+[2018.12.11-23.15.21:927][782]LogEditorTransaction: Undo Paste
+[2018.12.11-23.15.22:520][782]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-23.15.29:482][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (simple_circle_entrance)
+[2018.12.11-23.16.20:459][145]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.16.33:016][259]LogEditorViewport: Clicking Background
+[2018.12.11-23.16.36:505][284]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.11-23.16.42:639][344]Cmd: TRANSACTION UNDO
+[2018.12.11-23.16.42:640][344]LogEditorTransaction: Undo Move Actors
+[2018.12.11-23.16.42:960][344]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.11-23.16.56:456][476]LogEditorViewport: Clicking Background
+[2018.12.11-23.16.58:413][495]LogEditorViewport: Clicking Background
+[2018.12.11-23.17.00:493][516]Cmd: EDIT PASTE
+[2018.12.11-23.17.05:926][516]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.11-23.17.06:261][516]LogShaderCompilers: Display: Shaders left to compile 74
+[2018.12.11-23.17.16:770][609]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.12.11-23.17.18:038][617]LogEditorViewport: Clicking Background
+[2018.12.11-23.17.24:661][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.11-23.17.37:255][664]LogShaderCompilers: Display: Shaders left to compile 73
+[2018.12.11-23.17.40:523][664]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge4A51964645F3525DEC8CC080B549DF9C.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.12.11-23.17.43:366][682]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.11-23.17.43:530][682]LogSavePackage: Moving '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/M_woodblock001_APE1A61BC744B67B60F2A6C4BF1B4139E4.tmp' to '../../../../../../Users/bridg/OneDrive/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/M_woodblock001_AP.uasset'
+[2018.12.11-23.17.50:982][721]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.11-23.17.53:564][728]LogShaderCompilers: Display: Shaders left to compile 71
+[2018.12.11-23.17.53:993][729]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.11-23.17.55:191][733]LogShaderCompilers: Display: Shaders left to compile 69
+[2018.12.11-23.17.56:728][736]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.11-23.17.57:597][738]LogShaderCompilers: Display: Shaders left to compile 67
+[2018.12.11-23.17.58:661][745]LogShaderCompilers: Display: Shaders left to compile 66
+[2018.12.11-23.18.00:629][756]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.12.11-23.18.01:693][758]LogShaderCompilers: Display: Shaders left to compile 64
+[2018.12.11-23.18.03:645][765]LogShaderCompilers: Display: Shaders left to compile 63
+[2018.12.11-23.18.06:760][776]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.11-23.18.07:969][782]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.11-23.18.07:970][782]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.11-23.18.14:562][809]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.12.11-23.18.17:014][820]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.11-23.18.17:437][821]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.12.11-23.18.19:944][830]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.12.11-23.18.20:143][831]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.12.11-23.18.23:715][846]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.12.11-23.18.25:774][855]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.12.11-23.18.26:014][856]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.12.11-23.18.27:665][865]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.12.11-23.18.27:677][865]MaterialEditorStats: Base pass shader: 120 instructions
+[2018.12.11-23.18.27:677][865]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2018.12.11-23.18.27:678][865]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2018.12.11-23.18.27:678][865]MaterialEditorStats: Texture samplers: 6/16
+[2018.12.11-23.18.27:678][865]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2018.12.11-23.18.27:678][865]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
