@@ -1,0 +1,1561 @@
+﻿Log file open, 12/13/18 10:46:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.265595
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.095s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-8809G CPU @ 3.10GHz, GPU: Radeon RX Vega M GH Graphics
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.13-17.46.32:816][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.13-17.46.32:816][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.13-17.46.32:828][  0]LogHAL: Display: Platform has ~ 16 GB [17095028736 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.13-17.46.32:828][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.13-17.46.32:828][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.13-17.46.32:829][  0]LogInit: Computer: eae-n-018
+[2018.12.13-17.46.32:829][  0]LogInit: User: u1147195
+[2018.12.13-17.46.32:829][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.13-17.46.32:829][  0]LogInit: High frequency timer resolution =3.023436 MHz
+[2018.12.13-17.46.32:829][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.13-17.46.32:829][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.13-17.46.32:829][  0]LogMemory: Process Physical Memory: 100.25 MB used, 100.25 MB peak
+[2018.12.13-17.46.32:829][  0]LogMemory: Process Virtual Memory: 90.93 MB used, 90.93 MB peak
+[2018.12.13-17.46.32:829][  0]LogMemory: Physical Memory: 5578.73 MB used,  10724.36 MB free, 16303.09 MB total
+[2018.12.13-17.46.32:829][  0]LogMemory: Virtual Memory: 4640.38 MB used,  10724.36 MB free, 134217728.00 MB total
+[2018.12.13-17.46.32:843][  0]LogInit: Using OS detected language (en-US).
+[2018.12.13-17.46.32:843][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.13-17.46.32:844][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.13-17.46.33:144][  0]LogStreaming: Display: Took  0.302s to InitEngineTextLocalization.
+[2018.12.13-17.46.33:145][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.13-17.46.33:176][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.13-17.46.33:176][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.13-17.46.33:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.13-17.46.33:358][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.13-17.46.33:399][  0]LogD3D11RHI:    0. 'Radeon RX Vega M GH Graphics' (Feature Level 11_0)
+[2018.12.13-17.46.33:399][  0]LogD3D11RHI:       4042/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.12.13-17.46.33:409][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.12.13-17.46.33:409][  0]LogD3D11RHI:       128/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.12.13-17.46.33:411][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.13-17.46.33:411][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.13-17.46.33:411][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.13-17.46.33:419][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.13-17.46.33:419][  0]LogD3D11RHI:     GPU DeviceId: 0x694c (for the marketing name, search the web for "GPU Device Id")
+[2018.12.13-17.46.33:419][  0]LogWindows: EnumDisplayDevices:
+[2018.12.13-17.46.33:419][  0]LogWindows:    0. 'Radeon RX Vega M GH Graphics' (P:1 D:1)
+[2018.12.13-17.46.33:419][  0]LogWindows:    1. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:420][  0]LogWindows:    2. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:420][  0]LogWindows:    3. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:420][  0]LogWindows:    4. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:420][  0]LogWindows:    5. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:421][  0]LogWindows:    6. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:421][  0]LogWindows:    7. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:421][  0]LogWindows:    8. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:422][  0]LogWindows:    9. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:422][  0]LogWindows:    10. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:422][  0]LogWindows:    11. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:422][  0]LogWindows:    12. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:423][  0]LogWindows:    13. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:423][  0]LogWindows:    14. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:423][  0]LogWindows:    15. 'Radeon RX Vega M GH Graphics' (P:0 D:0)
+[2018.12.13-17.46.33:423][  0]LogWindows:    16. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.13-17.46.33:423][  0]LogWindows:    17. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.12.13-17.46.33:424][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2018.12.13-17.46.33:424][  0]LogD3D11RHI:     Adapter Name: Radeon RX Vega M GH Graphics
+[2018.12.13-17.46.33:424][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.5.1 (internal:24.20.11016.4, unified:24.20.11016.4)
+[2018.12.13-17.46.33:424][  0]LogD3D11RHI:      Driver Date: 5-16-2018
+[2018.12.13-17.46.33:424][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2018.12.13-17.46.33:564][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.13-17.46.33:576][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.12.13-17.46.33:578][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/11504/).
+[2018.12.13-17.46.33:578][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u1147195/AppData/Local/Temp/UnrealShaderWorkingDir/A35AC4DD4E6B6DF23195B1B052395025/'.
+[2018.12.13-17.46.33:815][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.13-17.46.33:827][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.13-17.46.33:838][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.13-17.46.33:849][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.13-17.46.33:860][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.13-17.46.33:871][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.13-17.46.33:882][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.13-17.46.33:893][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.13-17.46.33:899][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:962][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.13-17.46.33:963][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.13-17.46.34:019][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.13-17.46.34:019][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.13-17.46.34:038][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.13-17.46.34:038][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.13-17.46.34:048][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.13-17.46.34:058][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.13-17.46.34:067][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.13-17.46.34:079][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.13-17.46.34:087][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.13-17.46.34:087][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.13-17.46.34:140][  0]LogXGEController: Cleaning working directory: C:/Users/u1147195/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.13-17.46.34:140][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.13-17.46.34:140][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.13-17.46.34:140][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.13-17.46.34:740][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.13-17.46.34:798][  0]LogDerivedDataCache: Loaded boot cache 0.06s 87MB C:/Users/u1147195/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.13-17.46.34:799][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u1147195/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.13-17.46.34:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.13-17.46.34:799][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.13-17.46.34:799][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.13-17.46.34:799][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.13-17.46.34:809][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.13-17.46.34:822][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u1147195/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.13-17.46.34:822][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.13-17.46.34:822][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.13-17.46.34:837][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.13-17.46.34:838][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.13-17.46.34:838][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.13-17.46.34:903][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.12.13-17.46.35:204][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.13-17.46.35:325][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.13-17.46.35:329][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.13-17.46.35:329][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.13-17.46.35:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.13-17.46.35:329][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.13-17.46.35:343][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.12.13-17.46.35:859][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.117984 seconds
+[2018.12.13-17.46.35:865][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.13-17.46.35:865][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.13-17.46.35:865][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.13-17.46.36:648][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.13-17.46.36:662][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.13-17.46.36:798][  0]SourceControl: Source control is disabled
+[2018.12.13-17.46.36:798][  0]SourceControl: Source control is disabled
+[2018.12.13-17.46.36:799][  0]SourceControl: Source control is disabled
+[2018.12.13-17.46.36:800][  0]SourceControl: Source control is disabled
+[2018.12.13-17.46.36:961][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.13-17.46.37:038][  0]LogOcInput: OculusInput pre-init called
+[2018.12.13-17.46.37:095][  0]LogEngine: Initializing Engine...
+[2018.12.13-17.46.37:095][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.13-17.46.37:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.13-17.46.37:096][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.13-17.46.37:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.13-17.46.37:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.13-17.46.37:319][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.13-17.46.37:333][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.13-17.46.37:369][  0]LogInit: XAudio2 using '6 - DELL UZ2315H (AMD High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.13-17.46.37:398][  0]LogInit: FAudioDevice initialized.
+[2018.12.13-17.46.37:398][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.13-17.46.37:485][  0]LogDerivedDataCache: Saved boot cache 0.09s 87MB C:/Users/u1147195/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.13-17.46.37:489][  0]LogInit: Texture streaming: Enabled
+[2018.12.13-17.46.37:506][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.13-17.46.37:524][  0]LogInit: Transaction tracking system initialized
+[2018.12.13-17.46.37:546][  0]BlueprintLog: New page: Editor Load
+[2018.12.13-17.46.37:647][  0]LocalizationService: Localization service is disabled
+[2018.12.13-17.46.37:915][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.13-17.46.37:915][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.13-17.46.37:915][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.13-17.46.37:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.13-17.46.37:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.13-17.46.37:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.13-17.46.37:915][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.13-17.46.38:037][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.03s
+[2018.12.13-17.46.38:037][  0]SourceControl: Source control is disabled
+[2018.12.13-17.46.38:037][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.46.38:038][  0]LightingResults: New page: Lighting Build
+[2018.12.13-17.46.38:041][  0]MapCheck: New page: Map Check
+[2018.12.13-17.46.38:041][  0]LightingResults: New page: Lighting Build
+[2018.12.13-17.46.38:222][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.13-17.46.38:228][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.13-17.46.38:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.46.38:309][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.566ms to complete.
+[2018.12.13-17.46.38:309][  0]LogFileHelpers: Loading map 'Template_Default' took 0.272
+[2018.12.13-17.46.38:405][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-17.46.38:412][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-17.46.38:418][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-17.46.38:425][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.13-17.46.38:431][  0]LogCollectionManager: Loaded 0 collections in 0.001730 seconds
+[2018.12.13-17.46.38:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.12.13-17.46.38:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/u1147195/Collections/' took 0.01s
+[2018.12.13-17.46.38:474][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.12.13-17.46.38:474][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.13-17.46.38:483][  0]LogContentBrowser: Native class hierarchy populated in 0.0084 seconds. Added 2572 classes and 603 folders.
+[2018.12.13-17.46.38:490][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.13-17.46.38:538][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.13-17.46.38:543][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.12.13-17.46.38:557][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.13-17.46.38:559][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.13-17.46.38:564][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.13-17.46.38:629][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.12.13-17.46.38:760][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.46.38:771][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.12.13-17.46.38:800][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.13-17.46.38:800][  0]LogLoad: (Engine Initialization) Total time: 7.60 seconds
+[2018.12.13-17.46.38:800][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.13-17.46.38:811][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.13-17.46.38:843][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.12.13-17.46.38:885][  0]LogSlate: Took 0.007483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.13-17.46.38:896][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.07s
+[2018.12.13-17.46.38:912][  1]LogAssetRegistry: Asset discovery search completed in 4.0311 seconds
+[2018.12.13-17.46.38:913][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.13-17.46.38:913][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2018.12.13-17.46.39:843][103]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.13-17.46.43:215][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.47.03:040][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:041][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:042][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:044][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:046][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:095][848]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:095][848]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.13-17.47.03:095][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:095][848]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.13-17.47.03:100][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.13-17.47.03:101][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:103][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:104][848]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.03:106][848]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.13-17.47.03:106][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.13-17.47.03:106][848]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.13-17.47.03:107][848]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.13-17.47.03:107][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.13-17.47.03:156][848]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.13-17.47.03:157][848]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.13-17.47.03:157][848]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.12.13-17.47.03:157][848]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.13-17.47.03:157][848]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.13-17.47.03:158][848]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.13-17.47.03:158][848]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.13-17.47.03:158][848]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.12.13-17.47.03:158][848]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.13-17.47.03:158][848]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.13-17.47.03:160][848]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.13-17.47.03:160][848]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.13-17.47.03:160][848]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.12.13-17.47.03:160][848]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.13-17.47.03:160][848]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel1'
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:193][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_axel1
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel2'
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:193][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_axel2
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel1'
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:193][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_wheel1
+[2018.12.13-17.47.03:193][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel2'
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:194][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_wheel2
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel3'
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel3' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:194][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_wheel3
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel4'
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel4' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:194][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_wheel4
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_woodencar'
+[2018.12.13-17.47.03:194][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_woodencar' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:194][848]LoadErrors: Error: /Game/StreetSceneLarge_ZYL : Can't find file for asset. /Game/Woodencar_RT/bigwoodencarRT_woodencar
+[2018.12.13-17.47.03:215][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel1'
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel2'
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel1'
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:216][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel2'
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel2' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel3'
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel3' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel4'
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel4' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_woodencar'
+[2018.12.13-17.47.03:217][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_woodencar' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap.
+[2018.12.13-17.47.03:717][848]LogTexture: Display: Building textures: woo2 (BGRA8, 259X194)
+[2018.12.13-17.47.03:717][848]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.13-17.47.03:717][848]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.12.13-17.47.03:717][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.13-17.47.03:718][848]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.13-17.47.03:718][848]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.12.13-17.47.03:718][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.13-17.47.03:718][848]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.13-17.47.03:718][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.13-17.47.03:718][848]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.13-17.47.03:719][848]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.13-17.47.03:723][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.13-17.47.03:724][848]LoadErrors: Failed to load /Game/Beecroft_Car/Grill_wood.Grill_wood Referenced by the_car
+[2018.12.13-17.47.03:724][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.13-17.47.03:724][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.13-17.47.03:724][848]LoadErrors: Failed to load /Game/Beecroft_Car/lambert1.lambert1 Referenced by the_car
+[2018.12.13-17.47.03:724][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.13-17.47.03:725][848]LoadErrors: Failed to load /Game/Beecroft_Car/gold_painted_wood.gold_painted_wood Referenced by the_car
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.13-17.47.03:725][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.13-17.47.03:726][848]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.13-17.47.03:726][848]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.13-17.47.03:764][848]LogTexture: Display: Building textures: wood (AutoDXT, 1024X1024)
+[2018.12.13-17.47.03:764][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel1'
+[2018.12.13-17.47.03:764][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_axel1.bigwoodencarRT_axel1 Referenced by bigwoodencarRT_axel1_10
+[2018.12.13-17.47.03:764][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel1' while loading NULL.
+[2018.12.13-17.47.03:765][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_axel2'
+[2018.12.13-17.47.03:765][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_axel2.bigwoodencarRT_axel2 Referenced by bigwoodencarRT_axel2_12
+[2018.12.13-17.47.03:765][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_axel2' while loading NULL.
+[2018.12.13-17.47.03:765][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel1'
+[2018.12.13-17.47.03:765][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_wheel1.bigwoodencarRT_wheel1 Referenced by bigwoodencarRT_wheel1_14
+[2018.12.13-17.47.03:765][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel1' while loading NULL.
+[2018.12.13-17.47.03:766][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel2'
+[2018.12.13-17.47.03:766][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_wheel2.bigwoodencarRT_wheel2 Referenced by bigwoodencarRT_wheel2_16
+[2018.12.13-17.47.03:766][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel2' while loading NULL.
+[2018.12.13-17.47.03:766][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel3'
+[2018.12.13-17.47.03:766][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_wheel3.bigwoodencarRT_wheel3 Referenced by bigwoodencarRT_wheel3_18
+[2018.12.13-17.47.03:766][848]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
+[2018.12.13-17.47.03:766][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel3' while loading NULL.
+[2018.12.13-17.47.03:767][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_wheel4'
+[2018.12.13-17.47.03:767][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_wheel4.bigwoodencarRT_wheel4 Referenced by bigwoodencarRT_wheel4_20
+[2018.12.13-17.47.03:767][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_wheel4' while loading NULL.
+[2018.12.13-17.47.03:767][848]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/bigwoodencarRT_woodencar'
+[2018.12.13-17.47.03:767][848]LoadErrors: Failed to load /Game/Woodencar_RT/bigwoodencarRT_woodencar.bigwoodencarRT_woodencar Referenced by bigwoodencarRT_woodencar_8
+[2018.12.13-17.47.03:767][848]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/bigwoodencarRT_woodencar' while loading NULL.
+[2018.12.13-17.47.03:954][848]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.13-17.47.03:955][848]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.13-17.47.03:955][848]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.12.13-17.47.03:955][848]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.13-17.47.03:956][848]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.13-17.47.03:956][848]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.13-17.47.03:957][848]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.13-17.47.03:958][848]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.12.13-17.47.03:958][848]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.13-17.47.03:958][848]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.13-17.47.03:958][848]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.13-17.47.04:020][848]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.13-17.47.04:020][848]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.12.13-17.47.04:020][848]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.13-17.47.04:020][848]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.13-17.47.04:021][848]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.13-17.47.04:024][848]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.12.13-17.47.04:420][848]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-17.47.04:420][848]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-17.47.04:420][848]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-17.47.04:420][848]LogTexture: Display: Building textures: N_WoodTexture001_AP (BGRA8, 2299X2299)
+[2018.12.13-17.47.04:420][848]LogTexture: Display: Building textures: WoodTexture004Norm (BGRA8, 2299X2299)
+[2018.12.13-17.47.04:420][848]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: woodNormalMap (BC5, 2048X2048)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 1_2 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: WoodTexture004Norm (BGRA8, 2299X2299)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 2 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: streetLines001 (AutoDXT, 2048X2048)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X256)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: WoodTexture004Norm_DJW (BGRA8, 2299X2299)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: My_Texture_1_Normal_Map (BC5, 512X512)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: My_Texture_1_B_W (AutoDXT, 512X512)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 1_7 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: WoodTexture004_DJW (AutoDXT, 2048X2048)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 1_6 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 1_5 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: 1_3 (AutoDXT, 612X612)
+[2018.12.13-17.47.07:499][848]LogTexture: Display: Building textures: wood (AutoDXT, 280X280)
+[2018.12.13-17.47.07:509][848]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.47.07:550][848]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.13-17.47.07:550][848]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.13-17.47.07:550][848]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.47.07:571][848]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.47.07:595][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCylinder16...
+[2018.12.13-17.47.07:623][848]LogStaticMesh: Built static mesh [0.03s] /Game/GY_Car/Toy_Car_and_UV_pCylinder16.Toy_Car_and_UV_pCylinder16
+[2018.12.13-17.47.07:629][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCylinder15...
+[2018.12.13-17.47.07:644][848]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Car/Toy_Car_and_UV_pCylinder15.Toy_Car_and_UV_pCylinder15
+[2018.12.13-17.47.07:648][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCylinder10...
+[2018.12.13-17.47.07:662][848]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Car/Toy_Car_and_UV_pCylinder10.Toy_Car_and_UV_pCylinder10
+[2018.12.13-17.47.07:663][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCube5...
+[2018.12.13-17.47.07:667][848]LogStaticMesh: Built static mesh [0.00s] /Game/GY_Car/Toy_Car_and_UV_pCube5.Toy_Car_and_UV_pCube5
+[2018.12.13-17.47.07:668][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCube4...
+[2018.12.13-17.47.07:671][848]LogStaticMesh: Built static mesh [0.00s] /Game/GY_Car/Toy_Car_and_UV_pCube4.Toy_Car_and_UV_pCube4
+[2018.12.13-17.47.07:672][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCube3...
+[2018.12.13-17.47.07:677][848]LogStaticMesh: Built static mesh [0.00s] /Game/GY_Car/Toy_Car_and_UV_pCube3.Toy_Car_and_UV_pCube3
+[2018.12.13-17.47.07:679][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCube2...
+[2018.12.13-17.47.07:684][848]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Car/Toy_Car_and_UV_pCube2.Toy_Car_and_UV_pCube2
+[2018.12.13-17.47.07:687][848]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-17.47.07:710][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCube1...
+[2018.12.13-17.47.07:744][848]LogStaticMesh: Built static mesh [0.03s] /Game/GY_Car/Toy_Car_and_UV_pCube1.Toy_Car_and_UV_pCube1
+[2018.12.13-17.47.07:751][848]LogStaticMesh: Building static mesh CLCar3010_pCube2...
+[2018.12.13-17.47.07:818][848]LogStaticMesh: Built static mesh [0.07s] /Game/CL_Car/CLCar3010_pCube2.CLCar3010_pCube2
+[2018.12.13-17.47.07:822][848]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.47.07:843][848]LogStaticMesh: Building static mesh CLCar3010_pasted__pCylinder3...
+[2018.12.13-17.47.07:907][848]LogStaticMesh: Built static mesh [0.06s] /Game/CL_Car/CLCar3010_pasted__pCylinder3.CLCar3010_pasted__pCylinder3
+[2018.12.13-17.47.07:951][848]LogStaticMesh: Building static mesh car...
+[2018.12.13-17.47.08:173][848]LogStaticMesh: Built static mesh [0.22s] /Game/Car_XH/wood/car.car
+[2018.12.13-17.47.08:205][848]LogStaticMesh: Building static mesh BatmobileProperUnwrapped_pCylinder9_DJW...
+[2018.12.13-17.47.08:278][848]LogStaticMesh: Built static mesh [0.07s] /Game/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.BatmobileProperUnwrapped_pCylinder9_DJW
+[2018.12.13-17.47.08:289][848]LogStaticMesh: Building static mesh BatmobileProperUnwrapped_pCylinder8_DJW...
+[2018.12.13-17.47.08:367][848]LogStaticMesh: Built static mesh [0.08s] /Game/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.BatmobileProperUnwrapped_pCylinder8_DJW
+[2018.12.13-17.47.08:384][848]LogStaticMesh: Building static mesh BatmobileProperUnwrapped_pCube3_DJW...
+[2018.12.13-17.47.08:475][848]LogStaticMesh: Built static mesh [0.09s] /Game/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.BatmobileProperUnwrapped_pCube3_DJW
+[2018.12.13-17.47.08:491][848]LogMaterial: Display: Missing cached shader map for material wheel_wood, compiling. 
+[2018.12.13-17.47.08:578][848]LogStaticMesh: Building static mesh the_car...
+[2018.12.13-17.47.09:001][848]LogStaticMesh: Built static mesh [0.42s] /Game/Beecroft_Car/the_car.the_car
+[2018.12.13-17.47.09:046][848]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.47.09:079][848]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP_DJW, compiling. 
+[2018.12.13-17.47.09:244][848]LogStaticMesh: Building static mesh car...
+[2018.12.13-17.47.10:199][848]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.12.13-17.47.10:199][848]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.12.13-17.47.10:199][848]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.12.13-17.47.10:199][848]LogStaticMesh: Built static mesh [0.96s] /Game/Jenny_Car/car.car
+[2018.12.13-17.47.10:271][848]LogStaticMesh: Building static mesh CarwithUV_pCube1...
+[2018.12.13-17.47.10:392][848]LogStaticMesh: Built static mesh [0.12s] /Game/WoodCar_JO/CarwithUV_pCube1.CarwithUV_pCube1
+[2018.12.13-17.47.10:407][848]LogStaticMesh: Building static mesh CarwithUV_pCube2...
+[2018.12.13-17.47.10:417][848]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/CarwithUV_pCube2.CarwithUV_pCube2
+[2018.12.13-17.47.10:432][848]LogStaticMesh: Building static mesh CarwithUV_polySurface11...
+[2018.12.13-17.47.10:498][848]LogStaticMesh: Built static mesh [0.07s] /Game/WoodCar_JO/CarwithUV_polySurface11.CarwithUV_polySurface11
+[2018.12.13-17.47.10:516][848]LogStaticMesh: Building static mesh CarwithUV_polySurface13...
+[2018.12.13-17.47.10:603][848]LogStaticMesh: Built static mesh [0.09s] /Game/WoodCar_JO/CarwithUV_polySurface13.CarwithUV_polySurface13
+[2018.12.13-17.47.10:656][848]LogStaticMesh: Building static mesh CarwithUV_polySurface1...
+[2018.12.13-17.47.11:700][848]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.12.13-17.47.11:700][848]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.12.13-17.47.11:700][848]LogStaticMesh: Built static mesh [1.04s] /Game/WoodCar_JO/CarwithUV_polySurface1.CarwithUV_polySurface1
+[2018.12.13-17.47.11:716][848]LogStaticMesh: Building static mesh castle...
+[2018.12.13-17.47.11:782][848]LogStaticMesh: Built static mesh [0.07s] /Game/ZYLF1/castle.castle
+[2018.12.13-17.47.11:791][848]LogStaticMesh: Building static mesh f1_pitstop...
+[2018.12.13-17.47.11:794][848]LogStaticMesh: Built static mesh [0.00s] /Game/ZYLF1/f1_pitstop.f1_pitstop
+[2018.12.13-17.47.11:833][848]LogStaticMesh: Building static mesh FormulaCar...
+[2018.12.13-17.47.11:958][848]LogStaticMesh: Built static mesh [0.13s] /Game/ZYLF1/FormulaCar.FormulaCar
+[2018.12.13-17.47.11:974][848]LogStaticMesh: Building static mesh streetBlocks100X100X30...
+[2018.12.13-17.47.11:977][848]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks100X100X30.streetBlocks100X100X30
+[2018.12.13-17.47.12:278][848]LogStaticMesh: Building static mesh MACHicAssign004WBsize...
+[2018.12.13-17.47.12:926][848]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.12.13-17.47.12:926][848]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.12.13-17.47.12:926][848]LogStaticMesh: Built static mesh [0.65s] /Game/Human4Size/MACHicAssign004WBsize.MACHicAssign004WBsize
+[2018.12.13-17.47.13:095][848]LogStaticMesh: Building static mesh OldLImo...
+[2018.12.13-17.47.14:145][848]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.12.13-17.47.14:145][848]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.12.13-17.47.14:145][848]LogStaticMesh: Built static mesh [1.05s] /Game/Sarenna_Haddad/OldLImo.OldLImo
+[2018.12.13-17.47.14:156][848]LogStaticMesh: Building static mesh streetBlocks100X50X30...
+[2018.12.13-17.47.14:163][848]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X30.streetBlocks100X50X30
+[2018.12.13-17.47.14:172][848]LogStaticMesh: Building static mesh streetBlocks50RCorner...
+[2018.12.13-17.47.14:179][848]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks50RCorner.streetBlocks50RCorner
+[2018.12.13-17.47.14:193][848]LogStaticMesh: Building static mesh SmartCarUVObj_pCube1...
+[2018.12.13-17.47.14:434][848]LogStaticMesh: Built static mesh [0.24s] /Game/Resources_TA/SmartCarUVObj_pCube1.SmartCarUVObj_pCube1
+[2018.12.13-17.47.14:446][848]LogStaticMesh: Building static mesh SmartCarUVObj_pCylinder10...
+[2018.12.13-17.47.14:528][848]LogStaticMesh: Built static mesh [0.08s] /Game/Resources_TA/SmartCarUVObj_pCylinder10.SmartCarUVObj_pCylinder10
+[2018.12.13-17.47.14:540][848]LogStaticMesh: Building static mesh SmartCarUVObj_pCylinder8...
+[2018.12.13-17.47.14:719][848]LogStaticMesh: Built static mesh [0.18s] /Game/Resources_TA/SmartCarUVObj_pCylinder8.SmartCarUVObj_pCylinder8
+[2018.12.13-17.47.14:771][848]LogStaticMesh: Building static mesh Stadium...
+[2018.12.13-17.47.14:934][848]LogStaticMesh: Built static mesh [0.16s] /Game/ZYLF1/Stadium.Stadium
+[2018.12.13-17.47.14:949][848]LogStaticMesh: Building static mesh streetBlocks100X50X20...
+[2018.12.13-17.47.14:955][848]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X50X20.streetBlocks100X50X20
+[2018.12.13-17.47.14:963][848]LogStaticMesh: Building static mesh streetBlocks100X100X20...
+[2018.12.13-17.47.14:970][848]LogStaticMesh: Built static mesh [0.01s] /Game/StreetBlocks/streetBlocks100X100X20.streetBlocks100X100X20
+[2018.12.13-17.47.14:972][848]LogStaticMesh: Building static mesh streetBlocks50X50X20...
+[2018.12.13-17.47.14:975][848]LogStaticMesh: Built static mesh [0.00s] /Game/StreetBlocks/streetBlocks50X50X20.streetBlocks50X50X20
+[2018.12.13-17.47.14:976][848]LogStaticMesh: Building static mesh TODD_polySurface10...
+[2018.12.13-17.47.14:984][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface10.TODD_polySurface10
+[2018.12.13-17.47.14:986][848]LogStaticMesh: Building static mesh TODD_polySurface12...
+[2018.12.13-17.47.14:994][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface12.TODD_polySurface12
+[2018.12.13-17.47.14:996][848]LogStaticMesh: Building static mesh TODD_polySurface13...
+[2018.12.13-17.47.15:008][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface13.TODD_polySurface13
+[2018.12.13-17.47.15:011][848]LogStaticMesh: Building static mesh TODD_polySurface14...
+[2018.12.13-17.47.15:020][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface14.TODD_polySurface14
+[2018.12.13-17.47.15:030][848]LogStaticMesh: Building static mesh TODD_polySurface15...
+[2018.12.13-17.47.15:070][848]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.12.13-17.47.15:070][848]LogStaticMesh: Built static mesh [0.04s] /Game/MAC_CAR/TODD_polySurface15.TODD_polySurface15
+[2018.12.13-17.47.15:073][848]LogStaticMesh: Building static mesh TODD_polySurface17...
+[2018.12.13-17.47.15:107][848]LogStaticMesh: Built static mesh [0.03s] /Game/MAC_CAR/TODD_polySurface17.TODD_polySurface17
+[2018.12.13-17.47.15:151][848]LogStaticMesh: Building static mesh TODD_polySurface1...
+[2018.12.13-17.47.15:555][848]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.12.13-17.47.15:555][848]LogStaticMesh: Built static mesh [0.40s] /Game/MAC_CAR/TODD_polySurface1.TODD_polySurface1
+[2018.12.13-17.47.15:574][848]LogStaticMesh: Building static mesh TODD_polySurface3...
+[2018.12.13-17.47.15:623][848]LogStaticMesh: Built static mesh [0.05s] /Game/MAC_CAR/TODD_polySurface3.TODD_polySurface3
+[2018.12.13-17.47.15:627][848]LogStaticMesh: Building static mesh TODD_polySurface4...
+[2018.12.13-17.47.15:662][848]LogStaticMesh: Built static mesh [0.04s] /Game/MAC_CAR/TODD_polySurface4.TODD_polySurface4
+[2018.12.13-17.47.15:666][848]LogStaticMesh: Building static mesh TODD_polySurface5...
+[2018.12.13-17.47.15:677][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface5.TODD_polySurface5
+[2018.12.13-17.47.15:682][848]LogStaticMesh: Building static mesh TODD_polySurface6...
+[2018.12.13-17.47.15:695][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface6.TODD_polySurface6
+[2018.12.13-17.47.15:699][848]LogStaticMesh: Building static mesh TODD_polySurface7...
+[2018.12.13-17.47.15:710][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface7.TODD_polySurface7
+[2018.12.13-17.47.15:713][848]LogStaticMesh: Building static mesh TODD_polySurface8...
+[2018.12.13-17.47.15:724][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface8.TODD_polySurface8
+[2018.12.13-17.47.15:727][848]LogStaticMesh: Building static mesh TODD_polySurface9...
+[2018.12.13-17.47.15:734][848]LogStaticMesh: Built static mesh [0.01s] /Game/MAC_CAR/TODD_polySurface9.TODD_polySurface9
+[2018.12.13-17.47.15:739][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCylinder6...
+[2018.12.13-17.47.15:759][848]LogStaticMesh: Built static mesh [0.02s] /Game/GY_Car/Toy_Car_and_UV_pCylinder6.Toy_Car_and_UV_pCylinder6
+[2018.12.13-17.47.15:767][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pCylinder7...
+[2018.12.13-17.47.15:787][848]LogStaticMesh: Built static mesh [0.02s] /Game/GY_Car/Toy_Car_and_UV_pCylinder7.Toy_Car_and_UV_pCylinder7
+[2018.12.13-17.47.15:790][848]LogStaticMesh: Building static mesh Toy_Car_and_UV_pTorus1...
+[2018.12.13-17.47.15:802][848]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Car/Toy_Car_and_UV_pTorus1.Toy_Car_and_UV_pTorus1
+[2018.12.13-17.47.15:877][848]LogStaticMesh: Building static mesh SM_MERGED_tractorBase...
+[2018.12.13-17.47.16:280][848]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.13-17.47.16:280][848]LogStaticMesh: Built static mesh [0.40s] /Game/Tractor/SM_MERGED_tractorBase.SM_MERGED_tractorBase
+[2018.12.13-17.47.16:309][848]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
+[2018.12.13-17.47.16:325][848]LogMaterial: Display: Missing cached shader map for material M_MyMaterial_Wood, compiling. 
+[2018.12.13-17.47.16:340][848]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-17.47.16:355][848]LogMaterial: Display: Missing cached shader map for material M_WBchar_MACH, compiling. 
+[2018.12.13-17.47.16:378][848]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.12.13-17.47.16:397][848]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.12.13-17.47.16:416][848]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-17.47.16:430][848]LogMaterial: Display: Missing cached shader map for material pCube13Mat, compiling. 
+[2018.12.13-17.47.16:446][848]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.47.16:463][848]LogMaterial: Display: Missing cached shader map for material lambert11SG, compiling. 
+[2018.12.13-17.47.16:480][848]LogMaterial: Display: Missing cached shader map for material lambert14SG, compiling. 
+[2018.12.13-17.47.16:497][848]LogMaterial: Display: Missing cached shader map for material lambert9SG, compiling. 
+[2018.12.13-17.47.16:512][848]LogMaterial: Display: Missing cached shader map for material lambert6SG, compiling. 
+[2018.12.13-17.47.16:526][848]LogMaterial: Display: Missing cached shader map for material lambert4SG, compiling. 
+[2018.12.13-17.47.16:541][848]LogMaterial: Display: Missing cached shader map for material lambert2SG, compiling. 
+[2018.12.13-17.47.16:571][848]LogAIModule: Creating AISystem for world StreetSceneLarge_ZYL
+[2018.12.13-17.47.16:680][848]LogShaderCompilers: Display: Shaders left to compile 402
+[2018.12.13-17.47.16:686][848]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_ZYL.StreetSceneLarge_ZYL
+[2018.12.13-17.47.16:799][848]Cmd: MAP LOAD FILE="../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.47.16:799][848]LightingResults: New page: Lighting Build
+[2018.12.13-17.47.16:800][848]LoadErrors: New page: Loading map: StreetSceneLarge_ZYL.umap
+[2018.12.13-17.47.16:801][848]MapCheck: New page: Map Check
+[2018.12.13-17.47.16:801][848]LightingResults: New page: Lighting Build
+[2018.12.13-17.47.17:014][848]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.13-17.47.17:061][848]LogShaderCompilers: Display: Shaders left to compile 392
+[2018.12.13-17.47.17:115][848]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.47.17:235][848]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119.773ms to complete.
+[2018.12.13-17.47.17:238][848]LogFileHelpers: Loading map 'StreetSceneLarge_ZYL' took 0.441
+[2018.12.13-17.47.17:586][852]LogShaderCompilers: Display: Shaders left to compile 382
+[2018.12.13-17.47.18:461][888]LogShaderCompilers: Display: Shaders left to compile 372
+[2018.12.13-17.47.18:927][908]LogShaderCompilers: Display: Shaders left to compile 362
+[2018.12.13-17.47.19:720][961]LogShaderCompilers: Display: Shaders left to compile 352
+[2018.12.13-17.47.19:941][969]LogShaderCompilers: Display: Shaders left to compile 342
+[2018.12.13-17.47.19:944][969]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stadium)
+[2018.12.13-17.47.20:591][981]LogShaderCompilers: Display: Shaders left to compile 332
+[2018.12.13-17.47.21:586][ 13]LogShaderCompilers: Display: Shaders left to compile 322
+[2018.12.13-17.47.21:760][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (castle2)
+[2018.12.13-17.47.22:327][ 35]LogShaderCompilers: Display: Shaders left to compile 312
+[2018.12.13-17.47.22:654][ 44]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop)
+[2018.12.13-17.47.22:872][ 49]LogShaderCompilers: Display: Shaders left to compile 302
+[2018.12.13-17.47.23:115][ 58]LogShaderCompilers: Display: Shaders left to compile 292
+[2018.12.13-17.47.23:556][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.12.13-17.47.24:448][ 97]LogShaderCompilers: Display: Shaders left to compile 282
+[2018.12.13-17.47.24:626][102]LogShaderCompilers: Display: Shaders left to compile 272
+[2018.12.13-17.47.25:505][127]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.12.13-17.47.25:640][133]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.12.13-17.47.26:758][164]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.12.13-17.47.27:152][178]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.12.13-17.47.27:406][187]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.12.13-17.47.28:436][223]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.12.13-17.47.28:479][225]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.12.13-17.47.28:999][243]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.12.13-17.47.30:161][282]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.12.13-17.47.30:420][291]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.12.13-17.47.31:118][315]Cmd: EDIT COPY
+[2018.12.13-17.47.31:348][324]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.12.13-17.47.31:506][329]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.12.13-17.47.32:490][362]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.12.13-17.47.32:768][371]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.12.13-17.47.33:510][397]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.12.13-17.47.33:937][412]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.12.13-17.47.34:628][434]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.12.13-17.47.35:451][463]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.12.13-17.47.35:682][470]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.12.13-17.47.36:934][513]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.12.13-17.47.37:635][537]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.12.13-17.47.37:921][546]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.12.13-17.47.38:624][569]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.12.13-17.47.39:330][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.47.39:476][598]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.12.13-17.47.39:974][600]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.13-17.47.39:975][600]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.13-17.47.39:975][600]LoadErrors: Error: /Game/BMS/WoodBlock/Block3 : Can't find file for asset. /Game/WoodBlock/M_MasterWoodBlock
+[2018.12.13-17.47.39:975][600]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.13-17.47.39:975][600]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.13-17.47.40:048][600]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.47.40:062][600]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.13-17.47.40:063][600]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.13-17.47.40:063][600]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : Can't find file for asset. /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.12.13-17.47.40:063][600]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.13-17.47.40:063][600]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.13-17.47.40:086][600]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.13-17.47.40:086][600]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.13-17.47.40:086][600]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : Can't find file for asset. /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.12.13-17.47.40:090][600]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.13-17.47.40:090][600]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.13-17.47.40:106][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.13-17.47.40:106][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.13-17.47.40:106][600]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.12.13-17.47.40:106][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.13-17.47.40:106][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.13-17.47.40:108][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.13-17.47.40:108][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.13-17.47.40:108][600]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.12.13-17.47.40:108][600]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-17.47.40:108][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.13-17.47.40:108][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.13-17.47.40:110][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.13-17.47.40:110][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.13-17.47.40:110][600]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.12.13-17.47.40:110][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.13-17.47.40:110][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.13-17.47.40:627][600]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-17.47.40:826][600]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-17.47.41:428][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.13-17.47.41:428][600]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.12.13-17.47.41:428][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.13-17.47.41:428][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.13-17.47.41:428][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.13-17.47.41:429][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.13-17.47.41:429][600]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.12.13-17.47.41:429][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.13-17.47.41:429][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.13-17.47.41:429][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.13-17.47.41:430][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.13-17.47.41:430][600]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.12.13-17.47.41:430][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.13-17.47.41:431][600]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.13-17.47.41:431][600]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.13-17.47.41:440][600]LogTexture: Display: Building textures: WoodTexture2Norm (BC5, 512X512)
+[2018.12.13-17.47.41:441][600]LogTexture: Display: Building textures: WoodTexture2_0 (AutoDXT, 512X512)
+[2018.12.13-17.47.41:441][600]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.13-17.47.41:441][600]LoadErrors: Failed to load /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat Referenced by MannequinResizedCombinedMesh
+[2018.12.13-17.47.41:441][600]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.13-17.47.41:441][600]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.13-17.47.41:442][600]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.13-17.47.41:477][600]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.13-17.47.41:477][600]LoadErrors: Failed to load /Game/WoodBlock/M_MasterWoodBlock.M_MasterWoodBlock Referenced by Block3
+[2018.12.13-17.47.41:477][600]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.13-17.47.41:478][600]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.13-17.47.41:478][600]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.13-17.47.41:489][600]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.13-17.47.41:490][600]LoadErrors: Failed to load /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 Referenced by House
+[2018.12.13-17.47.41:490][600]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.13-17.47.41:491][600]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.13-17.47.41:491][600]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.13-17.47.41:930][600]LogTexture: Display: Building textures: texturemanny2 (BGRA8, 2048X2043)
+[2018.12.13-17.47.41:930][600]LogTexture: Display: Building textures: WoodTexture2 (AutoDXT, 1600X1036)
+[2018.12.13-17.47.42:746][600]LogTexture: Display: Building textures: pirateTexture (AutoDXT, 8192X8192)
+[2018.12.13-17.47.42:746][600]LogTexture: Display: Building textures: Normal_MAp (BC5, 2048X2048)
+[2018.12.13-17.47.42:746][600]LogTexture: Display: Building textures: 1_4 (AutoDXT, 612X612)
+[2018.12.13-17.47.42:960][600]LogTexture: Display: Building textures: Out_of_class_A2 (AutoDXT, 1024X1024)
+[2018.12.13-17.47.42:960][600]LogTexture: Display: Building textures: A6ExportV2_EPNoShoulderDecal (AutoDXT, 4096X4096)
+[2018.12.13-17.47.42:960][600]LogTexture: Display: Building textures: WoodTexture004 (AutoDXT, 2048X2048)
+[2018.12.13-17.47.42:965][600]LogMaterial: Display: Missing cached shader map for material lambert7SG, compiling. 
+[2018.12.13-17.47.42:987][600]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-17.47.42:988][600]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-17.47.42:988][600]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-17.47.42:988][600]LogStaticMesh: Building static mesh SmallWindowBlock_JackODonoghue...
+[2018.12.13-17.47.42:995][600]LogStaticMesh: Built static mesh [0.01s] /Game/WoodCar_JO/Blocks/SmallWindowBlock_JackODonoghue.SmallWindowBlock_JackODonoghue
+[2018.12.13-17.47.43:049][600]LogStaticMesh: Building static mesh CarwithUV_pCylinder4...
+[2018.12.13-17.47.43:339][600]LogStaticMesh: Built static mesh [0.29s] /Game/WoodCar_JO/CarwithUV_pCylinder4.CarwithUV_pCylinder4
+[2018.12.13-17.47.43:957][600]LogTexture: Display: Building textures: woodtexture_taschiaritter (AutoDXT, 1200X1200)
+[2018.12.13-17.47.43:958][600]LogTexture: Display: Building textures: WoodTexture004Norm (BGRA8, 2299X2299)
+[2018.12.13-17.47.44:317][600]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
+[2018.12.13-17.47.45:113][600]LogTexture: Display: Building textures: brickMap (BGRA8, 275X183)
+[2018.12.13-17.47.45:113][600]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.47.45:483][600]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-17.47.53:252][600]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:252][600]LogTexture: Display: Building textures: originalwoodtexture (AutoDXT, 1024X1024)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: wood_normal (BC5, 1200X1200)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: Manneqin_AP_TextureMap01 (AutoDXT, 8192X8192)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: Texture (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: TanWoodTextureTile1 (AutoDXT, 1024X1024)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: Beecroft_texture (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: WindowPaintLightGray (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: Normal_MAp (BC5, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-17.47.53:253][600]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: cloth (BC5, 3576X3576)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: HatUV (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: manPaint (AutoDXT, 8192X8192)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: EAEAPMansmoothhatcenterfootmaster3flipped (AutoDXT, 2048X2048)
+[2018.12.13-17.47.53:253][600]LogTexture: Display: Building textures: woodtexture (AutoDXT, 612X612)
+[2018.12.13-17.47.53:258][600]LogMaterial: Display: Missing cached shader map for material axelcolor1, compiling. 
+[2018.12.13-17.47.53:295][600]LogTexture: Display: Building textures: wood (AutoDXT, 1024X1024)
+[2018.12.13-17.47.53:295][600]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-17.47.53:317][600]LogTexture: Display: Building textures: Woodassignmentimage (AutoDXT, 684X684)
+[2018.12.13-17.47.53:317][600]LogMaterial: Display: Missing cached shader map for material M_MasterMyWoodBlock_AP, compiling. 
+[2018.12.13-17.47.53:351][600]LogStaticMesh: Building static mesh LargelWindowBlock_JackODonoghue...
+[2018.12.13-17.47.53:354][600]LogStaticMesh: Built static mesh [0.00s] /Game/WoodCar_JO/Blocks/LargelWindowBlock_JackODonoghue.LargelWindowBlock_JackODonoghue
+[2018.12.13-17.47.53:358][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.47.53:373][600]LogStaticMesh: Building static mesh MediumWindowBlock_JackODonoghue...
+[2018.12.13-17.47.53:377][600]LogStaticMesh: Built static mesh [0.00s] /Game/WoodCar_JO/Blocks/MediumWindowBlock_JackODonoghue.MediumWindowBlock_JackODonoghue
+[2018.12.13-17.47.53:441][600]LogStaticMesh: Building static mesh motorcycle_TYR...
+[2018.12.13-17.47.53:789][600]LogTexture: Display: Building textures: TanWoodTextureTile1 (AutoDXT, 1024X1024)
+[2018.12.13-17.47.53:790][600]LogTexture: Display: Building textures: test (BGRA8, 2048X2046)
+[2018.12.13-17.47.53:790][600]LogStaticMesh: Built static mesh [0.35s] /Game/TaschiaR/motorcycle_TYR.motorcycle_TYR
+[2018.12.13-17.47.54:045][600]LogStaticMesh: Building static mesh hangingBrickTAdyREDO...
+[2018.12.13-17.47.54:059][600]LogStaticMesh: Built static mesh [0.01s] /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.hangingBrickTAdyREDO
+[2018.12.13-17.47.54:118][600]LogMaterial: Display: Missing cached shader map for material lambert4, compiling. 
+[2018.12.13-17.47.54:162][600]LogStaticMesh: Building static mesh tubeTAdy...
+[2018.12.13-17.47.54:203][600]LogStaticMesh: Built static mesh [0.04s] /Game/Resources_TA/woodBlocksContent/tubeTAdy.tubeTAdy
+[2018.12.13-17.47.54:209][600]LogStaticMesh: Building static mesh halfSphereTAdy...
+[2018.12.13-17.47.54:241][600]LogStaticMesh: Built static mesh [0.03s] /Game/Resources_TA/woodBlocksContent/halfSphereTAdy.halfSphereTAdy
+[2018.12.13-17.47.54:277][600]LogStaticMesh: Building static mesh m_pCylinder1...
+[2018.12.13-17.47.54:282][600]LogStaticMesh: Built static mesh [0.01s] /Game/Resources_TA/m_pCylinder1.m_pCylinder1
+[2018.12.13-17.48.05:456][600]LogTexture: Display: Building textures: manniquintexture (AutoDXT, 2048X2048)
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.12.13-17.48.05:456][600]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.12.13-17.48.05:456][600]LogMaterial: Display: Missing cached shader map for material lambert3, compiling. 
+[2018.12.13-17.48.05:552][600]LogStaticMesh: Building static mesh m_Core1...
+[2018.12.13-17.48.05:777][600]LogStaticMesh: Built static mesh [0.23s] /Game/Resources_TA/m_Core1.m_Core1
+[2018.12.13-17.48.05:807][600]LogStaticMesh: Building static mesh 4way-pyramid...
+[2018.12.13-17.48.05:821][600]LogStaticMesh: Built static mesh [0.01s] /Game/Carpentieri_Alex/4way-pyramid.4way-pyramid
+[2018.12.13-17.48.05:987][600]LogStaticMesh: Building static mesh astonFBX...
+[2018.12.13-17.48.06:688][600]LogStaticMesh: Built static mesh [0.70s] /Game/Carpentieri_Alex/astonFBX.astonFBX
+[2018.12.13-17.48.06:754][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.48.06:772][600]LogMaterial: Display: Missing cached shader map for material M_woodblock002_AP, compiling. 
+[2018.12.13-17.48.06:787][600]LogMaterial: Display: Missing cached shader map for material M_woodblock001_AP, compiling. 
+[2018.12.13-17.48.06:801][600]LogStaticMesh: Building static mesh BBlock3...
+[2018.12.13-17.48.06:812][600]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock3.BBlock3
+[2018.12.13-17.48.06:816][600]LogMaterial: Display: Missing cached shader map for material lambert2SG1, compiling. 
+[2018.12.13-17.48.06:834][600]LogMaterial: Display: Missing cached shader map for material lambert1, compiling. 
+[2018.12.13-17.48.06:848][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2018.12.13-17.48.06:864][600]LogMaterial: Display: Missing cached shader map for material pCylinder1Mat, compiling. 
+[2018.12.13-17.48.06:895][600]LogStaticMesh: Building static mesh UV_Semi_Circle...
+[2018.12.13-17.48.06:928][600]LogStaticMesh: Built static mesh [0.03s] /Game/GY_Blocks/UV_Semi_Circle.UV_Semi_Circle
+[2018.12.13-17.48.06:934][600]LogStaticMesh: Building static mesh UV_Hex...
+[2018.12.13-17.48.06:942][600]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Blocks/UV_Hex.UV_Hex
+[2018.12.13-17.48.06:944][600]LogStaticMesh: Building static mesh UV_Octagon...
+[2018.12.13-17.48.06:953][600]LogStaticMesh: Built static mesh [0.01s] /Game/GY_Blocks/UV_Octagon.UV_Octagon
+[2018.12.13-17.48.07:042][600]LogStaticMesh: Building static mesh MannequinResizedCombinedMesh...
+[2018.12.13-17.48.07:271][600]LogStaticMesh: Built static mesh [0.23s] /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.MannequinResizedCombinedMesh
+[2018.12.13-17.48.07:293][600]LogMaterial: Display: Missing cached shader map for material pCube1Mat, compiling. 
+[2018.12.13-17.48.07:312][600]LogMaterial: Display: Missing cached shader map for material Mat_Wood_TYR, compiling. 
+[2018.12.13-17.48.07:328][600]LogStaticMesh: Building static mesh EP_Spire...
+[2018.12.13-17.48.07:333][600]LogStaticMesh: Built static mesh [0.00s] /Game/ERPCarContent/EP_Spire.EP_Spire
+[2018.12.13-17.48.07:337][600]LogMaterial: Display: Missing cached shader map for material pCube5Mat, compiling. 
+[2018.12.13-17.48.09:024][600]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.12.13-17.48.09:031][600]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.13-17.48.09:069][600]LogStaticMesh: Building static mesh manny2...
+[2018.12.13-17.48.09:136][600]LogStaticMesh: Built static mesh [0.07s] /Game/Sarenna_Haddad/manny2.manny2
+[2018.12.13-17.48.09:144][600]LogMaterial: Display: Missing cached shader map for material texturemanny_Mat, compiling. 
+[2018.12.13-17.48.09:168][600]LogStaticMesh: Building static mesh BlockBigger3...
+[2018.12.13-17.48.09:176][600]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/BlockBigger3.BlockBigger3
+[2018.12.13-17.48.09:181][600]LogStaticMesh: Building static mesh BlockBigger2...
+[2018.12.13-17.48.09:188][600]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/BlockBigger2.BlockBigger2
+[2018.12.13-17.48.09:192][600]LogStaticMesh: Building static mesh blockBigger1...
+[2018.12.13-17.48.09:198][600]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/blockBigger1.blockBigger1
+[2018.12.13-17.48.09:202][600]LogMaterial: Display: Missing cached shader map for material woodtexture1, compiling. 
+[2018.12.13-17.48.09:222][600]LogMaterial: Display: Missing cached shader map for material M_MasterMyWoodBlock_AP, compiling. 
+[2018.12.13-17.48.09:246][600]LogMaterial: Display: Missing cached shader map for material polySurface6Mat, compiling. 
+[2018.12.13-17.48.09:267][600]LogMaterial: Display: Missing cached shader map for material Beecroft_CharacterTexture, compiling. 
+[2018.12.13-17.48.09:288][600]LogMaterial: Display: Missing cached shader map for material lambert3SG, compiling. 
+[2018.12.13-17.48.09:472][600]LogStaticMesh: Building static mesh CL_figure...
+[2018.12.13-17.48.09:709][600]LogStaticMesh: Built static mesh [0.24s] /Game/CL_SOURCE/CLFigSource/CL_figure.CL_figure
+[2018.12.13-17.48.09:755][600]LogStaticMesh: Building static mesh EP_Arch...
+[2018.12.13-17.48.09:786][600]LogStaticMesh: Built static mesh [0.03s] /Game/ERPCarContent/EP_Arch.EP_Arch
+[2018.12.13-17.48.09:791][600]LogStaticMesh: Building static mesh Doadech...
+[2018.12.13-17.48.09:801][600]LogStaticMesh: Built static mesh [0.01s] /Game/DJW_Source/WoodBlocks_DJW/Doadech.Doadech
+[2018.12.13-17.48.09:805][600]LogMaterial: Display: Missing cached shader map for material mannequin_texture_rt, compiling. 
+[2018.12.13-17.48.10:790][600]LogShaderCompilers: Display: Shaders left to compile 408
+[2018.12.13-17.48.10:790][600]LogShaderCompilers: Display: Shaders left to compile 398
+[2018.12.13-17.48.10:790][600]LogShaderCompilers: Display: Shaders left to compile 388
+[2018.12.13-17.48.10:790][600]LogShaderCompilers: Display: Shaders left to compile 378
+[2018.12.13-17.48.10:790][600]LogStaticMesh: Building static mesh EAEAPmantexture_RT...
+[2018.12.13-17.48.13:022][600]LogShaderCompilers: Display: Shaders left to compile 368
+[2018.12.13-17.48.13:022][600]LogShaderCompilers: Display: Shaders left to compile 358
+[2018.12.13-17.48.13:022][600]LogShaderCompilers: Display: Shaders left to compile 348
+[2018.12.13-17.48.13:022][600]LogStaticMesh: Built static mesh [2.23s] /Game/Blocks_RT/RT_Mannequin/EAEAPmantexture_RT.EAEAPmantexture_RT
+[2018.12.13-17.48.13:573][600]LogShaderCompilers: Display: Shaders left to compile 338
+[2018.12.13-17.48.13:576][600]LogStaticMesh: Building static mesh block1RT...
+[2018.12.13-17.48.13:580][600]LogStaticMesh: Built static mesh [0.00s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block1RT.block1RT
+[2018.12.13-17.48.13:584][600]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2018.12.13-17.48.13:599][600]LogStaticMesh: Building static mesh CenterStreetBlockTest004...
+[2018.12.13-17.48.13:602][600]LogStaticMesh: Built static mesh [0.00s] /Game/WoodCar_JO/InckassWoodgrain_JO/CenterStreetBlockTest004.CenterStreetBlockTest004
+[2018.12.13-17.48.13:651][600]LogStaticMesh: Building static mesh ModelforA6c...
+[2018.12.13-17.48.13:877][600]LogStaticMesh: Built static mesh [0.23s] /Game/WoodCar_JO/Maniquin/ModelforA6c.ModelforA6c
+[2018.12.13-17.48.13:936][600]LogStaticMesh: Building static mesh WoodCarFinalUnreal...
+[2018.12.13-17.48.14:039][600]LogStaticMesh: Built static mesh [0.10s] /Game/BMS/WoodCarFinalUnreal.WoodCarFinalUnreal
+[2018.12.13-17.48.14:052][600]LogMaterial: Display: Missing cached shader map for material m_woodblock1, compiling. 
+[2018.12.13-17.48.14:075][600]LogStaticMesh: Building static mesh Block3...
+[2018.12.13-17.48.14:092][600]LogStaticMesh: Built static mesh [0.02s] /Game/BMS/WoodBlock/Block3.Block3
+[2018.12.13-17.48.14:098][600]LogStaticMesh: Building static mesh finishedcolumn...
+[2018.12.13-17.48.14:110][600]LogStaticMesh: Built static mesh [0.01s] /Game/BMS/WoodBlock/finishedcolumn.finishedcolumn
+[2018.12.13-17.48.14:116][600]LogStaticMesh: Building static mesh block2RT...
+[2018.12.13-17.48.14:123][600]LogStaticMesh: Built static mesh [0.01s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block2RT.block2RT
+[2018.12.13-17.48.14:692][600]LogShaderCompilers: Display: Shaders left to compile 372
+[2018.12.13-17.48.14:692][600]LogStaticMesh: Building static mesh WoodenCarRT...
+[2018.12.13-17.48.16:114][600]LogShaderCompilers: Display: Shaders left to compile 362
+[2018.12.13-17.48.16:114][600]LogShaderCompilers: Display: Shaders left to compile 352
+[2018.12.13-17.48.16:114][600]LogShaderCompilers: Display: Shaders left to compile 342
+[2018.12.13-17.48.16:114][600]LogStaticMesh: Built static mesh [1.42s] /Game/Blocks_RT/Woodencar_RT/RT_Smooth_Car/WoodenCarRT.WoodenCarRT
+[2018.12.13-17.48.16:407][600]LogShaderCompilers: Display: Shaders left to compile 332
+[2018.12.13-17.48.16:411][600]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2018.12.13-17.48.16:427][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.48.16:442][600]LogStaticMesh: Building static mesh BBlock2...
+[2018.12.13-17.48.16:453][600]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/BBlock2.BBlock2
+[2018.12.13-17.48.16:456][600]LogMaterial: Display: Missing cached shader map for material blinn1SG, compiling. 
+[2018.12.13-17.48.16:472][600]LogStaticMesh: Building static mesh ass004-SuspB2...
+[2018.12.13-17.48.16:490][600]LogStaticMesh: Built static mesh [0.02s] /Game/ButlerM/ass004-SuspB2.ass004-SuspB2
+[2018.12.13-17.48.16:494][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup_initialShadingGroup1_pCube3_polySurface1Mat, compiling. 
+[2018.12.13-17.48.16:512][600]LogStaticMesh: Building static mesh 3010BasicDoorWay...
+[2018.12.13-17.48.16:519][600]LogStaticMesh: Built static mesh [0.01s] /Game/CL_Car/3010BasicDoorWay.3010BasicDoorWay
+[2018.12.13-17.48.16:523][600]LogMaterial: Display: Missing cached shader map for material pCube6Mat, compiling. 
+[2018.12.13-17.48.16:544][600]LogStaticMesh: Building static mesh bridge...
+[2018.12.13-17.48.16:552][600]LogStaticMesh: Built static mesh [0.01s] /Game/Carpentieri_Alex/bridge.bridge
+[2018.12.13-17.48.16:554][600]LogStaticMesh: Building static mesh simple_circle_entrance...
+[2018.12.13-17.48.16:558][600]LogStaticMesh: Built static mesh [0.00s] /Game/Carpentieri_Alex/simple_circle_entrance.simple_circle_entrance
+[2018.12.13-17.48.16:559][600]LogStaticMesh: Building static mesh Block1...
+[2018.12.13-17.48.16:564][600]LogStaticMesh: Built static mesh [0.00s] /Game/Beecroft_Blocks/Block1.Block1
+[2018.12.13-17.48.16:572][600]LogStaticMesh: Building static mesh Block2...
+[2018.12.13-17.48.16:589][600]LogStaticMesh: Built static mesh [0.02s] /Game/Beecroft_Blocks/Block2.Block2
+[2018.12.13-17.48.16:685][600]LogStaticMesh: Building static mesh Beecroft_Character...
+[2018.12.13-17.48.16:956][600]LogStaticMesh: Built static mesh [0.27s] /Game/Beecroft_Car/Beecroft_Character.Beecroft_Character
+[2018.12.13-17.48.16:997][600]LogStaticMesh: Building static mesh Block3...
+[2018.12.13-17.48.17:000][600]LogStaticMesh: Built static mesh [0.00s] /Game/Beecroft_Blocks/Block3.Block3
+[2018.12.13-17.48.17:003][600]LogMaterial: Display: Missing cached shader map for material blinn5, compiling. 
+[2018.12.13-17.48.17:021][600]LogStaticMesh: Building static mesh wall_4...
+[2018.12.13-17.48.17:033][600]LogStaticMesh: Built static mesh [0.01s] /Game/Car_XH/wood/wall_4.wall_4
+[2018.12.13-17.48.17:036][600]LogShaderCompilers: Display: Shaders left to compile 454
+[2018.12.13-17.48.17:036][600]LogMaterial: Display: Missing cached shader map for material blinn2, compiling. 
+[2018.12.13-17.48.17:058][600]LogStaticMesh: Building static mesh APC_OBJ...
+[2018.12.13-17.48.17:096][600]LogStaticMesh: Built static mesh [0.04s] /Game/ERPCarContent/APC_OBJ.APC_OBJ
+[2018.12.13-17.48.17:102][600]LogMaterial: Display: Missing cached shader map for material pCube12Mat, compiling. 
+[2018.12.13-17.48.17:123][600]LogStaticMesh: Building static mesh EP_Buttress...
+[2018.12.13-17.48.17:134][600]LogStaticMesh: Built static mesh [0.01s] /Game/ERPCarContent/EP_Buttress.EP_Buttress
+[2018.12.13-17.48.17:138][600]LogStaticMesh: Building static mesh Block2...
+[2018.12.13-17.48.17:147][600]LogStaticMesh: Built static mesh [0.01s] /Game/BMS/WoodBlock/Block2.Block2
+[2018.12.13-17.48.17:151][600]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.12.13-17.48.17:171][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.13-17.48.17:203][600]LogMaterial: Display: Missing cached shader map for material PelvisSG, compiling. 
+[2018.12.13-17.48.18:680][600]LogShaderCompilers: Display: Shaders left to compile 554
+[2018.12.13-17.48.18:680][600]LogShaderCompilers: Display: Shaders left to compile 544
+[2018.12.13-17.48.18:680][600]LogStaticMesh: Building static mesh House...
+[2018.12.13-17.48.21:254][600]LogShaderCompilers: Display: Shaders left to compile 534
+[2018.12.13-17.48.21:254][600]LogShaderCompilers: Display: Shaders left to compile 524
+[2018.12.13-17.48.21:254][600]LogShaderCompilers: Display: Shaders left to compile 514
+[2018.12.13-17.48.21:254][600]LogShaderCompilers: Display: Shaders left to compile 504
+[2018.12.13-17.48.21:254][600]LogShaderCompilers: Display: Shaders left to compile 494
+[2018.12.13-17.48.21:254][600]LogStaticMesh: Built static mesh [2.57s] /Game/JSW_Source/Jenny_Car/House.House
+[2018.12.13-17.48.21:825][600]LogMaterial: Display: Missing cached shader map for material pDisc3Mat, compiling. 
+[2018.12.13-17.48.21:985][600]LogStaticMesh: Building static mesh eeeeeeeeeeee...
+[2018.12.13-17.48.22:340][600]LogStaticMesh: Built static mesh [0.36s] /Game/Jenny_Car/eeeeeeeeeeee.eeeeeeeeeeee
+[2018.12.13-17.48.22:402][600]LogShaderCompilers: Display: Shaders left to compile 506
+[2018.12.13-17.48.22:402][600]LogMaterial: Display: Missing cached shader map for material wheelcolor, compiling. 
+[2018.12.13-17.48.22:598][600]LogStaticMesh: Building static mesh 3010LargeRoundTree...
+[2018.12.13-17.48.23:082][600]LogShaderCompilers: Display: Shaders left to compile 518
+[2018.12.13-17.48.23:082][600]LogStaticMesh: Built static mesh [0.48s] /Game/CL_SOURCE/CL_Car/3010LargeRoundTree.3010LargeRoundTree
+[2018.12.13-17.48.23:158][600]LogShaderCompilers: Display: Shaders left to compile 508
+[2018.12.13-17.48.23:158][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup_initialShadingGroup1_pCube5_polySurface1Mat, compiling. 
+[2018.12.13-17.48.23:290][600]LogStaticMesh: Building static mesh 3010WideDoorWay...
+[2018.12.13-17.48.23:298][600]LogStaticMesh: Built static mesh [0.01s] /Game/CL_Car/3010WideDoorWay.3010WideDoorWay
+[2018.12.13-17.48.23:314][600]LogStaticMesh: Building static mesh Wheels_OBJ...
+[2018.12.13-17.48.23:361][600]LogStaticMesh: Built static mesh [0.05s] /Game/ERPCarContent/Wheels_OBJ.Wheels_OBJ
+[2018.12.13-17.48.23:400][600]LogMaterial: Display: Missing cached shader map for material textureEditorIsolateSelectSet_polySurface7_pCylinder11Mat, compiling. 
+[2018.12.13-17.48.23:421][600]LogMaterial: Display: Missing cached shader map for material Grill_wood, compiling. 
+[2018.12.13-17.48.23:437][600]LogMaterial: Display: Missing cached shader map for material gold_painted_wood, compiling. 
+[2018.12.13-17.48.23:461][600]LogMaterial: Display: Missing cached shader map for material initialShadingGroup_initialShadingGroup1_pCylinder3_polySurface1Mat, compiling. 
+[2018.12.13-17.48.23:547][600]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.13-17.48.23:763][600]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.13-17.48.24:197][600]LogShaderCompilers: Display: Shaders left to compile 608
+[2018.12.13-17.48.24:507][600]LogShaderCompilers: Display: Shaders left to compile 598
+[2018.12.13-17.48.24:888][600]LogShaderCompilers: Display: Shaders left to compile 588
+[2018.12.13-17.48.26:021][600]LogShaderCompilers: Display: Shaders left to compile 578
+[2018.12.13-17.48.26:518][600]LogShaderCompilers: Display: Shaders left to compile 568
+[2018.12.13-17.48.27:021][600]LogShaderCompilers: Display: Shaders left to compile 558
+[2018.12.13-17.48.27:431][600]LogShaderCompilers: Display: Shaders left to compile 548
+[2018.12.13-17.48.28:223][600]LogShaderCompilers: Display: Shaders left to compile 538
+[2018.12.13-17.48.28:734][600]LogShaderCompilers: Display: Shaders left to compile 528
+[2018.12.13-17.48.29:351][600]LogShaderCompilers: Display: Shaders left to compile 518
+[2018.12.13-17.48.29:419][600]LogShaderCompilers: Display: Shaders left to compile 508
+[2018.12.13-17.48.30:240][600]LogShaderCompilers: Display: Shaders left to compile 498
+[2018.12.13-17.48.30:756][600]LogShaderCompilers: Display: Shaders left to compile 488
+[2018.12.13-17.48.30:843][600]LogShaderCompilers: Display: Shaders left to compile 478
+[2018.12.13-17.48.31:922][600]LogShaderCompilers: Display: Shaders left to compile 468
+[2018.12.13-17.48.32:599][600]LogShaderCompilers: Display: Shaders left to compile 458
+[2018.12.13-17.48.32:909][600]LogShaderCompilers: Display: Shaders left to compile 448
+[2018.12.13-17.48.33:287][600]LogShaderCompilers: Display: Shaders left to compile 438
+[2018.12.13-17.48.34:211][600]LogShaderCompilers: Display: Shaders left to compile 428
+[2018.12.13-17.48.34:778][600]LogShaderCompilers: Display: Shaders left to compile 418
+[2018.12.13-17.48.35:156][600]LogShaderCompilers: Display: Shaders left to compile 408
+[2018.12.13-17.48.35:380][600]LogShaderCompilers: Display: Shaders left to compile 398
+[2018.12.13-17.48.36:511][600]LogShaderCompilers: Display: Shaders left to compile 388
+[2018.12.13-17.48.36:907][600]LogShaderCompilers: Display: Shaders left to compile 378
+[2018.12.13-17.48.36:941][600]LogShaderCompilers: Display: Shaders left to compile 368
+[2018.12.13-17.48.38:184][600]LogShaderCompilers: Display: Shaders left to compile 358
+[2018.12.13-17.48.38:860][600]LogShaderCompilers: Display: Shaders left to compile 348
+[2018.12.13-17.48.39:411][600]LogShaderCompilers: Display: Shaders left to compile 338
+[2018.12.13-17.48.39:480][600]LogShaderCompilers: Display: Shaders left to compile 328
+[2018.12.13-17.48.40:579][600]LogShaderCompilers: Display: Shaders left to compile 318
+[2018.12.13-17.48.41:256][600]LogShaderCompilers: Display: Shaders left to compile 308
+[2018.12.13-17.48.41:499][600]LogShaderCompilers: Display: Shaders left to compile 298
+[2018.12.13-17.48.42:067][600]LogShaderCompilers: Display: Shaders left to compile 288
+[2018.12.13-17.48.42:926][600]LogShaderCompilers: Display: Shaders left to compile 278
+[2018.12.13-17.48.43:389][600]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.12.13-17.48.43:629][600]LogShaderCompilers: Display: Shaders left to compile 258
+[2018.12.13-17.48.44:438][600]LogShaderCompilers: Display: Shaders left to compile 248
+[2018.12.13-17.48.45:310][600]LogShaderCompilers: Display: Shaders left to compile 238
+[2018.12.13-17.48.45:635][600]LogShaderCompilers: Display: Shaders left to compile 228
+[2018.12.13-17.48.46:046][600]LogShaderCompilers: Display: Shaders left to compile 218
+[2018.12.13-17.48.46:563][600]LogShaderCompilers: Display: Shaders left to compile 208
+[2018.12.13-17.48.47:424][600]LogShaderCompilers: Display: Shaders left to compile 198
+[2018.12.13-17.48.47:974][600]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.12.13-17.48.47:991][600]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.12.13-17.48.49:097][600]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.12.13-17.48.49:251][600]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.12.13-17.48.49:545][600]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.12.13-17.48.50:856][600]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.12.13-17.48.51:183][600]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.12.13-17.48.51:885][600]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.12.13-17.48.51:972][600]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.12.13-17.48.53:005][600]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.12.13-17.48.53:454][600]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.12.13-17.48.53:830][600]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.12.13-17.48.54:344][600]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.12.13-17.48.55:170][600]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.12.13-17.48.55:738][600]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.12.13-17.48.55:942][600]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.12.13-17.48.56:696][600]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.12.13-17.48.57:728][600]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.12.13-17.48.57:969][600]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.12.13-17.49.13:583][600]LogSlate: Window 'Save Content' being destroyed
+[2018.12.13-17.49.16:346][600]LogSavePackage: Moving '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYLB05DB01247DD43F37D8690A6417DC2C1.tmp' to '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap'
+[2018.12.13-17.49.16:391][600]LogFileHelpers: Saving map 'StreetSceneLarge_ZYL' took 2.797
+[2018.12.13-17.49.16:392][600]Cmd: MAP LOAD FILE="../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.49.16:392][600]LightingResults: New page: Lighting Build
+[2018.12.13-17.49.16:393][600]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.13-17.49.16:407][600]MapCheck: New page: Map Check
+[2018.12.13-17.49.16:407][600]LightingResults: New page: Lighting Build
+[2018.12.13-17.49.16:842][600]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.13-17.49.16:954][600]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.49.17:077][600]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123.762ms to complete.
+[2018.12.13-17.49.17:084][600]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.694
+[2018.12.13-17.49.20:360][666]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.13-17.49.20:380][666]Cmd: MAP LOAD FILE="../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.49.20:380][666]LightingResults: New page: Lighting Build
+[2018.12.13-17.49.20:381][666]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.13-17.49.20:408][666]MapCheck: New page: Map Check
+[2018.12.13-17.49.20:408][666]LightingResults: New page: Lighting Build
+[2018.12.13-17.49.21:678][666]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.13-17.49.21:872][666]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.12.13-17.49.21:982][666]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.49.22:102][666]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 120.941ms to complete.
+[2018.12.13-17.49.22:106][666]LogFileHelpers: Loading map 'StreetSceneLarge' took 1.727
+[2018.12.13-17.49.41:104][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.12.13-17.49.43:231][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1279)
+[2018.12.13-17.49.44:796][530]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (FormulaCar2)
+[2018.12.13-17.49.44:866][530]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.49.54:132][587]LogEditorViewport: Clicking Background
+[2018.12.13-17.49.54:975][619]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1259)
+[2018.12.13-17.49.56:106][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.50.01:955][102]LogEditorViewport: Clicking Background
+[2018.12.13-17.50.02:769][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.12.13-17.50.04:109][183]Cmd: DELETE
+[2018.12.13-17.50.04:109][183]Cmd: ACTOR DELETE
+[2018.12.13-17.50.04:202][183]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.13-17.50.04:225][183]LogEditorActor: Deleted 1 Actors (0.113 secs)
+[2018.12.13-17.50.06:482][279]Cmd: EDIT PASTE
+[2018.12.13-17.50.09:242][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (blockBigger121)
+[2018.12.13-17.50.36:040][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.50.38:030][130]LogAssetEditorManager: Opening Asset editor for MapBuildDataRegistry /Game/StreetSceneLarge_ZYL_BuiltData.StreetSceneLarge_ZYL_BuiltData
+[2018.12.13-17.50.39:840][268]LogSlate: Window 'StreetSceneLarge_ZYL_BuiltData - Generic Asset Editor' being destroyed
+[2018.12.13-17.50.39:844][268]LogSlate: Window 'StreetSceneLarge_ZYL_BuiltData - Generic Asset Editor' being destroyed
+[2018.12.13-17.51.22:883][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.23:977][ 13]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.24:005][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.51.28:028][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1230)
+[2018.12.13-17.51.28:959][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.29:220][581]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.29:245][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.51.31:772][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1230)
+[2018.12.13-17.51.37:210][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.41:051][502]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.51.44:279][763]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Stadium)
+[2018.12.13-17.51.44:306][763]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.51.55:354][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop2)
+[2018.12.13-17.51.56:915][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.03:868][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stadium)
+[2018.12.13-17.52.05:525][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.14:108][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stadium)
+[2018.12.13-17.52.15:864][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (castle2)
+[2018.12.13-17.52.20:092][ 83]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (castle2)
+[2018.12.13-17.52.20:123][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.20:683][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (castle2)
+[2018.12.13-17.52.20:949][155]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.13-17.52.22:795][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.30:563][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.32:400][224]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_MB, compiling. 
+[2018.12.13-17.52.32:432][225]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.13-17.52.32:432][225]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.13-17.52.32:432][225]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.13-17.52.32:432][225]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.13-17.52.36:066][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.37:029][495]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2018.12.13-17.52.42:115][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (FormulaCar2)
+[2018.12.13-17.52.44:335][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.52.49:154][420]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1229)
+[2018.12.13-17.53.00:184][110]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.53.27:675][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.53.31:601][ 23]LogSlate: Window 'Save Content' being destroyed
+[2018.12.13-17.53.34:696][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.53.35:734][176]LogAIModule: Creating AISystem for world StreetSceneLarge_ZYL
+[2018.12.13-17.53.35:782][176]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge_ZYL.StreetSceneLarge_ZYL
+[2018.12.13-17.53.37:488][176]LogSlate: Window 'Save Content' being destroyed
+[2018.12.13-17.53.41:964][176]LogSavePackage: Moving '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeAEC8DC1C4C04DBCF898884B7845CA9C0.tmp' to '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.12.13-17.53.42:004][176]LogFileHelpers: Saving map 'StreetSceneLarge' took 4.509
+[2018.12.13-17.53.42:005][176]Cmd: MAP LOAD FILE="../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.53.42:005][176]LightingResults: New page: Lighting Build
+[2018.12.13-17.53.42:006][176]LoadErrors: New page: Loading map: StreetSceneLarge_ZYL.umap
+[2018.12.13-17.53.42:035][176]MapCheck: New page: Map Check
+[2018.12.13-17.53.42:035][176]LightingResults: New page: Lighting Build
+[2018.12.13-17.53.42:165][176]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.13-17.53.42:242][176]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.53.42:362][176]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 121.405ms to complete.
+[2018.12.13-17.53.42:369][176]LogFileHelpers: Loading map 'StreetSceneLarge_ZYL' took 0.365
+[2018.12.13-17.53.44:253][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop)
+[2018.12.13-17.53.48:068][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.53.51:079][749]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stadium)
+[2018.12.13-17.53.52:277][807]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.53.55:587][101]LogLinker: Warning: Asset '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.13-17.53.55:588][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.13-17.53.55:589][101]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.13-17.53.55:589][101]LoadErrors: Error: /Game/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP : Can't find file for asset. /Game/WoodBlocks_DJW/WoodTexture004Norm
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.13-17.53.55:589][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.13-17.53.55:590][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/M_MasterWoodBlock_AP.uasset.
+[2018.12.13-17.53.55:591][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.13-17.53.55:591][101]LoadErrors: Failed to load /Game/WoodBlocks_DJW/WoodTexture004.WoodTexture004 Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2018.12.13-17.53.55:591][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading NULL.
+[2018.12.13-17.53.55:591][101]LogLinker: Warning: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.13-17.53.55:591][101]LoadErrors: Failed to load /Game/WoodBlocks_DJW/WoodTexture004Norm.WoodTexture004Norm Referenced by MaterialExpressionTextureSampleParameter2D_2
+[2018.12.13-17.53.55:591][101]LogLinker: Warning: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.13-17.53.55:593][101]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_AP, compiling. 
+[2018.12.13-17.53.55:594][101]LogMaterial: Warning: C:\Users\u1147195\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\DJW_Source\WoodBlocks_DJW\M_MasterWoodBlock_AP.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.13-17.53.55:594][101]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.12.13-17.53.56:982][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (castle2)
+[2018.12.13-17.53.58:265][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.02:923][558]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (f1_pitstop)
+[2018.12.13-17.54.04:797][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.08:266][946]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/wood_texture'
+[2018.12.13-17.54.08:266][946]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/wood_texture' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Justin_Nguyen/Woodencar_RT/woodskin.uasset.
+[2018.12.13-17.54.08:266][946]LoadErrors: Error: /Game/Justin_Nguyen/Woodencar_RT/woodskin : Can't find file for asset. /Game/Woodencar_RT/wood_texture
+[2018.12.13-17.54.08:266][946]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/wood_texture'
+[2018.12.13-17.54.08:266][946]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/wood_texture' while loading ../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Justin_Nguyen/Woodencar_RT/woodskin.uasset.
+[2018.12.13-17.54.08:267][946]LogLinker: Warning: Can't find file '/Game/Woodencar_RT/wood_texture'
+[2018.12.13-17.54.08:267][946]LoadErrors: Failed to load /Game/Woodencar_RT/wood_texture.wood_texture Referenced by MaterialExpressionTextureSample_0
+[2018.12.13-17.54.08:267][946]LogLinker: Warning: Can't find file for asset '/Game/Woodencar_RT/wood_texture' while loading NULL.
+[2018.12.13-17.54.08:270][946]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.12.13-17.54.08:270][946]LogMaterial: Warning: C:\Users\u1147195\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\Justin_Nguyen\Woodencar_RT\woodskin.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.13-17.54.08:271][946]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.12.13-17.54.10:372][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.12:694][288]LogMaterial: Display: Missing cached shader map for material woodskin, compiling. 
+[2018.12.13-17.54.12:723][289]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.13-17.54.12:723][289]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.13-17.54.12:723][289]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.13-17.54.15:211][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stadium)
+[2018.12.13-17.54.16:768][484]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.23:155][961]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.25:696][961]LogSavePackage: Moving '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL21E22BD2415F2B86338669AF669B3B58.tmp' to '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL.umap'
+[2018.12.13-17.54.25:828][961]LogSavePackage: Moving '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge_ZYL_BuiltData86CDFEA44B259C7CD909B898AE347E6E.tmp' to '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge_ZYL_BuiltData.uasset'
+[2018.12.13-17.54.28:612][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.54.29:981][113]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.13-17.54.30:087][113]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.13-17.54.30:158][113]Cmd: MAP LOAD FILE="../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.13-17.54.30:158][113]LightingResults: New page: Lighting Build
+[2018.12.13-17.54.30:159][113]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.13-17.54.30:174][113]MapCheck: New page: Map Check
+[2018.12.13-17.54.30:174][113]LightingResults: New page: Lighting Build
+[2018.12.13-17.54.30:417][113]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.13-17.54.30:526][113]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.13-17.54.30:645][113]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119.102ms to complete.
+[2018.12.13-17.54.30:649][113]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.491
+[2018.12.13-17.54.32:913][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.13-17.54.37:367][154]LogSavePackage: Moving '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLarge82261C60478A20E8006D988EAC0FEB7E.tmp' to '../../../../../../Users/u1147195/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
+[2018.12.13-17.54.41:693][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.13-17.54.41:879][369]LogSlate: Window 'APsec1LargeCityBase - Unreal Editor' being destroyed
+[2018.12.13-17.54.42:064][370]Cmd: QUIT_EDITOR
+[2018.12.13-17.54.42:079][370]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.13-17.54.42:092][370]LogExit: Preparing to exit.
+[2018.12.13-17.54.42:966][370]LogExit: Editor shut down
+[2018.12.13-17.54.42:966][370]LogExit: Transaction tracking system shut down
+[2018.12.13-17.54.43:443][370]LogExit: Object subsystem successfully closed.
+[2018.12.13-17.54.43:468][370]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.13-17.54.43:473][370]LogD3D11RHI: Shutdown
+[2018.12.13-17.54.43:473][370]LogD3D11RHI: CleanupD3DDevice
+[2018.12.13-17.54.43:501][370]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (612)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module SceneOutliner (610)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module AddContentDialog (608)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module WidgetCarousel (607)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module EditorWidgets (604)
+[2018.12.13-17.54.43:523][370]LogModuleManager: Shutting down and abandoning module CollectionManager (602)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (600)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.12.13-17.54.43:524][370]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.12.13-17.54.43:525][370]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.12.13-17.54.44:941][370]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.12.13-17.54.44:942][370]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.12.13-17.54.44:942][370]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.12.13-17.54.45:005][370]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.12.13-17.54.45:006][370]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.12.13-17.54.45:195][370]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.12.13-17.54.45:196][370]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.12.13-17.54.45:196][370]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.12.13-17.54.45:199][370]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.12.13-17.54.45:200][370]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.12.13-17.54.45:201][370]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.12.13-17.54.45:201][370]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.12.13-17.54.45:201][370]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.12.13-17.54.45:201][370]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.13-17.54.45:201][370]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.13-17.54.45:302][370]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.13-17.54.45:402][370]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.13-17.54.45:403][370]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.13-17.54.45:403][370]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.13-17.54.45:403][370]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.13-17.54.45:404][370]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.13-17.54.45:404][370]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.13-17.54.45:404][370]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.13-17.54.45:404][370]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.12.13-17.54.45:405][370]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.12.13-17.54.45:411][370]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.12.13-17.54.45:412][370]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.12.13-17.54.45:412][370]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.12.13-17.54.45:412][370]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.12.13-17.54.45:412][370]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.12.13-17.54.45:413][370]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.12.13-17.54.45:487][370]LogDerivedDataCache: Shutdown
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.12.13-17.54.45:487][370]LogXGEController: Cleaning working directory: C:/Users/u1147195/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.12.13-17.54.45:487][370]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.12.13-17.54.45:488][370]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.12.13-17.54.45:490][370]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.12.13-17.54.45:490][370]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.12.13-17.54.45:494][370]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.12.13-17.54.45:494][370]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.12.13-17.54.45:494][370]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.12.13-17.54.45:495][370]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.12.13-17.54.45:496][370]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.12.13-17.54.45:502][370]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.12.13-17.54.45:503][370]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.13-17.54.45:503][370]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD00E98B9-43B3-17E7-20A3-1A9B2829F7A4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.0-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=4e5080344f6063999113c394c9d58d73%7C%7C780c3427-c555-4217-9f7d-feeee12fbce9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.12.13-17.54.45:528][370]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.12.13-17.54.45:529][370]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.13-17.54.45:529][370]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.13-17.54.45:535][370]LogExit: Exiting.
+[2018.12.13-17.54.45:554][370]Log file closed, 12/13/18 10:54:45
