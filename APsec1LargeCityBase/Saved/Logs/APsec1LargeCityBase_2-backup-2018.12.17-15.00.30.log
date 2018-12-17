@@ -1,0 +1,864 @@
+﻿Log file open, 12/17/18 14:59:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.324180
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.132s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.2-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.005s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.17-21.59.33:144][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-21.59.33:144][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.17-21.59.33:159][  0]LogHAL: Display: Platform has ~ 32 GB [34297425920 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.17-21.59.33:159][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.17-21.59.33:159][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.17-21.59.33:159][  0]LogInit: Computer: eae-d-136
+[2018.12.17-21.59.33:159][  0]LogInit: User: u0723839
+[2018.12.17-21.59.33:159][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.17-21.59.33:159][  0]LogInit: High frequency timer resolution =3.318387 MHz
+[2018.12.17-21.59.33:159][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.12.17-21.59.33:159][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.17-21.59.33:159][  0]LogMemory: Process Physical Memory: 99.98 MB used, 99.98 MB peak
+[2018.12.17-21.59.33:159][  0]LogMemory: Process Virtual Memory: 90.98 MB used, 90.98 MB peak
+[2018.12.17-21.59.33:159][  0]LogMemory: Physical Memory: 11473.50 MB used,  21235.08 MB free, 32708.57 MB total
+[2018.12.17-21.59.33:159][  0]LogMemory: Virtual Memory: 4640.31 MB used,  21235.08 MB free, 134217728.00 MB total
+[2018.12.17-21.59.33:183][  0]LogInit: Using OS detected language (en-US).
+[2018.12.17-21.59.33:183][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.17-21.59.33:184][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.17-21.59.33:574][  0]LogStreaming: Display: Took  0.391s to InitEngineTextLocalization.
+[2018.12.17-21.59.33:575][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.17-21.59.33:624][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.17-21.59.33:624][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.17-21.59.33:842][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-21.59.33:842][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.17-21.59.33:911][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.12.17-21.59.33:911][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.17-21.59.33:913][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.17-21.59.33:913][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.17-21.59.33:913][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.17-21.59.33:923][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.17-21.59.33:923][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.17-21.59.33:923][  0]LogWindows: EnumDisplayDevices:
+[2018.12.17-21.59.33:923][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.12.17-21.59.33:923][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.12.17-21.59.33:924][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.17-21.59.33:924][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.17-21.59.33:924][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.17-21.59.33:924][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.12.17-21.59.33:924][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.12.17-21.59.33:924][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.12.17-21.59.33:924][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.12.17-21.59.33:971][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.17-21.59.33:990][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.17-21.59.34:076][  0]LogShaderCompilers: Guid format shader working directory is -39 characters bigger than the processId version (../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/12492/).
+[2018.12.17-21.59.34:077][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/'.
+[2018.12.17-21.59.34:362][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.17-21.59.34:376][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.17-21.59.34:390][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.17-21.59.34:405][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.17-21.59.34:419][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.17-21.59.34:433][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.17-21.59.34:447][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.17-21.59.34:462][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.17-21.59.34:470][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:555][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-21.59.34:558][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.17-21.59.34:624][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-21.59.34:624][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-21.59.34:650][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-21.59.34:650][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-21.59.34:664][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.17-21.59.34:676][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.17-21.59.34:695][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.17-21.59.34:711][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.17-21.59.34:720][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-21.59.34:721][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.17-21.59.34:817][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.17-21.59.34:817][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.17-21.59.34:817][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.17-21.59.35:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.17-21.59.35:753][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.17-21.59.35:755][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.17-21.59.35:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.17-21.59.35:755][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.17-21.59.35:755][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-21.59.35:755][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.17-21.59.35:774][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.17-21.59.35:786][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.17-21.59.35:786][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.17-21.59.35:786][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.17-21.59.35:806][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.17-21.59.35:807][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.17-21.59.35:807][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.17-21.59.35:887][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.12.17-21.59.36:251][  0]LogAssetRegistry: Error: Failed to open file for write ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/CachedAssetRegistry.bin
+[2018.12.17-21.59.36:251][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-21.59.36:422][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.17-21.59.36:427][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.17-21.59.36:427][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.17-21.59.36:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.17-21.59.36:427][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.17-21.59.36:449][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.12.17-21.59.37:079][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.143623 seconds
+[2018.12.17-21.59.37:087][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.17-21.59.37:087][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.12.17-21.59.37:087][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.17-21.59.38:059][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.17-21.59.38:072][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.17-21.59.38:224][  0]SourceControl: Source control is disabled
+[2018.12.17-21.59.38:224][  0]SourceControl: Source control is disabled
+[2018.12.17-21.59.38:227][  0]SourceControl: Source control is disabled
+[2018.12.17-21.59.38:228][  0]SourceControl: Source control is disabled
+[2018.12.17-21.59.38:421][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.17-21.59.38:564][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.12.17-21.59.38:564][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.0.352/bin
+[2018.12.17-21.59.38:565][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.38:568][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.38:574][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.41:581][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
+[2018.12.17-21.59.41:605][  0]LogOcInput: OculusInput pre-init called
+[2018.12.17-21.59.41:689][  0]LogEngine: Initializing Engine...
+[2018.12.17-21.59.41:689][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-21.59.41:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-21.59.41:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-21.59.41:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-21.59.41:691][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-21.59.41:923][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.17-21.59.41:951][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.17-21.59.41:993][  0]LogInit: XAudio2 using 'Headphones (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.17-21.59.42:008][  0]LogInit: FAudioDevice initialized.
+[2018.12.17-21.59.42:009][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.17-21.59.42:165][  0]LogDerivedDataCache: Saved boot cache 0.16s 71MB C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.17-21.59.42:183][  0]LogInit: Texture streaming: Enabled
+[2018.12.17-21.59.42:210][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.17-21.59.42:210][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={7145DF10-47EF-5314-00FB-72BBA4415F0C}
+[2018.12.17-21.59.42:234][  0]LogInit: Transaction tracking system initialized
+[2018.12.17-21.59.42:282][  0]BlueprintLog: New page: Editor Load
+[2018.12.17-21.59.42:404][  0]LocalizationService: Localization service is disabled
+[2018.12.17-21.59.42:740][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.17-21.59.42:740][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.17-21.59.42:740][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.17-21.59.42:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-21.59.42:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-21.59.42:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-21.59.42:740][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-21.59.42:853][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.03s
+[2018.12.17-21.59.42:853][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.12.17-21.59.42:866][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2018.12.17-21.59.42:937][  0]SourceControl: Source control is disabled
+[2018.12.17-21.59.43:038][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.17-21.59.43:040][  0]LogSlate: Took 0.000243 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.17-21.59.47:457][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2018.12.17-21.59.47:457][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.17-21.59.47:460][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.17-21.59.47:467][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-21.59.47:468][  0]LightingResults: New page: Lighting Build
+[2018.12.17-21.59.47:474][  0]MapCheck: New page: Map Check
+[2018.12.17-21.59.47:475][  0]LightingResults: New page: Lighting Build
+[2018.12.17-21.59.47:554][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-21.59.47:554][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.12.17-21.59.47:554][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-21.59.47:557][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-21.59.47:557][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading ../../../Engine/Content/EngineSky/SM_SkySphere.uasset.
+[2018.12.17-21.59.47:557][  0]LoadErrors: Error: /Engine/EngineSky/SM_SkySphere : Can't find file for asset. /Game/Prototype/ColemanBrcko/M_SkyboxClouds
+[2018.12.17-21.59.47:557][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-21.59.47:557][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading ../../../Engine/Content/EngineSky/SM_SkySphere.uasset.
+[2018.12.17-21.59.47:557][  0]LoadErrors: Error: /Engine/EngineSky/SM_SkySphere : Can't find file for asset. /Game/Prototype/ColemanBrcko/M_SkyboxClouds
+[2018.12.17-21.59.47:558][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-21.59.47:558][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.12.17-21.59.47:558][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-21.59.47:560][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-21.59.47:560][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-21.59.47:560][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-21.59.47:560][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-21.59.47:560][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-21.59.47:560][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-21.59.47:568][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-21.59.47:568][  0]LoadErrors: Failed to load /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX.M_CloudSprite_VFX Referenced by StaticMeshComponent_12
+[2018.12.17-21.59.47:568][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-21.59.47:568][  0]LoadErrors: Failed to load /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX.M_CloudSprite_VFX Referenced by StaticMeshComponent_12
+[2018.12.17-21.59.47:568][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-21.59.47:600][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-21.59.47:600][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-21.59.47:601][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading NULL.
+[2018.12.17-21.59.47:601][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-21.59.47:601][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-21.59.47:601][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-21.59.47:601][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading NULL.
+[2018.12.17-21.59.47:601][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-21.59.47:688][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.17-21.59.47:699][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-21.59.47:725][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-21.59.47:844][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 118.918ms to complete.
+[2018.12.17-21.59.47:844][  0]LogFileHelpers: Loading map 'Template_Default' took 0.377
+[2018.12.17-21.59.47:897][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-21.59.47:906][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-21.59.47:913][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-21.59.47:923][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-21.59.47:932][  0]LogCollectionManager: Loaded 0 collections in 0.003038 seconds
+[2018.12.17-21.59.47:979][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.12.17-21.59.47:979][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/u0723839/Collections/' took 0.01s
+[2018.12.17-21.59.47:979][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.12.17-21.59.47:979][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.17-21.59.47:990][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2610 classes and 610 folders.
+[2018.12.17-21.59.48:002][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.17-21.59.48:077][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.17-21.59.48:085][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.17-21.59.48:164][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.17-21.59.48:171][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.17-21.59.48:219][  0]LogRenderer: Reallocating scene render targets to support 1272x540 Format 10 NumSamples 1 (Frame:1).
+[2018.12.17-21.59.48:439][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.17-21.59.48:439][  0]LogLoad: (Engine Initialization) Total time: 17.77 seconds
+[2018.12.17-21.59.48:439][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.17-21.59.48:486][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.17-21.59.48:495][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-21.59.48:523][  0]LogSlate: Took 0.000309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-21.59.48:546][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.08s
+[2018.12.17-21.59.48:568][  1]LogAssetRegistry: Asset discovery search completed in 12.7036 seconds
+[2018.12.17-21.59.48:570][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.17-21.59.48:570][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2018.12.17-21.59.51:406][326]LogSlate: Window 'Message Log' being destroyed
+[2018.12.17-21.59.51:410][326]LogSlate: Window 'Message Log' being destroyed
+[2018.12.17-21.59.52:573][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-21.59.55:042][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-21.59.55:186][736]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-21.59.55:406][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:407][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:409][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:410][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:414][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:539][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.55:539][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:539][736]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.17-21.59.55:539][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.55:540][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:540][736]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.17-21.59.55:540][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.55:540][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:540][736]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.17-21.59.55:542][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.55:543][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:543][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.55:543][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:543][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.55:543][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:567][736]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-21.59.55:567][736]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.17-21.59.55:567][736]LoadErrors: Error: /Game/BMS/WoodBlock/Block3 : Can't find file for asset. /Game/WoodBlock/M_MasterWoodBlock
+[2018.12.17-21.59.55:567][736]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-21.59.55:567][736]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.17-21.59.55:592][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:594][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:597][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:607][736]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-21.59.55:607][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-21.59.55:607][736]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.12.17-21.59.55:607][736]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-21.59.55:607][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-21.59.55:607][736]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.12.17-21.59.55:608][736]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-21.59.55:608][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-21.59.55:608][736]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-21.59.55:608][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-21.59.55:650][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.55:650][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:650][736]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.17-21.59.55:651][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.55:651][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:651][736]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.17-21.59.55:651][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.55:651][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:651][736]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.17-21.59.55:652][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.55:652][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:652][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.55:652][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:652][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.55:653][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-21.59.55:656][736]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-21.59.55:668][736]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-21.59.55:668][736]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.17-21.59.55:668][736]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : Can't find file for asset. /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.12.17-21.59.55:669][736]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-21.59.55:669][736]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.17-21.59.55:714][736]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-21.59.55:714][736]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.17-21.59.55:714][736]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : Can't find file for asset. /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.12.17-21.59.55:717][736]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-21.59.55:718][736]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.17-21.59.55:757][736]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-21.59.55:757][736]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.17-21.59.55:757][736]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.12.17-21.59.55:757][736]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-21.59.55:757][736]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.17-21.59.55:759][736]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-21.59.55:759][736]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.17-21.59.55:759][736]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.12.17-21.59.55:759][736]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-21.59.55:760][736]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.17-21.59.55:761][736]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-21.59.55:762][736]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.17-21.59.55:762][736]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.12.17-21.59.55:762][736]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-21.59.55:762][736]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.17-21.59.55:765][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-21.59.55:765][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.17-21.59.55:765][736]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.12.17-21.59.55:765][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-21.59.55:766][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.17-21.59.55:767][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-21.59.55:767][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.17-21.59.55:767][736]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.12.17-21.59.55:768][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-21.59.55:768][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.17-21.59.55:770][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-21.59.55:770][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.17-21.59.55:770][736]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.12.17-21.59.55:770][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-21.59.55:770][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.17-21.59.57:648][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.57:648][736]LoadErrors: Failed to load /Game/Beecroft_Car/Grill_wood.Grill_wood Referenced by the_car
+[2018.12.17-21.59.57:649][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-21.59.57:649][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.57:649][736]LoadErrors: Failed to load /Game/Beecroft_Car/lambert1.lambert1 Referenced by the_car
+[2018.12.17-21.59.57:650][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-21.59.57:650][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.57:650][736]LoadErrors: Failed to load /Game/Beecroft_Car/gold_painted_wood.gold_painted_wood Referenced by the_car
+[2018.12.17-21.59.57:650][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-21.59.57:651][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.57:651][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-21.59.57:651][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.57:651][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-21.59.57:652][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.57:652][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-21.59.57:661][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.57:661][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-21.59.57:662][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.57:662][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-21.59.57:662][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.57:663][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-21.59.57:663][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-21.59.57:664][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-21.59.57:664][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-21.59.57:664][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-21.59.57:665][736]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-21.59.57:665][736]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-21.59.57:677][736]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-21.59.57:677][736]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.12.17-21.59.57:678][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.17-21.59.57:678][736]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-21.59.57:678][736]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.12.17-21.59.57:678][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.17-21.59.57:678][736]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-21.59.57:679][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.17-21.59.57:679][736]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-21.59.57:679][736]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.17-21.59.58:146][736]LogTexture: Display: Building textures: woodtexture_taschiaritter (AutoDXT, 1200X1200)
+[2018.12.17-21.59.58:147][736]LogTexture: Display: Building textures: black (AutoDXT, 2048X2048)
+[2018.12.17-21.59.58:147][736]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-21.59.58:147][736]LoadErrors: Failed to load /Game/WoodBlock/M_MasterWoodBlock.M_MasterWoodBlock Referenced by Block3
+[2018.12.17-21.59.58:148][736]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.17-21.59.58:148][736]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-21.59.58:148][736]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.17-21.59.58:158][736]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-21.59.58:158][736]LoadErrors: Failed to load /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat Referenced by MannequinResizedCombinedMesh
+[2018.12.17-21.59.58:158][736]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.17-21.59.58:159][736]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-21.59.58:159][736]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.17-21.59.58:164][736]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-21.59.58:164][736]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.12.17-21.59.58:164][736]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.17-21.59.58:164][736]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-21.59.58:165][736]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.17-21.59.58:185][736]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-21.59.58:185][736]LoadErrors: Failed to load /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 Referenced by House
+[2018.12.17-21.59.58:185][736]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.17-21.59.58:190][736]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-21.59.58:190][736]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.17-21.59.58:213][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-21.59.58:214][736]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.12.17-21.59.58:214][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.17-21.59.58:214][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-21.59.58:215][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.17-21.59.58:216][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-21.59.58:216][736]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.12.17-21.59.58:216][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.17-21.59.58:216][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-21.59.58:217][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.17-21.59.58:218][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-21.59.58:218][736]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.12.17-21.59.58:218][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.17-21.59.58:219][736]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-21.59.58:219][736]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.17-21.59.58:221][736]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-21.59.58:221][736]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.12.17-21.59.58:221][736]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.17-21.59.58:222][736]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-21.59.58:222][736]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.17-21.59.58:222][736]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-21.59.58:224][736]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.12.17-21.59.58:224][736]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.17-21.59.58:224][736]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-21.59.58:225][736]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: wood_normal (BC5, 1200X1200)
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: Manneqin_AP_TextureMap01 (AutoDXT, 8192X8192)
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: Normal_MAp (BC5, 2048X2048)
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/temp.FC86BF9C479E7856CAEC838BB3174663 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/temp.FC86BF9C479E7856CAEC838BB3174663!
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/temp.B7A28DC144226CEA7AA50495702ACBDC (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/temp.B7A28DC144226CEA7AA50495702ACBDC!
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_DC2CE3A84B8DCFDC0CBCA9AB3E3F15BE___E589EE0BDD0198ACE9A7BF939431B5F1D67DC60D.
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: Texture (AutoDXT, 2048X2048)
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: Normal_MAp (BC5, 2048X2048)
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: texturemanny2 (BGRA8, 2048X2043)
+[2018.12.17-22.00.02:889][736]LogTexture: Display: Building textures: originalwoodtexture (AutoDXT, 1024X1024)
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/temp.BCD9EE9A4E14B6DFB0EB7D8A28C4B18E (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/temp.BCD9EE9A4E14B6DFB0EB7D8A28C4B18E!
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/temp.DD60918E4FB8BF82B9E78AA9DCB781AE (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/6/temp.DD60918E4FB8BF82B9E78AA9DCB781AE!
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BGRA8_3446D7D146C11EBD19BC5584D983B58__A42712BF8E88EEA56212147340B9D8FE42F93C75.
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/temp.FA9FBF82402D9DF5A1EAB182C89C8B73 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/temp.FA9FBF82402D9DF5A1EAB182C89C8B73!
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/temp.CE36888B4B6334CE17E1DB9C016CE02E (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/2/temp.CE36888B4B6334CE17E1DB9C016CE02E!
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_A0867A3241C6E3318DE0B0BFED3631E2___A63349AA70A794874A011DFDE5705200CE86A0CE.
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.6990A5AC41013EA3A626599C8117C125 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.6990A5AC41013EA3A626599C8117C125!
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.3F82C68F4F94E4ED775249961010C527 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.3F82C68F4F94E4ED775249961010C527!
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_A0867A3241C6E3318DE0B0BFED3631E2___CE57FFCAEDB5DC882FE8CFFB8525E3ECBE705D85.
+[2018.12.17-22.00.02:889][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.E765BD8A4D03802B2F6DD2AC199AC7D4 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:889][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.E765BD8A4D03802B2F6DD2AC199AC7D4!
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.3DAA60EA4024AF2CDBEE4FB78AE172A8 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/8/temp.3DAA60EA4024AF2CDBEE4FB78AE172A8!
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_A4B5D3EB464F996FA4C7A0AE624A46AE___37907D5D28B9442B6B34CD3B1262131D6A7DB5CF.
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/temp.FBAD84C7404C34F18E73E9B9C35720DB (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/temp.FBAD84C7404C34F18E73E9B9C35720DB!
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/temp.EE0764814AC062B1BFEF8AAF1CD650AA (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/9/temp.EE0764814AC062B1BFEF8AAF1CD650AA!
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_BC5_A4B5D3EB464F996FA4C7A0AE624A46AE___F4992A964B51573ECE9148D2DA02E032CB57B833.
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/temp.520F6B0C42B943FE7E624B9BD073C035 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/temp.520F6B0C42B943FE7E624B9BD073C035!
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/temp.E3AA0AC1492232E4EF9601AB41BDEC21 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/temp.E3AA0AC1492232E4EF9601AB41BDEC21!
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/temp.17AEE558418E3648F872EAA8D52D6761 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/3/3/temp.17AEE558418E3648F872EAA8D52D6761!
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_54D4F9364BF4625451EB8091FDF1D__6774FA04983BC60770396A0EC44FBA771B4DEF3F.
+[2018.12.17-22.00.02:890][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/temp.EF60E9AD408F4DCDE86AE2AAC8832002 (There is not enough space on the disk.)
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/1/3/temp.EF60E9AD408F4DCDE86AE2AAC8832002!
+[2018.12.17-22.00.02:890][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_54D4F9364BF4625451EB8091FDF1D__3FDA27D897A0B021278BF95643FB8FC9A1BC37B2.
+[2018.12.17-22.00.02:890][736]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock, compiling. 
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/temp.A8E7EF334EDADA79F18CCA9A04A1A82D (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/temp.A8E7EF334EDADA79F18CCA9A04A1A82D!
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/temp.C70E94EF4D3C775CAC73B784F638D5E1 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/6/temp.C70E94EF4D3C775CAC73B784F638D5E1!
+[2018.12.17-22.00.03:068][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_50093CA3450E6CDD0EA66FB202899__3BEB75A405A6D66300A5707B6BA9A9B33455B092.
+[2018.12.17-22.00.03:068][736]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.12.17-22.00.03:068][736]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.12.17-22.00.03:068][736]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:068][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3 (There is not enough space on the disk.)
+[2018.12.17-22.00.03:069][736]LogWindows: Windows GetLastError: The operation completed successfully. (0)
+[2018.12.17-22.00.17:714][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Crashes/UE4CC-Windows-877AEA0C441F46227905ABA996EDC74F_0000/CrashContext.runtime-xml (There is not enough space on the disk.)
+[2018.12.17-22.00.17:714][736]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.17-22.00.17:714][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/temp.20A029B240A358E2C68AC3971403A000 (There is not enough space on the disk.)
+[2018.12.17-22.00.17:714][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/temp.20A029B240A358E2C68AC3971403A000!
+[2018.12.17-22.00.17:714][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/temp.32FD7F554812C5A4E1E703983C12FDD2 (There is not enough space on the disk.)
+[2018.12.17-22.00.17:714][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/5/temp.32FD7F554812C5A4E1E703983C12FDD2!
+[2018.12.17-22.00.17:714][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy TEXTURE_68A083899C6F4316B8CE0E2958EDE2C2_AutoDXT_97E68363499647BEE3C41C9D36D6B__D7DA9BCE16E629E7E1F96A0E3EBEF0E15ADEC86B.
+[2018.12.17-22.00.17:714][736]LogStaticMesh: Building static mesh Stadium...
+[2018.12.17-22.00.17:979][736]LogStaticMesh: Built static mesh [0.27s] /Game/ZYLF1/Stadium.Stadium
+[2018.12.17-22.00.17:999][736]LogMaterial: Display: Missing cached shader map for material Mat_Wood_TYR, compiling. 
+[2018.12.17-22.00.18:087][736]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_MB, compiling. 
+[2018.12.17-22.00.18:268][736]LogStaticMesh: Building static mesh the_car...
+[2018.12.17-22.00.18:714][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/temp.72E7561B4944A1C55FD01FAD4C175299 (There is not enough space on the disk.)
+[2018.12.17-22.00.18:714][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/temp.72E7561B4944A1C55FD01FAD4C175299!
+[2018.12.17-22.00.18:714][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/temp.3590017F470F233A74E1098A73DAC975 (There is not enough space on the disk.)
+[2018.12.17-22.00.18:714][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/temp.3590017F470F233A74E1098A73DAC975!
+[2018.12.17-22.00.18:715][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_30E83F50F7733BF0B5C99820B5272A73.
+[2018.12.17-22.00.18:715][736]LogStaticMesh: Built static mesh [0.45s] /Game/DJW_Source/Beecroft_Car/the_car.the_car
+[2018.12.17-22.00.18:759][736]LogStaticMesh: Building static mesh blockBigger1...
+[2018.12.17-22.00.18:764][736]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/blockBigger1.blockBigger1
+[2018.12.17-22.00.18:777][736]LogStaticMesh: Building static mesh BlockBigger2...
+[2018.12.17-22.00.18:782][736]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/BlockBigger2.BlockBigger2
+[2018.12.17-22.00.18:899][736]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.17-22.00.18:913][736]LogStaticMesh: Building static mesh ass004-SuspB2...
+[2018.12.17-22.00.18:939][736]LogStaticMesh: Built static mesh [0.03s] /Game/ButlerM/ass004-SuspB2.ass004-SuspB2
+[2018.12.17-22.00.18:943][736]LogMaterial: Display: Missing cached shader map for material initialShadingGroup1, compiling. 
+[2018.12.17-22.00.19:065][736]LogStaticMesh: Building static mesh Airbus_UV1...
+[2018.12.17-22.00.19:196][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/temp.51F47231455B0C3454C6AEAF99CBA659 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:196][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/temp.51F47231455B0C3454C6AEAF99CBA659!
+[2018.12.17-22.00.19:196][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/temp.5D2764FA499943AED6B54792E9EDAB1A (There is not enough space on the disk.)
+[2018.12.17-22.00.19:196][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/4/temp.5D2764FA499943AED6B54792E9EDAB1A!
+[2018.12.17-22.00.19:196][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_E997D823363A9A82CAA52EA3CCF9656F.
+[2018.12.17-22.00.19:197][736]LogStaticMesh: Built static mesh [0.13s] /Game/ButlerM/Airbus_UV1.Airbus_UV1
+[2018.12.17-22.00.19:214][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/temp.791024F3483519E904DC90BCAA948E4E (There is not enough space on the disk.)
+[2018.12.17-22.00.19:214][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/temp.791024F3483519E904DC90BCAA948E4E!
+[2018.12.17-22.00.19:214][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/temp.9E9FEA914F18ABE3D02632991995F7C7 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:214][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/8/temp.9E9FEA914F18ABE3D02632991995F7C7!
+[2018.12.17-22.00.19:214][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__D144359EA07B9F43D212434FDA0B81D7585DCA25.
+[2018.12.17-22.00.19:214][736]LogStaticMesh: Building static mesh ass004-QCyl...
+[2018.12.17-22.00.19:216][736]LogStaticMesh: Built static mesh [0.00s] /Game/ButlerM/ass004-QCyl.ass004-QCyl
+[2018.12.17-22.00.19:222][736]LogStaticMesh: Building static mesh block1RT...
+[2018.12.17-22.00.19:228][736]LogStaticMesh: Built static mesh [0.01s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block1RT.block1RT
+[2018.12.17-22.00.19:232][736]LogStaticMesh: Building static mesh Block2...
+[2018.12.17-22.00.19:240][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.C22241764DB692D10D85DFAB0B08FDE3 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:240][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.C22241764DB692D10D85DFAB0B08FDE3!
+[2018.12.17-22.00.19:240][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.A801E46B443C78C95D25579A2F47B6D0 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:241][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/9/2/temp.A801E46B443C78C95D25579A2F47B6D0!
+[2018.12.17-22.00.19:241][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_F7E8D72C5D3C3464AB453560F2974090.
+[2018.12.17-22.00.19:241][736]LogStaticMesh: Built static mesh [0.01s] /Game/BMS/WoodBlock/Block2.Block2
+[2018.12.17-22.00.19:245][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.C96DC9D74181B81ADCB5C2ADA0983028 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:245][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.C96DC9D74181B81ADCB5C2ADA0983028!
+[2018.12.17-22.00.19:245][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.8BF3A9DD485DFC2CD9EBE894421684C5 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:245][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/7/temp.8BF3A9DD485DFC2CD9EBE894421684C5!
+[2018.12.17-22.00.19:245][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__59D96BE34BBFE34E0157D87A82B0624912750F94.
+[2018.12.17-22.00.19:245][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.DD83DA7D454E26F84B11F29B9CEAD388 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:245][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.DD83DA7D454E26F84B11F29B9CEAD388!
+[2018.12.17-22.00.19:245][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.61194904488A6B35068CF7BFDC86DA1D (There is not enough space on the disk.)
+[2018.12.17-22.00.19:245][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/1/temp.61194904488A6B35068CF7BFDC86DA1D!
+[2018.12.17-22.00.19:245][736]LogStaticMesh: Building static mesh block2RT...
+[2018.12.17-22.00.19:253][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C98EC6974FA6E5EDD3914F814B8CC86__287478926CBDBF781497628CE035F6F323AE7385.
+[2018.12.17-22.00.19:253][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.C279F4A14482930F400E2AA14FACBB21 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:253][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.C279F4A14482930F400E2AA14FACBB21!
+[2018.12.17-22.00.19:253][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.F94C48714A6CF0651A9EA39F6BC44110 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:253][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/0/7/temp.F94C48714A6CF0651A9EA39F6BC44110!
+[2018.12.17-22.00.19:253][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_FF27D2588FE388A4477896D9B89E97B9.
+[2018.12.17-22.00.19:253][736]LogStaticMesh: Built static mesh [0.01s] /Game/Blocks_RT/WoodenBlocks_RT/RT_New_Blocks/block2RT.block2RT
+[2018.12.17-22.00.19:258][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/temp.BE68531B451AEBD0AB62E7B6250F8B73 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/temp.BE68531B451AEBD0AB62E7B6250F8B73!
+[2018.12.17-22.00.19:258][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.C5F4E1644338F69C672E18B45767B264 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.C5F4E1644338F69C672E18B45767B264!
+[2018.12.17-22.00.19:258][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/temp.B111E38F444DC56D7CFD858D8A595AB2 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/2/8/temp.B111E38F444DC56D7CFD858D8A595AB2!
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__37EADE9AB1DF11B243FE16D2ABA423EE6423604E.
+[2018.12.17-22.00.19:258][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.B9C5E5DB42943DAA796909AB81BABAE6 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/2/temp.B9C5E5DB42943DAA796909AB81BABAE6!
+[2018.12.17-22.00.19:258][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_BDFE9415460879451D9FEABFC2C4067__486526061C3D05DFB4546DE4EC1BCEFECC7C802F.
+[2018.12.17-22.00.19:258][736]LogStaticMesh: Building static mesh BlockBigger3...
+[2018.12.17-22.00.19:263][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/temp.DDFAE57D407D1F517BF8D9A82FAB8959 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:263][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/temp.DDFAE57D407D1F517BF8D9A82FAB8959!
+[2018.12.17-22.00.19:263][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/temp.D4E8A38348E926ABFF2A79AA3048902C (There is not enough space on the disk.)
+[2018.12.17-22.00.19:263][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/temp.D4E8A38348E926ABFF2A79AA3048902C!
+[2018.12.17-22.00.19:263][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_695E2EDFA93605507A0696DB1CF7C8C5.
+[2018.12.17-22.00.19:263][736]LogStaticMesh: Built static mesh [0.01s] /Game/Sarenna_Haddad/BlockBigger3.BlockBigger3
+[2018.12.17-22.00.19:292][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/temp.7ECB751346BBAF67C808E995CC2C56B2 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/temp.7ECB751346BBAF67C808E995CC2C56B2!
+[2018.12.17-22.00.19:292][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/temp.143448434151087083026898146E92F9 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:292][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/temp.9A4D0B114CDE54D29A7808B73108B22D (There is not enough space on the disk.)
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/temp.143448434151087083026898146E92F9!
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/4/temp.9A4D0B114CDE54D29A7808B73108B22D!
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__6F42BB697DA75905C92F8046F568B929913D273A.
+[2018.12.17-22.00.19:292][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/temp.D5AD819645CCF9195054C984EC5E5029 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/9/temp.D5AD819645CCF9195054C984EC5E5029!
+[2018.12.17-22.00.19:292][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_A135922F4D13013FE5DD09B15E76B7C__1E99FD904485DFDD9DF10B41D0CE8347C9349186.
+[2018.12.17-22.00.19:292][736]LogStaticMesh: Building static mesh castle...
+[2018.12.17-22.00.19:348][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.6D99CFE042B8492168946C82498E07BE (There is not enough space on the disk.)
+[2018.12.17-22.00.19:348][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.6D99CFE042B8492168946C82498E07BE!
+[2018.12.17-22.00.19:348][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.4CF4D644454FC5A289BEC6AB495F231C (There is not enough space on the disk.)
+[2018.12.17-22.00.19:348][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/2/0/temp.4CF4D644454FC5A289BEC6AB495F231C!
+[2018.12.17-22.00.19:348][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_A28777A241B90A3DC8EF0B239E94D2FE.
+[2018.12.17-22.00.19:348][736]LogStaticMesh: Built static mesh [0.06s] /Game/ZYLF1/castle.castle
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.B45B096042A01BBAB072EEA245CE282D (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.B45B096042A01BBAB072EEA245CE282D!
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.E1B4689A436B9E5A1BBB0A88CFC9C6C4 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/1/temp.E1B4689A436B9E5A1BBB0A88CFC9C6C4!
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__7265B66F128E356A1BDA06E83E4997ABCC4A87B4.
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/temp.D96FC76942233C8EF07B1AAECE4D9C81 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/temp.D96FC76942233C8EF07B1AAECE4D9C81!
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/temp.04EF8CA6458A820C5B69F4980F8A8FF3 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/temp.04EF8CA6458A820C5B69F4980F8A8FF3!
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/temp.9D5085BF401817F0DBFC58AC4BB2630B (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/temp.9D5085BF401817F0DBFC58AC4BB2630B!
+[2018.12.17-22.00.19:471][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/temp.04F7D50F43CC831E7BD9EF84E404AE52 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_6B76A6914836AF4B4AC9FCA56B2313C__D760BE3D3223A589EB4EE086036141627466A158.
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/4/temp.04F7D50F43CC831E7BD9EF84E404AE52!
+[2018.12.17-22.00.19:471][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_6B76A6914836AF4B4__A8E47A062DB7F8F8CE1EAD98E6385EDE3CC62493.
+[2018.12.17-22.00.19:471][736]LogStaticMesh: Building static mesh f1_pitstop...
+[2018.12.17-22.00.19:477][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/temp.2969A7B94EF66982577842A5EF035C73 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:477][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/temp.2969A7B94EF66982577842A5EF035C73!
+[2018.12.17-22.00.19:477][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/temp.E9EB2E2C44EA71452E3283B354CCB523 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:477][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/2/temp.E9EB2E2C44EA71452E3283B354CCB523!
+[2018.12.17-22.00.19:477][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_1EFA1016682E9E1705F6BB249AB044BF.
+[2018.12.17-22.00.19:477][736]LogStaticMesh: Built static mesh [0.01s] /Game/ZYLF1/f1_pitstop.f1_pitstop
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/temp.BA0A39DB419F66A9BBC03AA7E9AB503A (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/temp.BA0A39DB419F66A9BBC03AA7E9AB503A!
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/temp.36FC400D4790BE338E861286D7E9C540 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.424706CB4D2D4B564DFEAAB6C3ABF180 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/temp.36FC400D4790BE338E861286D7E9C540!
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.424706CB4D2D4B564DFEAAB6C3ABF180!
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/temp.8F1ABA7F4C02F1137D0354922105814D (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/6/3/temp.8F1ABA7F4C02F1137D0354922105814D!
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__5089F2D4CEF1310928F6D878F2825018D6C19F2B.
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.4153959C4773B991D15FD3A749499762 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/temp.319C2BD84976855356F2C0A4B5754DC8 (There is not enough space on the disk.)
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/4/temp.4153959C4773B991D15FD3A749499762!
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/3/6/temp.319C2BD84976855356F2C0A4B5754DC8!
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_4E6578DE47EE34275__3DE067D770A27011D46791622D41A2AAD5B4DBD0.
+[2018.12.17-22.00.19:872][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_4E6578DE47EE34275E72959A95A6412__DEB391840C3FB5638243072D0CAB82A401DD2816.
+[2018.12.17-22.00.19:872][736]LogStaticMesh: Building static mesh motorcycle_TYR...
+[2018.12.17-22.00.20:060][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/temp.2B1C34EF4A65FF077B0480AB799C22C2 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:060][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/temp.2B1C34EF4A65FF077B0480AB799C22C2!
+[2018.12.17-22.00.20:060][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/temp.3FE38D2241F4B7F12BCC29A154FF6162 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:060][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/3/temp.3FE38D2241F4B7F12BCC29A154FF6162!
+[2018.12.17-22.00.20:060][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_45352D3C115D294C78D1622F798FED9E.
+[2018.12.17-22.00.20:060][736]LogStaticMesh: Built static mesh [0.19s] /Game/TaschiaR/motorcycle_TYR.motorcycle_TYR
+[2018.12.17-22.00.20:129][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.44B7FB5A433D70427035F2B1DE731E00 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:129][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.44B7FB5A433D70427035F2B1DE731E00!
+[2018.12.17-22.00.20:129][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.698F280047E631BAF1CAA89A42AD1D61 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:129][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/9/temp.698F280047E631BAF1CAA89A42AD1D61!
+[2018.12.17-22.00.20:129][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__77B4A64A3E6EE98933E4B4556B611B39FA634982.
+[2018.12.17-22.00.20:129][736]LogStaticMesh: Building static mesh WoodCarFinalUnreal...
+[2018.12.17-22.00.20:213][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/temp.1EDD3D8443906AF05B02C7A8293137FB (There is not enough space on the disk.)
+[2018.12.17-22.00.20:213][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/temp.1EDD3D8443906AF05B02C7A8293137FB!
+[2018.12.17-22.00.20:213][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/temp.FB0C18604E79E4E9D48CDF8AC01B3EF3 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:213][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/temp.FB0C18604E79E4E9D48CDF8AC01B3EF3!
+[2018.12.17-22.00.20:213][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_42190ADE250046AC958045C7DA930FECA3E9E442F5784050BCAF878E4E80EE44_9E662223B573BE364FF0A2F47AC1B9E4.
+[2018.12.17-22.00.20:213][736]LogStaticMesh: Built static mesh [0.08s] /Game/BMS/WoodCarFinalUnreal.WoodCarFinalUnreal
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/temp.88F835DC41F3FBA8FA585B8620C1F22D (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/temp.88F835DC41F3FBA8FA585B8620C1F22D!
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/temp.107D534347AC90824477D68D04F0ACA9 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/7/temp.107D534347AC90824477D68D04F0ACA9!
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy STATICMESH_3713973CA1B84F41BA1EB2E56FCE9211_228332BAE0224DD294E232B87D83948F1$__EA195732170C31FE3CC1D6A03F3B006975C67D9D.
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/temp.E02266F0475D5879580EF394D7705456 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/temp.73DB1320490CD377E59BF0B3074C7EF8 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/temp.E02266F0475D5879580EF394D7705456!
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/temp.73DB1320490CD377E59BF0B3074C7EF8!
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error flushing file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/temp.2BD374F143E26EB0BDA58B90F8027317 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/temp.1491B8A543D78D29C0544E97EABFD8CD (There is not enough space on the disk.)
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/3/temp.2BD374F143E26EB0BDA58B90F8027317!
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/temp.1491B8A543D78D29C0544E97EABFD8CD!
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy NavCollision_B89838347A4348138EE337A847529C5C_NavCollision_X_801A3CB0464A3FED9__9284C426CE4789262E39EDEDE028BD764209F8E5.
+[2018.12.17-22.00.20:295][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_801A3CB0464A3FED95601594948C7FB__FEE76CB14A168D16C4F6EB2D0F739E43BF845364.
+[2018.12.17-22.00.20:296][736]LogMaterial: Display: Missing cached shader map for material M_woodblock002_AP, compiling. 
+[2018.12.17-22.00.20:314][736]LogMaterial: Display: Missing cached shader map for material M_woodblock001_AP, compiling. 
+[2018.12.17-22.00.20:327][736]LogMaterial: Display: Missing cached shader map for material m_woodblock1, compiling. 
+[2018.12.17-22.00.20:339][736]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.17-22.00.20:365][736]LogMaterial: Display: Missing cached shader map for material blinn1, compiling. 
+[2018.12.17-22.00.20:379][736]LogMaterial: Display: Missing cached shader map for material woodtexture1, compiling. 
+[2018.12.17-22.00.20:502][736]LogMaterial: Display: Missing cached shader map for material pCube13Mat, compiling. 
+[2018.12.17-22.00.20:516][736]LogMaterial: Display: Missing cached shader map for material initialShadingGroup, compiling. 
+[2018.12.17-22.00.20:624][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/temp.D2EEA0E74F1D77B0F8B57895090133C2 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:624][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/temp.D2EEA0E74F1D77B0F8B57895090133C2!
+[2018.12.17-22.00.20:624][736]LogFileManager: Error: Error writing to file: C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/temp.C125E2D94B497C95354A2784000D5857 (There is not enough space on the disk.)
+[2018.12.17-22.00.20:624][736]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Temp file is short C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/3/temp.C125E2D94B497C95354A2784000D5857!
+[2018.12.17-22.00.20:624][736]LogDerivedDataCache: FDerivedDataBackendAsyncPutWrapper: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_360D2629425D963E4A1AAFA6D1310E4__B8F4B928837037AE555E6DAEF38BA052D16415CC.
+[2018.12.17-22.00.20:625][736]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.17-22.00.20:875][736]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.17-22.00.20:999][736]Cmd: MAP LOAD FILE="../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-22.00.20:999][736]LightingResults: New page: Lighting Build
+[2018.12.17-22.00.20:999][736]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.17-22.00.21:001][736]MapCheck: New page: Map Check
+[2018.12.17-22.00.21:001][736]LightingResults: New page: Lighting Build
+[2018.12.17-22.00.21:021][736]LogUObjectArray: Warning: Other object in slot
+[2018.12.17-22.00.21:030][736]LogWindows: Error: === Critical error: ===
+[2018.12.17-22.00.21:030][736]LogWindows: Error: 
+[2018.12.17-22.00.21:030][736]LogWindows: Error: Fatal error: [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\ShaderCompiler\ShaderCompiler.cpp] [Line: 1168] 
+[2018.12.17-22.00.21:030][736]LogWindows: Error: Could not write the shader compiler transfer filename to 'C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/862C349F416E6B1F3A6B079E960948DC/09176D8604BC35DBB5FF3258099256AD3' (Free Disk Space: 0.
+[2018.12.17-22.00.21:030][736]LogWindows: Error: 
+[2018.12.17-22.00.21:030][736]LogWindows: Error: 
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffae0a4a388 KERNELBASE.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffab9b26850 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa951862ec UE4Editor-Core.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa951151cb UE4Editor-Core.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa860f8caa UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa860a5897 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa860e8208 UE4Editor-Engine.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa953e6b6c UE4Editor-Core.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffa953e17b7 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffae3bc3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: [Callstack] 0x00007ffae3df1471 ntdll.dll!UnknownFunction []
+[2018.12.17-22.00.21:030][736]LogWindows: Error: 
+[2018.12.17-22.00.21:043][736]LogExit: Executing StaticShutdownAfterError
