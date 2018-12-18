@@ -1,0 +1,715 @@
+﻿Log file open, 12/17/18 16:34:55
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: APsec1LargeCityBase
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306686
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HoudiniEngine
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.144s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4233996
+LogInit: Engine Version: 4.20.2-4233996+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4770 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 26 2018 10:07:30
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.009s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.17-23.34.56:359][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-23.34.56:359][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.17-23.34.56:371][  0]LogHAL: Display: Platform has ~ 32 GB [34297425920 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.17-23.34.56:371][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.17-23.34.56:371][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.17-23.34.56:372][  0]LogInit: Computer: eae-d-136
+[2018.12.17-23.34.56:372][  0]LogInit: User: u0723839
+[2018.12.17-23.34.56:372][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.17-23.34.56:372][  0]LogInit: High frequency timer resolution =3.318391 MHz
+[2018.12.17-23.34.56:372][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.12.17-23.34.56:372][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.17-23.34.56:372][  0]LogMemory: Process Physical Memory: 101.25 MB used, 101.25 MB peak
+[2018.12.17-23.34.56:372][  0]LogMemory: Process Virtual Memory: 92.23 MB used, 92.23 MB peak
+[2018.12.17-23.34.56:372][  0]LogMemory: Physical Memory: 6480.44 MB used,  26228.13 MB free, 32708.57 MB total
+[2018.12.17-23.34.56:372][  0]LogMemory: Virtual Memory: 4641.69 MB used,  26228.13 MB free, 134217728.00 MB total
+[2018.12.17-23.34.56:395][  0]LogInit: Using OS detected language (en-US).
+[2018.12.17-23.34.56:395][  0]LogInit: Using OS detected locale (en-US).
+[2018.12.17-23.34.56:396][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.12.17-23.34.56:787][  0]LogStreaming: Display: Took  0.392s to InitEngineTextLocalization.
+[2018.12.17-23.34.56:788][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.17-23.34.56:826][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.17-23.34.56:826][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.17-23.34.57:068][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-23.34.57:068][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.17-23.34.57:139][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.12.17-23.34.57:139][  0]LogD3D11RHI:       8088/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.12.17-23.34.57:142][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.17-23.34.57:142][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.17-23.34.57:142][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.17-23.34.57:149][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.17-23.34.57:149][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.17-23.34.57:149][  0]LogWindows: EnumDisplayDevices:
+[2018.12.17-23.34.57:149][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.12.17-23.34.57:150][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.12.17-23.34.57:150][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.17-23.34.57:150][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.12.17-23.34.57:150][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.17-23.34.57:150][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.12.17-23.34.57:150][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.12.17-23.34.57:150][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.12.17-23.34.57:150][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.12.17-23.34.57:200][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.17-23.34.57:218][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.17-23.34.57:304][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Intermediate/Shaders/WorkingDirectory/4880/).
+[2018.12.17-23.34.57:305][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/u0723839/AppData/Local/Temp/UnrealShaderWorkingDir/5D806AC3460BC95C46F58087123765BB/'.
+[2018.12.17-23.34.57:611][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.17-23.34.57:626][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.17-23.34.57:640][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.17-23.34.57:654][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.17-23.34.57:674][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.17-23.34.57:688][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.17-23.34.57:703][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.17-23.34.57:722][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.17-23.34.57:730][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:808][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.17-23.34.57:810][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.17-23.34.57:878][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-23.34.57:878][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.17-23.34.57:903][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-23.34.57:903][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.17-23.34.57:916][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.17-23.34.57:928][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.17-23.34.57:941][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.17-23.34.57:961][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.17-23.34.57:974][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.17-23.34.57:974][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.17-23.34.58:062][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.17-23.34.58:063][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.17-23.34.58:063][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.17-23.34.58:903][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.17-23.34.58:990][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.17-23.34.58:992][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.17-23.34.58:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.17-23.34.58:992][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.17-23.34.58:992][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.17-23.34.58:992][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.17-23.34.59:004][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.17-23.34.59:017][  0]LogDerivedDataCache: Using Local data cache path C:/Users/u0723839/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.17-23.34.59:017][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.17-23.34.59:017][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.17-23.34.59:038][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.17-23.34.59:039][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.17-23.34.59:040][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.17-23.34.59:119][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.12.17-23.34.59:472][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.17-23.34.59:630][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.17-23.34.59:635][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.17-23.34.59:635][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.17-23.34.59:635][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.17-23.34.59:635][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.17-23.34.59:652][  0]LogNetVersion: APsec1LargeCityBase 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1121110827)
+[2018.12.17-23.35.00:229][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 2 prioritized culture(s) in 0.152459 seconds
+[2018.12.17-23.35.00:234][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.17-23.35.00:235][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.17-23.35.00:235][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.17-23.35.01:184][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.17-23.35.01:196][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.17-23.35.01:346][  0]SourceControl: Source control is disabled
+[2018.12.17-23.35.01:346][  0]SourceControl: Source control is disabled
+[2018.12.17-23.35.01:348][  0]SourceControl: Source control is disabled
+[2018.12.17-23.35.01:349][  0]SourceControl: Source control is disabled
+[2018.12.17-23.35.01:522][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.17-23.35.01:655][  0]LogHoudiniEngine: Starting the Houdini Engine module.
+[2018.12.17-23.35.01:655][  0]LogHoudiniEngine: Loaded libHAPIL.dll from Registry path C:/Program Files/Side Effects Software/Houdini 17.0.352/bin
+[2018.12.17-23.35.01:656][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.01:659][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.01:664][  0]LogLinker: Warning: Asset '../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.04:672][  0]LogHoudiniEngine: Starting up the Houdini Engine API module failed: Already Initialized
+[2018.12.17-23.35.04:686][  0]LogOcInput: OculusInput pre-init called
+[2018.12.17-23.35.04:750][  0]LogEngine: Initializing Engine...
+[2018.12.17-23.35.04:750][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.12.17-23.35.04:752][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-23.35.04:752][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-23.35.04:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-23.35.04:753][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-23.35.04:973][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.17-23.35.04:998][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.17-23.35.05:036][  0]LogInit: XAudio2 using 'Headphones (3- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.17-23.35.05:053][  0]LogInit: FAudioDevice initialized.
+[2018.12.17-23.35.05:053][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.17-23.35.05:167][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/u0723839/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.17-23.35.05:187][  0]LogInit: Texture streaming: Enabled
+[2018.12.17-23.35.05:217][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.17-23.35.05:242][  0]LogInit: Transaction tracking system initialized
+[2018.12.17-23.35.05:280][  0]BlueprintLog: New page: Editor Load
+[2018.12.17-23.35.05:411][  0]LocalizationService: Localization service is disabled
+[2018.12.17-23.35.05:709][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.17-23.35.05:709][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.17-23.35.05:709][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.17-23.35.05:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.17-23.35.05:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.17-23.35.05:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.17-23.35.05:709][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.17-23.35.05:808][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.03s
+[2018.12.17-23.35.05:808][  0]LogHoudiniEngineEditor: Starting the Houdini Engine Editor module.
+[2018.12.17-23.35.05:823][  0]LogHoudiniEngineEditor: Houdini Engine Editor module startup complete.
+[2018.12.17-23.35.05:903][  0]SourceControl: Source control is disabled
+[2018.12.17-23.35.05:903][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-23.35.05:904][  0]LightingResults: New page: Lighting Build
+[2018.12.17-23.35.05:909][  0]MapCheck: New page: Map Check
+[2018.12.17-23.35.05:909][  0]LightingResults: New page: Lighting Build
+[2018.12.17-23.35.05:983][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-23.35.05:984][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.12.17-23.35.05:984][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-23.35.05:987][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-23.35.05:987][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading ../../../Engine/Content/EngineSky/SM_SkySphere.uasset.
+[2018.12.17-23.35.05:987][  0]LoadErrors: Error: /Engine/EngineSky/SM_SkySphere : Can't find file for asset. /Game/Prototype/ColemanBrcko/M_SkyboxClouds
+[2018.12.17-23.35.05:988][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-23.35.05:988][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading ../../../Engine/Content/EngineSky/SM_SkySphere.uasset.
+[2018.12.17-23.35.05:988][  0]LoadErrors: Error: /Engine/EngineSky/SM_SkySphere : Can't find file for asset. /Game/Prototype/ColemanBrcko/M_SkyboxClouds
+[2018.12.17-23.35.05:988][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-23.35.05:989][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.12.17-23.35.05:989][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-23.35.05:991][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-23.35.05:991][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-23.35.05:991][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-23.35.05:991][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-23.35.05:991][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-23.35.05:991][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-23.35.06:004][  0]LogLinker: Warning: Can't find file '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX'
+[2018.12.17-23.35.06:004][  0]LoadErrors: Failed to load /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX.M_CloudSprite_VFX Referenced by StaticMeshComponent_12
+[2018.12.17-23.35.06:005][  0]LogLinker: Warning: Can't find file for asset '/Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX' while loading ../../../Engine/Content/Maps/Templates/Template_Default.umap.
+[2018.12.17-23.35.06:005][  0]LoadErrors: Failed to load /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX.M_CloudSprite_VFX Referenced by StaticMeshComponent_12
+[2018.12.17-23.35.06:005][  0]LoadErrors: Error: /Engine/Maps/Templates/Template_Default : Can't find file for asset. /Game/VFX/Environment_VFX/Source/M_CloudSprite_VFX
+[2018.12.17-23.35.06:043][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-23.35.06:043][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-23.35.06:043][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading NULL.
+[2018.12.17-23.35.06:043][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-23.35.06:044][  0]LogLinker: Warning: Can't find file '/Game/Prototype/ColemanBrcko/M_SkyboxClouds'
+[2018.12.17-23.35.06:044][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-23.35.06:044][  0]LogLinker: Warning: Can't find file for asset '/Game/Prototype/ColemanBrcko/M_SkyboxClouds' while loading NULL.
+[2018.12.17-23.35.06:044][  0]LoadErrors: Failed to load /Game/Prototype/ColemanBrcko/M_SkyboxClouds.M_SkyboxClouds Referenced by SM_SkySphere
+[2018.12.17-23.35.06:168][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.12.17-23.35.06:176][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-23.35.06:200][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-23.35.06:306][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 105.362ms to complete.
+[2018.12.17-23.35.06:306][  0]LogFileHelpers: Loading map 'Template_Default' took 0.404
+[2018.12.17-23.35.06:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-23.35.06:415][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-23.35.06:423][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-23.35.06:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.17-23.35.06:441][  0]LogCollectionManager: Loaded 0 collections in 0.003246 seconds
+[2018.12.17-23.35.06:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/Collections/' took 0.01s
+[2018.12.17-23.35.06:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Developers/u0723839/Collections/' took 0.01s
+[2018.12.17-23.35.06:489][  0]LogFileCache: Scanning file cache for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Collections/' took 0.01s
+[2018.12.17-23.35.06:489][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.17-23.35.06:500][  0]LogContentBrowser: Native class hierarchy populated in 0.0107 seconds. Added 2610 classes and 610 folders.
+[2018.12.17-23.35.06:510][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.17-23.35.06:586][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.12.17-23.35.06:594][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.17-23.35.06:659][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.17-23.35.06:662][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.17-23.35.06:669][  0]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.17-23.35.06:757][  0]LogRenderer: Reallocating scene render targets to support 1272x540 Format 10 NumSamples 1 (Frame:1).
+[2018.12.17-23.35.06:939][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.17-23.35.06:939][  0]LogLoad: (Engine Initialization) Total time: 13.16 seconds
+[2018.12.17-23.35.06:939][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.17-23.35.06:986][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.17-23.35.06:996][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-23.35.07:017][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-23.35.07:101][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/' took 0.13s
+[2018.12.17-23.35.07:122][  1]LogAssetRegistry: Asset discovery search completed in 8.0263 seconds
+[2018.12.17-23.35.07:125][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.12.17-23.35.07:125][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000102 seconds (updated 0 objects)
+[2018.12.17-23.35.12:818][ 19]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.17-23.35.13:019][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileTexture_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:020][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:022][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:024][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/WoodTexture004Norm_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:028][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/M_MasterWoodBlock_AP_WHeel_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:160][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.13:160][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:160][ 19]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.17-23.35.13:161][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.13:161][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:161][ 19]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.17-23.35.13:161][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.13:161][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:161][ 19]LoadErrors: Error: /Game/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.13:164][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:188][ 19]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-23.35.13:188][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.17-23.35.13:188][ 19]LoadErrors: Error: /Game/BMS/WoodBlock/Block3 : Can't find file for asset. /Game/WoodBlock/M_MasterWoodBlock
+[2018.12.17-23.35.13:189][ 19]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-23.35.13:189][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/BMS/WoodBlock/Block3.uasset.
+[2018.12.17-23.35.13:215][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCube3_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:217][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder8_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:218][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_DJW/BatmobileProperUnwrapped_pCylinder9_DJW.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:230][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-23.35.13:230][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-23.35.13:230][ 19]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn2
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-23.35.13:231][ 19]LoadErrors: Error: /Game/Car_XH/wood/car : Can't find file for asset. /Game/wood/blinn3
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-23.35.13:231][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Car_XH/wood/car.uasset.
+[2018.12.17-23.35.13:272][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.13:272][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:272][ 19]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/gold_painted_wood
+[2018.12.17-23.35.13:272][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.13:272][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:272][ 19]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/Grill_wood
+[2018.12.17-23.35.13:273][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.13:273][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:273][ 19]LoadErrors: Error: /Game/DJW_Source/Beecroft_Car/the_car : Can't find file for asset. /Game/Beecroft_Car/lambert1
+[2018.12.17-23.35.13:273][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.13:273][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:274][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.13:274][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:274][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.13:274][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Beecroft_Car/the_car.uasset.
+[2018.12.17-23.35.13:277][ 19]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Doadech.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.13:291][ 19]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-23.35.13:291][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.17-23.35.13:291][ 19]LoadErrors: Error: /Game/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh : Can't find file for asset. /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat
+[2018.12.17-23.35.13:292][ 19]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-23.35.13:292][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/ERPCarContent/woodblockContent/myWoodBlocksContent/ERPMannequinAssets/MannequinResizedCombinedMesh.uasset.
+[2018.12.17-23.35.13:333][ 19]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-23.35.13:334][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.17-23.35.13:334][ 19]LoadErrors: Error: /Game/JSW_Source/Jenny_Car/House : Can't find file for asset. /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1
+[2018.12.17-23.35.13:337][ 19]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-23.35.13:337][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/JSW_Source/Jenny_Car/House.uasset.
+[2018.12.17-23.35.13:376][ 19]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-23.35.13:376][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.17-23.35.13:376][ 19]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCube1 : Can't find file for asset. /Game/phong3SG
+[2018.12.17-23.35.13:376][ 19]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-23.35.13:377][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCube1.uasset.
+[2018.12.17-23.35.13:378][ 19]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-23.35.13:378][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.17-23.35.13:378][ 19]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder10 : Can't find file for asset. /Game/phong1SG
+[2018.12.17-23.35.13:379][ 19]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-23.35.13:379][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder10.uasset.
+[2018.12.17-23.35.13:380][ 19]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-23.35.13:380][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.17-23.35.13:381][ 19]LoadErrors: Error: /Game/Resources_TA/SmartCarUVObj_pCylinder8 : Can't find file for asset. /Game/phong2SG
+[2018.12.17-23.35.13:381][ 19]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-23.35.13:381][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/SmartCarUVObj_pCylinder8.uasset.
+[2018.12.17-23.35.13:383][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-23.35.13:383][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.17-23.35.13:383][ 19]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/halfSphereTAdy : Can't find file for asset. /Game/woodBlocksContent/M_WoodBlock001
+[2018.12.17-23.35.13:383][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-23.35.13:383][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/halfSphereTAdy.uasset.
+[2018.12.17-23.35.13:385][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-23.35.13:385][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.17-23.35.13:385][ 19]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO : Can't find file for asset. /Game/woodBlocksContent/M_BarkNormal
+[2018.12.17-23.35.13:386][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-23.35.13:386][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/hangingBrickTAdyREDO.uasset.
+[2018.12.17-23.35.13:388][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-23.35.13:388][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.17-23.35.13:388][ 19]LoadErrors: Error: /Game/Resources_TA/woodBlocksContent/tubeTAdy : Can't find file for asset. /Game/woodBlocksContent/M_BarkBurned
+[2018.12.17-23.35.13:388][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-23.35.13:388][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/Resources_TA/woodBlocksContent/tubeTAdy.uasset.
+[2018.12.17-23.35.15:155][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-23.35.15:155][ 19]LoadErrors: Failed to load /Game/wood/blinn2.blinn2 Referenced by car
+[2018.12.17-23.35.15:155][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.17-23.35.15:155][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-23.35.15:155][ 19]LoadErrors: Failed to load /Game/wood/blinn3.blinn3 Referenced by car
+[2018.12.17-23.35.15:156][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.17-23.35.15:156][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn2'
+[2018.12.17-23.35.15:156][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn2' while loading NULL.
+[2018.12.17-23.35.15:157][ 19]LogLinker: Warning: Can't find file '/Game/wood/blinn3'
+[2018.12.17-23.35.15:157][ 19]LogLinker: Warning: Can't find file for asset '/Game/wood/blinn3' while loading NULL.
+[2018.12.17-23.35.15:167][ 19]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-23.35.15:167][ 19]LoadErrors: Failed to load /Game/WoodBlock/M_MasterWoodBlock.M_MasterWoodBlock Referenced by Block3
+[2018.12.17-23.35.15:167][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.17-23.35.15:168][ 19]LogLinker: Warning: Can't find file '/Game/WoodBlock/M_MasterWoodBlock'
+[2018.12.17-23.35.15:168][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodBlock/M_MasterWoodBlock' while loading NULL.
+[2018.12.17-23.35.15:176][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.15:176][ 19]LoadErrors: Failed to load /Game/Beecroft_Car/Grill_wood.Grill_wood Referenced by the_car
+[2018.12.17-23.35.15:176][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-23.35.15:177][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.15:177][ 19]LoadErrors: Failed to load /Game/Beecroft_Car/lambert1.lambert1 Referenced by the_car
+[2018.12.17-23.35.15:177][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-23.35.15:177][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.15:178][ 19]LoadErrors: Failed to load /Game/Beecroft_Car/gold_painted_wood.gold_painted_wood Referenced by the_car
+[2018.12.17-23.35.15:178][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-23.35.15:178][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.15:179][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-23.35.15:179][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.15:180][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-23.35.15:180][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.15:181][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-23.35.15:207][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.15:207][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-23.35.15:207][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.15:207][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-23.35.15:207][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.15:208][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-23.35.15:208][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/Grill_wood'
+[2018.12.17-23.35.15:209][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/Grill_wood' while loading NULL.
+[2018.12.17-23.35.15:209][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/lambert1'
+[2018.12.17-23.35.15:209][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/lambert1' while loading NULL.
+[2018.12.17-23.35.15:209][ 19]LogLinker: Warning: Can't find file '/Game/Beecroft_Car/gold_painted_wood'
+[2018.12.17-23.35.15:209][ 19]LogLinker: Warning: Can't find file for asset '/Game/Beecroft_Car/gold_painted_wood' while loading NULL.
+[2018.12.17-23.35.15:232][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-23.35.15:232][ 19]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkBurned.M_BarkBurned Referenced by tubeTAdy
+[2018.12.17-23.35.15:233][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.17-23.35.15:233][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkBurned'
+[2018.12.17-23.35.15:233][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkBurned' while loading NULL.
+[2018.12.17-23.35.15:234][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-23.35.15:234][ 19]LoadErrors: Failed to load /Game/woodBlocksContent/M_BarkNormal.M_BarkNormal Referenced by hangingBrickTAdyREDO
+[2018.12.17-23.35.15:234][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.17-23.35.15:235][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_BarkNormal'
+[2018.12.17-23.35.15:235][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_BarkNormal' while loading NULL.
+[2018.12.17-23.35.15:236][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-23.35.15:236][ 19]LoadErrors: Failed to load /Game/woodBlocksContent/M_WoodBlock001.M_WoodBlock001 Referenced by halfSphereTAdy
+[2018.12.17-23.35.15:236][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.17-23.35.15:236][ 19]LogLinker: Warning: Can't find file '/Game/woodBlocksContent/M_WoodBlock001'
+[2018.12.17-23.35.15:236][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodBlocksContent/M_WoodBlock001' while loading NULL.
+[2018.12.17-23.35.15:237][ 19]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-23.35.15:237][ 19]LoadErrors: Failed to load /Game/phong2SG.phong2SG Referenced by SmartCarUVObj_pCylinder8
+[2018.12.17-23.35.15:237][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.17-23.35.15:237][ 19]LogLinker: Warning: Can't find file '/Game/phong2SG'
+[2018.12.17-23.35.15:237][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong2SG' while loading NULL.
+[2018.12.17-23.35.15:238][ 19]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-23.35.15:238][ 19]LoadErrors: Failed to load /Game/phong1SG.phong1SG Referenced by SmartCarUVObj_pCylinder10
+[2018.12.17-23.35.15:238][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.17-23.35.15:238][ 19]LogLinker: Warning: Can't find file '/Game/phong1SG'
+[2018.12.17-23.35.15:238][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong1SG' while loading NULL.
+[2018.12.17-23.35.15:239][ 19]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-23.35.15:239][ 19]LoadErrors: Failed to load /Game/phong3SG.phong3SG Referenced by SmartCarUVObj_pCube1
+[2018.12.17-23.35.15:239][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.17-23.35.15:240][ 19]LogLinker: Warning: Can't find file '/Game/phong3SG'
+[2018.12.17-23.35.15:240][ 19]LogLinker: Warning: Can't find file for asset '/Game/phong3SG' while loading NULL.
+[2018.12.17-23.35.15:248][ 19]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-23.35.15:248][ 19]LoadErrors: Failed to load /Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1.blinn1 Referenced by House
+[2018.12.17-23.35.15:248][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.17-23.35.15:249][ 19]LogLinker: Warning: Can't find file '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1'
+[2018.12.17-23.35.15:249][ 19]LogLinker: Warning: Can't find file for asset '/Game/WoodenAssests_RT/WoodenBlocks_RT/blinn1' while loading NULL.
+[2018.12.17-23.35.15:584][ 19]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-23.35.15:584][ 19]LoadErrors: Failed to load /Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat.textureEditorIsolateSelectSet_Pelvis2Mat Referenced by MannequinResizedCombinedMesh
+[2018.12.17-23.35.15:585][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.17-23.35.15:585][ 19]LogLinker: Warning: Can't find file '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat'
+[2018.12.17-23.35.15:585][ 19]LogLinker: Warning: Can't find file for asset '/Game/woodblockContent/myWoodBlocksContent/textureEditorIsolateSelectSet_Pelvis2Mat' while loading NULL.
+[2018.12.17-23.35.17:599][ 19]LogAIModule: Creating AISystem for world StreetSceneLarge
+[2018.12.17-23.35.17:770][ 19]LogAssetEditorManager: Opening Asset editor for World /Game/StreetSceneLarge.StreetSceneLarge
+[2018.12.17-23.35.17:864][ 19]Cmd: MAP LOAD FILE="../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.17-23.35.17:864][ 19]LightingResults: New page: Lighting Build
+[2018.12.17-23.35.17:864][ 19]LoadErrors: New page: Loading map: StreetSceneLarge.umap
+[2018.12.17-23.35.17:866][ 19]MapCheck: New page: Map Check
+[2018.12.17-23.35.17:866][ 19]LightingResults: New page: Lighting Build
+[2018.12.17-23.35.18:327][ 19]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.17-23.35.18:465][ 19]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.17-23.35.18:673][ 19]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 207.865ms to complete.
+[2018.12.17-23.35.18:677][ 19]LogFileHelpers: Loading map 'StreetSceneLarge' took 0.814
+[2018.12.17-23.35.21:519][ 49]LogSlate: Window 'Message Log' being destroyed
+[2018.12.17-23.35.21:523][ 49]LogSlate: Window 'Message Log' being destroyed
+[2018.12.17-23.35.25:002][138]LogEditorViewport: Clicking Background
+[2018.12.17-23.35.25:251][143]Cmd: EDIT PASTE
+[2018.12.17-23.35.25:459][143]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.25:459][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:459][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:460][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:461][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.17-23.35.25:461][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:461][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:461][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeFoilage.uasset.
+[2018.12.17-23.35.25:461][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:462][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.17-23.35.25:462][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/doadekLeaves'
+[2018.12.17-23.35.25:462][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/doadekLeaves' while loading NULL.
+[2018.12.17-23.35.25:462][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:462][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.17-23.35.25:470][143]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/ToplessPyramid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.25:474][143]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.25:475][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:475][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset.
+[2018.12.17-23.35.25:475][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:475][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Pyramid.uasset.
+[2018.12.17-23.35.25:476][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:476][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.17-23.35.25:484][143]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/Cylinder.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.25:486][143]LogLinker: Warning: Asset '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.12.17-23.35.25:487][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:487][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset.
+[2018.12.17-23.35.25:487][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:487][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/WoodBlocks_DJW/TreeTrunk.uasset.
+[2018.12.17-23.35.25:487][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP'
+[2018.12.17-23.35.25:488][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/M_MasterWoodBlock_AP' while loading NULL.
+[2018.12.17-23.35.25:506][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.17-23.35.25:507][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:507][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.17-23.35.25:507][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:507][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.17-23.35.25:507][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.17-23.35.25:508][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:509][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.17-23.35.25:509][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:509][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:509][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading ../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/DJW_Source/Maniquin_DJW/M_MasterWoodBlock_DJW.uasset.
+[2018.12.17-23.35.25:510][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW'
+[2018.12.17-23.35.25:510][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinClothes_FlippedFinished2_DJW' while loading NULL.
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004'
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004' while loading NULL.
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file '/Game/WoodBlocks_DJW/WoodTexture004Norm'
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file for asset '/Game/WoodBlocks_DJW/WoodTexture004Norm' while loading NULL.
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW'
+[2018.12.17-23.35.25:511][143]LogLinker: Can't find file for asset '/Game/Maniquin_DJW/zbrushManequinSkin_Flipped_DJW' while loading NULL.
+[2018.12.17-23.35.25:514][143]LogMaterial: Display: Missing cached shader map for material M_MasterWoodBlock_DJW, compiling. 
+[2018.12.17-23.35.25:514][143]LogMaterial: Warning: C:\Users\u0723839\Documents\GitHub\AssetPipeMaster01\APsec1LargeCityBase\Content\DJW_Source\Maniquin_DJW\M_MasterWoodBlock_DJW.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.12.17-23.35.25:514][143]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.12.17-23.35.26:201][143]LogLinker: Can't find file '/Game/Woodencar_RT/WoodenBlocks_RT/block3RT'
+[2018.12.17-23.35.26:202][143]LogLinker: Can't find file '/Game/Woodencar_RT/WoodenBlocks_RT/block3RT'
+[2018.12.17-23.35.26:202][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block3RT.block3RT"''
+[2018.12.17-23.35.26:277][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block3RT.block3RT"''
+[2018.12.17-23.35.26:474][143]LogLinker: Can't find file '/Game/Woodencar_RT/WoodenBlocks_RT/block2RT'
+[2018.12.17-23.35.26:474][143]LogLinker: Can't find file '/Game/Woodencar_RT/WoodenBlocks_RT/block2RT'
+[2018.12.17-23.35.26:474][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:499][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:505][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:511][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:519][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:527][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:533][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:540][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:546][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:552][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:558][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.26:566][143]LogProperty: Warning: ObjectProperty /Script/Engine.StaticMeshComponent:StaticMesh: unresolved reference to 'StaticMesh'"/Game/Woodencar_RT/WoodenBlocks_RT/block2RT.block2RT"''
+[2018.12.17-23.35.28:686][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.17-23.35.39:100][516]Cmd: TRANSACTION UNDO
+[2018.12.17-23.35.39:100][516]LogEditorTransaction: Undo Move Actors
+[2018.12.17-23.35.39:204][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2692.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:206][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2698.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:207][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2680.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:207][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2686.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:208][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2716.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:210][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2704.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:211][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Maniquin_DJW2_11.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:212][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2650.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:213][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.CarwithUV_pCube4.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:213][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.BatmobileProperUnwrapped_pCube3_DJW2.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:215][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2668.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:218][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.GroundBase2656.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:219][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Tombstone9.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:219][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Tombstone11.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:220][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Column.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:221][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Column2.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:222][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Cylinder7_98.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:223][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.ToplessPyramid5.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:225][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Cylinder10_104.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:225][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Cylinder13.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:226][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.EP_Arch49.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:227][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.SmallWindowBlock_JackODonoghue24.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:228][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Iscolese8.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:228][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Iscolese4.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:228][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.Iscolese14.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:230][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.RightTri3.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.39:233][516]LogActorComponent: ~FComponentReregisterContext: (/Game/StreetSceneLarge.StreetSceneLarge:PersistentLevel.EP_Buttress28.StaticMeshComponent0) Component already registered.
+[2018.12.17-23.35.43:035][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1452)
+[2018.12.17-23.35.44:247][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SidewalkCorner29)
+[2018.12.17-23.35.44:702][645]Cmd: TRANSACTION UNDO
+[2018.12.17-23.35.44:702][645]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.17-23.35.45:117][655]Cmd: TRANSACTION UNDO
+[2018.12.17-23.35.45:117][655]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.17-23.35.49:010][738]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-23.35.59:848][289]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBase1452)
+[2018.12.17-23.36.02:885][356]Cmd: TRANSACTION UNDO
+[2018.12.17-23.36.02:885][356]LogEditorTransaction: Undo Clicking on Actors
+[2018.12.17-23.36.05:989][449]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.12.17-23.36.07:410][478]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-23.36.17:767][846]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.17:792][846]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2018.12.17-23.36.21:477][949]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.21:500][949]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2018.12.17-23.36.22:589][976]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.22:613][976]LogEditorActor: Deleted 1 Actors (0.161 secs)
+[2018.12.17-23.36.23:619][  1]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.23:644][  1]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2018.12.17-23.36.24:689][ 32]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.24:709][ 32]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2018.12.17-23.36.25:603][ 58]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.36.25:628][ 58]LogEditorActor: Deleted 1 Actors (0.152 secs)
+[2018.12.17-23.37.03:106][869]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.37.03:134][869]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2018.12.17-23.37.13:259][114]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.37.13:284][114]LogEditorActor: Deleted 1 Actors (0.146 secs)
+[2018.12.17-23.37.19:528][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SmallWindowBlock_JackODonoghue30)
+[2018.12.17-23.37.21:427][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-23.37.30:579][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MediumWindowBlock_JackODonoghue144)
+[2018.12.17-23.37.31:800][516]Cmd: DELETE
+[2018.12.17-23.37.31:800][516]Cmd: ACTOR DELETE
+[2018.12.17-23.37.31:919][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.37.31:946][516]LogEditorActor: Deleted 1 Actors (0.145 secs)
+[2018.12.17-23.37.32:603][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.17-23.37.33:806][560]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.12.17-23.37.33:833][560]LogEditorActor: Deleted 1 Actors (0.149 secs)
+[2018.12.17-23.37.46:184][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (3010LargeRoundTree57)
+[2018.12.17-23.37.47:873][857]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.17-23.37.56:101][857]LogSavePackage: Moving '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Saved/StreetSceneLargeDB23612645A6A38BD121499D48B7FFB8.tmp' to '../../../../../../Users/u0723839/Documents/GitHub/AssetPipeMaster01/APsec1LargeCityBase/Content/StreetSceneLarge.umap'
